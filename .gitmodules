@@ -1,3 +1,6 @@
 [submodule "comparison"]
 	path = comparison
 	url = git@github.com:nabesima/yamanashi-nsp-comparison.git
+[submodule "nsp-n-gram-analysis"]
+	path = nsp-n-gram-analysis
+	url = git@github.com:nabesima-lab/nsp-n-gram-analysis.git
