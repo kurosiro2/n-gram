@@ -1,0 +1,6 @@
+n,mean_pairwise_jsdist,max_pairwise_jsdist,groups,alpha,min_total
+1,0.214556,0.410548,Heads|Leaders|Mid-levels|Newcomers|Night|Seniors,0.001,20
+2,0.290496,0.501711,Heads|Leaders|Mid-levels|Newcomers|Night|Seniors,0.001,20
+3,0.363753,0.584746,Heads|Leaders|Mid-levels|Newcomers|Night|Seniors,0.001,20
+4,0.454433,0.666496,Heads|Leaders|Mid-levels|Newcomers|Night|Seniors,0.001,20
+5,0.540330,0.754581,Heads|Leaders|Mid-levels|Newcomers|Night|Seniors,0.001,20

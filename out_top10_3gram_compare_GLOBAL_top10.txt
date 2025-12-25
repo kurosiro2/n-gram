@@ -1,0 +1,15 @@
+# N=3, TOP_K=10
+# year=all
+# global_total_ngrams=1263579
+# VALID_SHIFTS=['D', 'E', 'EM', 'LD', 'LM', 'N', 'PH', 'SE', 'SN', 'WR']
+
+ 1. 0.099096  (count=125215)  D-D-D
+ 2. 0.076377  (count=96509)  SE-SN-WR
+ 3. 0.068998  (count=87184)  WR-D-D
+ 4. 0.062681  (count=79202)  LD-SE-SN
+ 5. 0.053282  (count=67326)  D-D-WR
+ 6. 0.052422  (count=66239)  WR-WR-D
+ 7. 0.038929  (count=49190)  D-WR-WR
+ 8. 0.033552  (count=42395)  WR-LD-SE
+ 9. 0.025675  (count=32442)  SN-WR-WR
+10. 0.025004  (count=31594)  SN-WR-D

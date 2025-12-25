@@ -1,0 +1,7 @@
+nurse_id_i,name_i,nurse_id_j,name_j,js_distance
+20362,Angela Garcia,47931,Bradley Mccann,0.2824972589
+20362,Angela Garcia,82336,William Vasquez,0.1976670777
+20362,Angela Garcia,84362,Francisco Escobar,0.2626965738
+47931,Bradley Mccann,82336,William Vasquez,0.2963980922
+47931,Bradley Mccann,84362,Francisco Escobar,0.3917740396
+82336,William Vasquez,84362,Francisco Escobar,0.2554391493

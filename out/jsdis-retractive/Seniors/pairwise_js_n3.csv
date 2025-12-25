@@ -1,0 +1,22 @@
+nurse_id_i,name_i,nurse_id_j,name_j,js_distance
+09040,Kevin Clay,34921,Christina Jacobs,0.5533575207
+09040,Kevin Clay,39245,Jessica Patel,0.3827547906
+09040,Kevin Clay,62116,David Galloway,0.5844554945
+09040,Kevin Clay,74398,Lauren Salinas,0.5912829556
+09040,Kevin Clay,81119,Mrs. Rachel Price MD,0.5610407475
+09040,Kevin Clay,99412,Jaclyn Robinson,0.4235778799
+34921,Christina Jacobs,39245,Jessica Patel,0.4806151719
+34921,Christina Jacobs,62116,David Galloway,0.1636960161
+34921,Christina Jacobs,74398,Lauren Salinas,0.1918633180
+34921,Christina Jacobs,81119,Mrs. Rachel Price MD,0.3468269479
+34921,Christina Jacobs,99412,Jaclyn Robinson,0.6208250437
+39245,Jessica Patel,62116,David Galloway,0.5066421503
+39245,Jessica Patel,74398,Lauren Salinas,0.4988518471
+39245,Jessica Patel,81119,Mrs. Rachel Price MD,0.4731645620
+39245,Jessica Patel,99412,Jaclyn Robinson,0.5759331022
+62116,David Galloway,74398,Lauren Salinas,0.1925006127
+62116,David Galloway,81119,Mrs. Rachel Price MD,0.3525462503
+62116,David Galloway,99412,Jaclyn Robinson,0.6409349981
+74398,Lauren Salinas,81119,Mrs. Rachel Price MD,0.3544955936
+74398,Lauren Salinas,99412,Jaclyn Robinson,0.6785120600
+81119,Mrs. Rachel Price MD,99412,Jaclyn Robinson,0.6740627745
