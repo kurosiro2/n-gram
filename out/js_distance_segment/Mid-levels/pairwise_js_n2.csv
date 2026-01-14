@@ -1,7 +1,0 @@
-nurse_id_i,name_i,nurse_id_j,name_j,js_distance
-20362,Angela Garcia,47931,Bradley Mccann,0.1876835033
-20362,Angela Garcia,82336,William Vasquez,0.0973196613
-20362,Angela Garcia,84362,Francisco Escobar,0.1705794084
-47931,Bradley Mccann,82336,William Vasquez,0.2210841212
-47931,Bradley Mccann,84362,Francisco Escobar,0.2925138461
-82336,William Vasquez,84362,Francisco Escobar,0.1517234270
