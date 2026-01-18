@@ -1,0 +1,5 @@
+#include "2023_12_10/date.lp".
+#include "2023_12_10/shift-data.lp".
+#include "2023_12_10/requested-shifts.lp".
+#include "2023_12_10/setting.lp".
+#include "2023_12_10/nsp-集中治療室-rules.lp".

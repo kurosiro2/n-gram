@@ -1,36 +1,34 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """
-js_past_vs_found.py
-過去勤務（手動） vs 自動生成（found）を、Head/Other（+All）別に n-gram 分布の JS距離で比較する。
+period(半年) × (n=1..N の「2019~2025(past) を基準にした JS距離」) のヒートマップを 1枚で出す。
+さらに、found-model の分布も「基準（2019~2025 past）」に対する JS距離として 1行追加する。
 
-✅ 入力（柔軟対応）
-  python js_past_vs_found.py <past_path> <settings_path> <found_dir> [options]
+実行形式（あなたの希望）:
+  python js_halfyear_vs_total_with_found_heatmap.py \
+    <past_shifts.lp> <group_settings_dir/> <found_dir_or_lp> [options]
 
-- past_path:
-    A) ディレクトリ（直下に *.lp が並ぶ：ファイル名=病棟名）
-    B) 単体ファイル（例: .../GCU.lp）
+例:
+  python exp/statistics/ngram/js_halfyear_vs_total_with_found_heatmap.py \
+    exp/2019-2025-data/past-shifts/GCU.lp \
+    exp/2019-2025-data/group-settings/GCU/ \
+    2024-10-13-GCU-found-model/ \
+    --start-year 2019 --end-year 2025 --nmin 1 --nmax 5 --alpha 1e-3 --outdir out/halfyear_vs_total
 
-- settings_path:
-    A) root（<root>/<ward>/...）
-    B) 単体 ward ディレクトリ（例: .../group-settings/GCU/）
+縦軸:
+  2019H1 ... 2025H2, FOUND  （※基準行は出さない：基準は比較対象として内部だけで使う）
 
-- found_dir:
-    A) <found_dir>/<ward>/found-model*.lp
-    B) <found_dir> 直下に found-model*.lp（単一ward想定）→ --ward 推奨
-
-出力:
-  - CSV（任意）: ward, group, n, jsdist, past_total, found_total
-  - heatmap: wards × n (1..Nmax) を group別にPNG（All/Head/Other）
+横軸:
+  1-gram(vs 2019~2025), ..., N-gram(vs 2019~2025)
 
 仕様:
-  - JS distance = sqrt(JSD), ln（自然対数）
-  - smoothing: add-alpha（デフォルト alpha=1e-3）
-  - past側: グループ集合変化でセグメント分割（境界は跨がない）
-  - found側: staff_group で Head/Other 判定（タイムライン無し）
-  - past側の Head 判定: group名が --heads-name と「完全一致（case-insensitive）」なら Head
-  - found側の Head 判定: groupname に "head" / "師長" / "主任" を含めば Head
-  - Unknown は Other 扱い
+  - past: グループ集合変化でセグメント分割（境界は跨がない）
+  - Unknown は NonHeads 側に含める
+  - found: staff_group で Heads/NonHeads 判定（タイムライン無し）
+  - JS distance = sqrt(JSD), ln (natural log)
+  - カラースケール統一: vmin=0, vmax=sqrt(ln 2)
+  - 各セルに値（小数3桁）を表示
 """
 
 import os
@@ -38,9 +36,8 @@ import sys
 import math
 import argparse
 import glob
-import csv
-from collections import Counter, defaultdict
 import re
+from collections import Counter, defaultdict
 from typing import Dict, Tuple, List, Optional, Set, FrozenSet
 
 import matplotlib
@@ -64,76 +61,36 @@ import data_loader  # load_past_shifts, load_staff_group_timeline, get_groups_fo
 VALID_SHIFTS = {"D", "LD", "EM", "LM", "E", "SE", "N", "SN", "WR", "PH"}
 UNKNOWN_GROUP = "__UNKNOWN__"
 
-PersonKey = Tuple[int, str]  # (nurse_id, name)
+PersonKey = Tuple[int, str]
 SeqDict = Dict[PersonKey, List[Tuple[int, str]]]
 
 
 # =============================================================
-# small helpers
+# helpers
 # =============================================================
 def ensure_dir(path: str) -> None:
     os.makedirs(path, exist_ok=True)
-
-
-def within_range(d: int, start: Optional[int], end: Optional[int]) -> bool:
-    if start is not None and d < start:
-        return False
-    if end is not None and d > end:
-        return False
-    return True
 
 
 def normalize_seq(seq: List[Tuple[int, str]]) -> List[Tuple[int, str]]:
     return [(d, s) for (d, s) in seq if s in VALID_SHIFTS]
 
 
-def collect_lp_files_dir(dir_path: str) -> List[str]:
-    """dir直下の *.lp を列挙（安定ソート）"""
-    out = []
-    for fn in sorted(os.listdir(dir_path)):
-        p = os.path.join(dir_path, fn)
-        if os.path.isfile(p) and fn.endswith(".lp"):
-            out.append(p)
-    return out
+def within_range(d: int, start: int, end: int) -> bool:
+    return start <= d <= end
 
 
-def ward_name_from_lp(path: str) -> str:
-    return os.path.splitext(os.path.basename(path))[0]
+def get_groups_for_day(name: str, nid: int, date: int, timeline: dict) -> Set[str]:
+    gs = data_loader.get_groups_for_date(name, date, timeline, nurse_id=nid)
+    if not gs:
+        return set()
+    if isinstance(gs, (set, list, tuple)):
+        return {str(x) for x in gs}
+    return {str(gs)}
 
 
-def is_same_ward_dir(settings_path: str, ward: str) -> bool:
-    """settings_path が .../<ward>/ を指しているか（末尾だけで判定）"""
-    base = os.path.basename(os.path.normpath(settings_path))
-    return base == ward
-
-
-# =============================================================
-# Head / Other 判定
-# =============================================================
-def is_head_groupname_found(g: str) -> bool:
-    """found側の groupname から Head っぽさを判定（緩め）"""
-    if not g:
-        return False
-    gl = g.lower()
-    if "head" in gl:
-        return True
-    if "師長" in g:
-        return True
-    if "主任" in g:
-        return True
-    return False
-
-
-def bucket_from_groupnames(groupnames: Set[str]) -> str:
-    """headを含むなら Head、それ以外は Other（空/UnknownもOther）"""
-    for g in groupnames:
-        if is_head_groupname_found(g):
-            return "Head"
-    return "Other"
-
-
-def group_set_contains_exact_ci(group_set: FrozenSet[str], target_group: str) -> bool:
-    """past側: heads_name と完全一致 (case-insensitive) なら head 扱い"""
+def group_set_contains(group_set: FrozenSet[str], target_group: str) -> bool:
+    """past側: heads_name と完全一致（case-insensitive）で Heads 扱い"""
     tg = (target_group or "").strip().lower()
     if not tg:
         return False
@@ -150,24 +107,15 @@ class Segment:
         self.seq: List[Tuple[int, str]] = []
 
 
-def get_groups_for_day(name: str, nid: int, date: int, timeline: dict) -> Set[str]:
-    gs = data_loader.get_groups_for_date(name, date, timeline, nurse_id=nid)
-    if not gs:
-        return set()
-    if isinstance(gs, (set, list, tuple)):
-        return {str(x) for x in gs}
-    return {str(gs)}
-
-
 def build_segments_for_person(
     seq: List[Tuple[int, str]],
     name: str,
     nid: int,
     timeline: dict,
-) -> List[Segment]:
+) -> List["Segment"]:
     """
     所属グループ集合が変わるたびにセグメント分割。
-    Unknown は UNKNOWN_GROUP として保持（→ Other 扱い）
+    Unknown は UNKNOWN_GROUP として保持（→ NonHeads 側に入る）
     """
     seq = normalize_seq(seq)
     if not seq:
@@ -200,22 +148,23 @@ def prebuild_all_segments(seqs: SeqDict, timeline: dict) -> Dict[PersonKey, List
     return out
 
 
-def count_ngrams_past_heads_other(
+def count_ngrams_heads_nonheads_in_range(
     segs_by_person: Dict[PersonKey, List[Segment]],
     n: int,
     heads_name: str,
-    date_start: Optional[int],
-    date_end: Optional[int],
-) -> Dict[str, Counter]:
+    date_start: int,
+    date_end: int,
+) -> Tuple[Counter, Counter]:
     """
-    past側: セグメント境界を跨がずに n-gram を数える。
-    出力: {"All":Counter, "Head":Counter, "Other":Counter}
+    指定範囲の Heads / NonHeads(+Unknown) を集約カウント。
+    セグメント境界は跨がない。
     """
-    out = {"All": Counter(), "Head": Counter(), "Other": Counter()}
+    heads = Counter()
+    nonheads = Counter()
 
     for _, segs in segs_by_person.items():
         for seg in segs:
-            is_heads = group_set_contains_exact_ci(seg.groups, heads_name)
+            is_heads = group_set_contains(seg.groups, heads_name)
 
             sseq = [(d, s) for (d, s) in seg.seq if within_range(d, date_start, date_end)]
             if len(sseq) < n:
@@ -226,13 +175,12 @@ def count_ngrams_past_heads_other(
                 gram = tuple(shifts[i:i + n])
                 if any(x not in VALID_SHIFTS for x in gram):
                     continue
-                out["All"][gram] += 1
                 if is_heads:
-                    out["Head"][gram] += 1
+                    heads[gram] += 1
                 else:
-                    out["Other"][gram] += 1
+                    nonheads[gram] += 1
 
-    return out
+    return heads, nonheads
 
 
 # =============================================================
@@ -241,6 +189,40 @@ def count_ngrams_past_heads_other(
 PAT_EXT = re.compile(r'^ext_assigned\(\s*(\d+)\s*,\s*(-?\d+)\s*,\s*"([^"]+)"\s*\)\.')
 PAT_GROUP = re.compile(r'^staff_group\(\s*"([^"]+)"\s*,\s*(\d+)\s*\)\.')
 
+def is_head_group_found(g: str) -> bool:
+    if not g:
+        return False
+    gl = g.lower()
+    return ("head" in gl) or ("師長" in g) or ("主任" in g)
+
+def bucket_found(groups: Set[str], heads_name: str) -> str:
+    """found側: heads_name 完全一致 or それっぽい語を含むなら Heads"""
+    hn = (heads_name or "").strip().lower()
+    for g in groups:
+        if (g or "").strip().lower() == hn:
+            return "Heads"
+        if is_head_group_found(g):
+            return "Heads"
+    return "NonHeads"
+
+def list_found_files(found_path: str) -> List[str]:
+    """
+    found_path が:
+      - ファイルならそれ1本
+      - ディレクトリなら:
+          1) found-model*.lp
+          2) それが無ければ *.lp
+    を読む
+    """
+    if os.path.isfile(found_path):
+        return [found_path]
+    if not os.path.isdir(found_path):
+        return []
+    fs = sorted(glob.glob(os.path.join(found_path, "found-model*.lp")))
+    if fs:
+        return fs
+    fs = sorted(glob.glob(os.path.join(found_path, "*.lp")))
+    return fs
 
 def load_found_model(path: str) -> Tuple[Dict[int, List[Tuple[int, str]]], Dict[int, Set[str]]]:
     """
@@ -275,16 +257,12 @@ def load_found_model(path: str) -> Tuple[Dict[int, List[Tuple[int, str]]], Dict[
 
     return seqs_by_staff, groups_by_staff
 
-
-def count_ngrams_found_heads_other(
-    found_files: List[str],
-    n: int,
-) -> Dict[str, Counter]:
+def count_ngrams_found_heads_nonheads(found_files: List[str], n: int, heads_name: str) -> Tuple[Counter, Counter]:
     """
-    found側: found-model*.lp を全部合算して、Head/Other(+All) の n-gram を数える
-    Unknown は Other 扱い（= staff_group 空なら Other）
+    found側: 複数 found-model を合算して Heads / NonHeads を数える（タイムライン無し）
     """
-    out = {"All": Counter(), "Head": Counter(), "Other": Counter()}
+    heads = Counter()
+    nonheads = Counter()
 
     for fp in found_files:
         seqs_by_staff, groups_by_staff = load_found_model(fp)
@@ -295,15 +273,17 @@ def count_ngrams_found_heads_other(
             seq_sorted = sorted(seq, key=lambda t: t[0])
             shifts = [s for _, s in seq_sorted]
 
-            bucket = bucket_from_groupnames(groups_by_staff.get(sid, set()))  # empty -> Other
+            bucket = bucket_found(groups_by_staff.get(sid, set()), heads_name)
             for i in range(len(shifts) - n + 1):
                 gram = tuple(shifts[i:i + n])
                 if any(x not in VALID_SHIFTS for x in gram):
                     continue
-                out["All"][gram] += 1
-                out[bucket][gram] += 1
+                if bucket == "Heads":
+                    heads[gram] += 1
+                else:
+                    nonheads[gram] += 1
 
-    return out
+    return heads, nonheads
 
 
 # =============================================================
@@ -355,18 +335,30 @@ def js_distance_from_counters(c1: Counter, c2: Counter, alpha: float) -> float:
 
 
 # =============================================================
-# plotting
+# periods: half-year
 # =============================================================
-def plot_heatmap_wards_x_n(
+def make_halfyear_periods(start_year: int, end_year: int) -> List[Tuple[str, int, int]]:
+    """
+    2019H1: 20190101..20190630
+    2019H2: 20190701..20191231
+    """
+    periods: List[Tuple[str, int, int]] = []
+    for y in range(start_year, end_year + 1):
+        periods.append((f"{y}H1", y * 10000 + 101,  y * 10000 + 630))
+        periods.append((f"{y}H2", y * 10000 + 701,  y * 10000 + 1231))
+    return periods
+
+
+def plot_heatmap_period_x_n(
     out_png: str,
     title: str,
-    ward_labels: List[str],
+    period_labels: List[str],
     n_labels: List[str],
     mat: List[List[float]],
     vmin: float,
     vmax: float,
 ) -> None:
-    R = len(ward_labels)
+    R = len(period_labels)
     C = len(n_labels)
 
     fig_w = max(9.0, C * 2.2)
@@ -377,7 +369,7 @@ def plot_heatmap_wards_x_n(
     plt.colorbar(im)
 
     plt.xticks(list(range(C)), n_labels, rotation=45, ha="right")
-    plt.yticks(list(range(R)), ward_labels)
+    plt.yticks(list(range(R)), period_labels)
 
     mid = (vmin + vmax) / 2.0
     for i in range(R):
@@ -393,213 +385,134 @@ def plot_heatmap_wards_x_n(
 
 
 # =============================================================
-# found dir mapping
-# =============================================================
-def find_found_files_for_ward(found_dir: str, ward: str) -> List[str]:
-    """
-    found_dir から ward に対応する found-model*.lp を探す。
-
-    1) found_dir/ward/ があれば、その直下の found-model*.lp（なければ *.lp）
-    2) found_dir 直下に found-model*.lp があれば、それ（単一ward用）
-    """
-    ward_sub = os.path.join(found_dir, ward)
-    if os.path.isdir(ward_sub):
-        fs = sorted(glob.glob(os.path.join(ward_sub, "found-model*.lp")))
-        if fs:
-            return fs
-        return sorted(glob.glob(os.path.join(ward_sub, "*.lp")))
-
-    # fallback: found_dir直下
-    fs = sorted(glob.glob(os.path.join(found_dir, "found-model*.lp")))
-    if fs:
-        return fs
-    return []
-
-
-# =============================================================
 # main
 # =============================================================
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("past_path", help="past-shifts path (directory OR single ward .lp)")
-    ap.add_argument("settings_path", help="group-settings path (root OR single ward dir)")
-    ap.add_argument("found_dir", help="found directory (contains <ward>/found-model*.lp OR direct found-model*.lp)")
-    ap.add_argument("--ward", default=None,
-                    help="単一ward構成っぽい場合に ward名を明示（past_pathが単体lpのときも推奨）")
-    ap.add_argument("--date-start", type=int, default=None, help="YYYYMMDD (past側のみ) 例: 20240701")
-    ap.add_argument("--date-end", type=int, default=None, help="YYYYMMDD (past側のみ) 例: 20241231")
-    ap.add_argument("--heads-name", default="Heads", help="past側で Head とみなすグループ名（例: Heads）")
+    # ★あなたの希望どおり「3引数」
+    ap.add_argument("past_shifts", help="past-shifts *.lp (ward file)")
+    ap.add_argument("group_settings", help="group-settings dir (ward/)")
+    ap.add_argument("found_path", help="found dir OR found-model.lp")
+    ap.add_argument("--start-year", type=int, default=2019)
+    ap.add_argument("--end-year", type=int, default=2025)
     ap.add_argument("--nmin", type=int, default=1)
     ap.add_argument("--nmax", type=int, default=5)
     ap.add_argument("--alpha", type=float, default=1e-3)
-    ap.add_argument("--outdir", default="out/js_past_vs_found")
-    ap.add_argument("--csv", default=None, help="CSV 出力パス（省略可）")
+    ap.add_argument("--heads-name", default="Heads")
+    ap.add_argument("--outdir", default="out/halfyear_vs_total")
+    ap.add_argument("--only-nonheads", action="store_true", help="NonHeads(+Unknown) だけ出力（Headsを出さない）")
     args = ap.parse_args()
 
     ensure_dir(args.outdir)
 
+    if args.start_year > args.end_year:
+        raise ValueError("--start-year must be <= --end-year")
     if args.nmin <= 0 or args.nmax <= 0 or args.nmin > args.nmax:
-        raise ValueError("nmin/nmax must satisfy 1 <= nmin <= nmax")
+        raise ValueError("--nmin/--nmax must satisfy 1 <= nmin <= nmax")
 
-    if not os.path.exists(args.past_path):
-        raise FileNotFoundError(f"past_path not found: {args.past_path}")
-    if not os.path.exists(args.settings_path):
-        raise FileNotFoundError(f"settings_path not found: {args.settings_path}")
-    if not os.path.isdir(args.found_dir):
-        raise FileNotFoundError(f"found_dir not found: {args.found_dir}")
+    if not os.path.isfile(args.past_shifts):
+        raise FileNotFoundError(f"past_shifts not found: {args.past_shifts}")
+    if not os.path.isdir(args.group_settings):
+        raise FileNotFoundError(f"group_settings not found: {args.group_settings}")
 
-    # --------------------------
-    # past wards
-    # --------------------------
-    if os.path.isdir(args.past_path):
-        past_files = collect_lp_files_dir(args.past_path)
-    elif os.path.isfile(args.past_path) and args.past_path.endswith(".lp"):
-        past_files = [args.past_path]
-    else:
-        raise ValueError(f"past_path must be a directory or a .lp file: {args.past_path}")
+    found_files = list_found_files(args.found_path)
+    if not found_files:
+        raise FileNotFoundError(f"No found-model lp found under: {args.found_path}")
 
-    if not past_files:
-        raise FileNotFoundError(f"No *.lp found under past_path: {args.past_path}")
+    # load past + timeline
+    seqs = data_loader.load_past_shifts(args.past_shifts)
+    timeline = data_loader.load_staff_group_timeline(args.group_settings)
+    segs_by_person = prebuild_all_segments(seqs, timeline)
 
-    # ward list
-    wards: List[str] = []
-    ward_to_past: Dict[str, str] = {}
-    for fp in past_files:
-        ward = ward_name_from_lp(fp)
-        ward_to_past[ward] = fp
-        wards.append(ward)
-    wards.sort()
+    # periods (half-year) + base(total) range
+    half_periods = make_halfyear_periods(args.start_year, args.end_year)
+    base_key = f"{args.start_year}~{args.end_year}"
+    base_start = args.start_year * 10000 + 101
+    base_end = args.end_year * 10000 + 1231
 
-    # --------------------------
-    # found mode detection
-    # --------------------------
-    found_dir_direct = sorted(glob.glob(os.path.join(args.found_dir, "found-model*.lp")))
-    found_has_ward_subdirs = any(os.path.isdir(os.path.join(args.found_dir, w)) for w in wards)
+    # 表示する行：半年 + FOUND（基準行は表示しない）
+    periods = list(half_periods) + [("FOUND", None, None)]  # type: ignore
 
-    if found_dir_direct and not found_has_ward_subdirs:
-        if args.ward:
-            wards = [args.ward]
-        else:
-            # past が単体ならそこから ward 推測
-            if len(past_files) == 1:
-                wards = [ward_name_from_lp(past_files[0])]
-                print(f"# [info] --ward not given; inferred ward={wards[0]} from past_path", file=sys.stderr)
-            else:
-                raise ValueError(
-                    "found_dir直下に found-model*.lp がある単一ward構成っぽいです。"
-                    " 複数ward処理はできないので --ward <病棟名> を指定してください。"
-                )
-
-
-    # past_path が単体 lp の場合も、settings_path も単体 ward dir の可能性が高いので ward は明示推奨
-    if len(past_files) == 1 and not args.ward:
-        # ただし wards は past名から取れるので、ここでは警告だけ（動作はさせる）
-        print(f"# [warn] past_path is single file. Consider adding --ward {wards[0]} for found/settings alignment.", file=sys.stderr)
-
+    period_labels = [k for (k, _, _) in periods]
     ns = list(range(args.nmin, args.nmax + 1))
-    n_labels = [f"{n}-gram" for n in ns]
+    n_labels = [f"{n}-gram (vs {base_key})" for n in ns]
 
-    csv_rows: List[dict] = []
+    # base counters cache (nごとに1回だけ数える)
+    base_heads_by_n: Dict[int, Counter] = {}
+    base_non_by_n: Dict[int, Counter] = {}
+    for n in ns:
+        h_b, non_b = count_ngrams_heads_nonheads_in_range(
+            segs_by_person, n=n, heads_name=args.heads_name, date_start=base_start, date_end=base_end
+        )
+        base_heads_by_n[n] = h_b
+        base_non_by_n[n] = non_b
 
-    groups = ["All", "Head", "Other"]
-    mats: Dict[str, List[List[float]]] = {g: [] for g in groups}
-    ward_labels_out: List[str] = []
+    # found counters cache (nごとに1回だけ数える)
+    found_heads_by_n: Dict[int, Counter] = {}
+    found_non_by_n: Dict[int, Counter] = {}
+    for n in ns:
+        h_f, non_f = count_ngrams_found_heads_nonheads(found_files, n=n, heads_name=args.heads_name)
+        found_heads_by_n[n] = h_f
+        found_non_by_n[n] = non_f
 
-    # global color scale (ln): vmax = sqrt(ln2)
+    # global scale (ln): vmax = sqrt(ln2) ~ 0.8326
     vmin = 0.0
     vmax = math.sqrt(math.log(2.0))
 
-    processed = 0
-    skipped = 0
+    def build_matrix(is_heads: bool) -> List[List[float]]:
+        mat: List[List[float]] = []
+        for (pkey, d1, d2) in periods:
+            row: List[float] = []
+            for n in ns:
+                c_b = base_heads_by_n[n] if is_heads else base_non_by_n[n]
 
-    for ward in wards:
-        # past lp
-        past_lp = ward_to_past.get(ward)
-        if not past_lp or not os.path.isfile(past_lp):
-            skipped += 1
-            continue
+                if pkey == "FOUND":
+                    c_p = found_heads_by_n[n] if is_heads else found_non_by_n[n]
+                else:
+                    assert d1 is not None and d2 is not None
+                    h_p, non_p = count_ngrams_heads_nonheads_in_range(
+                        segs_by_person, n=n, heads_name=args.heads_name, date_start=d1, date_end=d2
+                    )
+                    c_p = h_p if is_heads else non_p
 
-        # settings dir: root/<ward> or directly ward dir
-        if os.path.isdir(args.settings_path) and is_same_ward_dir(args.settings_path, ward):
-            setting_dir = args.settings_path
-        else:
-            setting_dir = os.path.join(args.settings_path, ward)
+                row.append(js_distance_from_counters(c_p, c_b, args.alpha))
+            mat.append(row)
+        return mat
 
-        if not os.path.isdir(setting_dir):
-            print(f"# [skip] settings not found for ward={ward}: {setting_dir}", file=sys.stderr)
-            skipped += 1
-            continue
-
-        # found files
-        found_files = find_found_files_for_ward(args.found_dir, ward)
-        if not found_files:
-            print(f"# [skip] found-model not found for ward={ward} under: {args.found_dir}", file=sys.stderr)
-            skipped += 1
-            continue
-
-        # load past
-        seqs = data_loader.load_past_shifts(past_lp)
-        timeline = data_loader.load_staff_group_timeline(setting_dir)
-        segs_by_person = prebuild_all_segments(seqs, timeline)
-
-        row_by_group: Dict[str, List[float]] = {g: [] for g in groups}
-
-        for n in ns:
-            past_c = count_ngrams_past_heads_other(
-                segs_by_person,
-                n=n,
-                heads_name=args.heads_name,
-                date_start=args.date_start,
-                date_end=args.date_end,
-            )
-            found_c = count_ngrams_found_heads_other(found_files, n=n)
-
-            for g in groups:
-                d = js_distance_from_counters(past_c[g], found_c[g], args.alpha)
-                row_by_group[g].append(d)
-
-                csv_rows.append({
-                    "ward": ward,
-                    "group": g,
-                    "n": n,
-                    "jsdist": d,
-                    "past_total": int(sum(past_c[g].values())),
-                    "found_total": int(sum(found_c[g].values())),
-                })
-
-        for g in groups:
-            mats[g].append(row_by_group[g])
-
-        ward_labels_out.append(ward)
-        processed += 1
-
-    print(f"# processed={processed}, skipped={skipped}")
-    if processed == 0:
-        print("# No wards processed. (ward名/ディレクトリ構造が合ってるか確認して)", file=sys.stderr)
-        sys.exit(1)
-
-    # write CSV
-    if args.csv:
-        fieldnames = ["ward", "group", "n", "jsdist", "past_total", "found_total"]
-        with open(args.csv, "w", newline="", encoding="utf-8") as fp:
-            w = csv.DictWriter(fp, fieldnames=fieldnames)
-            w.writeheader()
-            w.writerows(csv_rows)
-        print(f"# wrote csv: {args.csv}")
-
-    # plot heatmaps
-    for g in groups:
-        out_png = os.path.join(args.outdir, f"heatmap_wards_x_ngram_{g.lower()}_n{args.nmin}-{args.nmax}.png")
-        plot_heatmap_wards_x_n(
-            out_png=out_png,
-            title=f"{g}: JSdist(past vs found)  n={args.nmin}..{args.nmax}  [ln]",
-            ward_labels=ward_labels_out,
+    # Heads heatmap
+    if not args.only_nonheads:
+        mat_h = build_matrix(is_heads=True)
+        out_h = os.path.join(
+            args.outdir,
+            f"heatmap_halfyear_plus_found_x_ngram_heads_{args.start_year}-{args.end_year}_n{args.nmin}-{args.nmax}.png"
+        )
+        plot_heatmap_period_x_n(
+            out_h,
+            title=f"Heads: JSdist(period/FOUND vs {base_key}(past)) for n={args.nmin}..{args.nmax} [ln]",
+            period_labels=period_labels,
             n_labels=n_labels,
-            mat=mats[g],
+            mat=mat_h,
             vmin=vmin,
             vmax=vmax,
         )
-        print(f"# wrote: {out_png}")
+        print(f"# wrote: {out_h}")
+
+    # NonHeads heatmap
+    mat_n = build_matrix(is_heads=False)
+    out_n = os.path.join(
+        args.outdir,
+        f"heatmap_halfyear_plus_found_x_ngram_nonheads_{args.start_year}-{args.end_year}_n{args.nmin}-{args.nmax}.png"
+    )
+    plot_heatmap_period_x_n(
+        out_n,
+        title=f"NonHeads: JSdist(period/FOUND vs {base_key}(past)) for n={args.nmin}..{args.nmax} [ln]",
+        period_labels=period_labels,
+        n_labels=n_labels,
+        mat=mat_n,
+        vmin=vmin,
+        vmax=vmax,
+    )
+    print(f"# wrote: {out_n}")
 
 
 if __name__ == "__main__":

@@ -3,6 +3,7 @@
 
 """
 period(半年) × (n=1..5 の「2019~2025 を基準にした JS距離」) のヒートマップを 1枚で出す。
+さらに、各半年ごとの 1-gram のデータ数（総出現数）を PNG で出力する。
 
 縦軸: 半年 period (例: 2019H1, 2019H2, ..., 2025H2)
 横軸: 1-gram (vs 2019~2025), 2-gram (vs 2019~2025), ..., N-gram (vs 2019~2025)
@@ -13,6 +14,8 @@ period(半年) × (n=1..5 の「2019~2025 を基準にした JS距離」) のヒ
   - JS distance = sqrt(JSD), ln (natural log)
   - カラースケール統一: vmin=0, vmax=sqrt(ln 2)
   - 各セルに値（小数3桁）を表示
+  - 追加: 半年ごとの 1-gram データ数（総出現数）を棒グラフPNGで出力
+          Heads / NonHeads(+Unknown) を別々に出す
 
 使い方:
   python exp/statistics/ngram/js_halfyear_vs_total_heatmap.py \
@@ -258,6 +261,36 @@ def plot_heatmap_period_x_n(
     plt.close()
 
 
+def plot_halfyear_1gram_counts_png(
+    out_png: str,
+    title: str,
+    labels: List[str],
+    heads_totals: List[int],
+    non_totals: List[int],
+) -> None:
+    """
+    半年ごとの 1-gram 総出現数を棒グラフで出す。
+    Heads / NonHeads を横に並べる。
+    """
+    x = list(range(len(labels)))
+    width = 0.42
+
+    fig_w = max(10.0, len(labels) * 0.55)
+    fig_h = 6.0
+    plt.figure(figsize=(fig_w, fig_h))
+
+    plt.bar([xi - width / 2 for xi in x], heads_totals, width=width, label="Heads (1-gram total)")
+    plt.bar([xi + width / 2 for xi in x], non_totals,   width=width, label="NonHeads(+Unknown) (1-gram total)")
+
+    plt.xticks(x, labels, rotation=45, ha="right")
+    plt.ylabel("1-gram total count")
+    plt.title(title)
+    plt.legend()
+    plt.tight_layout()
+    plt.savefig(out_png, dpi=200)
+    plt.close()
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("past_shifts", help="*.lp (ward file)")
@@ -324,7 +357,10 @@ def main():
 
     if not args.only_nonheads:
         mat_h = build_matrix(is_heads=True)
-        out_h = os.path.join(args.outdir, f"heatmap_halfyear_x_ngram_heads_{args.start_year}-{args.end_year}_n{args.nmin}-{args.nmax}.png")
+        out_h = os.path.join(
+            args.outdir,
+            f"heatmap_halfyear_x_ngram_heads_{args.start_year}-{args.end_year}_n{args.nmin}-{args.nmax}.png",
+        )
         plot_heatmap_period_x_n(
             out_h,
             title=f"Heads: JSdist(half-year, {base_key}) for n={args.nmin}..{args.nmax} [ln]",
@@ -337,7 +373,10 @@ def main():
         print(f"# wrote: {out_h}")
 
     mat_n = build_matrix(is_heads=False)
-    out_n = os.path.join(args.outdir, f"heatmap_halfyear_x_ngram_nonheads_{args.start_year}-{args.end_year}_n{args.nmin}-{args.nmax}.png")
+    out_n = os.path.join(
+        args.outdir,
+        f"heatmap_halfyear_x_ngram_nonheads_{args.start_year}-{args.end_year}_n{args.nmin}-{args.nmax}.png",
+    )
     plot_heatmap_period_x_n(
         out_n,
         title=f"NonHeads : JSdist(half-year, {base_key}) for n={args.nmin}..{args.nmax} [ln]",
@@ -348,6 +387,31 @@ def main():
         vmax=vmax,
     )
     print(f"# wrote: {out_n}")
+
+    # ---------------------------------------------------------
+    # EXTRA: half-year 1-gram total counts -> PNG
+    #   ※ half_periods のみ（base_key 行は除外）
+    # ---------------------------------------------------------
+    labels_half = [k for (k, _, _) in half_periods]
+    heads_totals: List[int] = []
+    non_totals: List[int] = []
+
+    for (pkey, d1, d2) in half_periods:
+        h1, n1 = count_ngrams_heads_nonheads_in_range(
+            segs_by_person, n=1, heads_name=args.heads_name, date_start=d1, date_end=d2
+        )
+        heads_totals.append(int(sum(h1.values())))
+        non_totals.append(int(sum(n1.values())))
+
+    out_cnt = os.path.join(args.outdir, f"halfyear_1gram_totalcounts_{args.start_year}-{args.end_year}.png")
+    plot_halfyear_1gram_counts_png(
+        out_cnt,
+        title=f"Half-year 1-gram total counts (Heads vs NonHeads)  [{args.start_year}-{args.end_year}]",
+        labels=labels_half,
+        heads_totals=heads_totals,
+        non_totals=non_totals,
+    )
+    print(f"# wrote: {out_cnt}")
 
 
 if __name__ == "__main__":
