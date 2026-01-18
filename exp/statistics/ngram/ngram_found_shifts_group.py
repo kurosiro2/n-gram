@@ -1,288 +1,438 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-過去勤務シフト (past-shifts.lp) を読み込み、
-看護師グループごとに n-gram 出現回数をカウントするスクリプト。
+【統合版】found-model(lp) を読み、n-gram を「Head/Other（+All）」で集計して表示する。
 
-使い方:
+✅ 対応モード
+  1) ファイルモード:
+       python ngram_found_shifts_group.py <found-model.lp> <N> [csv_path]
 
-  # 単一病棟モード（従来どおり）
-  python ngram_past_shifts_group.py past-shifts.lp setting.lp N
+  2) ディレクトリモード:
+       python ngram_found_shifts_group.py <found-model-dir/> <N> [csv_path]
 
-  # 全病棟モード（ディレクトリ × ディレクトリ）
-  #   past-shifts-dir 配下の *.lp を病棟ごとに処理し、
-  #   group-settings-root からは data_loader_all.load_all_staff_group_timelines()
-  #   を使って全病棟のグループタイムラインを読む。
-  python ngram_past_shifts_group.py past-shifts-dir group-settings-root N
+  - found-model-dir は直下の found-model*.lp を列挙（無ければ *.lp）
+  - ディレクトリモードでは
+      (a) 各found-modelごとの結果
+      (b) 全found-model合算（TOTAL）
+    を同じ出力形式で表示する
 
-依存:
-  - data_loader.load_past_shifts()
-  - data_loader.load_staff_group_timeline()
-  - data_loader_all.load_all_staff_group_timelines()
+出力:
+  - N=1: 1-gram（勤務記号の割合）
+  - N=2: 2-gram の freq_share と P(next|prefix)
+  - N>=3: N-gram の freq_share と P(next|prefix)
+  - CSV（任意）: model, group, N, gram, count, freq_share, cond_prob
 
-インターフェース:
-  - 他のスクリプトからは
-        from ngram_past_shifts_group import ngram_counts_by_group
-    として利用できる。
+グループ:
+  - Head / Other の2値（+ All）
 
-  - ngram_counts_by_group(seqs_dict, group_timeline, n) は
-    グループ名 -> Counter({ ngram(tuple[str]): count, ... }) を返す。
-
-  - ここではグループ "All" も特別に作って、
-    全グループ合算のカウンタを提供する。
+注意:
+  - found-model 内の述語（想定）
+      ext_assigned(staff_id, day, "SHIFT").
+      staff_group("GROUPNAME", staff_id).
 """
 
 import sys
 import os
+import csv
+import glob
+import re
 from collections import defaultdict, Counter
 
 # -------------------------------------------------------------
-# 親ディレクトリを import パスに追加して data_loader 系を読めるように
+# ★ 任意：勤務シフト（8種）+ 休暇（2種）のみカウント
 # -------------------------------------------------------------
-CURRENT_DIR = os.path.dirname(__file__)
-PARENT_DIR = os.path.dirname(CURRENT_DIR)
-if PARENT_DIR not in sys.path:
-    sys.path.append(PARENT_DIR)
-
-import data_loader       # load_past_shifts, load_staff_group_timeline
-import data_loader_all   # load_all_staff_group_timelines
-
+VALID_SHIFTS = {
+    "D", "LD", "EM", "LM", "E", "SE", "N", "SN",
+    "WR", "PH"
+}
 
 # -------------------------------------------------------------
-# ユーティリティ: 指定した日付のグループ集合をタイムラインから取得
+# 正規表現（既存の found-model 用スクリプト互換）
 # -------------------------------------------------------------
-def get_groups_for_date(timeline, date):
+PAT_EXT = re.compile(r'^ext_assigned\(\s*(\d+)\s*,\s*(-?\d+)\s*,\s*"([^"]+)"\s*\)\.')
+PAT_GROUP = re.compile(r'^staff_group\(\s*"([^"]+)"\s*,\s*(\d+)\s*\)\.')
+
+
+# =============================================================
+# helpers
+# =============================================================
+def _stable_most_common(counter: Counter):
+    """頻度降順・語順安定の並べ替え"""
+    return sorted(counter.items(), key=lambda kv: (-kv[1], tuple(kv[0])))
+
+
+def group_sort_key(g):
+    if g == "All":
+        return (0, "")
+    if g == "Head":
+        return (1, "")
+    if g == "Other":
+        return (2, "")
+    return (9, g.lower())
+
+
+def merge_group_counters(dst, src):
+    """defaultdict(Counter) 同士を加算マージ"""
+    for g, c in src.items():
+        dst[g].update(c)
+
+
+def list_model_files(dir_path: str):
     """
-    timeline: [(start_date, set(groups)), ...] が start_date 昇順で入っていることを想定。
-    date: int (YYYYMMDD など)
-
-    return: set(groups) もしくは空集合
+    dir直下の found-model*.lp を優先。
+    無ければ *.lp を読む。
     """
-    if not timeline:
-        return set()
-
-    last_groups = set()
-    for start_date, groups in timeline:
-        if date < start_date:
-            break
-        last_groups = set(groups)
-    return last_groups
+    cand = sorted(glob.glob(os.path.join(dir_path, "found-model*.lp")))
+    if cand:
+        return cand
+    return sorted(glob.glob(os.path.join(dir_path, "*.lp")))
 
 
-# -------------------------------------------------------------
-# n-gram 出現回数をグループ別にカウント（タイムライン対応版）
-# -------------------------------------------------------------
-def ngram_counts_by_group(seqs_dict, group_timeline, n):
+# =============================================================
+# Head / Other 判定（暫定）
+# =============================================================
+def is_head_groupname(g: str) -> bool:
+    if not g:
+        return False
+    gl = g.lower()
+    if "head" in gl:
+        return True
+    if "師長" in g:
+        return True
+    if "主任" in g:
+        return True
+    return False
+
+
+def bucket_group(groupnames):
     """
-    n-gram 出現回数をグループ別にカウントする。
+    groupnames: iterable[str]
+    return: "Head" or "Other"
+    方針: head っぽいものが1つでもあれば Head、そうでなければ Other
+    ※ groupnames が空でも Other（= head 以外）
+    """
+    for g in groupnames:
+        if is_head_groupname(g):
+            return "Head"
+    return "Other"
 
-    Parameters
-    ----------
-    seqs_dict : dict
-        {(nurse_id, name): [(date:int, shift:str), ...]}
-        data_loader.load_past_shifts() の戻り値を想定。
 
-    group_timeline : dict
-        看護師ごとのグループ変遷タイムライン。
-        data_loader.load_staff_group_timeline(setting.lp) あるいは
-        data_loader_all.load_all_staff_group_timelines(root)[ward_name]
-        の内側の dict を想定。
-        典型的には
-            { name: [(start_date:int, set(groups)), ...], ... }
-        の形。
+# =============================================================
+# found-model 読み込み
+# =============================================================
+def load_found_model(path):
+    """
+    found-model.lp を読んで
+      - seqs_by_staff: {staff_id: [(day:int, shift:str), ...]}
+      - groups_by_staff: {staff_id: set(groupname)}
+    を返す
+    """
+    seqs_by_staff = defaultdict(list)
+    groups_by_staff = defaultdict(set)
 
-    n : int
-        n-gram の n (>=1)。
+    with open(path, "r", encoding="utf-8", errors="ignore") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("%") or line.startswith("#"):
+                continue
 
-    Returns
-    -------
-    dict[str, Counter]
-        グループ名 -> Counter({ ngram(tuple[str]): count, ... })
-        特別に "All" グループも含める。
+            m = PAT_EXT.match(line)
+            if m:
+                sid = int(m.group(1))
+                day = int(m.group(2))
+                sh = m.group(3)
+                seqs_by_staff[sid].append((day, sh))
+                continue
+
+            m = PAT_GROUP.match(line)
+            if m:
+                gname = m.group(1)
+                sid = int(m.group(2))
+                groups_by_staff[sid].add(gname)
+                continue
+
+    return seqs_by_staff, groups_by_staff
+
+
+# =============================================================
+# n-gram 集計（found-model版）
+# =============================================================
+def ngram_counts_by_group(seqs_by_staff, groups_by_staff, n):
+    """
+    n-gram 出現回数を Head/Other(+All) でカウントする。
+
+    仕様:
+      - staff ごとに day 昇順に並べ、連続列から n-gram を切る
+      - VALID_SHIFTS 以外を含む n-gram は無視
+      - グループは bucket_group(staff_group) で Head/Other の2値
+      - すべて "All" にも加算
     """
     counters = defaultdict(Counter)
+    if n <= 0:
+        return counters
 
-    for (nurse_id, name), seq in seqs_dict.items():
-        if not seq:
+    for sid, seq in seqs_by_staff.items():
+        if len(seq) < n:
             continue
 
-        # seq は [(date, shift), ...] を日付順にソート
         seq_sorted = sorted(seq, key=lambda t: t[0])
-        dates = [d for d, _ in seq_sorted]
-        shifts = [s for _, s in seq_sorted]
+        shifts = [sh for _, sh in seq_sorted]
 
-        # 名前（name）でタイムラインを引く前提
-        timeline = group_timeline.get(name, [])
+        g_bucket = bucket_group(groups_by_staff.get(sid, set()))
+        gset = {g_bucket, "All"}
 
-        # 日ごとのグループ集合を作る
-        groups_each_day = [get_groups_for_date(timeline, d) for d in dates]
-
-        # セグメント分割: グループ集合が変わるごとに系列を切る
-        start_idx = 0
-        while start_idx < len(shifts):
-            groups0 = groups_each_day[start_idx]
-            # グループ情報がなければ Unknown にする
-            if not groups0:
-                groups0 = {"Unknown"}
-
-            end_idx = start_idx + 1
-            while end_idx < len(shifts):
-                g_next = groups_each_day[end_idx]
-                if not g_next:
-                    g_next = {"Unknown"}
-                if g_next != groups0:
-                    break
-                end_idx += 1
-
-            # [start_idx, end_idx) が同一グループ集合のセグメント
-            seg_shifts = shifts[start_idx:end_idx]
-
-            # n-gram をカウント
-            if len(seg_shifts) >= n:
-                for i in range(len(seg_shifts) - n + 1):
-                    gram = tuple(seg_shifts[i:i + n])
-
-                    # "All" グループ
-                    counters["All"][gram] += 1
-
-                    # 実グループ
-                    for g in groups0:
-                        counters[g][gram] += 1
-
-            start_idx = end_idx
+        for i in range(len(shifts) - n + 1):
+            gram = tuple(shifts[i:i + n])
+            if any(s not in VALID_SHIFTS for s in gram):
+                continue
+            for g in gset:
+                counters[g][gram] += 1
 
     return counters
 
 
-# -------------------------------------------------------------
-# メイン処理
-# -------------------------------------------------------------
+# =============================================================
+# 出力（あなたの形式に合わせる）
+# =============================================================
+def print_unigram_share(model: str, group: str, uni_counter: Counter, csv_rows=None):
+    total = sum(uni_counter.values())
+    print(f'\n----- Model="{model}" | Group="{group}" | 1-gram（勤務記号の割合） -----')
+    if total == 0:
+        print("  (no data)")
+        return
+
+    for (gram, c) in _stable_most_common(uni_counter):
+        s = gram[0]
+        share = c / total
+        print(f" {c:6d}  {s:<3}   {share*100:6.2f}%")
+        if csv_rows is not None:
+            csv_rows.append({
+                "model": model,
+                "group": group,
+                "N": 1,
+                "gram": s,
+                "count": c,
+                "freq_share": share,
+                "cond_prob": "",
+            })
+
+
+def print_bigram_score(model: str, group: str, uni_counter: Counter, bi_counter: Counter, csv_rows=None):
+    total_bi = sum(bi_counter.values())
+    print(f'\n----- Model="{model}" | Group="{group}" | 2-gram（freq_share と P(next|prefix)） -----')
+    print("  freq   prefix -> next         freq_share    P(next|prefix)")
+    if total_bi == 0:
+        print("  (no data)")
+        return
+
+    rows = []
+    for gram, c in bi_counter.items():
+        prefix = (gram[0],)
+        base_prefix = uni_counter.get(prefix, 0)
+        if base_prefix <= 0:
+            continue
+        freq_share = c / total_bi
+        cond_prob = c / base_prefix
+        rows.append((freq_share, c, gram, cond_prob))
+
+    rows.sort(key=lambda x: (-x[0], -x[1], tuple(x[2])))
+
+    for (freq_share, c, gram, cond_prob) in rows:
+        arrow = f"{gram[0]}->{gram[1]}"
+        print(f"{c:>6}  {arrow:<20}   {freq_share:11.6f}   {cond_prob:14.6f}")
+        if csv_rows is not None:
+            csv_rows.append({
+                "model": model,
+                "group": group,
+                "N": 2,
+                "gram": "-".join(gram),
+                "count": c,
+                "freq_share": freq_share,
+                "cond_prob": cond_prob,
+            })
+
+
+def print_ngramN_score(model: str, group: str, n_counter: Counter, nm1_counter: Counter, N: int, csv_rows=None):
+    total_N = sum(n_counter.values())
+    print(f'\n----- Model="{model}" | Group="{group}" | {N}-gram（freq_share と P(next|prefix)） -----')
+    print("  freq   prefix -> next         freq_share    P(next|prefix)")
+    if total_N == 0:
+        print("  (no data)")
+        return
+
+    rows = []
+    for gram, c in n_counter.items():
+        prefix = gram[:-1]
+        base_prefix = nm1_counter.get(prefix, 0)
+        if base_prefix <= 0:
+            continue
+        freq_share = c / total_N
+        cond_prob = c / base_prefix
+        rows.append((freq_share, c, gram, cond_prob))
+
+    rows.sort(key=lambda x: (-x[0], -x[1], tuple(x[2])))
+
+    for (freq_share, c, gram, cond_prob) in rows:
+        prefix_str = "-".join(gram[:-1])
+        nxt = gram[-1]
+        arrow = f"{prefix_str}->{nxt}"
+        print(f"{c:>6}  {arrow:<20}   {freq_share:11.6f}   {cond_prob:14.6f}")
+        if csv_rows is not None:
+            csv_rows.append({
+                "model": model,
+                "group": group,
+                "N": N,
+                "gram": "-".join(gram),
+                "count": c,
+                "freq_share": freq_share,
+                "cond_prob": cond_prob,
+            })
+
+
+def print_model_block(model_label: str, N_eff: int,
+                      counters_1, counters_2, counters_N, counters_Nm1,
+                      csv_rows=None):
+    """
+    model_label: 表示名（例: found-model1.lp, TOTAL）
+    counters_*: group->Counter
+    """
+    for g in sorted(counters_N.keys(), key=group_sort_key):
+        if g not in ("All", "Head", "Other"):
+            continue
+
+        if N_eff == 1:
+            print_unigram_share(model_label, g, counters_N.get(g, Counter()), csv_rows=csv_rows)
+        elif N_eff == 2:
+            uni = counters_1.get(g, Counter())
+            bi = counters_2.get(g, Counter())
+            print_bigram_score(model_label, g, uni, bi, csv_rows=csv_rows)
+        else:
+            n_counter = counters_N.get(g, Counter())
+            nm1_counter = counters_Nm1.get(g, Counter())
+            print_ngramN_score(model_label, g, n_counter, nm1_counter, N_eff, csv_rows=csv_rows)
+
+
+# =============================================================
+# main
+# =============================================================
 def main():
-    if len(sys.argv) < 4:
+    if len(sys.argv) < 3:
         print("Usage:")
-        print("  # 単一病棟モード（従来どおり）")
-        print("  python ngram_past_shifts_group.py past-shifts.lp setting.lp N")
-        print("")
-        print("  # 全病棟モード（ディレクトリ × ディレクトリ）")
-        print("  python ngram_past_shifts_group.py past-shifts-dir group-settings-root N")
+        print("  python ngram_found_shifts_group.py <found-model.lp or dir> <N> [csv_path(optional)]")
         sys.exit(1)
 
-    past_arg = sys.argv[1]     # ファイル or ディレクトリ
-    setting_arg = sys.argv[2]  # setting.lp or group-settings root dir
-    N = int(sys.argv[3])
+    target = sys.argv[1]
+    N = int(sys.argv[2])
+    csv_path = sys.argv[3] if len(sys.argv) >= 4 else None
+    csv_rows = [] if csv_path else None
 
-    if N <= 0:
-        print("N は 1 以上を指定してください。", file=sys.stderr)
-        sys.exit(1)
+    N_eff = max(1, N)
 
-    # -------------------------------------------------
-    # 1) ディレクトリ指定 → 全病棟モード
-    # -------------------------------------------------
-    if os.path.isdir(past_arg):
-        past_shifts_dir = past_arg
-        settings_root = setting_arg
+    # =========================================================
+    # ファイルモード
+    # =========================================================
+    if os.path.isfile(target):
+        seqs_by_staff, groups_by_staff = load_found_model(target)
 
-        if not os.path.isdir(settings_root):
-            print(f"[ERROR] settings_root として指定したパスがディレクトリではありません: {settings_root}",
-                  file=sys.stderr)
-            sys.exit(1)
+        counters_1 = ngram_counts_by_group(seqs_by_staff, groups_by_staff, 1)
+        counters_2 = ngram_counts_by_group(seqs_by_staff, groups_by_staff, 2)
+        counters_N = ngram_counts_by_group(seqs_by_staff, groups_by_staff, N_eff)
+        counters_Nm1 = ngram_counts_by_group(seqs_by_staff, groups_by_staff, N_eff - 1) if N_eff >= 2 else defaultdict(Counter)
 
-        # 全病棟のグループタイムラインを読む
-        # all_timelines: { ward_name: { name: [(start_date, set(groups)), ...] } }
-        all_timelines = data_loader_all.load_all_staff_group_timelines(settings_root)
-        print("# Wards found in settings_root:", ", ".join(sorted(all_timelines.keys())))
+        # グループキーを Head/Other/All に揃える（空でも表示できるように）
+        for g in ("All", "Head", "Other"):
+            counters_1.setdefault(g, Counter())
+            counters_2.setdefault(g, Counter())
+            counters_N.setdefault(g, Counter())
+            if N_eff >= 2:
+                counters_Nm1.setdefault(g, Counter())
 
-        # past-shifts ディレクトリ内の .lp を全部拾う
-        ward_shift_files = {}
-        for fname in sorted(os.listdir(past_shifts_dir)):
-            if not fname.endswith(".lp"):
-                continue
-            ward_name = os.path.splitext(fname)[0]
-            ward_shift_files[ward_name] = os.path.join(past_shifts_dir, fname)
+        print(f'# [File mode] {target}')
+        print_model_block(os.path.basename(target), N_eff, counters_1, counters_2, counters_N, counters_Nm1, csv_rows=csv_rows)
 
-        if not ward_shift_files:
-            print(f"[ERROR] past-shifts-dir 内に .lp ファイルが見つかりません: {past_shifts_dir}",
-                  file=sys.stderr)
-            sys.exit(1)
-
-        print("# Wards found in past_shifts_dir:", ", ".join(sorted(ward_shift_files.keys())))
-
-        # 病棟ごとに処理
-        for ward_name, shift_path in sorted(ward_shift_files.items()):
-            if ward_name not in all_timelines:
-                print(f"# [WARN] ward={ward_name} に対応する group-settings が見つからないのでスキップ")
-                continue
-
-            if not os.path.isfile(shift_path):
-                print(f"# [WARN] shift_file not found for ward={ward_name}: {shift_path}")
-                continue
-
-            print(f"# --- Ward={ward_name} ---")
-            seqs = data_loader.load_past_shifts(shift_path)
-            group_timeline = all_timelines[ward_name]
-
-            counters_by_group = ngram_counts_by_group(seqs, group_timeline, N)
-
-            # 出力
-            _print_ngram_counts(counters_by_group, N, header_prefix=f'Ward="{ward_name}" ')
+        if csv_path:
+            fieldnames = ["model", "group", "N", "gram", "count", "freq_share", "cond_prob"]
+            with open(csv_path, "w", newline="", encoding="utf-8") as fp:
+                writer = csv.DictWriter(fp, fieldnames=fieldnames)
+                writer.writeheader()
+                writer.writerows(csv_rows)
+            print(f"# CSV written to: {csv_path}")
 
         return
 
-    # -------------------------------------------------
-    # 2) 単一ファイル指定 → 従来モード
-    # -------------------------------------------------
-    shift_file = past_arg
-    setting_file = setting_arg
-
-    if not os.path.isfile(shift_file):
-        print(f"[ERROR] past-shifts ファイルが見つかりません: {shift_file}", file=sys.stderr)
-        sys.exit(1)
-    if not os.path.isfile(setting_file):
-        print(f"[ERROR] setting ファイルが見つかりません: {setting_file}", file=sys.stderr)
+    # =========================================================
+    # ディレクトリモード
+    # =========================================================
+    if not os.path.isdir(target):
+        print(f"[ERROR] ファイルでもディレクトリでもありません: {target}", file=sys.stderr)
         sys.exit(1)
 
-    # 1病棟分のシフトとタイムラインを読み込み
-    seqs = data_loader.load_past_shifts(shift_file)
-    group_timeline = data_loader.load_staff_group_timeline(setting_file)
+    model_files = list_model_files(target)
+    if not model_files:
+        print(f"[ERROR] ディレクトリ直下に .lp が見つかりません: {target}", file=sys.stderr)
+        sys.exit(1)
 
-    counters_by_group = ngram_counts_by_group(seqs, group_timeline, N)
+    print(f'# [Directory mode] {target}')
+    print("# Models:")
+    for p in model_files:
+        print(f"#   - {os.path.basename(p)}")
 
-    # 出力
-    _print_ngram_counts(counters_by_group, N, header_prefix="")
+    # 合計（TOTAL）用
+    counters_1_all = defaultdict(Counter)
+    counters_2_all = defaultdict(Counter)
+    counters_N_all = defaultdict(Counter)
+    counters_Nm1_all = defaultdict(Counter) if N_eff >= 2 else defaultdict(Counter)
 
+    # まず各モデルを出す（あなたの形式）
+    for p in model_files:
+        model_label = os.path.basename(p)
 
-# -------------------------------------------------------------
-# 出力用ヘルパ
-# -------------------------------------------------------------
-def _print_ngram_counts(counters_by_group, N, header_prefix=""):
-    """
-    counters_by_group: { group_name: Counter({ ngram(tuple[str]): count, ... }) }
-    N: n-gram の長さ
-    header_prefix: "Ward=\"GCU\" " など、見出しに付けるプレフィックス
-    """
-    for g in sorted(counters_by_group.keys()):
-        counter = counters_by_group[g]
-        if not counter:
-            continue
+        seqs_by_staff, groups_by_staff = load_found_model(p)
+        c1 = ngram_counts_by_group(seqs_by_staff, groups_by_staff, 1)
+        c2 = ngram_counts_by_group(seqs_by_staff, groups_by_staff, 2)
+        cN = ngram_counts_by_group(seqs_by_staff, groups_by_staff, N_eff)
+        cNm1 = ngram_counts_by_group(seqs_by_staff, groups_by_staff, N_eff - 1) if N_eff >= 2 else defaultdict(Counter)
 
-        if N == 1:
-            # 1-gram のときは割合も出す
-            total = sum(counter.values())
-            print(f"\n----- {header_prefix}Group=\"{g}\" | 1-gram（勤務記号の割合） -----")
-            # 1-gram は gram = (shift,) を想定
-            for gram, c in counter.most_common():
-                shift = gram[0] if isinstance(gram, tuple) and len(gram) == 1 else str(gram)
-                ratio = (c / total * 100.0) if total > 0 else 0.0
-                print(f"{c:7d}  {shift:<4}  {ratio:6.2f}%")
-        else:
-            # N>=2 のときは単純に頻度だけ出す
-            print(f"\n----- {header_prefix}Group=\"{g}\" | {N}-gram -----")
-            for gram, c in counter.most_common():
-                if isinstance(gram, tuple):
-                    s = "-".join(gram)
-                else:
-                    s = str(gram)
-                print(f"{c:7d}  {s}")
+        # グループキーを固定
+        for g in ("All", "Head", "Other"):
+            c1.setdefault(g, Counter())
+            c2.setdefault(g, Counter())
+            cN.setdefault(g, Counter())
+            if N_eff >= 2:
+                cNm1.setdefault(g, Counter())
+
+        print_model_block(model_label, N_eff, c1, c2, cN, cNm1, csv_rows=csv_rows)
+
+        # TOTAL に加算
+        merge_group_counters(counters_1_all, c1)
+        merge_group_counters(counters_2_all, c2)
+        merge_group_counters(counters_N_all, cN)
+        if N_eff >= 2:
+            merge_group_counters(counters_Nm1_all, cNm1)
+
+    # 最後に合算結果
+    print("\n# =====================")
+    print("# --- TOTAL (sum of all found-models) ---")
+    print("# =====================")
+
+    for g in ("All", "Head", "Other"):
+        counters_1_all.setdefault(g, Counter())
+        counters_2_all.setdefault(g, Counter())
+        counters_N_all.setdefault(g, Counter())
+        if N_eff >= 2:
+            counters_Nm1_all.setdefault(g, Counter())
+
+    print_model_block("TOTAL", N_eff,
+                      counters_1_all, counters_2_all, counters_N_all, counters_Nm1_all,
+                      csv_rows=csv_rows)
+
+    if csv_path:
+        fieldnames = ["model", "group", "N", "gram", "count", "freq_share", "cond_prob"]
+        with open(csv_path, "w", newline="", encoding="utf-8") as fp:
+            writer = csv.DictWriter(fp, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(csv_rows)
+        print(f"# CSV written to: {csv_path}")
 
 
 if __name__ == "__main__":
