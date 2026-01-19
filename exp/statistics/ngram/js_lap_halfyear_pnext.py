@@ -5,6 +5,13 @@
 half-year period × (n=1..5 の「2019~2025 を基準にした 条件付き確率P(next|prefix) の JS距離」) ヒートマップ
 + デバッグログ出力版
 
+追加（今回）:
+  - ヒートマップの y 軸ラベルに「n=1 の 1-gram データ数」を付与
+    例: 2024H1(12345)
+  - JS距離の集約を「重み付き平均（デフォルト）」と「単純平均（新オプション）」で切り替え可能
+    * 重み付き: 既存どおり w(y)=c_p(y)+c_b(y) で平均
+    * 単純平均: prefix ごとの JSD を等重みで平均（0個なら0）
+
 デバッグで見たいもの:
   - prefix→next のカウント (c(y,x)) と prefix総数 (c(y))
   - （参考）n-gram（列）の頻度（tuple長n）
@@ -229,17 +236,47 @@ def js_divergence(p: List[float], q: List[float]) -> float:
     return 0.5 * kl_div(p, m) + 0.5 * kl_div(q, m)
 
 
-def js_distance_pnext_weighted(
+def js_distance_pnext_aggregate(
     cond_p: Dict[Prefix, Counter],
     prefN_p: Counter,
     cond_b: Dict[Prefix, Counter],
     prefN_b: Counter,
     laplace_k: float,
+    avg_mode: str,   # "weighted" or "uniform"
 ) -> float:
+    """
+    prefixごとの JSD を集約して sqrt を取る。
+
+    avg_mode="weighted":
+      既存と同じ。w(y)=c_p(y)+c_b(y) で JSD を重み付き平均 → sqrt
+
+    avg_mode="uniform":
+      prefixごとの JSD を等重み平均（単純平均） → sqrt
+      ※ prefix が1つも無い場合は 0
+    """
     prefixes = set(prefN_p.keys()) | set(prefN_b.keys())
     if not prefixes:
         return 0.0
 
+    if avg_mode not in ("weighted", "uniform"):
+        raise ValueError(f"avg_mode must be weighted|uniform, got {avg_mode}")
+
+    if avg_mode == "uniform":
+        jsd_sum = 0.0
+        mcnt = 0
+        for y in prefixes:
+            pvec = laplace_pnext_vector(cond_p, prefN_p, y, laplace_k)
+            qvec = laplace_pnext_vector(cond_b, prefN_b, y, laplace_k)
+            jsd = js_divergence(pvec, qvec)
+            if jsd < 0:
+                jsd = 0.0
+            jsd_sum += jsd
+            mcnt += 1
+        if mcnt <= 0:
+            return 0.0
+        return math.sqrt(jsd_sum / float(mcnt))
+
+    # weighted (existing behavior)
     wsum = 0.0
     weights = {}
     for y in prefixes:
@@ -247,6 +284,7 @@ def js_distance_pnext_weighted(
         weights[y] = w
         wsum += w
     if wsum <= 0.0:
+        # fallback to uniform weights
         wsum = float(len(prefixes))
         for y in prefixes:
             weights[y] = 1.0
@@ -317,26 +355,18 @@ def debug_dump_pnext(
     topk_prefix: int,
     focus_prefix: Optional[Prefix],
 ) -> None:
-    """
-    - prefix上位(topk_prefix)を表示
-    - focus_prefix があればそれも必ず表示
-    - 各 prefix で: c(y), top next counts, MLE確率, Laplace確率（各上位だけ）
-    """
     print("")
     print("=" * 80)
     print(f"[DEBUG] {tag}  n={n}  (|X|=10 fixed)  laplace_k={laplace_k}")
     print(f"[DEBUG] prefixes: {len(prefN)}  total_prefix_events(sum c(y))={sum(prefN.values())}")
     print("=" * 80)
 
-    # candidate prefixes
     cand = [p for p, _ in prefN.most_common(topk_prefix)]
     if focus_prefix is not None and focus_prefix not in prefN:
         print(f"[DEBUG] focus_prefix={_fmt_prefix(focus_prefix)} is NOT observed in this range.")
-        # still show it (Ny=0)
         cand = [focus_prefix] + cand
-    elif focus_prefix is not None:
-        if focus_prefix not in cand:
-            cand = [focus_prefix] + cand
+    elif focus_prefix is not None and focus_prefix not in cand:
+        cand = [focus_prefix] + cand
 
     seen = set()
     for pfx in cand:
@@ -354,17 +384,12 @@ def debug_dump_pnext(
         else:
             print("[DEBUG]   top next counts: (none)")
 
-        # probabilities (print only for top next + a couple)
         mle = mle_pnext_vector(cond, prefN, pfx)
         lap = laplace_pnext_vector(cond, prefN, pfx, laplace_k)
 
-        # show probs for top next + also show the largest laplace probs
         keys = [nx for nx, _ in top_next]
-        # ensure unique
         keys = list(dict.fromkeys(keys))
-        # if Ny==0, show all? (too long) -> show top by laplace
         if not keys:
-            # show top 5 by laplace
             idxs = sorted(range(len(VALID_SHIFTS)), key=lambda i: lap[i], reverse=True)[:5]
             keys = [VALID_SHIFTS[i] for i in idxs]
 
@@ -374,11 +399,7 @@ def debug_dump_pnext(
             print(f"          {x:>2}:  mle={mle[i]:.6f}   lap={lap[i]:.6f}")
 
 
-def debug_dump_ngram_freq(
-    tag: str,
-    ngram_counter: Counter,
-    topk: int,
-) -> None:
+def debug_dump_ngram_freq(tag: str, ngram_counter: Counter, topk: int) -> None:
     print("")
     print("-" * 80)
     print(f"[DEBUG] {tag}  n-gram frequency top{topk}")
@@ -389,10 +410,6 @@ def debug_dump_ngram_freq(
 
 
 def parse_prefix_arg(s: str) -> Prefix:
-    """
-    "SE,SN" -> ("SE","SN")
-    "" or "EMPTY" -> ()
-    """
     s = s.strip()
     if s == "" or s.upper() == "EMPTY":
         return tuple()
@@ -409,12 +426,20 @@ def main():
     ap.add_argument("group_settings")
     ap.add_argument("--start-year", type=int, default=2019)
     ap.add_argument("--end-year", type=int, default=2025)
-    ap.add_argument("--nmin", type=int, default=1)
+    ap.add_argument("--nmin", type=int, default=2)
     ap.add_argument("--nmax", type=int, default=5)
     ap.add_argument("--laplace-k", type=float, default=1.0)
     ap.add_argument("--heads-name", default="Heads")
     ap.add_argument("--outdir", default="out/halfyear_vs_total_pnext")
     ap.add_argument("--only-nonheads", action="store_true")
+
+    # ★追加: 集約の平均モード
+    ap.add_argument(
+        "--avg-mode",
+        choices=["weighted", "uniform"],
+        default="weighted",
+        help="How to aggregate prefix-wise JSD before sqrt. weighted=existing, uniform=unweighted mean.",
+    )
 
     # --- debug options ---
     ap.add_argument("--debug", action="store_true", help="中間ログを出す")
@@ -443,7 +468,6 @@ def main():
     base_start = args.start_year * 10000 + 101
     base_end = args.end_year * 10000 + 1231
     periods = half_periods + [(base_key, base_start, base_end)]
-    period_labels = [k for (k, _, _) in periods]
 
     ns = list(range(args.nmin, args.nmax + 1))
     n_labels = [f"{n}-gram P(next|prefix) (vs {base_key})" for n in ns]
@@ -463,16 +487,16 @@ def main():
         base_non_cond_by_n[n] = non_cond
         base_non_prefN_by_n[n] = non_prefN
 
-    # DEBUG: dump selected period/n
+    # DEBUG (unchanged except it calls weighted function below)
     focus_prefix: Optional[Prefix] = None
     if args.debug_prefix is not None:
         focus_prefix = parse_prefix_arg(args.debug_prefix)
 
     if args.debug:
+        period_labels = [k for (k, _, _) in periods]
         dbg_period = args.debug_period if args.debug_period is not None else period_labels[0]
         dbg_n = args.debug_n if args.debug_n is not None else ns[0]
 
-        # find period range
         found = [t for t in periods if t[0] == dbg_period]
         if not found:
             raise ValueError(f"--debug-period '{dbg_period}' not found. choices: {', '.join(period_labels[:6])} ...")
@@ -482,12 +506,10 @@ def main():
         print(f"[DEBUG] period={pkey} range={d1}..{d2}  n={dbg_n}")
         print("#" * 90)
 
-        # count for that period
         h_cond_p, h_prefN_p, non_cond_p, non_prefN_p = count_conditional_heads_nonheads_in_range(
             segs_by_person, n=dbg_n, heads_name=args.heads_name, date_start=d1, date_end=d2
         )
 
-        # also compute ngram freq (reference)
         h_ng, non_ng = count_ngram_freq_heads_nonheads_in_range(
             segs_by_person, n=dbg_n, heads_name=args.heads_name, date_start=d1, date_end=d2
         )
@@ -515,26 +537,48 @@ def main():
         )
         debug_dump_ngram_freq(f"{pkey} NonHeads", non_ng, args.debug_ngram_topk)
 
-        # compare with base for same n (optional)
         print("\n" + "#" * 90)
         print(f"[DEBUG] compare {pkey} vs BASE={base_key} (same n={dbg_n})  Laplace-k={args.laplace_k}")
         print("#" * 90)
 
         if not args.only_nonheads:
-            dist_h = js_distance_pnext_weighted(
+            dist_h = js_distance_pnext_aggregate(
                 h_cond_p, h_prefN_p,
                 base_heads_cond_by_n[dbg_n], base_heads_prefN_by_n[dbg_n],
-                laplace_k=args.laplace_k
+                laplace_k=args.laplace_k,
+                avg_mode=args.avg_mode,
             )
             print(f"[DEBUG] Heads JSdist(P(next|prefix)) = {dist_h:.6f}")
 
-        dist_n = js_distance_pnext_weighted(
+        dist_n = js_distance_pnext_aggregate(
             non_cond_p, non_prefN_p,
             base_non_cond_by_n[dbg_n], base_non_prefN_by_n[dbg_n],
-            laplace_k=args.laplace_k
+            laplace_k=args.laplace_k,
+            avg_mode=args.avg_mode,
         )
         print(f"[DEBUG] NonHeads JSdist(P(next|prefix)) = {dist_n:.6f}")
         print("#" * 90 + "\n")
+
+    # ---------------------------------------------------------
+    # labels: append n=1 token count per period
+    # ---------------------------------------------------------
+    base_labels: List[str] = [k for (k, _, _) in periods]
+    heads_T_by_period: List[int] = []
+    non_T_by_period: List[int] = []
+
+    for (_, d1, d2) in periods:
+        _h_cond_1, h_prefN_1, _non_cond_1, non_prefN_1 = count_conditional_heads_nonheads_in_range(
+            segs_by_person,
+            n=1,
+            heads_name=args.heads_name,
+            date_start=d1,
+            date_end=d2,
+        )
+        heads_T_by_period.append(int(sum(h_prefN_1.values())))
+        non_T_by_period.append(int(sum(non_prefN_1.values())))
+
+    period_labels_heads = [f"{lbl}({t})" for lbl, t in zip(base_labels, heads_T_by_period)]
+    period_labels_non = [f"{lbl}({t})" for lbl, t in zip(base_labels, non_T_by_period)]
 
     # heatmap
     vmin = 0.0
@@ -542,7 +586,7 @@ def main():
 
     def build_matrix(is_heads: bool) -> List[List[float]]:
         mat = []
-        for (pkey, d1, d2) in periods:
+        for (_, d1, d2) in periods:
             row = []
             for n in ns:
                 h_cond_p, h_prefN_p, non_cond_p, non_prefN_p = count_conditional_heads_nonheads_in_range(
@@ -555,11 +599,17 @@ def main():
                     cond_p, prefN_p = non_cond_p, non_prefN_p
                     cond_b, prefN_b = base_non_cond_by_n[n], base_non_prefN_by_n[n]
 
-                row.append(js_distance_pnext_weighted(cond_p, prefN_p, cond_b, prefN_b, laplace_k=args.laplace_k))
+                row.append(
+                    js_distance_pnext_aggregate(
+                        cond_p, prefN_p, cond_b, prefN_b,
+                        laplace_k=args.laplace_k,
+                        avg_mode=args.avg_mode,
+                    )
+                )
             mat.append(row)
         return mat
 
-    suffix = f"laplacek{args.laplace_k}".replace(".", "p")
+    suffix = f"k={args.laplace_k}_{args.avg_mode}"
 
     if not args.only_nonheads:
         mat_h = build_matrix(is_heads=True)
@@ -570,7 +620,7 @@ def main():
         plot_heatmap_period_x_n(
             out_h,
             title=f"Heads: JSdist(half-year, {base_key}) on P(next|prefix) n={args.nmin}..{args.nmax} [ln] ({suffix})",
-            period_labels=[k for (k, _, _) in periods],
+            period_labels=period_labels_heads,
             n_labels=n_labels,
             mat=mat_h,
             vmin=vmin,
@@ -586,7 +636,7 @@ def main():
     plot_heatmap_period_x_n(
         out_n,
         title=f"NonHeads: JSdist(half-year, {base_key}) on P(next|prefix) n={args.nmin}..{args.nmax} [ln] ({suffix})",
-        period_labels=[k for (k, _, _) in periods],
+        period_labels=period_labels_non,
         n_labels=n_labels,
         mat=mat_n,
         vmin=vmin,

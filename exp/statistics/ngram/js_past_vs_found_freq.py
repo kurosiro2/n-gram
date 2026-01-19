@@ -5,27 +5,18 @@
 period(半年) × (n=1..N の「2019~2025(past) を基準にした JS距離」) のヒートマップを 1枚で出す。
 さらに、found-model の分布も「基準（2019~2025 past）」に対する JS距離として 1行追加する。
 
-実行形式（あなたの希望）:
-  python js_halfyear_vs_total_with_found_heatmap.py \
-    <past_shifts.lp> <group_settings_dir/> <found_dir_or_lp> [options]
-
-例:
-  python exp/statistics/ngram/js_halfyear_vs_total_with_found_heatmap.py \
-    exp/2019-2025-data/past-shifts/GCU.lp \
-    exp/2019-2025-data/group-settings/GCU/ \
-    2024-10-13-GCU-found-model/ \
-    --start-year 2019 --end-year 2025 --nmin 1 --nmax 5 --alpha 1e-3 --outdir out/halfyear_vs_total
-
-縦軸:
-  2019H1 ... 2025H2, FOUND  （※基準行は出さない：基準は比較対象として内部だけで使う）
-
-横軸:
-  1-gram(vs 2019~2025), ..., N-gram(vs 2019~2025)
+追加仕様（今回）:
+  - 縦軸ラベルに「n=1 のデータ総数 T」を付ける（例: 2019H1 (T=12345)）
+    ※Heads/NonHeads で T は別々に計算される（その行の 1-gram カウンタ総和）
+  - found 行ラベルは「入力 found_path を厳密に反映」する
+      FOUND_MODEL: <basename(found_path)>
+    例: found-model/2024-10-13-GCU/ -> "FOUND_MODEL: 2024-10-13-GCU"
 
 仕様:
   - past: グループ集合変化でセグメント分割（境界は跨がない）
   - Unknown は NonHeads 側に含める
-  - found: staff_group で Heads/NonHeads 判定（タイムライン無し）
+  - found: staff_group / group で Heads/NonHeads 判定（タイムライン無し）
+  - found: ext_assigned / out_assigned を読む（2引数 out_assigned は無視）
   - JS distance = sqrt(JSD), ln (natural log)
   - カラースケール統一: vmin=0, vmax=sqrt(ln 2)
   - 各セルに値（小数3桁）を表示
@@ -189,11 +180,19 @@ def count_ngrams_heads_nonheads_in_range(
 PAT_EXT = re.compile(r'^ext_assigned\(\s*(\d+)\s*,\s*(-?\d+)\s*,\s*"([^"]+)"\s*\)\.')
 PAT_GROUP = re.compile(r'^staff_group\(\s*"([^"]+)"\s*,\s*(\d+)\s*\)\.')
 
+# out_assigned(id, yyyymmdd, "SHIFT").（2引数 out_assigned はマッチしないので無視）
+PAT_OUT = re.compile(r'^out_assigned\(\s*(\d+)\s*,\s*(\d{8})\s*,\s*"([^"]+)"\s*\)\.')
+
+# group("GROUPNAME", staff_id).
+PAT_GROUP2 = re.compile(r'^group\(\s*"([^"]+)"\s*,\s*(\d+)\s*\)\.')
+
+
 def is_head_group_found(g: str) -> bool:
     if not g:
         return False
     gl = g.lower()
     return ("head" in gl) or ("師長" in g) or ("主任" in g)
+
 
 def bucket_found(groups: Set[str], heads_name: str) -> str:
     """found側: heads_name 完全一致 or それっぽい語を含むなら Heads"""
@@ -204,6 +203,7 @@ def bucket_found(groups: Set[str], heads_name: str) -> str:
         if is_head_group_found(g):
             return "Heads"
     return "NonHeads"
+
 
 def list_found_files(found_path: str) -> List[str]:
     """
@@ -224,11 +224,19 @@ def list_found_files(found_path: str) -> List[str]:
     fs = sorted(glob.glob(os.path.join(found_path, "*.lp")))
     return fs
 
+
 def load_found_model(path: str) -> Tuple[Dict[int, List[Tuple[int, str]]], Dict[int, Set[str]]]:
     """
     found-model.lp を読んで:
       - seqs_by_staff: {staff_id: [(day, shift), ...]}
       - groups_by_staff: {staff_id: set(groupname)}
+
+    対応:
+      - ext_assigned(staff_id, day, "SHIFT").
+      - out_assigned(staff_id, yyyymmdd, "SHIFT").
+      - staff_group("GROUPNAME", staff_id).
+      - group("GROUPNAME", staff_id).
+      - out_assigned(staff_id, yyyymmdd). は無視（パターン不一致）
     """
     seqs_by_staff: Dict[int, List[Tuple[int, str]]] = defaultdict(list)
     groups_by_staff: Dict[int, Set[str]] = defaultdict(set)
@@ -248,6 +256,15 @@ def load_found_model(path: str) -> Tuple[Dict[int, List[Tuple[int, str]]], Dict[
                     seqs_by_staff[sid].append((day, sh))
                 continue
 
+            m = PAT_OUT.match(line)
+            if m:
+                sid = int(m.group(1))
+                day = int(m.group(2))  # yyyymmdd
+                sh = m.group(3)
+                if sh in VALID_SHIFTS:
+                    seqs_by_staff[sid].append((day, sh))
+                continue
+
             m = PAT_GROUP.match(line)
             if m:
                 gname = m.group(1)
@@ -255,7 +272,15 @@ def load_found_model(path: str) -> Tuple[Dict[int, List[Tuple[int, str]]], Dict[
                 groups_by_staff[sid].add(gname)
                 continue
 
+            m = PAT_GROUP2.match(line)
+            if m:
+                gname = m.group(1)
+                sid = int(m.group(2))
+                groups_by_staff[sid].add(gname)
+                continue
+
     return seqs_by_staff, groups_by_staff
+
 
 def count_ngrams_found_heads_nonheads(found_files: List[str], n: int, heads_name: str) -> Tuple[Counter, Counter]:
     """
@@ -389,7 +414,6 @@ def plot_heatmap_period_x_n(
 # =============================================================
 def main():
     ap = argparse.ArgumentParser()
-    # ★あなたの希望どおり「3引数」
     ap.add_argument("past_shifts", help="past-shifts *.lp (ward file)")
     ap.add_argument("group_settings", help="group-settings dir (ward/)")
     ap.add_argument("found_path", help="found dir OR found-model.lp")
@@ -399,7 +423,7 @@ def main():
     ap.add_argument("--nmax", type=int, default=5)
     ap.add_argument("--alpha", type=float, default=1e-3)
     ap.add_argument("--heads-name", default="Heads")
-    ap.add_argument("--outdir", default="out/halfyear_vs_total")
+    ap.add_argument("--outdir", default="out/halfyear+found-model_vs_total")
     ap.add_argument("--only-nonheads", action="store_true", help="NonHeads(+Unknown) だけ出力（Headsを出さない）")
     args = ap.parse_args()
 
@@ -419,6 +443,9 @@ def main():
     if not found_files:
         raise FileNotFoundError(f"No found-model lp found under: {args.found_path}")
 
+    # ---- found 行ラベルを入力から厳密に生成（タイトル/ファイル名には使わない）
+    found_label = f" {os.path.basename(os.path.normpath(args.found_path))}"
+
     # load past + timeline
     seqs = data_loader.load_past_shifts(args.past_shifts)
     timeline = data_loader.load_staff_group_timeline(args.group_settings)
@@ -430,10 +457,10 @@ def main():
     base_start = args.start_year * 10000 + 101
     base_end = args.end_year * 10000 + 1231
 
-    # 表示する行：半年 + FOUND（基準行は表示しない）
-    periods = list(half_periods) + [("FOUND", None, None)]  # type: ignore
+    # 表示する行：半年 + found_label（基準行は表示しない）
+    periods = list(half_periods) + [(found_label, None, None)]  # type: ignore
 
-    period_labels = [k for (k, _, _) in periods]
+    period_labels_base = [k for (k, _, _) in periods]
     ns = list(range(args.nmin, args.nmax + 1))
     n_labels = [f"{n}-gram (vs {base_key})" for n in ns]
 
@@ -459,14 +486,30 @@ def main():
     vmin = 0.0
     vmax = math.sqrt(math.log(2.0))
 
-    def build_matrix(is_heads: bool) -> List[List[float]]:
+    # n=1 の総数 T を各行で計算して返す
+    def build_matrix(is_heads: bool) -> Tuple[List[List[float]], List[int]]:
         mat: List[List[float]] = []
+        totals: List[int] = []
+
         for (pkey, d1, d2) in periods:
             row: List[float] = []
+
+            # ---- n=1 の総数（表示用）
+            if pkey == found_label:
+                c_p_1 = found_heads_by_n[1] if is_heads else found_non_by_n[1]
+            else:
+                assert d1 is not None and d2 is not None
+                h_p1, non_p1 = count_ngrams_heads_nonheads_in_range(
+                    segs_by_person, n=1, heads_name=args.heads_name, date_start=d1, date_end=d2
+                )
+                c_p_1 = h_p1 if is_heads else non_p1
+            totals.append(int(sum(c_p_1.values())))
+
+            # ---- JS距離（n=ns）
             for n in ns:
                 c_b = base_heads_by_n[n] if is_heads else base_non_by_n[n]
 
-                if pkey == "FOUND":
+                if pkey == found_label:
                     c_p = found_heads_by_n[n] if is_heads else found_non_by_n[n]
                 else:
                     assert d1 is not None and d2 is not None
@@ -476,20 +519,24 @@ def main():
                     c_p = h_p if is_heads else non_p
 
                 row.append(js_distance_from_counters(c_p, c_b, args.alpha))
+
             mat.append(row)
-        return mat
+
+        return mat, totals
 
     # Heads heatmap
     if not args.only_nonheads:
-        mat_h = build_matrix(is_heads=True)
+        mat_h, totals_h = build_matrix(is_heads=True)
+        period_labels_h = [f"{lbl} ({t})" for lbl, t in zip(period_labels_base, totals_h)]
+
         out_h = os.path.join(
             args.outdir,
             f"heatmap_halfyear_plus_found_x_ngram_heads_{args.start_year}-{args.end_year}_n{args.nmin}-{args.nmax}.png"
         )
         plot_heatmap_period_x_n(
             out_h,
-            title=f"Heads: JSdist(period/FOUND vs {base_key}(past)) for n={args.nmin}..{args.nmax} [ln]",
-            period_labels=period_labels,
+            title=f"Heads: JSdist(period/{found_label} vs {base_key}(past)) for n={args.nmin}..{args.nmax} [ln]",
+            period_labels=period_labels_h,
             n_labels=n_labels,
             mat=mat_h,
             vmin=vmin,
@@ -498,15 +545,17 @@ def main():
         print(f"# wrote: {out_h}")
 
     # NonHeads heatmap
-    mat_n = build_matrix(is_heads=False)
+    mat_n, totals_n = build_matrix(is_heads=False)
+    period_labels_n = [f"{lbl} ({t})" for lbl, t in zip(period_labels_base, totals_n)]
+
     out_n = os.path.join(
         args.outdir,
         f"heatmap_halfyear_plus_found_x_ngram_nonheads_{args.start_year}-{args.end_year}_n{args.nmin}-{args.nmax}.png"
     )
     plot_heatmap_period_x_n(
         out_n,
-        title=f"NonHeads: JSdist(period/FOUND vs {base_key}(past)) for n={args.nmin}..{args.nmax} [ln]",
-        period_labels=period_labels,
+        title=f"NonHeads: JSdist(period/{found_label} vs {base_key}(past)) for n={args.nmin}..{args.nmax} [ln]",
+        period_labels=period_labels_n,
         n_labels=n_labels,
         mat=mat_n,
         vmin=vmin,

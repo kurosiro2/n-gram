@@ -3218,281 +3218,6 @@ shift_data("11322","Sean Davis",20250308,"WR").
 shift_data("11322","Sean Davis",20250309,"WR").
 shift_data("11322","Sean Davis",20250310,"WR").
 shift_data("11322","Sean Davis",20250311,"D").
-shift_data("11322","Sean Davis",20250401,"LD").
-shift_data("11322","Sean Davis",20250402,"WR").
-shift_data("11322","Sean Davis",20250403,"D").
-shift_data("11322","Sean Davis",20250404,"LD").
-shift_data("11322","Sean Davis",20250405,"SE").
-shift_data("11322","Sean Davis",20250406,"SN").
-shift_data("11322","Sean Davis",20250407,"WR").
-shift_data("11322","Sean Davis",20250408,"D").
-shift_data("11322","Sean Davis",20250409,"SE").
-shift_data("11322","Sean Davis",20250410,"SN").
-shift_data("11322","Sean Davis",20250411,"WR").
-shift_data("11322","Sean Davis",20250412,"LD").
-shift_data("11322","Sean Davis",20250413,"WR").
-shift_data("11322","Sean Davis",20250414,"WR").
-shift_data("11322","Sean Davis",20250415,"AL").
-shift_data("11322","Sean Davis",20250416,"D").
-shift_data("11322","Sean Davis",20250417,"D").
-shift_data("11322","Sean Davis",20250418,"D").
-shift_data("11322","Sean Davis",20250419,"WR").
-shift_data("11322","Sean Davis",20250420,"SE").
-shift_data("11322","Sean Davis",20250421,"SN").
-shift_data("11322","Sean Davis",20250422,"WR").
-shift_data("11322","Sean Davis",20250423,"D").
-shift_data("11322","Sean Davis",20250424,"D").
-shift_data("11322","Sean Davis",20250425,"D").
-shift_data("11322","Sean Davis",20250426,"WR").
-shift_data("11322","Sean Davis",20250427,"SL").
-shift_data("11322","Sean Davis",20250428,"SL").
-shift_data("11322","Sean Davis",20250429,"LD").
-shift_data("11322","Sean Davis",20250430,"WR").
-shift_data("11322","Sean Davis",20250501,"WR").
-shift_data("11322","Sean Davis",20250502,"D").
-shift_data("11322","Sean Davis",20250503,"LD").
-shift_data("11322","Sean Davis",20250504,"SE").
-shift_data("11322","Sean Davis",20250505,"SN").
-shift_data("11322","Sean Davis",20250506,"PH").
-shift_data("11322","Sean Davis",20250507,"WR").
-shift_data("11322","Sean Davis",20250508,"SE").
-shift_data("11322","Sean Davis",20250509,"SN").
-shift_data("11322","Sean Davis",20250510,"WR").
-shift_data("11322","Sean Davis",20250511,"D").
-shift_data("11322","Sean Davis",20250512,"WR").
-shift_data("11322","Sean Davis",20250513,"D").
-shift_data("11322","Sean Davis",20250514,"D").
-shift_data("11322","Sean Davis",20250515,"WR").
-shift_data("11322","Sean Davis",20250516,"D").
-shift_data("11322","Sean Davis",20250517,"D").
-shift_data("11322","Sean Davis",20250518,"D").
-shift_data("11322","Sean Davis",20250519,"WR").
-shift_data("11322","Sean Davis",20250520,"D").
-shift_data("11322","Sean Davis",20250521,"D").
-shift_data("11322","Sean Davis",20250522,"WR").
-shift_data("11322","Sean Davis",20250523,"LD").
-shift_data("11322","Sean Davis",20250524,"SE").
-shift_data("11322","Sean Davis",20250525,"SN").
-shift_data("11322","Sean Davis",20250526,"WR").
-shift_data("11322","Sean Davis",20250527,"LD").
-shift_data("11322","Sean Davis",20250528,"SE").
-shift_data("11322","Sean Davis",20250529,"SN").
-shift_data("11322","Sean Davis",20250530,"WR").
-shift_data("11322","Sean Davis",20250531,"LD").
-shift_data("11322","Sean Davis",20250601,"WR").
-shift_data("11322","Sean Davis",20250602,"D").
-shift_data("11322","Sean Davis",20250603,"LD").
-shift_data("11322","Sean Davis",20250604,"SE").
-shift_data("11322","Sean Davis",20250605,"SN").
-shift_data("11322","Sean Davis",20250606,"WR").
-shift_data("11322","Sean Davis",20250607,"WR").
-shift_data("11322","Sean Davis",20250608,"D").
-shift_data("11322","Sean Davis",20250609,"D").
-shift_data("11322","Sean Davis",20250610,"D").
-shift_data("11322","Sean Davis",20250611,"SE").
-shift_data("11322","Sean Davis",20250612,"SN").
-shift_data("11322","Sean Davis",20250613,"WR").
-shift_data("11322","Sean Davis",20250614,"D").
-shift_data("11322","Sean Davis",20250615,"WR").
-shift_data("11322","Sean Davis",20250616,"WR").
-shift_data("11322","Sean Davis",20250617,"D").
-shift_data("11322","Sean Davis",20250618,"D").
-shift_data("11322","Sean Davis",20250619,"D").
-shift_data("11322","Sean Davis",20250620,"D").
-shift_data("11322","Sean Davis",20250621,"D").
-shift_data("11322","Sean Davis",20250622,"WR").
-shift_data("11322","Sean Davis",20250623,"D").
-shift_data("11322","Sean Davis",20250624,"D").
-shift_data("11322","Sean Davis",20250625,"D").
-shift_data("11322","Sean Davis",20250626,"LD").
-shift_data("11322","Sean Davis",20250627,"WR").
-shift_data("11322","Sean Davis",20250628,"WR").
-shift_data("11322","Sean Davis",20250629,"D").
-shift_data("11322","Sean Davis",20250630,"D").
-shift_data("11322","Sean Davis",20250701,"WR").
-shift_data("11322","Sean Davis",20250702,"LD").
-shift_data("11322","Sean Davis",20250703,"SE").
-shift_data("11322","Sean Davis",20250704,"SN").
-shift_data("11322","Sean Davis",20250705,"AL").
-shift_data("11322","Sean Davis",20250706,"TR").
-shift_data("11322","Sean Davis",20250707,"WR").
-shift_data("11322","Sean Davis",20250708,"D").
-shift_data("11322","Sean Davis",20250709,"LD").
-shift_data("11322","Sean Davis",20250710,"SE").
-shift_data("11322","Sean Davis",20250711,"SN").
-shift_data("11322","Sean Davis",20250712,"WR").
-shift_data("11322","Sean Davis",20250713,"SE").
-shift_data("11322","Sean Davis",20250714,"SN").
-shift_data("11322","Sean Davis",20250715,"WR").
-shift_data("11322","Sean Davis",20250716,"WR").
-shift_data("11322","Sean Davis",20250717,"D").
-shift_data("11322","Sean Davis",20250718,"D").
-shift_data("11322","Sean Davis",20250719,"D").
-shift_data("11322","Sean Davis",20250720,"LD").
-shift_data("11322","Sean Davis",20250721,"PH").
-shift_data("11322","Sean Davis",20250722,"D").
-shift_data("11322","Sean Davis",20250723,"D").
-shift_data("11322","Sean Davis",20250724,"SE").
-shift_data("11322","Sean Davis",20250725,"SN").
-shift_data("11322","Sean Davis",20250726,"WR").
-shift_data("11322","Sean Davis",20250727,"WR").
-shift_data("11322","Sean Davis",20250728,"D").
-shift_data("11322","Sean Davis",20250729,"WR").
-shift_data("11322","Sean Davis",20250730,"D").
-shift_data("11322","Sean Davis",20250731,"D").
-shift_data("11322","Sean Davis",20250801,"D").
-shift_data("11322","Sean Davis",20250802,"SE").
-shift_data("11322","Sean Davis",20250803,"SN").
-shift_data("11322","Sean Davis",20250804,"WR").
-shift_data("11322","Sean Davis",20250805,"LD").
-shift_data("11322","Sean Davis",20250806,"WR").
-shift_data("11322","Sean Davis",20250807,"LD").
-shift_data("11322","Sean Davis",20250808,"WR").
-shift_data("11322","Sean Davis",20250809,"D").
-shift_data("11322","Sean Davis",20250810,"D").
-shift_data("11322","Sean Davis",20250811,"PH").
-shift_data("11322","Sean Davis",20250812,"D").
-shift_data("11322","Sean Davis",20250813,"SE").
-shift_data("11322","Sean Davis",20250814,"SN").
-shift_data("11322","Sean Davis",20250815,"WR").
-shift_data("11322","Sean Davis",20250816,"WR").
-shift_data("11322","Sean Davis",20250817,"LD").
-shift_data("11322","Sean Davis",20250818,"WR").
-shift_data("11322","Sean Davis",20250819,"D").
-shift_data("11322","Sean Davis",20250820,"D").
-shift_data("11322","Sean Davis",20250821,"D").
-shift_data("11322","Sean Davis",20250822,"D").
-shift_data("11322","Sean Davis",20250823,"WR").
-shift_data("11322","Sean Davis",20250824,"LD").
-shift_data("11322","Sean Davis",20250825,"SE").
-shift_data("11322","Sean Davis",20250826,"SN").
-shift_data("11322","Sean Davis",20250827,"SE").
-shift_data("11322","Sean Davis",20250828,"SN").
-shift_data("11322","Sean Davis",20250829,"WR").
-shift_data("11322","Sean Davis",20250830,"LD").
-shift_data("11322","Sean Davis",20250831,"WR").
-shift_data("11322","Sean Davis",20250901,"D").
-shift_data("11322","Sean Davis",20250902,"SE").
-shift_data("11322","Sean Davis",20250903,"SN").
-shift_data("11322","Sean Davis",20250904,"WR").
-shift_data("11322","Sean Davis",20250905,"D").
-shift_data("11322","Sean Davis",20250906,"WR").
-shift_data("11322","Sean Davis",20250907,"WR").
-shift_data("11322","Sean Davis",20250908,"D").
-shift_data("11322","Sean Davis",20250909,"D").
-shift_data("11322","Sean Davis",20250910,"LD").
-shift_data("11322","Sean Davis",20250911,"SE").
-shift_data("11322","Sean Davis",20250912,"SN").
-shift_data("11322","Sean Davis",20250913,"WR").
-shift_data("11322","Sean Davis",20250914,"D").
-shift_data("11322","Sean Davis",20250915,"D").
-shift_data("11322","Sean Davis",20250916,"WR").
-shift_data("11322","Sean Davis",20250917,"D").
-shift_data("11322","Sean Davis",20250918,"D").
-shift_data("11322","Sean Davis",20250919,"D").
-shift_data("11322","Sean Davis",20250920,"LD").
-shift_data("11322","Sean Davis",20250921,"SE").
-shift_data("11322","Sean Davis",20250922,"SN").
-shift_data("11322","Sean Davis",20250923,"PH").
-shift_data("11322","Sean Davis",20250924,"D").
-shift_data("11322","Sean Davis",20250925,"D").
-shift_data("11322","Sean Davis",20250926,"SE").
-shift_data("11322","Sean Davis",20250927,"SN").
-shift_data("11322","Sean Davis",20250928,"WR").
-shift_data("11322","Sean Davis",20250929,"LD").
-shift_data("11322","Sean Davis",20250930,"SE").
-shift_data("11322","Sean Davis",20251001,"SN").
-shift_data("11322","Sean Davis",20251002,"WR").
-shift_data("11322","Sean Davis",20251003,"D").
-shift_data("11322","Sean Davis",20251004,"WR").
-shift_data("11322","Sean Davis",20251005,"WR").
-shift_data("11322","Sean Davis",20251006,"D").
-shift_data("11322","Sean Davis",20251007,"D").
-shift_data("11322","Sean Davis",20251008,"WR").
-shift_data("11322","Sean Davis",20251009,"WR").
-shift_data("11322","Sean Davis",20251010,"LD").
-shift_data("11322","Sean Davis",20251011,"WR").
-shift_data("11322","Sean Davis",20251012,"LD").
-shift_data("11322","Sean Davis",20251013,"PH").
-shift_data("11322","Sean Davis",20251014,"D").
-shift_data("11322","Sean Davis",20251015,"AL").
-shift_data("11322","Sean Davis",20251016,"LD").
-shift_data("11322","Sean Davis",20251017,"SE").
-shift_data("11322","Sean Davis",20251018,"SN").
-shift_data("11322","Sean Davis",20251019,"WR").
-shift_data("11322","Sean Davis",20251020,"D").
-shift_data("11322","Sean Davis",20251021,"D").
-shift_data("11322","Sean Davis",20251022,"D").
-shift_data("11322","Sean Davis",20251023,"WR").
-shift_data("11322","Sean Davis",20251024,"D").
-shift_data("11322","Sean Davis",20251025,"LM").
-shift_data("11322","Sean Davis",20251026,"SE").
-shift_data("11322","Sean Davis",20251027,"SN").
-shift_data("11322","Sean Davis",20251028,"WR").
-shift_data("11322","Sean Davis",20251029,"WR").
-shift_data("11322","Sean Davis",20251030,"D").
-shift_data("11322","Sean Davis",20251031,"LD").
-shift_data("11322","Sean Davis",20251101,"WR").
-shift_data("11322","Sean Davis",20251102,"WR").
-shift_data("11322","Sean Davis",20251103,"SE").
-shift_data("11322","Sean Davis",20251104,"SN").
-shift_data("11322","Sean Davis",20251105,"WR").
-shift_data("11322","Sean Davis",20251106,"D").
-shift_data("11322","Sean Davis",20251107,"WR").
-shift_data("11322","Sean Davis",20251108,"D").
-shift_data("11322","Sean Davis",20251109,"WR").
-shift_data("11322","Sean Davis",20251110,"AL").
-shift_data("11322","Sean Davis",20251111,"D").
-shift_data("11322","Sean Davis",20251112,"D").
-shift_data("11322","Sean Davis",20251113,"D").
-shift_data("11322","Sean Davis",20251114,"D").
-shift_data("11322","Sean Davis",20251115,"LD").
-shift_data("11322","Sean Davis",20251116,"WR").
-shift_data("11322","Sean Davis",20251117,"D").
-shift_data("11322","Sean Davis",20251118,"LD").
-shift_data("11322","Sean Davis",20251119,"WR").
-shift_data("11322","Sean Davis",20251120,"HL").
-shift_data("11322","Sean Davis",20251121,"WR").
-shift_data("11322","Sean Davis",20251122,"WR").
-shift_data("11322","Sean Davis",20251123,"D").
-shift_data("11322","Sean Davis",20251124,"D").
-shift_data("11322","Sean Davis",20251125,"D").
-shift_data("11322","Sean Davis",20251126,"WR").
-shift_data("11322","Sean Davis",20251127,"D").
-shift_data("11322","Sean Davis",20251128,"D").
-shift_data("11322","Sean Davis",20251129,"SE").
-shift_data("11322","Sean Davis",20251130,"SN").
-shift_data("11322","Sean Davis",20251201,"WR").
-shift_data("11322","Sean Davis",20251202,"D").
-shift_data("11322","Sean Davis",20251203,"D").
-shift_data("11322","Sean Davis",20251204,"WR").
-shift_data("11322","Sean Davis",20251205,"D").
-shift_data("11322","Sean Davis",20251206,"SE").
-shift_data("11322","Sean Davis",20251207,"SN").
-shift_data("11322","Sean Davis",20251208,"SE").
-shift_data("11322","Sean Davis",20251209,"SN").
-shift_data("11322","Sean Davis",20251210,"WR").
-shift_data("11322","Sean Davis",20251211,"WR").
-shift_data("11322","Sean Davis",20251212,"D").
-shift_data("11322","Sean Davis",20251213,"LD").
-shift_data("11322","Sean Davis",20251214,"SE").
-shift_data("11322","Sean Davis",20251215,"SN").
-shift_data("11322","Sean Davis",20251216,"WR").
-shift_data("11322","Sean Davis",20251217,"WR").
-shift_data("11322","Sean Davis",20251218,"LD").
-shift_data("11322","Sean Davis",20251219,"SE").
-shift_data("11322","Sean Davis",20251220,"SN").
-shift_data("11322","Sean Davis",20251221,"AL").
-shift_data("11322","Sean Davis",20251222,"WR").
-shift_data("11322","Sean Davis",20251223,"LD").
-shift_data("11322","Sean Davis",20251224,"WR").
-shift_data("11322","Sean Davis",20251225,"LD").
-shift_data("11322","Sean Davis",20251226,"WR").
-shift_data("11322","Sean Davis",20251227,"LD").
-shift_data("11322","Sean Davis",20251228,"SE").
-shift_data("11322","Sean Davis",20251229,"SN").
-shift_data("11322","Sean Davis",20251230,"SE").
-shift_data("11322","Sean Davis",20251231,"SN").
 shift_data("11409","Shannon Smith",20200921,"PH").
 shift_data("11409","Shannon Smith",20200922,"D").
 shift_data("11409","Shannon Smith",20200923,"D").
@@ -5876,281 +5601,6 @@ shift_data("16465","Karen Fry",20250120,"D").
 shift_data("16465","Karen Fry",20250203,"D").
 shift_data("16465","Karen Fry",20250214,"D").
 shift_data("16465","Karen Fry",20250217,"D").
-shift_data("16465","Karen Fry",20250401,"LD").
-shift_data("16465","Karen Fry",20250402,"SE").
-shift_data("16465","Karen Fry",20250403,"SN").
-shift_data("16465","Karen Fry",20250404,"WR").
-shift_data("16465","Karen Fry",20250405,"WR").
-shift_data("16465","Karen Fry",20250406,"D").
-shift_data("16465","Karen Fry",20250407,"D").
-shift_data("16465","Karen Fry",20250408,"LD").
-shift_data("16465","Karen Fry",20250409,"LD").
-shift_data("16465","Karen Fry",20250410,"WR").
-shift_data("16465","Karen Fry",20250411,"SE").
-shift_data("16465","Karen Fry",20250412,"SN").
-shift_data("16465","Karen Fry",20250413,"SE").
-shift_data("16465","Karen Fry",20250414,"SN").
-shift_data("16465","Karen Fry",20250415,"WR").
-shift_data("16465","Karen Fry",20250416,"LD").
-shift_data("16465","Karen Fry",20250417,"WR").
-shift_data("16465","Karen Fry",20250418,"LD").
-shift_data("16465","Karen Fry",20250419,"SE").
-shift_data("16465","Karen Fry",20250420,"SN").
-shift_data("16465","Karen Fry",20250421,"WR").
-shift_data("16465","Karen Fry",20250422,"SL").
-shift_data("16465","Karen Fry",20250423,"SL").
-shift_data("16465","Karen Fry",20250424,"SE").
-shift_data("16465","Karen Fry",20250425,"SN").
-shift_data("16465","Karen Fry",20250426,"WR").
-shift_data("16465","Karen Fry",20250427,"LD").
-shift_data("16465","Karen Fry",20250428,"WR").
-shift_data("16465","Karen Fry",20250429,"LD").
-shift_data("16465","Karen Fry",20250430,"SE").
-shift_data("16465","Karen Fry",20250501,"SN").
-shift_data("16465","Karen Fry",20250502,"WR").
-shift_data("16465","Karen Fry",20250503,"WR").
-shift_data("16465","Karen Fry",20250504,"WR").
-shift_data("16465","Karen Fry",20250505,"D").
-shift_data("16465","Karen Fry",20250506,"D").
-shift_data("16465","Karen Fry",20250507,"LD").
-shift_data("16465","Karen Fry",20250508,"SE").
-shift_data("16465","Karen Fry",20250509,"SN").
-shift_data("16465","Karen Fry",20250510,"AL").
-shift_data("16465","Karen Fry",20250511,"AL").
-shift_data("16465","Karen Fry",20250512,"WR").
-shift_data("16465","Karen Fry",20250513,"LD").
-shift_data("16465","Karen Fry",20250514,"SE").
-shift_data("16465","Karen Fry",20250515,"SN").
-shift_data("16465","Karen Fry",20250516,"WR").
-shift_data("16465","Karen Fry",20250517,"LD").
-shift_data("16465","Karen Fry",20250518,"SE").
-shift_data("16465","Karen Fry",20250519,"SN").
-shift_data("16465","Karen Fry",20250520,"SE").
-shift_data("16465","Karen Fry",20250521,"SN").
-shift_data("16465","Karen Fry",20250522,"WR").
-shift_data("16465","Karen Fry",20250523,"D").
-shift_data("16465","Karen Fry",20250524,"WR").
-shift_data("16465","Karen Fry",20250525,"LD").
-shift_data("16465","Karen Fry",20250526,"SE").
-shift_data("16465","Karen Fry",20250527,"SN").
-shift_data("16465","Karen Fry",20250528,"WR").
-shift_data("16465","Karen Fry",20250529,"WR").
-shift_data("16465","Karen Fry",20250530,"LD").
-shift_data("16465","Karen Fry",20250531,"SE").
-shift_data("16465","Karen Fry",20250601,"SN").
-shift_data("16465","Karen Fry",20250602,"WR").
-shift_data("16465","Karen Fry",20250603,"LD").
-shift_data("16465","Karen Fry",20250604,"WR").
-shift_data("16465","Karen Fry",20250605,"WR").
-shift_data("16465","Karen Fry",20250606,"LD").
-shift_data("16465","Karen Fry",20250607,"SE").
-shift_data("16465","Karen Fry",20250608,"SN").
-shift_data("16465","Karen Fry",20250609,"SE").
-shift_data("16465","Karen Fry",20250610,"SN").
-shift_data("16465","Karen Fry",20250611,"WR").
-shift_data("16465","Karen Fry",20250612,"D").
-shift_data("16465","Karen Fry",20250613,"SE").
-shift_data("16465","Karen Fry",20250614,"SN").
-shift_data("16465","Karen Fry",20250615,"WR").
-shift_data("16465","Karen Fry",20250616,"LD").
-shift_data("16465","Karen Fry",20250617,"SE").
-shift_data("16465","Karen Fry",20250618,"SN").
-shift_data("16465","Karen Fry",20250619,"WR").
-shift_data("16465","Karen Fry",20250620,"D").
-shift_data("16465","Karen Fry",20250621,"LD").
-shift_data("16465","Karen Fry",20250622,"SE").
-shift_data("16465","Karen Fry",20250623,"SN").
-shift_data("16465","Karen Fry",20250624,"WR").
-shift_data("16465","Karen Fry",20250625,"LD").
-shift_data("16465","Karen Fry",20250626,"SE").
-shift_data("16465","Karen Fry",20250627,"SN").
-shift_data("16465","Karen Fry",20250628,"WR").
-shift_data("16465","Karen Fry",20250629,"LD").
-shift_data("16465","Karen Fry",20250630,"WR").
-shift_data("16465","Karen Fry",20250701,"D").
-shift_data("16465","Karen Fry",20250702,"LD").
-shift_data("16465","Karen Fry",20250703,"WR").
-shift_data("16465","Karen Fry",20250704,"SE").
-shift_data("16465","Karen Fry",20250705,"SN").
-shift_data("16465","Karen Fry",20250706,"SE").
-shift_data("16465","Karen Fry",20250707,"SN").
-shift_data("16465","Karen Fry",20250708,"WR").
-shift_data("16465","Karen Fry",20250709,"D").
-shift_data("16465","Karen Fry",20250710,"D").
-shift_data("16465","Karen Fry",20250711,"SE").
-shift_data("16465","Karen Fry",20250712,"SN").
-shift_data("16465","Karen Fry",20250713,"WR").
-shift_data("16465","Karen Fry",20250714,"D").
-shift_data("16465","Karen Fry",20250715,"LD").
-shift_data("16465","Karen Fry",20250716,"WR").
-shift_data("16465","Karen Fry",20250717,"D").
-shift_data("16465","Karen Fry",20250718,"LD").
-shift_data("16465","Karen Fry",20250719,"WR").
-shift_data("16465","Karen Fry",20250720,"D").
-shift_data("16465","Karen Fry",20250721,"LD").
-shift_data("16465","Karen Fry",20250722,"WR").
-shift_data("16465","Karen Fry",20250723,"LD").
-shift_data("16465","Karen Fry",20250724,"SE").
-shift_data("16465","Karen Fry",20250725,"SN").
-shift_data("16465","Karen Fry",20250726,"WR").
-shift_data("16465","Karen Fry",20250727,"SE").
-shift_data("16465","Karen Fry",20250728,"SN").
-shift_data("16465","Karen Fry",20250729,"SE").
-shift_data("16465","Karen Fry",20250730,"SN").
-shift_data("16465","Karen Fry",20250731,"WR").
-shift_data("16465","Karen Fry",20250801,"D").
-shift_data("16465","Karen Fry",20250802,"WR").
-shift_data("16465","Karen Fry",20250803,"WR").
-shift_data("16465","Karen Fry",20250804,"D").
-shift_data("16465","Karen Fry",20250805,"LD").
-shift_data("16465","Karen Fry",20250806,"SE").
-shift_data("16465","Karen Fry",20250807,"SN").
-shift_data("16465","Karen Fry",20250808,"WR").
-shift_data("16465","Karen Fry",20250809,"D").
-shift_data("16465","Karen Fry",20250810,"LD").
-shift_data("16465","Karen Fry",20250811,"SE").
-shift_data("16465","Karen Fry",20250812,"SN").
-shift_data("16465","Karen Fry",20250813,"WR").
-shift_data("16465","Karen Fry",20250814,"LD").
-shift_data("16465","Karen Fry",20250815,"WR").
-shift_data("16465","Karen Fry",20250816,"D").
-shift_data("16465","Karen Fry",20250817,"WR").
-shift_data("16465","Karen Fry",20250818,"D").
-shift_data("16465","Karen Fry",20250819,"D").
-shift_data("16465","Karen Fry",20250820,"D").
-shift_data("16465","Karen Fry",20250821,"WR").
-shift_data("16465","Karen Fry",20250822,"LD").
-shift_data("16465","Karen Fry",20250823,"SE").
-shift_data("16465","Karen Fry",20250824,"SN").
-shift_data("16465","Karen Fry",20250825,"WR").
-shift_data("16465","Karen Fry",20250826,"LD").
-shift_data("16465","Karen Fry",20250827,"WR").
-shift_data("16465","Karen Fry",20250828,"D").
-shift_data("16465","Karen Fry",20250829,"LM").
-shift_data("16465","Karen Fry",20250830,"SE").
-shift_data("16465","Karen Fry",20250831,"SN").
-shift_data("16465","Karen Fry",20250901,"WR").
-shift_data("16465","Karen Fry",20250902,"LD").
-shift_data("16465","Karen Fry",20250903,"SE").
-shift_data("16465","Karen Fry",20250904,"SN").
-shift_data("16465","Karen Fry",20250905,"HL").
-shift_data("16465","Karen Fry",20250906,"HL").
-shift_data("16465","Karen Fry",20250907,"HL").
-shift_data("16465","Karen Fry",20250908,"HL").
-shift_data("16465","Karen Fry",20250909,"WR").
-shift_data("16465","Karen Fry",20250910,"WR").
-shift_data("16465","Karen Fry",20250911,"WR").
-shift_data("16465","Karen Fry",20250912,"D").
-shift_data("16465","Karen Fry",20250913,"D").
-shift_data("16465","Karen Fry",20250914,"WR").
-shift_data("16465","Karen Fry",20250915,"PH").
-shift_data("16465","Karen Fry",20250916,"D").
-shift_data("16465","Karen Fry",20250917,"LD").
-shift_data("16465","Karen Fry",20250918,"SE").
-shift_data("16465","Karen Fry",20250919,"SN").
-shift_data("16465","Karen Fry",20250920,"AL").
-shift_data("16465","Karen Fry",20250921,"WR").
-shift_data("16465","Karen Fry",20250922,"LD").
-shift_data("16465","Karen Fry",20250923,"PH").
-shift_data("16465","Karen Fry",20250924,"SE").
-shift_data("16465","Karen Fry",20250925,"SN").
-shift_data("16465","Karen Fry",20250926,"WR").
-shift_data("16465","Karen Fry",20250927,"LD").
-shift_data("16465","Karen Fry",20250928,"SE").
-shift_data("16465","Karen Fry",20250929,"SN").
-shift_data("16465","Karen Fry",20250930,"WR").
-shift_data("16465","Karen Fry",20251001,"WR").
-shift_data("16465","Karen Fry",20251002,"LD").
-shift_data("16465","Karen Fry",20251003,"SE").
-shift_data("16465","Karen Fry",20251004,"SN").
-shift_data("16465","Karen Fry",20251005,"WR").
-shift_data("16465","Karen Fry",20251006,"WR").
-shift_data("16465","Karen Fry",20251007,"D").
-shift_data("16465","Karen Fry",20251008,"WR").
-shift_data("16465","Karen Fry",20251009,"AL").
-shift_data("16465","Karen Fry",20251010,"LD").
-shift_data("16465","Karen Fry",20251011,"SE").
-shift_data("16465","Karen Fry",20251012,"SN").
-shift_data("16465","Karen Fry",20251013,"PH").
-shift_data("16465","Karen Fry",20251014,"WR").
-shift_data("16465","Karen Fry",20251015,"LD").
-shift_data("16465","Karen Fry",20251016,"SE").
-shift_data("16465","Karen Fry",20251017,"SN").
-shift_data("16465","Karen Fry",20251018,"WR").
-shift_data("16465","Karen Fry",20251019,"LD").
-shift_data("16465","Karen Fry",20251020,"SE").
-shift_data("16465","Karen Fry",20251021,"SN").
-shift_data("16465","Karen Fry",20251022,"WR").
-shift_data("16465","Karen Fry",20251023,"LD").
-shift_data("16465","Karen Fry",20251024,"WR").
-shift_data("16465","Karen Fry",20251025,"WR").
-shift_data("16465","Karen Fry",20251026,"SE").
-shift_data("16465","Karen Fry",20251027,"SN").
-shift_data("16465","Karen Fry",20251028,"WR").
-shift_data("16465","Karen Fry",20251029,"LD").
-shift_data("16465","Karen Fry",20251030,"SE").
-shift_data("16465","Karen Fry",20251031,"SN").
-shift_data("16465","Karen Fry",20251101,"AL").
-shift_data("16465","Karen Fry",20251102,"WR").
-shift_data("16465","Karen Fry",20251103,"PH").
-shift_data("16465","Karen Fry",20251104,"LD").
-shift_data("16465","Karen Fry",20251105,"SE").
-shift_data("16465","Karen Fry",20251106,"SN").
-shift_data("16465","Karen Fry",20251107,"WR").
-shift_data("16465","Karen Fry",20251108,"D").
-shift_data("16465","Karen Fry",20251109,"WR").
-shift_data("16465","Karen Fry",20251110,"LD").
-shift_data("16465","Karen Fry",20251111,"SE").
-shift_data("16465","Karen Fry",20251112,"SN").
-shift_data("16465","Karen Fry",20251113,"WR").
-shift_data("16465","Karen Fry",20251114,"LD").
-shift_data("16465","Karen Fry",20251115,"SE").
-shift_data("16465","Karen Fry",20251116,"SN").
-shift_data("16465","Karen Fry",20251117,"WR").
-shift_data("16465","Karen Fry",20251118,"WR").
-shift_data("16465","Karen Fry",20251119,"SL").
-shift_data("16465","Karen Fry",20251120,"WR").
-shift_data("16465","Karen Fry",20251121,"D").
-shift_data("16465","Karen Fry",20251122,"LD").
-shift_data("16465","Karen Fry",20251123,"SE").
-shift_data("16465","Karen Fry",20251124,"SN").
-shift_data("16465","Karen Fry",20251125,"WR").
-shift_data("16465","Karen Fry",20251126,"LD").
-shift_data("16465","Karen Fry",20251127,"SE").
-shift_data("16465","Karen Fry",20251128,"SN").
-shift_data("16465","Karen Fry",20251129,"WR").
-shift_data("16465","Karen Fry",20251130,"LD").
-shift_data("16465","Karen Fry",20251201,"SE").
-shift_data("16465","Karen Fry",20251202,"SN").
-shift_data("16465","Karen Fry",20251203,"WR").
-shift_data("16465","Karen Fry",20251204,"EM").
-shift_data("16465","Karen Fry",20251205,"D").
-shift_data("16465","Karen Fry",20251206,"D").
-shift_data("16465","Karen Fry",20251207,"D").
-shift_data("16465","Karen Fry",20251208,"WR").
-shift_data("16465","Karen Fry",20251209,"LD").
-shift_data("16465","Karen Fry",20251210,"SE").
-shift_data("16465","Karen Fry",20251211,"SN").
-shift_data("16465","Karen Fry",20251212,"WR").
-shift_data("16465","Karen Fry",20251213,"WR").
-shift_data("16465","Karen Fry",20251214,"WR").
-shift_data("16465","Karen Fry",20251215,"WR").
-shift_data("16465","Karen Fry",20251216,"D").
-shift_data("16465","Karen Fry",20251217,"LD").
-shift_data("16465","Karen Fry",20251218,"AL").
-shift_data("16465","Karen Fry",20251219,"SE").
-shift_data("16465","Karen Fry",20251220,"SN").
-shift_data("16465","Karen Fry",20251221,"WR").
-shift_data("16465","Karen Fry",20251222,"D").
-shift_data("16465","Karen Fry",20251223,"SE").
-shift_data("16465","Karen Fry",20251224,"SN").
-shift_data("16465","Karen Fry",20251225,"WR").
-shift_data("16465","Karen Fry",20251226,"LD").
-shift_data("16465","Karen Fry",20251227,"SE").
-shift_data("16465","Karen Fry",20251228,"SN").
-shift_data("16465","Karen Fry",20251229,"PH").
-shift_data("16465","Karen Fry",20251230,"D").
-shift_data("16465","Karen Fry",20251231,"LD").
 shift_data("1789","Lisa Esparza",20200921,"N").
 shift_data("1789","Lisa Esparza",20200922,"PH").
 shift_data("1789","Lisa Esparza",20200923,"D").
@@ -7094,281 +6544,6 @@ shift_data("18555","Eric Wilkinson",20250103,"PH").
 shift_data("18555","Eric Wilkinson",20250104,"WR").
 shift_data("18555","Eric Wilkinson",20250116,"WR").
 shift_data("18555","Eric Wilkinson",20250129,"WR").
-shift_data("18555","Eric Wilkinson",20250401,"LD").
-shift_data("18555","Eric Wilkinson",20250402,"SE").
-shift_data("18555","Eric Wilkinson",20250403,"SN").
-shift_data("18555","Eric Wilkinson",20250404,"WR").
-shift_data("18555","Eric Wilkinson",20250405,"LD").
-shift_data("18555","Eric Wilkinson",20250406,"SE").
-shift_data("18555","Eric Wilkinson",20250407,"SN").
-shift_data("18555","Eric Wilkinson",20250408,"SE").
-shift_data("18555","Eric Wilkinson",20250409,"SN").
-shift_data("18555","Eric Wilkinson",20250410,"WR").
-shift_data("18555","Eric Wilkinson",20250411,"D").
-shift_data("18555","Eric Wilkinson",20250412,"D").
-shift_data("18555","Eric Wilkinson",20250413,"D").
-shift_data("18555","Eric Wilkinson",20250414,"WR").
-shift_data("18555","Eric Wilkinson",20250415,"LD").
-shift_data("18555","Eric Wilkinson",20250416,"WR").
-shift_data("18555","Eric Wilkinson",20250417,"LD").
-shift_data("18555","Eric Wilkinson",20250418,"SE").
-shift_data("18555","Eric Wilkinson",20250419,"SN").
-shift_data("18555","Eric Wilkinson",20250420,"SE").
-shift_data("18555","Eric Wilkinson",20250421,"SN").
-shift_data("18555","Eric Wilkinson",20250422,"WR").
-shift_data("18555","Eric Wilkinson",20250423,"LD").
-shift_data("18555","Eric Wilkinson",20250424,"WR").
-shift_data("18555","Eric Wilkinson",20250425,"WR").
-shift_data("18555","Eric Wilkinson",20250426,"SE").
-shift_data("18555","Eric Wilkinson",20250427,"SN").
-shift_data("18555","Eric Wilkinson",20250428,"SE").
-shift_data("18555","Eric Wilkinson",20250429,"SN").
-shift_data("18555","Eric Wilkinson",20250430,"WR").
-shift_data("18555","Eric Wilkinson",20250501,"LD").
-shift_data("18555","Eric Wilkinson",20250502,"WR").
-shift_data("18555","Eric Wilkinson",20250503,"SE").
-shift_data("18555","Eric Wilkinson",20250504,"SN").
-shift_data("18555","Eric Wilkinson",20250505,"PH").
-shift_data("18555","Eric Wilkinson",20250506,"LD").
-shift_data("18555","Eric Wilkinson",20250507,"WR").
-shift_data("18555","Eric Wilkinson",20250508,"LD").
-shift_data("18555","Eric Wilkinson",20250509,"SE").
-shift_data("18555","Eric Wilkinson",20250510,"SN").
-shift_data("18555","Eric Wilkinson",20250511,"WR").
-shift_data("18555","Eric Wilkinson",20250512,"SE").
-shift_data("18555","Eric Wilkinson",20250513,"SN").
-shift_data("18555","Eric Wilkinson",20250514,"WR").
-shift_data("18555","Eric Wilkinson",20250515,"WR").
-shift_data("18555","Eric Wilkinson",20250516,"LD").
-shift_data("18555","Eric Wilkinson",20250517,"SE").
-shift_data("18555","Eric Wilkinson",20250518,"SN").
-shift_data("18555","Eric Wilkinson",20250519,"SE").
-shift_data("18555","Eric Wilkinson",20250520,"SN").
-shift_data("18555","Eric Wilkinson",20250521,"WR").
-shift_data("18555","Eric Wilkinson",20250522,"LD").
-shift_data("18555","Eric Wilkinson",20250523,"WR").
-shift_data("18555","Eric Wilkinson",20250524,"LD").
-shift_data("18555","Eric Wilkinson",20250525,"AL").
-shift_data("18555","Eric Wilkinson",20250526,"SE").
-shift_data("18555","Eric Wilkinson",20250527,"SN").
-shift_data("18555","Eric Wilkinson",20250528,"WR").
-shift_data("18555","Eric Wilkinson",20250529,"WR").
-shift_data("18555","Eric Wilkinson",20250530,"D").
-shift_data("18555","Eric Wilkinson",20250531,"SE").
-shift_data("18555","Eric Wilkinson",20250601,"SN").
-shift_data("18555","Eric Wilkinson",20250602,"SE").
-shift_data("18555","Eric Wilkinson",20250603,"SN").
-shift_data("18555","Eric Wilkinson",20250604,"WR").
-shift_data("18555","Eric Wilkinson",20250605,"D").
-shift_data("18555","Eric Wilkinson",20250606,"LD").
-shift_data("18555","Eric Wilkinson",20250607,"SE").
-shift_data("18555","Eric Wilkinson",20250608,"SN").
-shift_data("18555","Eric Wilkinson",20250609,"WR").
-shift_data("18555","Eric Wilkinson",20250610,"LD").
-shift_data("18555","Eric Wilkinson",20250611,"WR").
-shift_data("18555","Eric Wilkinson",20250612,"LD").
-shift_data("18555","Eric Wilkinson",20250613,"WR").
-shift_data("18555","Eric Wilkinson",20250614,"D").
-shift_data("18555","Eric Wilkinson",20250615,"AL").
-shift_data("18555","Eric Wilkinson",20250616,"LD").
-shift_data("18555","Eric Wilkinson",20250617,"SE").
-shift_data("18555","Eric Wilkinson",20250618,"SN").
-shift_data("18555","Eric Wilkinson",20250619,"WR").
-shift_data("18555","Eric Wilkinson",20250620,"LD").
-shift_data("18555","Eric Wilkinson",20250621,"WR").
-shift_data("18555","Eric Wilkinson",20250622,"LD").
-shift_data("18555","Eric Wilkinson",20250623,"SE").
-shift_data("18555","Eric Wilkinson",20250624,"SN").
-shift_data("18555","Eric Wilkinson",20250625,"WR").
-shift_data("18555","Eric Wilkinson",20250626,"LD").
-shift_data("18555","Eric Wilkinson",20250627,"AL").
-shift_data("18555","Eric Wilkinson",20250628,"WR").
-shift_data("18555","Eric Wilkinson",20250629,"SE").
-shift_data("18555","Eric Wilkinson",20250630,"SN").
-shift_data("18555","Eric Wilkinson",20250701,"WR").
-shift_data("18555","Eric Wilkinson",20250702,"SE").
-shift_data("18555","Eric Wilkinson",20250703,"SN").
-shift_data("18555","Eric Wilkinson",20250704,"WR").
-shift_data("18555","Eric Wilkinson",20250705,"LD").
-shift_data("18555","Eric Wilkinson",20250706,"SE").
-shift_data("18555","Eric Wilkinson",20250707,"SN").
-shift_data("18555","Eric Wilkinson",20250708,"WR").
-shift_data("18555","Eric Wilkinson",20250709,"LD").
-shift_data("18555","Eric Wilkinson",20250710,"SE").
-shift_data("18555","Eric Wilkinson",20250711,"SN").
-shift_data("18555","Eric Wilkinson",20250712,"WR").
-shift_data("18555","Eric Wilkinson",20250713,"WR").
-shift_data("18555","Eric Wilkinson",20250714,"D").
-shift_data("18555","Eric Wilkinson",20250715,"LD").
-shift_data("18555","Eric Wilkinson",20250716,"WR").
-shift_data("18555","Eric Wilkinson",20250717,"LD").
-shift_data("18555","Eric Wilkinson",20250718,"SE").
-shift_data("18555","Eric Wilkinson",20250719,"SN").
-shift_data("18555","Eric Wilkinson",20250720,"SE").
-shift_data("18555","Eric Wilkinson",20250721,"SN").
-shift_data("18555","Eric Wilkinson",20250722,"WR").
-shift_data("18555","Eric Wilkinson",20250723,"LD").
-shift_data("18555","Eric Wilkinson",20250724,"SE").
-shift_data("18555","Eric Wilkinson",20250725,"SN").
-shift_data("18555","Eric Wilkinson",20250726,"WR").
-shift_data("18555","Eric Wilkinson",20250727,"LD").
-shift_data("18555","Eric Wilkinson",20250728,"SE").
-shift_data("18555","Eric Wilkinson",20250729,"SN").
-shift_data("18555","Eric Wilkinson",20250730,"WR").
-shift_data("18555","Eric Wilkinson",20250731,"LD").
-shift_data("18555","Eric Wilkinson",20250801,"SE").
-shift_data("18555","Eric Wilkinson",20250802,"SN").
-shift_data("18555","Eric Wilkinson",20250803,"SE").
-shift_data("18555","Eric Wilkinson",20250804,"SN").
-shift_data("18555","Eric Wilkinson",20250805,"WR").
-shift_data("18555","Eric Wilkinson",20250806,"D").
-shift_data("18555","Eric Wilkinson",20250807,"LD").
-shift_data("18555","Eric Wilkinson",20250808,"SE").
-shift_data("18555","Eric Wilkinson",20250809,"SN").
-shift_data("18555","Eric Wilkinson",20250810,"WR").
-shift_data("18555","Eric Wilkinson",20250811,"PH").
-shift_data("18555","Eric Wilkinson",20250812,"LD").
-shift_data("18555","Eric Wilkinson",20250813,"WR").
-shift_data("18555","Eric Wilkinson",20250814,"LD").
-shift_data("18555","Eric Wilkinson",20250815,"WR").
-shift_data("18555","Eric Wilkinson",20250816,"WR").
-shift_data("18555","Eric Wilkinson",20250817,"LD").
-shift_data("18555","Eric Wilkinson",20250818,"SE").
-shift_data("18555","Eric Wilkinson",20250819,"SN").
-shift_data("18555","Eric Wilkinson",20250820,"WR").
-shift_data("18555","Eric Wilkinson",20250821,"LD").
-shift_data("18555","Eric Wilkinson",20250822,"SE").
-shift_data("18555","Eric Wilkinson",20250823,"SN").
-shift_data("18555","Eric Wilkinson",20250824,"WR").
-shift_data("18555","Eric Wilkinson",20250825,"LM").
-shift_data("18555","Eric Wilkinson",20250826,"SE").
-shift_data("18555","Eric Wilkinson",20250827,"SN").
-shift_data("18555","Eric Wilkinson",20250828,"WR").
-shift_data("18555","Eric Wilkinson",20250829,"WR").
-shift_data("18555","Eric Wilkinson",20250830,"HL").
-shift_data("18555","Eric Wilkinson",20250831,"AL").
-shift_data("18555","Eric Wilkinson",20250901,"D").
-shift_data("18555","Eric Wilkinson",20250902,"WR").
-shift_data("18555","Eric Wilkinson",20250903,"LD").
-shift_data("18555","Eric Wilkinson",20250904,"LM").
-shift_data("18555","Eric Wilkinson",20250905,"SE").
-shift_data("18555","Eric Wilkinson",20250906,"SN").
-shift_data("18555","Eric Wilkinson",20250907,"WR").
-shift_data("18555","Eric Wilkinson",20250908,"LD").
-shift_data("18555","Eric Wilkinson",20250909,"SE").
-shift_data("18555","Eric Wilkinson",20250910,"SN").
-shift_data("18555","Eric Wilkinson",20250911,"WR").
-shift_data("18555","Eric Wilkinson",20250912,"WR").
-shift_data("18555","Eric Wilkinson",20250913,"LD").
-shift_data("18555","Eric Wilkinson",20250914,"SE").
-shift_data("18555","Eric Wilkinson",20250915,"SN").
-shift_data("18555","Eric Wilkinson",20250916,"WR").
-shift_data("18555","Eric Wilkinson",20250917,"LD").
-shift_data("18555","Eric Wilkinson",20250918,"SE").
-shift_data("18555","Eric Wilkinson",20250919,"SN").
-shift_data("18555","Eric Wilkinson",20250920,"WR").
-shift_data("18555","Eric Wilkinson",20250921,"D").
-shift_data("18555","Eric Wilkinson",20250922,"D").
-shift_data("18555","Eric Wilkinson",20250923,"SE").
-shift_data("18555","Eric Wilkinson",20250924,"SN").
-shift_data("18555","Eric Wilkinson",20250925,"WR").
-shift_data("18555","Eric Wilkinson",20250926,"D").
-shift_data("18555","Eric Wilkinson",20250927,"TR").
-shift_data("18555","Eric Wilkinson",20250928,"HL").
-shift_data("18555","Eric Wilkinson",20250929,"WR").
-shift_data("18555","Eric Wilkinson",20250930,"LD").
-shift_data("18555","Eric Wilkinson",20251001,"SE").
-shift_data("18555","Eric Wilkinson",20251002,"SN").
-shift_data("18555","Eric Wilkinson",20251003,"WR").
-shift_data("18555","Eric Wilkinson",20251004,"WR").
-shift_data("18555","Eric Wilkinson",20251005,"LD").
-shift_data("18555","Eric Wilkinson",20251006,"WR").
-shift_data("18555","Eric Wilkinson",20251007,"LD").
-shift_data("18555","Eric Wilkinson",20251008,"SE").
-shift_data("18555","Eric Wilkinson",20251009,"SN").
-shift_data("18555","Eric Wilkinson",20251010,"WR").
-shift_data("18555","Eric Wilkinson",20251011,"LD").
-shift_data("18555","Eric Wilkinson",20251012,"SE").
-shift_data("18555","Eric Wilkinson",20251013,"SN").
-shift_data("18555","Eric Wilkinson",20251014,"WR").
-shift_data("18555","Eric Wilkinson",20251015,"LD").
-shift_data("18555","Eric Wilkinson",20251016,"SE").
-shift_data("18555","Eric Wilkinson",20251017,"SN").
-shift_data("18555","Eric Wilkinson",20251018,"SE").
-shift_data("18555","Eric Wilkinson",20251019,"SN").
-shift_data("18555","Eric Wilkinson",20251020,"WR").
-shift_data("18555","Eric Wilkinson",20251021,"LD").
-shift_data("18555","Eric Wilkinson",20251022,"WR").
-shift_data("18555","Eric Wilkinson",20251023,"D").
-shift_data("18555","Eric Wilkinson",20251024,"WR").
-shift_data("18555","Eric Wilkinson",20251025,"HL").
-shift_data("18555","Eric Wilkinson",20251026,"AL").
-shift_data("18555","Eric Wilkinson",20251027,"TR").
-shift_data("18555","Eric Wilkinson",20251028,"LD").
-shift_data("18555","Eric Wilkinson",20251029,"WR").
-shift_data("18555","Eric Wilkinson",20251030,"WR").
-shift_data("18555","Eric Wilkinson",20251031,"D").
-shift_data("18555","Eric Wilkinson",20251101,"LD").
-shift_data("18555","Eric Wilkinson",20251102,"WR").
-shift_data("18555","Eric Wilkinson",20251103,"LD").
-shift_data("18555","Eric Wilkinson",20251104,"SE").
-shift_data("18555","Eric Wilkinson",20251105,"SN").
-shift_data("18555","Eric Wilkinson",20251106,"SE").
-shift_data("18555","Eric Wilkinson",20251107,"SN").
-shift_data("18555","Eric Wilkinson",20251108,"WR").
-shift_data("18555","Eric Wilkinson",20251109,"LD").
-shift_data("18555","Eric Wilkinson",20251110,"SE").
-shift_data("18555","Eric Wilkinson",20251111,"SN").
-shift_data("18555","Eric Wilkinson",20251112,"WR").
-shift_data("18555","Eric Wilkinson",20251113,"SE").
-shift_data("18555","Eric Wilkinson",20251114,"SN").
-shift_data("18555","Eric Wilkinson",20251115,"WR").
-shift_data("18555","Eric Wilkinson",20251116,"LD").
-shift_data("18555","Eric Wilkinson",20251117,"SE").
-shift_data("18555","Eric Wilkinson",20251118,"SN").
-shift_data("18555","Eric Wilkinson",20251119,"AL").
-shift_data("18555","Eric Wilkinson",20251120,"WR").
-shift_data("18555","Eric Wilkinson",20251121,"LD").
-shift_data("18555","Eric Wilkinson",20251122,"SE").
-shift_data("18555","Eric Wilkinson",20251123,"SN").
-shift_data("18555","Eric Wilkinson",20251124,"PH").
-shift_data("18555","Eric Wilkinson",20251125,"WR").
-shift_data("18555","Eric Wilkinson",20251126,"WR").
-shift_data("18555","Eric Wilkinson",20251127,"WR").
-shift_data("18555","Eric Wilkinson",20251128,"TR").
-shift_data("18555","Eric Wilkinson",20251129,"D").
-shift_data("18555","Eric Wilkinson",20251130,"WR").
-shift_data("18555","Eric Wilkinson",20251201,"D").
-shift_data("18555","Eric Wilkinson",20251202,"D").
-shift_data("18555","Eric Wilkinson",20251203,"D").
-shift_data("18555","Eric Wilkinson",20251204,"D").
-shift_data("18555","Eric Wilkinson",20251205,"LD").
-shift_data("18555","Eric Wilkinson",20251206,"WR").
-shift_data("18555","Eric Wilkinson",20251207,"SE").
-shift_data("18555","Eric Wilkinson",20251208,"SN").
-shift_data("18555","Eric Wilkinson",20251209,"WR").
-shift_data("18555","Eric Wilkinson",20251210,"LD").
-shift_data("18555","Eric Wilkinson",20251211,"SE").
-shift_data("18555","Eric Wilkinson",20251212,"SN").
-shift_data("18555","Eric Wilkinson",20251213,"SE").
-shift_data("18555","Eric Wilkinson",20251214,"SN").
-shift_data("18555","Eric Wilkinson",20251215,"WR").
-shift_data("18555","Eric Wilkinson",20251216,"TR").
-shift_data("18555","Eric Wilkinson",20251217,"WR").
-shift_data("18555","Eric Wilkinson",20251218,"WR").
-shift_data("18555","Eric Wilkinson",20251219,"WR").
-shift_data("18555","Eric Wilkinson",20251220,"LD").
-shift_data("18555","Eric Wilkinson",20251221,"LM").
-shift_data("18555","Eric Wilkinson",20251222,"WR").
-shift_data("18555","Eric Wilkinson",20251223,"WR").
-shift_data("18555","Eric Wilkinson",20251224,"D").
-shift_data("18555","Eric Wilkinson",20251225,"LD").
-shift_data("18555","Eric Wilkinson",20251226,"SE").
-shift_data("18555","Eric Wilkinson",20251227,"SN").
-shift_data("18555","Eric Wilkinson",20251228,"WR").
-shift_data("18555","Eric Wilkinson",20251229,"PH").
-shift_data("18555","Eric Wilkinson",20251230,"LD").
-shift_data("18555","Eric Wilkinson",20251231,"SE").
 shift_data("18610","Melissa Campbell",20201101,"WR").
 shift_data("18610","Melissa Campbell",20201102,"D").
 shift_data("18610","Melissa Campbell",20201103,"PH").
@@ -7446,36 +6621,6 @@ shift_data("18610","Melissa Campbell",20210113,"D").
 shift_data("18610","Melissa Campbell",20210114,"D").
 shift_data("18610","Melissa Campbell",20210115,"D").
 shift_data("18610","Melissa Campbell",20210116,"WR").
-shift_data("189533","nan",20250405,"WR").
-shift_data("189533","nan",20250406,"WR").
-shift_data("189533","nan",20250412,"WR").
-shift_data("189533","nan",20250413,"WR").
-shift_data("189533","nan",20250419,"WR").
-shift_data("189533","nan",20250420,"WR").
-shift_data("189533","nan",20250426,"WR").
-shift_data("189533","nan",20250427,"WR").
-shift_data("189533","nan",20250429,"PH").
-shift_data("189533","nan",20250503,"WR").
-shift_data("189533","nan",20250504,"WR").
-shift_data("189533","nan",20250505,"PH").
-shift_data("189533","nan",20250506,"PH").
-shift_data("189533","nan",20250510,"WR").
-shift_data("189533","nan",20250511,"WR").
-shift_data("189533","nan",20250517,"WR").
-shift_data("189533","nan",20250518,"WR").
-shift_data("189533","nan",20250524,"WR").
-shift_data("189533","nan",20250525,"WR").
-shift_data("189533","nan",20250531,"WR").
-shift_data("189533","nan",20250601,"WR").
-shift_data("189533","nan",20250607,"WR").
-shift_data("189533","nan",20250608,"WR").
-shift_data("189533","nan",20250614,"WR").
-shift_data("189533","nan",20250615,"WR").
-shift_data("189533","nan",20250621,"WR").
-shift_data("189533","nan",20250622,"WR").
-shift_data("189533","nan",20250628,"WR").
-shift_data("189533","nan",20250629,"WR").
-shift_data("189533","nan",20250630,"AL").
 shift_data("19148", "Heather Acevedo", 20250801, "WR").
 shift_data("19148", "Heather Acevedo", 20250802, "LD").
 shift_data("19148", "Heather Acevedo", 20250803, "SE").
@@ -7581,281 +6726,6 @@ shift_data("19148", "Heather Acevedo", 20251203, "SE").
 shift_data("19148", "Heather Acevedo", 20251204, "SN").
 shift_data("19148", "Heather Acevedo", 20251205, "WR").
 shift_data("19148", "Heather Acevedo", 20251206, "LD").
-shift_data("19148","Heather Acevedo",20250401,"D").
-shift_data("19148","Heather Acevedo",20250402,"D").
-shift_data("19148","Heather Acevedo",20250403,"D").
-shift_data("19148","Heather Acevedo",20250404,"D").
-shift_data("19148","Heather Acevedo",20250405,"WR").
-shift_data("19148","Heather Acevedo",20250406,"WR").
-shift_data("19148","Heather Acevedo",20250407,"D").
-shift_data("19148","Heather Acevedo",20250408,"LD").
-shift_data("19148","Heather Acevedo",20250409,"WR").
-shift_data("19148","Heather Acevedo",20250410,"LD").
-shift_data("19148","Heather Acevedo",20250411,"WR").
-shift_data("19148","Heather Acevedo",20250412,"SE").
-shift_data("19148","Heather Acevedo",20250413,"SN").
-shift_data("19148","Heather Acevedo",20250414,"WR").
-shift_data("19148","Heather Acevedo",20250415,"D").
-shift_data("19148","Heather Acevedo",20250416,"LD").
-shift_data("19148","Heather Acevedo",20250417,"SE").
-shift_data("19148","Heather Acevedo",20250418,"SN").
-shift_data("19148","Heather Acevedo",20250419,"WR").
-shift_data("19148","Heather Acevedo",20250420,"D").
-shift_data("19148","Heather Acevedo",20250421,"D").
-shift_data("19148","Heather Acevedo",20250422,"D").
-shift_data("19148","Heather Acevedo",20250423,"WR").
-shift_data("19148","Heather Acevedo",20250424,"D").
-shift_data("19148","Heather Acevedo",20250425,"SE").
-shift_data("19148","Heather Acevedo",20250426,"SN").
-shift_data("19148","Heather Acevedo",20250427,"SE").
-shift_data("19148","Heather Acevedo",20250428,"SN").
-shift_data("19148","Heather Acevedo",20250429,"PH").
-shift_data("19148","Heather Acevedo",20250430,"WR").
-shift_data("19148","Heather Acevedo",20250501,"D").
-shift_data("19148","Heather Acevedo",20250502,"LD").
-shift_data("19148","Heather Acevedo",20250503,"SE").
-shift_data("19148","Heather Acevedo",20250504,"SN").
-shift_data("19148","Heather Acevedo",20250505,"PH").
-shift_data("19148","Heather Acevedo",20250506,"PH").
-shift_data("19148","Heather Acevedo",20250507,"D").
-shift_data("19148","Heather Acevedo",20250508,"WR").
-shift_data("19148","Heather Acevedo",20250509,"WR").
-shift_data("19148","Heather Acevedo",20250510,"D").
-shift_data("19148","Heather Acevedo",20250511,"WR").
-shift_data("19148","Heather Acevedo",20250512,"WR").
-shift_data("19148","Heather Acevedo",20250513,"WR").
-shift_data("19148","Heather Acevedo",20250514,"D").
-shift_data("19148","Heather Acevedo",20250515,"LD").
-shift_data("19148","Heather Acevedo",20250516,"WR").
-shift_data("19148","Heather Acevedo",20250517,"D").
-shift_data("19148","Heather Acevedo",20250518,"WR").
-shift_data("19148","Heather Acevedo",20250519,"SE").
-shift_data("19148","Heather Acevedo",20250520,"SN").
-shift_data("19148","Heather Acevedo",20250521,"AL").
-shift_data("19148","Heather Acevedo",20250522,"D").
-shift_data("19148","Heather Acevedo",20250523,"D").
-shift_data("19148","Heather Acevedo",20250524,"LD").
-shift_data("19148","Heather Acevedo",20250525,"SE").
-shift_data("19148","Heather Acevedo",20250526,"SN").
-shift_data("19148","Heather Acevedo",20250527,"WR").
-shift_data("19148","Heather Acevedo",20250528,"LD").
-shift_data("19148","Heather Acevedo",20250529,"WR").
-shift_data("19148","Heather Acevedo",20250530,"D").
-shift_data("19148","Heather Acevedo",20250531,"LD").
-shift_data("19148","Heather Acevedo",20250601,"SE").
-shift_data("19148","Heather Acevedo",20250602,"SN").
-shift_data("19148","Heather Acevedo",20250603,"AL").
-shift_data("19148","Heather Acevedo",20250604,"D").
-shift_data("19148","Heather Acevedo",20250605,"SE").
-shift_data("19148","Heather Acevedo",20250606,"SN").
-shift_data("19148","Heather Acevedo",20250607,"WR").
-shift_data("19148","Heather Acevedo",20250608,"WR").
-shift_data("19148","Heather Acevedo",20250609,"D").
-shift_data("19148","Heather Acevedo",20250610,"WR").
-shift_data("19148","Heather Acevedo",20250611,"D").
-shift_data("19148","Heather Acevedo",20250612,"LD").
-shift_data("19148","Heather Acevedo",20250613,"WR").
-shift_data("19148","Heather Acevedo",20250614,"D").
-shift_data("19148","Heather Acevedo",20250615,"WR").
-shift_data("19148","Heather Acevedo",20250616,"D").
-shift_data("19148","Heather Acevedo",20250617,"D").
-shift_data("19148","Heather Acevedo",20250618,"D").
-shift_data("19148","Heather Acevedo",20250619,"D").
-shift_data("19148","Heather Acevedo",20250620,"D").
-shift_data("19148","Heather Acevedo",20250621,"WR").
-shift_data("19148","Heather Acevedo",20250622,"SE").
-shift_data("19148","Heather Acevedo",20250623,"SN").
-shift_data("19148","Heather Acevedo",20250624,"WR").
-shift_data("19148","Heather Acevedo",20250625,"D").
-shift_data("19148","Heather Acevedo",20250626,"D").
-shift_data("19148","Heather Acevedo",20250627,"SE").
-shift_data("19148","Heather Acevedo",20250628,"SN").
-shift_data("19148","Heather Acevedo",20250629,"WR").
-shift_data("19148","Heather Acevedo",20250630,"LD").
-shift_data("19148","Heather Acevedo",20250701,"SE").
-shift_data("19148","Heather Acevedo",20250702,"SN").
-shift_data("19148","Heather Acevedo",20250703,"WR").
-shift_data("19148","Heather Acevedo",20250704,"D").
-shift_data("19148","Heather Acevedo",20250705,"LD").
-shift_data("19148","Heather Acevedo",20250706,"WR").
-shift_data("19148","Heather Acevedo",20250707,"LD").
-shift_data("19148","Heather Acevedo",20250708,"WR").
-shift_data("19148","Heather Acevedo",20250709,"D").
-shift_data("19148","Heather Acevedo",20250710,"D").
-shift_data("19148","Heather Acevedo",20250711,"D").
-shift_data("19148","Heather Acevedo",20250712,"WR").
-shift_data("19148","Heather Acevedo",20250713,"WR").
-shift_data("19148","Heather Acevedo",20250714,"D").
-shift_data("19148","Heather Acevedo",20250715,"WR").
-shift_data("19148","Heather Acevedo",20250716,"D").
-shift_data("19148","Heather Acevedo",20250717,"AL").
-shift_data("19148","Heather Acevedo",20250718,"D").
-shift_data("19148","Heather Acevedo",20250719,"D").
-shift_data("19148","Heather Acevedo",20250720,"D").
-shift_data("19148","Heather Acevedo",20250721,"SE").
-shift_data("19148","Heather Acevedo",20250722,"SN").
-shift_data("19148","Heather Acevedo",20250723,"WR").
-shift_data("19148","Heather Acevedo",20250724,"D").
-shift_data("19148","Heather Acevedo",20250725,"D").
-shift_data("19148","Heather Acevedo",20250726,"SE").
-shift_data("19148","Heather Acevedo",20250727,"SN").
-shift_data("19148","Heather Acevedo",20250728,"WR").
-shift_data("19148","Heather Acevedo",20250729,"D").
-shift_data("19148","Heather Acevedo",20250730,"D").
-shift_data("19148","Heather Acevedo",20250731,"LD").
-shift_data("19148","Heather Acevedo",20250801,"WR").
-shift_data("19148","Heather Acevedo",20250802,"LD").
-shift_data("19148","Heather Acevedo",20250803,"SE").
-shift_data("19148","Heather Acevedo",20250804,"SN").
-shift_data("19148","Heather Acevedo",20250805,"WR").
-shift_data("19148","Heather Acevedo",20250806,"D").
-shift_data("19148","Heather Acevedo",20250807,"D").
-shift_data("19148","Heather Acevedo",20250808,"D").
-shift_data("19148","Heather Acevedo",20250809,"D").
-shift_data("19148","Heather Acevedo",20250810,"WR").
-shift_data("19148","Heather Acevedo",20250811,"LD").
-shift_data("19148","Heather Acevedo",20250812,"WR").
-shift_data("19148","Heather Acevedo",20250813,"D").
-shift_data("19148","Heather Acevedo",20250814,"HL").
-shift_data("19148","Heather Acevedo",20250815,"WR").
-shift_data("19148","Heather Acevedo",20250816,"WR").
-shift_data("19148","Heather Acevedo",20250817,"WR").
-shift_data("19148","Heather Acevedo",20250818,"SE").
-shift_data("19148","Heather Acevedo",20250819,"SN").
-shift_data("19148","Heather Acevedo",20250820,"WR").
-shift_data("19148","Heather Acevedo",20250821,"D").
-shift_data("19148","Heather Acevedo",20250822,"D").
-shift_data("19148","Heather Acevedo",20250823,"LD").
-shift_data("19148","Heather Acevedo",20250824,"WR").
-shift_data("19148","Heather Acevedo",20250825,"D").
-shift_data("19148","Heather Acevedo",20250826,"WR").
-shift_data("19148","Heather Acevedo",20250827,"D").
-shift_data("19148","Heather Acevedo",20250828,"D").
-shift_data("19148","Heather Acevedo",20250829,"LD").
-shift_data("19148","Heather Acevedo",20250830,"SE").
-shift_data("19148","Heather Acevedo",20250831,"SN").
-shift_data("19148","Heather Acevedo",20250901,"WR").
-shift_data("19148","Heather Acevedo",20250902,"D").
-shift_data("19148","Heather Acevedo",20250903,"D").
-shift_data("19148","Heather Acevedo",20250904,"WR").
-shift_data("19148","Heather Acevedo",20250905,"D").
-shift_data("19148","Heather Acevedo",20250906,"LD").
-shift_data("19148","Heather Acevedo",20250907,"SE").
-shift_data("19148","Heather Acevedo",20250908,"SN").
-shift_data("19148","Heather Acevedo",20250909,"WR").
-shift_data("19148","Heather Acevedo",20250910,"D").
-shift_data("19148","Heather Acevedo",20250911,"D").
-shift_data("19148","Heather Acevedo",20250912,"D").
-shift_data("19148","Heather Acevedo",20250913,"WR").
-shift_data("19148","Heather Acevedo",20250914,"WR").
-shift_data("19148","Heather Acevedo",20250915,"PH").
-shift_data("19148","Heather Acevedo",20250916,"D").
-shift_data("19148","Heather Acevedo",20250917,"D").
-shift_data("19148","Heather Acevedo",20250918,"D").
-shift_data("19148","Heather Acevedo",20250919,"SE").
-shift_data("19148","Heather Acevedo",20250920,"SN").
-shift_data("19148","Heather Acevedo",20250921,"WR").
-shift_data("19148","Heather Acevedo",20250922,"D").
-shift_data("19148","Heather Acevedo",20250923,"LD").
-shift_data("19148","Heather Acevedo",20250924,"WR").
-shift_data("19148","Heather Acevedo",20250925,"D").
-shift_data("19148","Heather Acevedo",20250926,"D").
-shift_data("19148","Heather Acevedo",20250927,"WR").
-shift_data("19148","Heather Acevedo",20250928,"WR").
-shift_data("19148","Heather Acevedo",20250929,"D").
-shift_data("19148","Heather Acevedo",20250930,"D").
-shift_data("19148","Heather Acevedo",20251001,"D").
-shift_data("19148","Heather Acevedo",20251002,"D").
-shift_data("19148","Heather Acevedo",20251003,"D").
-shift_data("19148","Heather Acevedo",20251004,"WR").
-shift_data("19148","Heather Acevedo",20251005,"WR").
-shift_data("19148","Heather Acevedo",20251006,"WR").
-shift_data("19148","Heather Acevedo",20251007,"D").
-shift_data("19148","Heather Acevedo",20251008,"D").
-shift_data("19148","Heather Acevedo",20251009,"LD").
-shift_data("19148","Heather Acevedo",20251010,"SE").
-shift_data("19148","Heather Acevedo",20251011,"SN").
-shift_data("19148","Heather Acevedo",20251012,"WR").
-shift_data("19148","Heather Acevedo",20251013,"LD").
-shift_data("19148","Heather Acevedo",20251014,"WR").
-shift_data("19148","Heather Acevedo",20251015,"D").
-shift_data("19148","Heather Acevedo",20251016,"WR").
-shift_data("19148","Heather Acevedo",20251017,"D").
-shift_data("19148","Heather Acevedo",20251018,"D").
-shift_data("19148","Heather Acevedo",20251019,"WR").
-shift_data("19148","Heather Acevedo",20251020,"WR").
-shift_data("19148","Heather Acevedo",20251021,"WR").
-shift_data("19148","Heather Acevedo",20251022,"D").
-shift_data("19148","Heather Acevedo",20251023,"D").
-shift_data("19148","Heather Acevedo",20251024,"LD").
-shift_data("19148","Heather Acevedo",20251025,"LM").
-shift_data("19148","Heather Acevedo",20251026,"WR").
-shift_data("19148","Heather Acevedo",20251027,"D").
-shift_data("19148","Heather Acevedo",20251028,"SE").
-shift_data("19148","Heather Acevedo",20251029,"SN").
-shift_data("19148","Heather Acevedo",20251030,"WR").
-shift_data("19148","Heather Acevedo",20251031,"D").
-shift_data("19148","Heather Acevedo",20251101,"SE").
-shift_data("19148","Heather Acevedo",20251102,"SN").
-shift_data("19148","Heather Acevedo",20251103,"PH").
-shift_data("19148","Heather Acevedo",20251104,"D").
-shift_data("19148","Heather Acevedo",20251105,"D").
-shift_data("19148","Heather Acevedo",20251106,"LD").
-shift_data("19148","Heather Acevedo",20251107,"SE").
-shift_data("19148","Heather Acevedo",20251108,"SN").
-shift_data("19148","Heather Acevedo",20251109,"WR").
-shift_data("19148","Heather Acevedo",20251110,"D").
-shift_data("19148","Heather Acevedo",20251111,"WR").
-shift_data("19148","Heather Acevedo",20251112,"D").
-shift_data("19148","Heather Acevedo",20251113,"WR").
-shift_data("19148","Heather Acevedo",20251114,"D").
-shift_data("19148","Heather Acevedo",20251115,"WR").
-shift_data("19148","Heather Acevedo",20251116,"HL").
-shift_data("19148","Heather Acevedo",20251117,"AL").
-shift_data("19148","Heather Acevedo",20251118,"WR").
-shift_data("19148","Heather Acevedo",20251119,"D").
-shift_data("19148","Heather Acevedo",20251120,"LD").
-shift_data("19148","Heather Acevedo",20251121,"SE").
-shift_data("19148","Heather Acevedo",20251122,"SN").
-shift_data("19148","Heather Acevedo",20251123,"WR").
-shift_data("19148","Heather Acevedo",20251124,"PH").
-shift_data("19148","Heather Acevedo",20251125,"D").
-shift_data("19148","Heather Acevedo",20251126,"D").
-shift_data("19148","Heather Acevedo",20251127,"D").
-shift_data("19148","Heather Acevedo",20251128,"SE").
-shift_data("19148","Heather Acevedo",20251129,"SN").
-shift_data("19148","Heather Acevedo",20251130,"WR").
-shift_data("19148","Heather Acevedo",20251201,"D").
-shift_data("19148","Heather Acevedo",20251202,"LD").
-shift_data("19148","Heather Acevedo",20251203,"SE").
-shift_data("19148","Heather Acevedo",20251204,"SN").
-shift_data("19148","Heather Acevedo",20251205,"WR").
-shift_data("19148","Heather Acevedo",20251206,"LD").
-shift_data("19148","Heather Acevedo",20251207,"SE").
-shift_data("19148","Heather Acevedo",20251208,"SN").
-shift_data("19148","Heather Acevedo",20251209,"WR").
-shift_data("19148","Heather Acevedo",20251210,"D").
-shift_data("19148","Heather Acevedo",20251211,"LD").
-shift_data("19148","Heather Acevedo",20251212,"SE").
-shift_data("19148","Heather Acevedo",20251213,"SN").
-shift_data("19148","Heather Acevedo",20251214,"WR").
-shift_data("19148","Heather Acevedo",20251215,"D").
-shift_data("19148","Heather Acevedo",20251216,"WR").
-shift_data("19148","Heather Acevedo",20251217,"WR").
-shift_data("19148","Heather Acevedo",20251218,"LD").
-shift_data("19148","Heather Acevedo",20251219,"WR").
-shift_data("19148","Heather Acevedo",20251220,"WR").
-shift_data("19148","Heather Acevedo",20251221,"SE").
-shift_data("19148","Heather Acevedo",20251222,"SN").
-shift_data("19148","Heather Acevedo",20251223,"AL").
-shift_data("19148","Heather Acevedo",20251224,"WR").
-shift_data("19148","Heather Acevedo",20251225,"LD").
-shift_data("19148","Heather Acevedo",20251226,"AL").
-shift_data("19148","Heather Acevedo",20251227,"WR").
-shift_data("19148","Heather Acevedo",20251228,"D").
-shift_data("19148","Heather Acevedo",20251229,"D").
-shift_data("19148","Heather Acevedo",20251230,"PH").
-shift_data("19148","Heather Acevedo",20251231,"PH").
 shift_data("24392", "Steven Park", 20250801, "WR").
 shift_data("24392", "Steven Park", 20250802, "D").
 shift_data("24392", "Steven Park", 20250803, "D").
@@ -8976,281 +7846,6 @@ shift_data("24392","Steven Park",20250101,"D").
 shift_data("24392","Steven Park",20250102,"D").
 shift_data("24392","Steven Park",20250103,"D").
 shift_data("24392","Steven Park",20250104,"D").
-shift_data("24392","Steven Park",20250401,"D").
-shift_data("24392","Steven Park",20250402,"D").
-shift_data("24392","Steven Park",20250403,"D").
-shift_data("24392","Steven Park",20250404,"LM").
-shift_data("24392","Steven Park",20250405,"WR").
-shift_data("24392","Steven Park",20250406,"D").
-shift_data("24392","Steven Park",20250407,"D").
-shift_data("24392","Steven Park",20250408,"D").
-shift_data("24392","Steven Park",20250409,"WR").
-shift_data("24392","Steven Park",20250410,"D").
-shift_data("24392","Steven Park",20250411,"D").
-shift_data("24392","Steven Park",20250412,"D").
-shift_data("24392","Steven Park",20250413,"D").
-shift_data("24392","Steven Park",20250414,"D").
-shift_data("24392","Steven Park",20250415,"WR").
-shift_data("24392","Steven Park",20250416,"D").
-shift_data("24392","Steven Park",20250417,"D").
-shift_data("24392","Steven Park",20250418,"LM").
-shift_data("24392","Steven Park",20250419,"WR").
-shift_data("24392","Steven Park",20250420,"AL").
-shift_data("24392","Steven Park",20250421,"D").
-shift_data("24392","Steven Park",20250422,"D").
-shift_data("24392","Steven Park",20250423,"WR").
-shift_data("24392","Steven Park",20250424,"WR").
-shift_data("24392","Steven Park",20250425,"LM").
-shift_data("24392","Steven Park",20250426,"WR").
-shift_data("24392","Steven Park",20250427,"D").
-shift_data("24392","Steven Park",20250428,"WR").
-shift_data("24392","Steven Park",20250429,"D").
-shift_data("24392","Steven Park",20250430,"D").
-shift_data("24392","Steven Park",20250501,"WR").
-shift_data("24392","Steven Park",20250502,"D").
-shift_data("24392","Steven Park",20250503,"D").
-shift_data("24392","Steven Park",20250504,"SL").
-shift_data("24392","Steven Park",20250505,"PH").
-shift_data("24392","Steven Park",20250506,"D").
-shift_data("24392","Steven Park",20250507,"D").
-shift_data("24392","Steven Park",20250508,"WR").
-shift_data("24392","Steven Park",20250509,"D").
-shift_data("24392","Steven Park",20250510,"D").
-shift_data("24392","Steven Park",20250511,"D").
-shift_data("24392","Steven Park",20250512,"D").
-shift_data("24392","Steven Park",20250513,"D").
-shift_data("24392","Steven Park",20250514,"WR").
-shift_data("24392","Steven Park",20250515,"LM").
-shift_data("24392","Steven Park",20250516,"WR").
-shift_data("24392","Steven Park",20250517,"WR").
-shift_data("24392","Steven Park",20250518,"WR").
-shift_data("24392","Steven Park",20250519,"D").
-shift_data("24392","Steven Park",20250520,"D").
-shift_data("24392","Steven Park",20250521,"LM").
-shift_data("24392","Steven Park",20250522,"WR").
-shift_data("24392","Steven Park",20250523,"D").
-shift_data("24392","Steven Park",20250524,"D").
-shift_data("24392","Steven Park",20250525,"D").
-shift_data("24392","Steven Park",20250526,"D").
-shift_data("24392","Steven Park",20250527,"WR").
-shift_data("24392","Steven Park",20250528,"WR").
-shift_data("24392","Steven Park",20250529,"D").
-shift_data("24392","Steven Park",20250530,"D").
-shift_data("24392","Steven Park",20250531,"D").
-shift_data("24392","Steven Park",20250601,"WR").
-shift_data("24392","Steven Park",20250602,"D").
-shift_data("24392","Steven Park",20250603,"D").
-shift_data("24392","Steven Park",20250604,"WR").
-shift_data("24392","Steven Park",20250605,"D").
-shift_data("24392","Steven Park",20250606,"D").
-shift_data("24392","Steven Park",20250607,"WR").
-shift_data("24392","Steven Park",20250608,"WR").
-shift_data("24392","Steven Park",20250609,"D").
-shift_data("24392","Steven Park",20250610,"D").
-shift_data("24392","Steven Park",20250611,"D").
-shift_data("24392","Steven Park",20250612,"D").
-shift_data("24392","Steven Park",20250613,"D").
-shift_data("24392","Steven Park",20250614,"WR").
-shift_data("24392","Steven Park",20250615,"D").
-shift_data("24392","Steven Park",20250616,"D").
-shift_data("24392","Steven Park",20250617,"D").
-shift_data("24392","Steven Park",20250618,"WR").
-shift_data("24392","Steven Park",20250619,"HL").
-shift_data("24392","Steven Park",20250620,"HL").
-shift_data("24392","Steven Park",20250621,"HL").
-shift_data("24392","Steven Park",20250622,"WR").
-shift_data("24392","Steven Park",20250623,"D").
-shift_data("24392","Steven Park",20250624,"SL").
-shift_data("24392","Steven Park",20250625,"D").
-shift_data("24392","Steven Park",20250626,"WR").
-shift_data("24392","Steven Park",20250627,"D").
-shift_data("24392","Steven Park",20250628,"D").
-shift_data("24392","Steven Park",20250629,"WR").
-shift_data("24392","Steven Park",20250630,"WR").
-shift_data("24392","Steven Park",20250701,"D").
-shift_data("24392","Steven Park",20250702,"D").
-shift_data("24392","Steven Park",20250703,"D").
-shift_data("24392","Steven Park",20250704,"D").
-shift_data("24392","Steven Park",20250705,"D").
-shift_data("24392","Steven Park",20250706,"WR").
-shift_data("24392","Steven Park",20250707,"D").
-shift_data("24392","Steven Park",20250708,"D").
-shift_data("24392","Steven Park",20250709,"WR").
-shift_data("24392","Steven Park",20250710,"D").
-shift_data("24392","Steven Park",20250711,"D").
-shift_data("24392","Steven Park",20250712,"WR").
-shift_data("24392","Steven Park",20250713,"D").
-shift_data("24392","Steven Park",20250714,"D").
-shift_data("24392","Steven Park",20250715,"D").
-shift_data("24392","Steven Park",20250716,"D").
-shift_data("24392","Steven Park",20250717,"D").
-shift_data("24392","Steven Park",20250718,"WR").
-shift_data("24392","Steven Park",20250719,"D").
-shift_data("24392","Steven Park",20250720,"WR").
-shift_data("24392","Steven Park",20250721,"SE").
-shift_data("24392","Steven Park",20250722,"SN").
-shift_data("24392","Steven Park",20250723,"WR").
-shift_data("24392","Steven Park",20250724,"D").
-shift_data("24392","Steven Park",20250725,"D").
-shift_data("24392","Steven Park",20250726,"WR").
-shift_data("24392","Steven Park",20250727,"D").
-shift_data("24392","Steven Park",20250728,"D").
-shift_data("24392","Steven Park",20250729,"LD").
-shift_data("24392","Steven Park",20250730,"WR").
-shift_data("24392","Steven Park",20250731,"D").
-shift_data("24392","Steven Park",20250801,"WR").
-shift_data("24392","Steven Park",20250802,"D").
-shift_data("24392","Steven Park",20250803,"D").
-shift_data("24392","Steven Park",20250804,"D").
-shift_data("24392","Steven Park",20250805,"D").
-shift_data("24392","Steven Park",20250806,"WR").
-shift_data("24392","Steven Park",20250807,"D").
-shift_data("24392","Steven Park",20250808,"WR").
-shift_data("24392","Steven Park",20250809,"SL").
-shift_data("24392","Steven Park",20250810,"D").
-shift_data("24392","Steven Park",20250811,"PH").
-shift_data("24392","Steven Park",20250812,"D").
-shift_data("24392","Steven Park",20250813,"SL").
-shift_data("24392","Steven Park",20250814,"D").
-shift_data("24392","Steven Park",20250815,"D").
-shift_data("24392","Steven Park",20250816,"WR").
-shift_data("24392","Steven Park",20250817,"D").
-shift_data("24392","Steven Park",20250818,"LM").
-shift_data("24392","Steven Park",20250819,"WR").
-shift_data("24392","Steven Park",20250820,"AL").
-shift_data("24392","Steven Park",20250821,"AL").
-shift_data("24392","Steven Park",20250822,"AL").
-shift_data("24392","Steven Park",20250823,"WR").
-shift_data("24392","Steven Park",20250824,"WR").
-shift_data("24392","Steven Park",20250825,"AL").
-shift_data("24392","Steven Park",20250826,"D").
-shift_data("24392","Steven Park",20250827,"WR").
-shift_data("24392","Steven Park",20250828,"SL").
-shift_data("24392","Steven Park",20250829,"SL").
-shift_data("24392","Steven Park",20250830,"SL").
-shift_data("24392","Steven Park",20250831,"WR").
-shift_data("24392","Steven Park",20250901,"SL").
-shift_data("24392","Steven Park",20250902,"SL").
-shift_data("24392","Steven Park",20250903,"SL").
-shift_data("24392","Steven Park",20250904,"WR").
-shift_data("24392","Steven Park",20250905,"SL").
-shift_data("24392","Steven Park",20250906,"SL").
-shift_data("24392","Steven Park",20250907,"SL").
-shift_data("24392","Steven Park",20250908,"SL").
-shift_data("24392","Steven Park",20250909,"SL").
-shift_data("24392","Steven Park",20250910,"WR").
-shift_data("24392","Steven Park",20250911,"SL").
-shift_data("24392","Steven Park",20250912,"D").
-shift_data("24392","Steven Park",20250913,"WR").
-shift_data("24392","Steven Park",20250914,"WR").
-shift_data("24392","Steven Park",20250915,"PH").
-shift_data("24392","Steven Park",20250916,"SL").
-shift_data("24392","Steven Park",20250917,"SL").
-shift_data("24392","Steven Park",20250918,"SL").
-shift_data("24392","Steven Park",20250919,"SL").
-shift_data("24392","Steven Park",20250920,"WR").
-shift_data("24392","Steven Park",20250921,"WR").
-shift_data("24392","Steven Park",20250922,"SL").
-shift_data("24392","Steven Park",20250923,"PH").
-shift_data("24392","Steven Park",20250924,"SL").
-shift_data("24392","Steven Park",20250925,"SL").
-shift_data("24392","Steven Park",20250926,"SL").
-shift_data("24392","Steven Park",20250927,"WR").
-shift_data("24392","Steven Park",20250928,"SL").
-shift_data("24392","Steven Park",20250929,"WR").
-shift_data("24392","Steven Park",20250930,"SL").
-shift_data("24392","Steven Park",20251001,"D").
-shift_data("24392","Steven Park",20251002,"D").
-shift_data("24392","Steven Park",20251003,"D").
-shift_data("24392","Steven Park",20251004,"D").
-shift_data("24392","Steven Park",20251005,"WR").
-shift_data("24392","Steven Park",20251006,"D").
-shift_data("24392","Steven Park",20251007,"D").
-shift_data("24392","Steven Park",20251008,"D").
-shift_data("24392","Steven Park",20251009,"D").
-shift_data("24392","Steven Park",20251010,"AL").
-shift_data("24392","Steven Park",20251011,"WR").
-shift_data("24392","Steven Park",20251012,"WR").
-shift_data("24392","Steven Park",20251013,"PH").
-shift_data("24392","Steven Park",20251014,"D").
-shift_data("24392","Steven Park",20251015,"D").
-shift_data("24392","Steven Park",20251016,"D").
-shift_data("24392","Steven Park",20251017,"D").
-shift_data("24392","Steven Park",20251018,"WR").
-shift_data("24392","Steven Park",20251019,"WR").
-shift_data("24392","Steven Park",20251020,"D").
-shift_data("24392","Steven Park",20251021,"D").
-shift_data("24392","Steven Park",20251022,"D").
-shift_data("24392","Steven Park",20251023,"D").
-shift_data("24392","Steven Park",20251024,"D").
-shift_data("24392","Steven Park",20251025,"WR").
-shift_data("24392","Steven Park",20251026,"WR").
-shift_data("24392","Steven Park",20251027,"D").
-shift_data("24392","Steven Park",20251028,"D").
-shift_data("24392","Steven Park",20251029,"D").
-shift_data("24392","Steven Park",20251030,"D").
-shift_data("24392","Steven Park",20251031,"D").
-shift_data("24392","Steven Park",20251101,"WR").
-shift_data("24392","Steven Park",20251102,"WR").
-shift_data("24392","Steven Park",20251103,"PH").
-shift_data("24392","Steven Park",20251104,"D").
-shift_data("24392","Steven Park",20251105,"D").
-shift_data("24392","Steven Park",20251106,"D").
-shift_data("24392","Steven Park",20251107,"D").
-shift_data("24392","Steven Park",20251108,"WR").
-shift_data("24392","Steven Park",20251109,"WR").
-shift_data("24392","Steven Park",20251110,"D").
-shift_data("24392","Steven Park",20251111,"D").
-shift_data("24392","Steven Park",20251112,"D").
-shift_data("24392","Steven Park",20251113,"D").
-shift_data("24392","Steven Park",20251114,"D").
-shift_data("24392","Steven Park",20251115,"WR").
-shift_data("24392","Steven Park",20251116,"WR").
-shift_data("24392","Steven Park",20251117,"D").
-shift_data("24392","Steven Park",20251118,"D").
-shift_data("24392","Steven Park",20251119,"D").
-shift_data("24392","Steven Park",20251120,"D").
-shift_data("24392","Steven Park",20251121,"D").
-shift_data("24392","Steven Park",20251122,"WR").
-shift_data("24392","Steven Park",20251123,"WR").
-shift_data("24392","Steven Park",20251124,"PH").
-shift_data("24392","Steven Park",20251125,"SL").
-shift_data("24392","Steven Park",20251126,"D").
-shift_data("24392","Steven Park",20251127,"WR").
-shift_data("24392","Steven Park",20251128,"D").
-shift_data("24392","Steven Park",20251129,"SL").
-shift_data("24392","Steven Park",20251130,"D").
-shift_data("24392","Steven Park",20251201,"D").
-shift_data("24392","Steven Park",20251202,"WR").
-shift_data("24392","Steven Park",20251203,"D").
-shift_data("24392","Steven Park",20251204,"D").
-shift_data("24392","Steven Park",20251205,"AL").
-shift_data("24392","Steven Park",20251206,"WR").
-shift_data("24392","Steven Park",20251207,"WR").
-shift_data("24392","Steven Park",20251208,"D").
-shift_data("24392","Steven Park",20251209,"WR").
-shift_data("24392","Steven Park",20251210,"D").
-shift_data("24392","Steven Park",20251211,"D").
-shift_data("24392","Steven Park",20251212,"D").
-shift_data("24392","Steven Park",20251213,"D").
-shift_data("24392","Steven Park",20251214,"D").
-shift_data("24392","Steven Park",20251215,"WR").
-shift_data("24392","Steven Park",20251216,"WR").
-shift_data("24392","Steven Park",20251217,"D").
-shift_data("24392","Steven Park",20251218,"D").
-shift_data("24392","Steven Park",20251219,"D").
-shift_data("24392","Steven Park",20251220,"WR").
-shift_data("24392","Steven Park",20251221,"WR").
-shift_data("24392","Steven Park",20251222,"D").
-shift_data("24392","Steven Park",20251223,"D").
-shift_data("24392","Steven Park",20251224,"WR").
-shift_data("24392","Steven Park",20251225,"D").
-shift_data("24392","Steven Park",20251226,"D").
-shift_data("24392","Steven Park",20251227,"WR").
-shift_data("24392","Steven Park",20251228,"D").
-shift_data("24392","Steven Park",20251229,"PH").
-shift_data("24392","Steven Park",20251230,"PH").
-shift_data("24392","Steven Park",20251231,"PH").
 shift_data("27412", "Michael Vincent", 20250801, "AL").
 shift_data("27412", "Michael Vincent", 20250802, "WR").
 shift_data("27412", "Michael Vincent", 20250803, "WR").
@@ -10182,281 +8777,6 @@ shift_data("27412","Michael Vincent",20250104,"WR").
 shift_data("27412","Michael Vincent",20250127,"D").
 shift_data("27412","Michael Vincent",20250217,"D").
 shift_data("27412","Michael Vincent",20250324,"D").
-shift_data("27412","Michael Vincent",20250401,"WR").
-shift_data("27412","Michael Vincent",20250402,"D").
-shift_data("27412","Michael Vincent",20250403,"LD").
-shift_data("27412","Michael Vincent",20250404,"WR").
-shift_data("27412","Michael Vincent",20250405,"D").
-shift_data("27412","Michael Vincent",20250406,"LD").
-shift_data("27412","Michael Vincent",20250407,"SE").
-shift_data("27412","Michael Vincent",20250408,"SN").
-shift_data("27412","Michael Vincent",20250409,"AL").
-shift_data("27412","Michael Vincent",20250410,"WR").
-shift_data("27412","Michael Vincent",20250411,"WR").
-shift_data("27412","Michael Vincent",20250412,"WR").
-shift_data("27412","Michael Vincent",20250413,"LD").
-shift_data("27412","Michael Vincent",20250414,"SE").
-shift_data("27412","Michael Vincent",20250415,"SN").
-shift_data("27412","Michael Vincent",20250416,"SE").
-shift_data("27412","Michael Vincent",20250417,"SN").
-shift_data("27412","Michael Vincent",20250418,"WR").
-shift_data("27412","Michael Vincent",20250419,"WR").
-shift_data("27412","Michael Vincent",20250420,"D").
-shift_data("27412","Michael Vincent",20250421,"D").
-shift_data("27412","Michael Vincent",20250422,"LD").
-shift_data("27412","Michael Vincent",20250423,"SE").
-shift_data("27412","Michael Vincent",20250424,"SN").
-shift_data("27412","Michael Vincent",20250425,"WR").
-shift_data("27412","Michael Vincent",20250426,"LD").
-shift_data("27412","Michael Vincent",20250427,"WR").
-shift_data("27412","Michael Vincent",20250428,"D").
-shift_data("27412","Michael Vincent",20250429,"SE").
-shift_data("27412","Michael Vincent",20250430,"SN").
-shift_data("27412","Michael Vincent",20250501,"WR").
-shift_data("27412","Michael Vincent",20250502,"LD").
-shift_data("27412","Michael Vincent",20250503,"WR").
-shift_data("27412","Michael Vincent",20250504,"LD").
-shift_data("27412","Michael Vincent",20250505,"PH").
-shift_data("27412","Michael Vincent",20250506,"LD").
-shift_data("27412","Michael Vincent",20250507,"SE").
-shift_data("27412","Michael Vincent",20250508,"SN").
-shift_data("27412","Michael Vincent",20250509,"WR").
-shift_data("27412","Michael Vincent",20250510,"LD").
-shift_data("27412","Michael Vincent",20250511,"SE").
-shift_data("27412","Michael Vincent",20250512,"SN").
-shift_data("27412","Michael Vincent",20250513,"WR").
-shift_data("27412","Michael Vincent",20250514,"LD").
-shift_data("27412","Michael Vincent",20250515,"SE").
-shift_data("27412","Michael Vincent",20250516,"SN").
-shift_data("27412","Michael Vincent",20250517,"SE").
-shift_data("27412","Michael Vincent",20250518,"SN").
-shift_data("27412","Michael Vincent",20250519,"WR").
-shift_data("27412","Michael Vincent",20250520,"LD").
-shift_data("27412","Michael Vincent",20250521,"WR").
-shift_data("27412","Michael Vincent",20250522,"WR").
-shift_data("27412","Michael Vincent",20250523,"SE").
-shift_data("27412","Michael Vincent",20250524,"SN").
-shift_data("27412","Michael Vincent",20250525,"WR").
-shift_data("27412","Michael Vincent",20250526,"D").
-shift_data("27412","Michael Vincent",20250527,"LD").
-shift_data("27412","Michael Vincent",20250528,"SE").
-shift_data("27412","Michael Vincent",20250529,"SN").
-shift_data("27412","Michael Vincent",20250530,"WR").
-shift_data("27412","Michael Vincent",20250531,"D").
-shift_data("27412","Michael Vincent",20250601,"LD").
-shift_data("27412","Michael Vincent",20250602,"SE").
-shift_data("27412","Michael Vincent",20250603,"SN").
-shift_data("27412","Michael Vincent",20250604,"WR").
-shift_data("27412","Michael Vincent",20250605,"LD").
-shift_data("27412","Michael Vincent",20250606,"WR").
-shift_data("27412","Michael Vincent",20250607,"D").
-shift_data("27412","Michael Vincent",20250608,"SE").
-shift_data("27412","Michael Vincent",20250609,"SN").
-shift_data("27412","Michael Vincent",20250610,"SE").
-shift_data("27412","Michael Vincent",20250611,"SN").
-shift_data("27412","Michael Vincent",20250612,"WR").
-shift_data("27412","Michael Vincent",20250613,"WR").
-shift_data("27412","Michael Vincent",20250614,"LD").
-shift_data("27412","Michael Vincent",20250615,"SE").
-shift_data("27412","Michael Vincent",20250616,"SN").
-shift_data("27412","Michael Vincent",20250617,"WR").
-shift_data("27412","Michael Vincent",20250618,"LD").
-shift_data("27412","Michael Vincent",20250619,"WR").
-shift_data("27412","Michael Vincent",20250620,"LD").
-shift_data("27412","Michael Vincent",20250621,"SE").
-shift_data("27412","Michael Vincent",20250622,"SN").
-shift_data("27412","Michael Vincent",20250623,"AL").
-shift_data("27412","Michael Vincent",20250624,"AL").
-shift_data("27412","Michael Vincent",20250625,"WR").
-shift_data("27412","Michael Vincent",20250626,"WR").
-shift_data("27412","Michael Vincent",20250627,"WR").
-shift_data("27412","Michael Vincent",20250628,"LD").
-shift_data("27412","Michael Vincent",20250629,"SE").
-shift_data("27412","Michael Vincent",20250630,"SN").
-shift_data("27412","Michael Vincent",20250701,"SE").
-shift_data("27412","Michael Vincent",20250702,"SN").
-shift_data("27412","Michael Vincent",20250703,"WR").
-shift_data("27412","Michael Vincent",20250704,"LD").
-shift_data("27412","Michael Vincent",20250705,"WR").
-shift_data("27412","Michael Vincent",20250706,"LD").
-shift_data("27412","Michael Vincent",20250707,"SE").
-shift_data("27412","Michael Vincent",20250708,"SN").
-shift_data("27412","Michael Vincent",20250709,"WR").
-shift_data("27412","Michael Vincent",20250710,"D").
-shift_data("27412","Michael Vincent",20250711,"LD").
-shift_data("27412","Michael Vincent",20250712,"WR").
-shift_data("27412","Michael Vincent",20250713,"D").
-shift_data("27412","Michael Vincent",20250714,"SE").
-shift_data("27412","Michael Vincent",20250715,"SN").
-shift_data("27412","Michael Vincent",20250716,"SE").
-shift_data("27412","Michael Vincent",20250717,"SN").
-shift_data("27412","Michael Vincent",20250718,"WR").
-shift_data("27412","Michael Vincent",20250719,"LD").
-shift_data("27412","Michael Vincent",20250720,"SE").
-shift_data("27412","Michael Vincent",20250721,"SN").
-shift_data("27412","Michael Vincent",20250722,"WR").
-shift_data("27412","Michael Vincent",20250723,"SE").
-shift_data("27412","Michael Vincent",20250724,"SN").
-shift_data("27412","Michael Vincent",20250725,"WR").
-shift_data("27412","Michael Vincent",20250726,"LD").
-shift_data("27412","Michael Vincent",20250727,"WR").
-shift_data("27412","Michael Vincent",20250728,"D").
-shift_data("27412","Michael Vincent",20250729,"LM").
-shift_data("27412","Michael Vincent",20250730,"SE").
-shift_data("27412","Michael Vincent",20250731,"SN").
-shift_data("27412","Michael Vincent",20250801,"AL").
-shift_data("27412","Michael Vincent",20250802,"WR").
-shift_data("27412","Michael Vincent",20250803,"WR").
-shift_data("27412","Michael Vincent",20250804,"LD").
-shift_data("27412","Michael Vincent",20250805,"WR").
-shift_data("27412","Michael Vincent",20250806,"LD").
-shift_data("27412","Michael Vincent",20250807,"SE").
-shift_data("27412","Michael Vincent",20250808,"SN").
-shift_data("27412","Michael Vincent",20250809,"WR").
-shift_data("27412","Michael Vincent",20250810,"D").
-shift_data("27412","Michael Vincent",20250811,"LD").
-shift_data("27412","Michael Vincent",20250812,"SE").
-shift_data("27412","Michael Vincent",20250813,"SN").
-shift_data("27412","Michael Vincent",20250814,"WR").
-shift_data("27412","Michael Vincent",20250815,"D").
-shift_data("27412","Michael Vincent",20250816,"LD").
-shift_data("27412","Michael Vincent",20250817,"WR").
-shift_data("27412","Michael Vincent",20250818,"D").
-shift_data("27412","Michael Vincent",20250819,"LD").
-shift_data("27412","Michael Vincent",20250820,"SE").
-shift_data("27412","Michael Vincent",20250821,"SN").
-shift_data("27412","Michael Vincent",20250822,"WR").
-shift_data("27412","Michael Vincent",20250823,"WR").
-shift_data("27412","Michael Vincent",20250824,"WR").
-shift_data("27412","Michael Vincent",20250825,"D").
-shift_data("27412","Michael Vincent",20250826,"D").
-shift_data("27412","Michael Vincent",20250827,"LD").
-shift_data("27412","Michael Vincent",20250828,"SE").
-shift_data("27412","Michael Vincent",20250829,"SN").
-shift_data("27412","Michael Vincent",20250830,"WR").
-shift_data("27412","Michael Vincent",20250831,"LD").
-shift_data("27412","Michael Vincent",20250901,"SE").
-shift_data("27412","Michael Vincent",20250902,"SN").
-shift_data("27412","Michael Vincent",20250903,"WR").
-shift_data("27412","Michael Vincent",20250904,"D").
-shift_data("27412","Michael Vincent",20250905,"D").
-shift_data("27412","Michael Vincent",20250906,"WR").
-shift_data("27412","Michael Vincent",20250907,"LD").
-shift_data("27412","Michael Vincent",20250908,"SE").
-shift_data("27412","Michael Vincent",20250909,"SN").
-shift_data("27412","Michael Vincent",20250910,"WR").
-shift_data("27412","Michael Vincent",20250911,"LD").
-shift_data("27412","Michael Vincent",20250912,"SE").
-shift_data("27412","Michael Vincent",20250913,"SN").
-shift_data("27412","Michael Vincent",20250914,"WR").
-shift_data("27412","Michael Vincent",20250915,"PH").
-shift_data("27412","Michael Vincent",20250916,"WR").
-shift_data("27412","Michael Vincent",20250917,"AL").
-shift_data("27412","Michael Vincent",20250918,"HL").
-shift_data("27412","Michael Vincent",20250919,"SE").
-shift_data("27412","Michael Vincent",20250920,"SN").
-shift_data("27412","Michael Vincent",20250921,"WR").
-shift_data("27412","Michael Vincent",20250922,"D").
-shift_data("27412","Michael Vincent",20250923,"SE").
-shift_data("27412","Michael Vincent",20250924,"SN").
-shift_data("27412","Michael Vincent",20250925,"WR").
-shift_data("27412","Michael Vincent",20250926,"LD").
-shift_data("27412","Michael Vincent",20250927,"SE").
-shift_data("27412","Michael Vincent",20250928,"SN").
-shift_data("27412","Michael Vincent",20250929,"WR").
-shift_data("27412","Michael Vincent",20250930,"LD").
-shift_data("27412","Michael Vincent",20251001,"SE").
-shift_data("27412","Michael Vincent",20251002,"SN").
-shift_data("27412","Michael Vincent",20251003,"WR").
-shift_data("27412","Michael Vincent",20251004,"LD").
-shift_data("27412","Michael Vincent",20251005,"WR").
-shift_data("27412","Michael Vincent",20251006,"D").
-shift_data("27412","Michael Vincent",20251007,"LD").
-shift_data("27412","Michael Vincent",20251008,"SE").
-shift_data("27412","Michael Vincent",20251009,"SN").
-shift_data("27412","Michael Vincent",20251010,"WR").
-shift_data("27412","Michael Vincent",20251011,"LD").
-shift_data("27412","Michael Vincent",20251012,"SE").
-shift_data("27412","Michael Vincent",20251013,"SN").
-shift_data("27412","Michael Vincent",20251014,"WR").
-shift_data("27412","Michael Vincent",20251015,"WR").
-shift_data("27412","Michael Vincent",20251016,"WR").
-shift_data("27412","Michael Vincent",20251017,"D").
-shift_data("27412","Michael Vincent",20251018,"LD").
-shift_data("27412","Michael Vincent",20251019,"SE").
-shift_data("27412","Michael Vincent",20251020,"SN").
-shift_data("27412","Michael Vincent",20251021,"WR").
-shift_data("27412","Michael Vincent",20251022,"LD").
-shift_data("27412","Michael Vincent",20251023,"SE").
-shift_data("27412","Michael Vincent",20251024,"SN").
-shift_data("27412","Michael Vincent",20251025,"WR").
-shift_data("27412","Michael Vincent",20251026,"D").
-shift_data("27412","Michael Vincent",20251027,"D").
-shift_data("27412","Michael Vincent",20251028,"LD").
-shift_data("27412","Michael Vincent",20251029,"SE").
-shift_data("27412","Michael Vincent",20251030,"SN").
-shift_data("27412","Michael Vincent",20251031,"WR").
-shift_data("27412","Michael Vincent",20251101,"WR").
-shift_data("27412","Michael Vincent",20251102,"LD").
-shift_data("27412","Michael Vincent",20251103,"PH").
-shift_data("27412","Michael Vincent",20251104,"D").
-shift_data("27412","Michael Vincent",20251105,"LD").
-shift_data("27412","Michael Vincent",20251106,"SE").
-shift_data("27412","Michael Vincent",20251107,"SN").
-shift_data("27412","Michael Vincent",20251108,"WR").
-shift_data("27412","Michael Vincent",20251109,"LD").
-shift_data("27412","Michael Vincent",20251110,"SE").
-shift_data("27412","Michael Vincent",20251111,"SN").
-shift_data("27412","Michael Vincent",20251112,"WR").
-shift_data("27412","Michael Vincent",20251113,"LD").
-shift_data("27412","Michael Vincent",20251114,"WR").
-shift_data("27412","Michael Vincent",20251115,"WR").
-shift_data("27412","Michael Vincent",20251116,"D").
-shift_data("27412","Michael Vincent",20251117,"D").
-shift_data("27412","Michael Vincent",20251118,"LD").
-shift_data("27412","Michael Vincent",20251119,"SE").
-shift_data("27412","Michael Vincent",20251120,"SN").
-shift_data("27412","Michael Vincent",20251121,"AL").
-shift_data("27412","Michael Vincent",20251122,"HL").
-shift_data("27412","Michael Vincent",20251123,"WR").
-shift_data("27412","Michael Vincent",20251124,"PH").
-shift_data("27412","Michael Vincent",20251125,"D").
-shift_data("27412","Michael Vincent",20251126,"D").
-shift_data("27412","Michael Vincent",20251127,"LD").
-shift_data("27412","Michael Vincent",20251128,"WR").
-shift_data("27412","Michael Vincent",20251129,"SE").
-shift_data("27412","Michael Vincent",20251130,"SN").
-shift_data("27412","Michael Vincent",20251201,"WR").
-shift_data("27412","Michael Vincent",20251202,"SE").
-shift_data("27412","Michael Vincent",20251203,"SN").
-shift_data("27412","Michael Vincent",20251204,"WR").
-shift_data("27412","Michael Vincent",20251205,"D").
-shift_data("27412","Michael Vincent",20251206,"WR").
-shift_data("27412","Michael Vincent",20251207,"WR").
-shift_data("27412","Michael Vincent",20251208,"WR").
-shift_data("27412","Michael Vincent",20251209,"WR").
-shift_data("27412","Michael Vincent",20251210,"D").
-shift_data("27412","Michael Vincent",20251211,"D").
-shift_data("27412","Michael Vincent",20251212,"LD").
-shift_data("27412","Michael Vincent",20251213,"SE").
-shift_data("27412","Michael Vincent",20251214,"SN").
-shift_data("27412","Michael Vincent",20251215,"WR").
-shift_data("27412","Michael Vincent",20251216,"D").
-shift_data("27412","Michael Vincent",20251217,"LD").
-shift_data("27412","Michael Vincent",20251218,"SE").
-shift_data("27412","Michael Vincent",20251219,"SN").
-shift_data("27412","Michael Vincent",20251220,"WR").
-shift_data("27412","Michael Vincent",20251221,"WR").
-shift_data("27412","Michael Vincent",20251222,"D").
-shift_data("27412","Michael Vincent",20251223,"WR").
-shift_data("27412","Michael Vincent",20251224,"SE").
-shift_data("27412","Michael Vincent",20251225,"SN").
-shift_data("27412","Michael Vincent",20251226,"SE").
-shift_data("27412","Michael Vincent",20251227,"SN").
-shift_data("27412","Michael Vincent",20251228,"WR").
-shift_data("27412","Michael Vincent",20251229,"PH").
-shift_data("27412","Michael Vincent",20251230,"PH").
-shift_data("27412","Michael Vincent",20251231,"PH").
 shift_data("28209","Jill Clay",20210401,"D").
 shift_data("28209","Jill Clay",20210402,"D").
 shift_data("28209","Jill Clay",20210403,"WR").
@@ -13580,281 +11900,6 @@ shift_data("29901","Brian Mckay",20250307,"WR").
 shift_data("29901","Brian Mckay",20250312,"D").
 shift_data("29901","Brian Mckay",20250315,"WR").
 shift_data("29901","Brian Mckay",20250326,"D").
-shift_data("29901","Brian Mckay",20250401,"D").
-shift_data("29901","Brian Mckay",20250402,"D").
-shift_data("29901","Brian Mckay",20250403,"D").
-shift_data("29901","Brian Mckay",20250404,"D").
-shift_data("29901","Brian Mckay",20250405,"WR").
-shift_data("29901","Brian Mckay",20250406,"WR").
-shift_data("29901","Brian Mckay",20250407,"D").
-shift_data("29901","Brian Mckay",20250408,"WR").
-shift_data("29901","Brian Mckay",20250409,"D").
-shift_data("29901","Brian Mckay",20250410,"D").
-shift_data("29901","Brian Mckay",20250411,"D").
-shift_data("29901","Brian Mckay",20250412,"WR").
-shift_data("29901","Brian Mckay",20250413,"WR").
-shift_data("29901","Brian Mckay",20250414,"D").
-shift_data("29901","Brian Mckay",20250415,"D").
-shift_data("29901","Brian Mckay",20250416,"D").
-shift_data("29901","Brian Mckay",20250417,"D").
-shift_data("29901","Brian Mckay",20250418,"D").
-shift_data("29901","Brian Mckay",20250419,"D").
-shift_data("29901","Brian Mckay",20250420,"WR").
-shift_data("29901","Brian Mckay",20250421,"D").
-shift_data("29901","Brian Mckay",20250422,"WR").
-shift_data("29901","Brian Mckay",20250423,"D").
-shift_data("29901","Brian Mckay",20250424,"D").
-shift_data("29901","Brian Mckay",20250425,"D").
-shift_data("29901","Brian Mckay",20250426,"WR").
-shift_data("29901","Brian Mckay",20250427,"WR").
-shift_data("29901","Brian Mckay",20250428,"D").
-shift_data("29901","Brian Mckay",20250429,"PH").
-shift_data("29901","Brian Mckay",20250430,"D").
-shift_data("29901","Brian Mckay",20250501,"D").
-shift_data("29901","Brian Mckay",20250502,"D").
-shift_data("29901","Brian Mckay",20250503,"WR").
-shift_data("29901","Brian Mckay",20250504,"WR").
-shift_data("29901","Brian Mckay",20250505,"PH").
-shift_data("29901","Brian Mckay",20250506,"PH").
-shift_data("29901","Brian Mckay",20250507,"D").
-shift_data("29901","Brian Mckay",20250508,"D").
-shift_data("29901","Brian Mckay",20250509,"D").
-shift_data("29901","Brian Mckay",20250510,"WR").
-shift_data("29901","Brian Mckay",20250511,"WR").
-shift_data("29901","Brian Mckay",20250512,"D").
-shift_data("29901","Brian Mckay",20250513,"D").
-shift_data("29901","Brian Mckay",20250514,"D").
-shift_data("29901","Brian Mckay",20250515,"D").
-shift_data("29901","Brian Mckay",20250516,"D").
-shift_data("29901","Brian Mckay",20250517,"WR").
-shift_data("29901","Brian Mckay",20250518,"WR").
-shift_data("29901","Brian Mckay",20250519,"D").
-shift_data("29901","Brian Mckay",20250520,"D").
-shift_data("29901","Brian Mckay",20250521,"D").
-shift_data("29901","Brian Mckay",20250522,"D").
-shift_data("29901","Brian Mckay",20250523,"AL").
-shift_data("29901","Brian Mckay",20250524,"WR").
-shift_data("29901","Brian Mckay",20250525,"WR").
-shift_data("29901","Brian Mckay",20250526,"D").
-shift_data("29901","Brian Mckay",20250527,"D").
-shift_data("29901","Brian Mckay",20250528,"D").
-shift_data("29901","Brian Mckay",20250529,"D").
-shift_data("29901","Brian Mckay",20250530,"D").
-shift_data("29901","Brian Mckay",20250531,"WR").
-shift_data("29901","Brian Mckay",20250601,"WR").
-shift_data("29901","Brian Mckay",20250602,"D").
-shift_data("29901","Brian Mckay",20250603,"D").
-shift_data("29901","Brian Mckay",20250604,"D").
-shift_data("29901","Brian Mckay",20250605,"D").
-shift_data("29901","Brian Mckay",20250606,"D").
-shift_data("29901","Brian Mckay",20250607,"WR").
-shift_data("29901","Brian Mckay",20250608,"WR").
-shift_data("29901","Brian Mckay",20250609,"WR").
-shift_data("29901","Brian Mckay",20250610,"D").
-shift_data("29901","Brian Mckay",20250611,"D").
-shift_data("29901","Brian Mckay",20250612,"D").
-shift_data("29901","Brian Mckay",20250613,"D").
-shift_data("29901","Brian Mckay",20250614,"D").
-shift_data("29901","Brian Mckay",20250615,"WR").
-shift_data("29901","Brian Mckay",20250616,"D").
-shift_data("29901","Brian Mckay",20250617,"D").
-shift_data("29901","Brian Mckay",20250618,"D").
-shift_data("29901","Brian Mckay",20250619,"D").
-shift_data("29901","Brian Mckay",20250620,"D").
-shift_data("29901","Brian Mckay",20250621,"WR").
-shift_data("29901","Brian Mckay",20250622,"WR").
-shift_data("29901","Brian Mckay",20250623,"LD").
-shift_data("29901","Brian Mckay",20250624,"SE").
-shift_data("29901","Brian Mckay",20250625,"SN").
-shift_data("29901","Brian Mckay",20250626,"WR").
-shift_data("29901","Brian Mckay",20250627,"D").
-shift_data("29901","Brian Mckay",20250628,"WR").
-shift_data("29901","Brian Mckay",20250629,"WR").
-shift_data("29901","Brian Mckay",20250630,"D").
-shift_data("29901","Brian Mckay",20250701,"D").
-shift_data("29901","Brian Mckay",20250702,"D").
-shift_data("29901","Brian Mckay",20250703,"D").
-shift_data("29901","Brian Mckay",20250704,"D").
-shift_data("29901","Brian Mckay",20250705,"WR").
-shift_data("29901","Brian Mckay",20250706,"TR").
-shift_data("29901","Brian Mckay",20250707,"WR").
-shift_data("29901","Brian Mckay",20250708,"D").
-shift_data("29901","Brian Mckay",20250709,"D").
-shift_data("29901","Brian Mckay",20250710,"D").
-shift_data("29901","Brian Mckay",20250711,"D").
-shift_data("29901","Brian Mckay",20250712,"WR").
-shift_data("29901","Brian Mckay",20250713,"WR").
-shift_data("29901","Brian Mckay",20250714,"D").
-shift_data("29901","Brian Mckay",20250715,"D").
-shift_data("29901","Brian Mckay",20250716,"D").
-shift_data("29901","Brian Mckay",20250717,"D").
-shift_data("29901","Brian Mckay",20250718,"D").
-shift_data("29901","Brian Mckay",20250719,"D").
-shift_data("29901","Brian Mckay",20250720,"WR").
-shift_data("29901","Brian Mckay",20250721,"PH").
-shift_data("29901","Brian Mckay",20250722,"D").
-shift_data("29901","Brian Mckay",20250723,"D").
-shift_data("29901","Brian Mckay",20250724,"D").
-shift_data("29901","Brian Mckay",20250725,"D").
-shift_data("29901","Brian Mckay",20250726,"WR").
-shift_data("29901","Brian Mckay",20250727,"WR").
-shift_data("29901","Brian Mckay",20250728,"LD").
-shift_data("29901","Brian Mckay",20250729,"SE").
-shift_data("29901","Brian Mckay",20250730,"SN").
-shift_data("29901","Brian Mckay",20250731,"WR").
-shift_data("29901","Brian Mckay",20250801,"D").
-shift_data("29901","Brian Mckay",20250802,"WR").
-shift_data("29901","Brian Mckay",20250803,"WR").
-shift_data("29901","Brian Mckay",20250804,"D").
-shift_data("29901","Brian Mckay",20250805,"D").
-shift_data("29901","Brian Mckay",20250806,"D").
-shift_data("29901","Brian Mckay",20250807,"D").
-shift_data("29901","Brian Mckay",20250808,"D").
-shift_data("29901","Brian Mckay",20250809,"D").
-shift_data("29901","Brian Mckay",20250810,"WR").
-shift_data("29901","Brian Mckay",20250811,"PH").
-shift_data("29901","Brian Mckay",20250812,"D").
-shift_data("29901","Brian Mckay",20250813,"D").
-shift_data("29901","Brian Mckay",20250814,"D").
-shift_data("29901","Brian Mckay",20250815,"D").
-shift_data("29901","Brian Mckay",20250816,"WR").
-shift_data("29901","Brian Mckay",20250817,"WR").
-shift_data("29901","Brian Mckay",20250818,"D").
-shift_data("29901","Brian Mckay",20250819,"D").
-shift_data("29901","Brian Mckay",20250820,"D").
-shift_data("29901","Brian Mckay",20250821,"D").
-shift_data("29901","Brian Mckay",20250822,"D").
-shift_data("29901","Brian Mckay",20250823,"WR").
-shift_data("29901","Brian Mckay",20250824,"WR").
-shift_data("29901","Brian Mckay",20250825,"AL").
-shift_data("29901","Brian Mckay",20250826,"D").
-shift_data("29901","Brian Mckay",20250827,"D").
-shift_data("29901","Brian Mckay",20250828,"D").
-shift_data("29901","Brian Mckay",20250829,"D").
-shift_data("29901","Brian Mckay",20250830,"WR").
-shift_data("29901","Brian Mckay",20250831,"LD").
-shift_data("29901","Brian Mckay",20250901,"SE").
-shift_data("29901","Brian Mckay",20250902,"SN").
-shift_data("29901","Brian Mckay",20250903,"WR").
-shift_data("29901","Brian Mckay",20250904,"D").
-shift_data("29901","Brian Mckay",20250905,"D").
-shift_data("29901","Brian Mckay",20250906,"WR").
-shift_data("29901","Brian Mckay",20250907,"WR").
-shift_data("29901","Brian Mckay",20250908,"D").
-shift_data("29901","Brian Mckay",20250909,"D").
-shift_data("29901","Brian Mckay",20250910,"D").
-shift_data("29901","Brian Mckay",20250911,"D").
-shift_data("29901","Brian Mckay",20250912,"D").
-shift_data("29901","Brian Mckay",20250913,"WR").
-shift_data("29901","Brian Mckay",20250914,"LD").
-shift_data("29901","Brian Mckay",20250915,"PH").
-shift_data("29901","Brian Mckay",20250916,"D").
-shift_data("29901","Brian Mckay",20250917,"TR").
-shift_data("29901","Brian Mckay",20250918,"D").
-shift_data("29901","Brian Mckay",20250919,"WR").
-shift_data("29901","Brian Mckay",20250920,"TR").
-shift_data("29901","Brian Mckay",20250921,"WR").
-shift_data("29901","Brian Mckay",20250922,"TR").
-shift_data("29901","Brian Mckay",20250923,"TR").
-shift_data("29901","Brian Mckay",20250924,"WR").
-shift_data("29901","Brian Mckay",20250925,"TR").
-shift_data("29901","Brian Mckay",20250926,"TR").
-shift_data("29901","Brian Mckay",20250927,"TR").
-shift_data("29901","Brian Mckay",20250928,"SE").
-shift_data("29901","Brian Mckay",20250929,"SN").
-shift_data("29901","Brian Mckay",20250930,"WR").
-shift_data("29901","Brian Mckay",20251001,"WR").
-shift_data("29901","Brian Mckay",20251002,"D").
-shift_data("29901","Brian Mckay",20251003,"TR").
-shift_data("29901","Brian Mckay",20251004,"WR").
-shift_data("29901","Brian Mckay",20251005,"WR").
-shift_data("29901","Brian Mckay",20251006,"TR").
-shift_data("29901","Brian Mckay",20251007,"TR").
-shift_data("29901","Brian Mckay",20251008,"D").
-shift_data("29901","Brian Mckay",20251009,"D").
-shift_data("29901","Brian Mckay",20251010,"WR").
-shift_data("29901","Brian Mckay",20251011,"TR").
-shift_data("29901","Brian Mckay",20251012,"WR").
-shift_data("29901","Brian Mckay",20251013,"PH").
-shift_data("29901","Brian Mckay",20251014,"D").
-shift_data("29901","Brian Mckay",20251015,"D").
-shift_data("29901","Brian Mckay",20251016,"D").
-shift_data("29901","Brian Mckay",20251017,"TR").
-shift_data("29901","Brian Mckay",20251018,"WR").
-shift_data("29901","Brian Mckay",20251019,"WR").
-shift_data("29901","Brian Mckay",20251020,"AL").
-shift_data("29901","Brian Mckay",20251021,"TR").
-shift_data("29901","Brian Mckay",20251022,"D").
-shift_data("29901","Brian Mckay",20251023,"TR").
-shift_data("29901","Brian Mckay",20251024,"TR").
-shift_data("29901","Brian Mckay",20251025,"LM").
-shift_data("29901","Brian Mckay",20251026,"WR").
-shift_data("29901","Brian Mckay",20251027,"TR").
-shift_data("29901","Brian Mckay",20251028,"D").
-shift_data("29901","Brian Mckay",20251029,"D").
-shift_data("29901","Brian Mckay",20251030,"AL").
-shift_data("29901","Brian Mckay",20251031,"TR").
-shift_data("29901","Brian Mckay",20251101,"WR").
-shift_data("29901","Brian Mckay",20251102,"WR").
-shift_data("29901","Brian Mckay",20251103,"LD").
-shift_data("29901","Brian Mckay",20251104,"SE").
-shift_data("29901","Brian Mckay",20251105,"SN").
-shift_data("29901","Brian Mckay",20251106,"WR").
-shift_data("29901","Brian Mckay",20251107,"D").
-shift_data("29901","Brian Mckay",20251108,"WR").
-shift_data("29901","Brian Mckay",20251109,"WR").
-shift_data("29901","Brian Mckay",20251110,"D").
-shift_data("29901","Brian Mckay",20251111,"D").
-shift_data("29901","Brian Mckay",20251112,"TR").
-shift_data("29901","Brian Mckay",20251113,"WR").
-shift_data("29901","Brian Mckay",20251114,"TR").
-shift_data("29901","Brian Mckay",20251115,"TR").
-shift_data("29901","Brian Mckay",20251116,"WR").
-shift_data("29901","Brian Mckay",20251117,"TR").
-shift_data("29901","Brian Mckay",20251118,"D").
-shift_data("29901","Brian Mckay",20251119,"D").
-shift_data("29901","Brian Mckay",20251120,"D").
-shift_data("29901","Brian Mckay",20251121,"D").
-shift_data("29901","Brian Mckay",20251122,"WR").
-shift_data("29901","Brian Mckay",20251123,"WR").
-shift_data("29901","Brian Mckay",20251124,"PH").
-shift_data("29901","Brian Mckay",20251125,"D").
-shift_data("29901","Brian Mckay",20251126,"AL").
-shift_data("29901","Brian Mckay",20251127,"TR").
-shift_data("29901","Brian Mckay",20251128,"WR").
-shift_data("29901","Brian Mckay",20251129,"D").
-shift_data("29901","Brian Mckay",20251130,"LD").
-shift_data("29901","Brian Mckay",20251201,"SE").
-shift_data("29901","Brian Mckay",20251202,"SN").
-shift_data("29901","Brian Mckay",20251203,"WR").
-shift_data("29901","Brian Mckay",20251204,"D").
-shift_data("29901","Brian Mckay",20251205,"D").
-shift_data("29901","Brian Mckay",20251206,"WR").
-shift_data("29901","Brian Mckay",20251207,"WR").
-shift_data("29901","Brian Mckay",20251208,"D").
-shift_data("29901","Brian Mckay",20251209,"D").
-shift_data("29901","Brian Mckay",20251210,"LD").
-shift_data("29901","Brian Mckay",20251211,"SE").
-shift_data("29901","Brian Mckay",20251212,"SN").
-shift_data("29901","Brian Mckay",20251213,"WR").
-shift_data("29901","Brian Mckay",20251214,"WR").
-shift_data("29901","Brian Mckay",20251215,"D").
-shift_data("29901","Brian Mckay",20251216,"D").
-shift_data("29901","Brian Mckay",20251217,"D").
-shift_data("29901","Brian Mckay",20251218,"D").
-shift_data("29901","Brian Mckay",20251219,"D").
-shift_data("29901","Brian Mckay",20251220,"WR").
-shift_data("29901","Brian Mckay",20251221,"WR").
-shift_data("29901","Brian Mckay",20251222,"D").
-shift_data("29901","Brian Mckay",20251223,"D").
-shift_data("29901","Brian Mckay",20251224,"D").
-shift_data("29901","Brian Mckay",20251225,"D").
-shift_data("29901","Brian Mckay",20251226,"D").
-shift_data("29901","Brian Mckay",20251227,"WR").
-shift_data("29901","Brian Mckay",20251228,"WR").
-shift_data("29901","Brian Mckay",20251229,"PH").
-shift_data("29901","Brian Mckay",20251230,"PH").
-shift_data("29901","Brian Mckay",20251231,"PH").
 shift_data("30900", "Brittany Jones", 20250801, "SE").
 shift_data("30900", "Brittany Jones", 20250802, "SN").
 shift_data("30900", "Brittany Jones", 20250803, "WR").
@@ -15468,281 +13513,6 @@ shift_data("30900","Brittany Jones",20250101,"SE").
 shift_data("30900","Brittany Jones",20250102,"SN").
 shift_data("30900","Brittany Jones",20250103,"PH").
 shift_data("30900","Brittany Jones",20250104,"WR").
-shift_data("30900","Brittany Jones",20250401,"SE").
-shift_data("30900","Brittany Jones",20250402,"SN").
-shift_data("30900","Brittany Jones",20250403,"WR").
-shift_data("30900","Brittany Jones",20250404,"WR").
-shift_data("30900","Brittany Jones",20250405,"LD").
-shift_data("30900","Brittany Jones",20250406,"SE").
-shift_data("30900","Brittany Jones",20250407,"SN").
-shift_data("30900","Brittany Jones",20250408,"SE").
-shift_data("30900","Brittany Jones",20250409,"SN").
-shift_data("30900","Brittany Jones",20250410,"WR").
-shift_data("30900","Brittany Jones",20250411,"D").
-shift_data("30900","Brittany Jones",20250412,"SE").
-shift_data("30900","Brittany Jones",20250413,"SN").
-shift_data("30900","Brittany Jones",20250414,"WR").
-shift_data("30900","Brittany Jones",20250415,"LD").
-shift_data("30900","Brittany Jones",20250416,"WR").
-shift_data("30900","Brittany Jones",20250417,"D").
-shift_data("30900","Brittany Jones",20250418,"D").
-shift_data("30900","Brittany Jones",20250419,"D").
-shift_data("30900","Brittany Jones",20250420,"LD").
-shift_data("30900","Brittany Jones",20250421,"WR").
-shift_data("30900","Brittany Jones",20250422,"LD").
-shift_data("30900","Brittany Jones",20250423,"LM").
-shift_data("30900","Brittany Jones",20250424,"WR").
-shift_data("30900","Brittany Jones",20250425,"LD").
-shift_data("30900","Brittany Jones",20250426,"WR").
-shift_data("30900","Brittany Jones",20250427,"LD").
-shift_data("30900","Brittany Jones",20250428,"SE").
-shift_data("30900","Brittany Jones",20250429,"SN").
-shift_data("30900","Brittany Jones",20250430,"WR").
-shift_data("30900","Brittany Jones",20250501,"LD").
-shift_data("30900","Brittany Jones",20250502,"SE").
-shift_data("30900","Brittany Jones",20250503,"SN").
-shift_data("30900","Brittany Jones",20250504,"WR").
-shift_data("30900","Brittany Jones",20250505,"LD").
-shift_data("30900","Brittany Jones",20250506,"SE").
-shift_data("30900","Brittany Jones",20250507,"SN").
-shift_data("30900","Brittany Jones",20250508,"SE").
-shift_data("30900","Brittany Jones",20250509,"SN").
-shift_data("30900","Brittany Jones",20250510,"WR").
-shift_data("30900","Brittany Jones",20250511,"WR").
-shift_data("30900","Brittany Jones",20250512,"LD").
-shift_data("30900","Brittany Jones",20250513,"WR").
-shift_data("30900","Brittany Jones",20250514,"LD").
-shift_data("30900","Brittany Jones",20250515,"SE").
-shift_data("30900","Brittany Jones",20250516,"SN").
-shift_data("30900","Brittany Jones",20250517,"WL").
-shift_data("30900","Brittany Jones",20250518,"WL").
-shift_data("30900","Brittany Jones",20250519,"WL").
-shift_data("30900","Brittany Jones",20250520,"WL").
-shift_data("30900","Brittany Jones",20250521,"WL").
-shift_data("30900","Brittany Jones",20250522,"WR").
-shift_data("30900","Brittany Jones",20250523,"WR").
-shift_data("30900","Brittany Jones",20250524,"WR").
-shift_data("30900","Brittany Jones",20250525,"WR").
-shift_data("30900","Brittany Jones",20250526,"LD").
-shift_data("30900","Brittany Jones",20250527,"SE").
-shift_data("30900","Brittany Jones",20250528,"SN").
-shift_data("30900","Brittany Jones",20250529,"SE").
-shift_data("30900","Brittany Jones",20250530,"SN").
-shift_data("30900","Brittany Jones",20250531,"WR").
-shift_data("30900","Brittany Jones",20250601,"WR").
-shift_data("30900","Brittany Jones",20250602,"LD").
-shift_data("30900","Brittany Jones",20250603,"SE").
-shift_data("30900","Brittany Jones",20250604,"SN").
-shift_data("30900","Brittany Jones",20250605,"AL").
-shift_data("30900","Brittany Jones",20250606,"WR").
-shift_data("30900","Brittany Jones",20250607,"LD").
-shift_data("30900","Brittany Jones",20250608,"SE").
-shift_data("30900","Brittany Jones",20250609,"SN").
-shift_data("30900","Brittany Jones",20250610,"WR").
-shift_data("30900","Brittany Jones",20250611,"LD").
-shift_data("30900","Brittany Jones",20250612,"SE").
-shift_data("30900","Brittany Jones",20250613,"SN").
-shift_data("30900","Brittany Jones",20250614,"WR").
-shift_data("30900","Brittany Jones",20250615,"LD").
-shift_data("30900","Brittany Jones",20250616,"WR").
-shift_data("30900","Brittany Jones",20250617,"D").
-shift_data("30900","Brittany Jones",20250618,"LD").
-shift_data("30900","Brittany Jones",20250619,"SE").
-shift_data("30900","Brittany Jones",20250620,"SN").
-shift_data("30900","Brittany Jones",20250621,"WR").
-shift_data("30900","Brittany Jones",20250622,"WR").
-shift_data("30900","Brittany Jones",20250623,"WR").
-shift_data("30900","Brittany Jones",20250624,"D").
-shift_data("30900","Brittany Jones",20250625,"LD").
-shift_data("30900","Brittany Jones",20250626,"SE").
-shift_data("30900","Brittany Jones",20250627,"SN").
-shift_data("30900","Brittany Jones",20250628,"WR").
-shift_data("30900","Brittany Jones",20250629,"LD").
-shift_data("30900","Brittany Jones",20250630,"SE").
-shift_data("30900","Brittany Jones",20250701,"SN").
-shift_data("30900","Brittany Jones",20250702,"WR").
-shift_data("30900","Brittany Jones",20250703,"LD").
-shift_data("30900","Brittany Jones",20250704,"SE").
-shift_data("30900","Brittany Jones",20250705,"SN").
-shift_data("30900","Brittany Jones",20250706,"WR").
-shift_data("30900","Brittany Jones",20250707,"LD").
-shift_data("30900","Brittany Jones",20250708,"SE").
-shift_data("30900","Brittany Jones",20250709,"SN").
-shift_data("30900","Brittany Jones",20250710,"WR").
-shift_data("30900","Brittany Jones",20250711,"LD").
-shift_data("30900","Brittany Jones",20250712,"SE").
-shift_data("30900","Brittany Jones",20250713,"SN").
-shift_data("30900","Brittany Jones",20250714,"WR").
-shift_data("30900","Brittany Jones",20250715,"D").
-shift_data("30900","Brittany Jones",20250716,"LD").
-shift_data("30900","Brittany Jones",20250717,"SE").
-shift_data("30900","Brittany Jones",20250718,"SN").
-shift_data("30900","Brittany Jones",20250719,"WR").
-shift_data("30900","Brittany Jones",20250720,"LD").
-shift_data("30900","Brittany Jones",20250721,"SE").
-shift_data("30900","Brittany Jones",20250722,"SN").
-shift_data("30900","Brittany Jones",20250723,"WR").
-shift_data("30900","Brittany Jones",20250724,"WR").
-shift_data("30900","Brittany Jones",20250725,"LD").
-shift_data("30900","Brittany Jones",20250726,"SE").
-shift_data("30900","Brittany Jones",20250727,"SN").
-shift_data("30900","Brittany Jones",20250728,"WR").
-shift_data("30900","Brittany Jones",20250729,"LD").
-shift_data("30900","Brittany Jones",20250730,"WR").
-shift_data("30900","Brittany Jones",20250731,"LD").
-shift_data("30900","Brittany Jones",20250801,"SE").
-shift_data("30900","Brittany Jones",20250802,"SN").
-shift_data("30900","Brittany Jones",20250803,"WR").
-shift_data("30900","Brittany Jones",20250804,"D").
-shift_data("30900","Brittany Jones",20250805,"D").
-shift_data("30900","Brittany Jones",20250806,"WR").
-shift_data("30900","Brittany Jones",20250807,"LD").
-shift_data("30900","Brittany Jones",20250808,"WR").
-shift_data("30900","Brittany Jones",20250809,"SE").
-shift_data("30900","Brittany Jones",20250810,"SN").
-shift_data("30900","Brittany Jones",20250811,"PH").
-shift_data("30900","Brittany Jones",20250812,"LD").
-shift_data("30900","Brittany Jones",20250813,"SE").
-shift_data("30900","Brittany Jones",20250814,"SN").
-shift_data("30900","Brittany Jones",20250815,"WR").
-shift_data("30900","Brittany Jones",20250816,"SE").
-shift_data("30900","Brittany Jones",20250817,"SN").
-shift_data("30900","Brittany Jones",20250818,"WR").
-shift_data("30900","Brittany Jones",20250819,"D").
-shift_data("30900","Brittany Jones",20250820,"LD").
-shift_data("30900","Brittany Jones",20250821,"WR").
-shift_data("30900","Brittany Jones",20250822,"D").
-shift_data("30900","Brittany Jones",20250823,"SE").
-shift_data("30900","Brittany Jones",20250824,"SN").
-shift_data("30900","Brittany Jones",20250825,"WR").
-shift_data("30900","Brittany Jones",20250826,"LD").
-shift_data("30900","Brittany Jones",20250827,"SE").
-shift_data("30900","Brittany Jones",20250828,"SN").
-shift_data("30900","Brittany Jones",20250829,"WR").
-shift_data("30900","Brittany Jones",20250830,"D").
-shift_data("30900","Brittany Jones",20250831,"LD").
-shift_data("30900","Brittany Jones",20250901,"SE").
-shift_data("30900","Brittany Jones",20250902,"SN").
-shift_data("30900","Brittany Jones",20250903,"WR").
-shift_data("30900","Brittany Jones",20250904,"D").
-shift_data("30900","Brittany Jones",20250905,"LD").
-shift_data("30900","Brittany Jones",20250906,"SE").
-shift_data("30900","Brittany Jones",20250907,"SN").
-shift_data("30900","Brittany Jones",20250908,"WR").
-shift_data("30900","Brittany Jones",20250909,"LD").
-shift_data("30900","Brittany Jones",20250910,"SE").
-shift_data("30900","Brittany Jones",20250911,"SN").
-shift_data("30900","Brittany Jones",20250912,"WR").
-shift_data("30900","Brittany Jones",20250913,"WR").
-shift_data("30900","Brittany Jones",20250914,"LD").
-shift_data("30900","Brittany Jones",20250915,"SE").
-shift_data("30900","Brittany Jones",20250916,"SN").
-shift_data("30900","Brittany Jones",20250917,"WR").
-shift_data("30900","Brittany Jones",20250918,"LD").
-shift_data("30900","Brittany Jones",20250919,"WR").
-shift_data("30900","Brittany Jones",20250920,"D").
-shift_data("30900","Brittany Jones",20250921,"WR").
-shift_data("30900","Brittany Jones",20250922,"WR").
-shift_data("30900","Brittany Jones",20250923,"PH").
-shift_data("30900","Brittany Jones",20250924,"LD").
-shift_data("30900","Brittany Jones",20250925,"SE").
-shift_data("30900","Brittany Jones",20250926,"SN").
-shift_data("30900","Brittany Jones",20250927,"WR").
-shift_data("30900","Brittany Jones",20250928,"LD").
-shift_data("30900","Brittany Jones",20250929,"LM").
-shift_data("30900","Brittany Jones",20250930,"SE").
-shift_data("30900","Brittany Jones",20251001,"SN").
-shift_data("30900","Brittany Jones",20251002,"WR").
-shift_data("30900","Brittany Jones",20251003,"D").
-shift_data("30900","Brittany Jones",20251004,"SE").
-shift_data("30900","Brittany Jones",20251005,"SN").
-shift_data("30900","Brittany Jones",20251006,"WR").
-shift_data("30900","Brittany Jones",20251007,"LD").
-shift_data("30900","Brittany Jones",20251008,"SE").
-shift_data("30900","Brittany Jones",20251009,"SN").
-shift_data("30900","Brittany Jones",20251010,"WR").
-shift_data("30900","Brittany Jones",20251011,"D").
-shift_data("30900","Brittany Jones",20251012,"WR").
-shift_data("30900","Brittany Jones",20251013,"LD").
-shift_data("30900","Brittany Jones",20251014,"SE").
-shift_data("30900","Brittany Jones",20251015,"SN").
-shift_data("30900","Brittany Jones",20251016,"AL").
-shift_data("30900","Brittany Jones",20251017,"WR").
-shift_data("30900","Brittany Jones",20251018,"AL").
-shift_data("30900","Brittany Jones",20251019,"AL").
-shift_data("30900","Brittany Jones",20251020,"WR").
-shift_data("30900","Brittany Jones",20251021,"LD").
-shift_data("30900","Brittany Jones",20251022,"SE").
-shift_data("30900","Brittany Jones",20251023,"SN").
-shift_data("30900","Brittany Jones",20251024,"WR").
-shift_data("30900","Brittany Jones",20251025,"SE").
-shift_data("30900","Brittany Jones",20251026,"SN").
-shift_data("30900","Brittany Jones",20251027,"SE").
-shift_data("30900","Brittany Jones",20251028,"SN").
-shift_data("30900","Brittany Jones",20251029,"WR").
-shift_data("30900","Brittany Jones",20251030,"LD").
-shift_data("30900","Brittany Jones",20251031,"WR").
-shift_data("30900","Brittany Jones",20251101,"LD").
-shift_data("30900","Brittany Jones",20251102,"WR").
-shift_data("30900","Brittany Jones",20251103,"PH").
-shift_data("30900","Brittany Jones",20251104,"SE").
-shift_data("30900","Brittany Jones",20251105,"SN").
-shift_data("30900","Brittany Jones",20251106,"WR").
-shift_data("30900","Brittany Jones",20251107,"D").
-shift_data("30900","Brittany Jones",20251108,"LD").
-shift_data("30900","Brittany Jones",20251109,"SE").
-shift_data("30900","Brittany Jones",20251110,"SN").
-shift_data("30900","Brittany Jones",20251111,"WR").
-shift_data("30900","Brittany Jones",20251112,"D").
-shift_data("30900","Brittany Jones",20251113,"LD").
-shift_data("30900","Brittany Jones",20251114,"WR").
-shift_data("30900","Brittany Jones",20251115,"D").
-shift_data("30900","Brittany Jones",20251116,"D").
-shift_data("30900","Brittany Jones",20251117,"LD").
-shift_data("30900","Brittany Jones",20251118,"SE").
-shift_data("30900","Brittany Jones",20251119,"SN").
-shift_data("30900","Brittany Jones",20251120,"WR").
-shift_data("30900","Brittany Jones",20251121,"LD").
-shift_data("30900","Brittany Jones",20251122,"SE").
-shift_data("30900","Brittany Jones",20251123,"SN").
-shift_data("30900","Brittany Jones",20251124,"SE").
-shift_data("30900","Brittany Jones",20251125,"SN").
-shift_data("30900","Brittany Jones",20251126,"WR").
-shift_data("30900","Brittany Jones",20251127,"LD").
-shift_data("30900","Brittany Jones",20251128,"HL").
-shift_data("30900","Brittany Jones",20251129,"WR").
-shift_data("30900","Brittany Jones",20251130,"LM").
-shift_data("30900","Brittany Jones",20251201,"LD").
-shift_data("30900","Brittany Jones",20251202,"WR").
-shift_data("30900","Brittany Jones",20251203,"WR").
-shift_data("30900","Brittany Jones",20251204,"SE").
-shift_data("30900","Brittany Jones",20251205,"SN").
-shift_data("30900","Brittany Jones",20251206,"WR").
-shift_data("30900","Brittany Jones",20251207,"LD").
-shift_data("30900","Brittany Jones",20251208,"WR").
-shift_data("30900","Brittany Jones",20251209,"LD").
-shift_data("30900","Brittany Jones",20251210,"AL").
-shift_data("30900","Brittany Jones",20251211,"AL").
-shift_data("30900","Brittany Jones",20251212,"HL").
-shift_data("30900","Brittany Jones",20251213,"WR").
-shift_data("30900","Brittany Jones",20251214,"SE").
-shift_data("30900","Brittany Jones",20251215,"SN").
-shift_data("30900","Brittany Jones",20251216,"SE").
-shift_data("30900","Brittany Jones",20251217,"SN").
-shift_data("30900","Brittany Jones",20251218,"WR").
-shift_data("30900","Brittany Jones",20251219,"WR").
-shift_data("30900","Brittany Jones",20251220,"LD").
-shift_data("30900","Brittany Jones",20251221,"SE").
-shift_data("30900","Brittany Jones",20251222,"SN").
-shift_data("30900","Brittany Jones",20251223,"WR").
-shift_data("30900","Brittany Jones",20251224,"WR").
-shift_data("30900","Brittany Jones",20251225,"WR").
-shift_data("30900","Brittany Jones",20251226,"LD").
-shift_data("30900","Brittany Jones",20251227,"SE").
-shift_data("30900","Brittany Jones",20251228,"SN").
-shift_data("30900","Brittany Jones",20251229,"PH").
-shift_data("30900","Brittany Jones",20251230,"D").
-shift_data("30900","Brittany Jones",20251231,"LD").
 shift_data("32368", "Kimberly Martinez", 20250801, "SE").
 shift_data("32368", "Kimberly Martinez", 20250802, "SN").
 shift_data("32368", "Kimberly Martinez", 20250803, "WR").
@@ -16096,392 +13866,6 @@ shift_data("32368","Kimberly Martinez",20250104,"WR").
 shift_data("32368","Kimberly Martinez",20250207,"WR").
 shift_data("32368","Kimberly Martinez",20250221,"WR").
 shift_data("32368","Kimberly Martinez",20250224,"AL").
-shift_data("32368","Kimberly Martinez",20250401,"D").
-shift_data("32368","Kimberly Martinez",20250402,"D").
-shift_data("32368","Kimberly Martinez",20250403,"WR").
-shift_data("32368","Kimberly Martinez",20250404,"SE").
-shift_data("32368","Kimberly Martinez",20250405,"SN").
-shift_data("32368","Kimberly Martinez",20250406,"WR").
-shift_data("32368","Kimberly Martinez",20250407,"D").
-shift_data("32368","Kimberly Martinez",20250408,"D").
-shift_data("32368","Kimberly Martinez",20250409,"D").
-shift_data("32368","Kimberly Martinez",20250410,"D").
-shift_data("32368","Kimberly Martinez",20250411,"LD").
-shift_data("32368","Kimberly Martinez",20250412,"WR").
-shift_data("32368","Kimberly Martinez",20250413,"WR").
-shift_data("32368","Kimberly Martinez",20250414,"D").
-shift_data("32368","Kimberly Martinez",20250415,"D").
-shift_data("32368","Kimberly Martinez",20250416,"D").
-shift_data("32368","Kimberly Martinez",20250417,"AL").
-shift_data("32368","Kimberly Martinez",20250418,"LD").
-shift_data("32368","Kimberly Martinez",20250419,"WR").
-shift_data("32368","Kimberly Martinez",20250420,"WR").
-shift_data("32368","Kimberly Martinez",20250421,"D").
-shift_data("32368","Kimberly Martinez",20250422,"D").
-shift_data("32368","Kimberly Martinez",20250423,"D").
-shift_data("32368","Kimberly Martinez",20250424,"SE").
-shift_data("32368","Kimberly Martinez",20250425,"SN").
-shift_data("32368","Kimberly Martinez",20250426,"WR").
-shift_data("32368","Kimberly Martinez",20250427,"WR").
-shift_data("32368","Kimberly Martinez",20250428,"D").
-shift_data("32368","Kimberly Martinez",20250429,"PH").
-shift_data("32368","Kimberly Martinez",20250430,"D").
-shift_data("32368","Kimberly Martinez",20250501,"WR").
-shift_data("32368","Kimberly Martinez",20250502,"SE").
-shift_data("32368","Kimberly Martinez",20250503,"SN").
-shift_data("32368","Kimberly Martinez",20250504,"WR").
-shift_data("32368","Kimberly Martinez",20250505,"PH").
-shift_data("32368","Kimberly Martinez",20250506,"PH").
-shift_data("32368","Kimberly Martinez",20250507,"WR").
-shift_data("32368","Kimberly Martinez",20250508,"D").
-shift_data("32368","Kimberly Martinez",20250509,"LD").
-shift_data("32368","Kimberly Martinez",20250510,"WR").
-shift_data("32368","Kimberly Martinez",20250511,"WR").
-shift_data("32368","Kimberly Martinez",20250512,"D").
-shift_data("32368","Kimberly Martinez",20250513,"D").
-shift_data("32368","Kimberly Martinez",20250514,"AL").
-shift_data("32368","Kimberly Martinez",20250515,"D").
-shift_data("32368","Kimberly Martinez",20250516,"SE").
-shift_data("32368","Kimberly Martinez",20250517,"SN").
-shift_data("32368","Kimberly Martinez",20250518,"WR").
-shift_data("32368","Kimberly Martinez",20250519,"D").
-shift_data("32368","Kimberly Martinez",20250520,"D").
-shift_data("32368","Kimberly Martinez",20250521,"D").
-shift_data("32368","Kimberly Martinez",20250522,"D").
-shift_data("32368","Kimberly Martinez",20250523,"LD").
-shift_data("32368","Kimberly Martinez",20250524,"WR").
-shift_data("32368","Kimberly Martinez",20250525,"WR").
-shift_data("32368","Kimberly Martinez",20250526,"D").
-shift_data("32368","Kimberly Martinez",20250527,"D").
-shift_data("32368","Kimberly Martinez",20250528,"D").
-shift_data("32368","Kimberly Martinez",20250529,"D").
-shift_data("32368","Kimberly Martinez",20250530,"D").
-shift_data("32368","Kimberly Martinez",20250531,"WR").
-shift_data("32368","Kimberly Martinez",20250601,"WR").
-shift_data("32368","Kimberly Martinez",20250602,"AL").
-shift_data("32368","Kimberly Martinez",20250603,"D").
-shift_data("32368","Kimberly Martinez",20250604,"D").
-shift_data("32368","Kimberly Martinez",20250605,"WR").
-shift_data("32368","Kimberly Martinez",20250606,"SE").
-shift_data("32368","Kimberly Martinez",20250607,"SN").
-shift_data("32368","Kimberly Martinez",20250608,"WR").
-shift_data("32368","Kimberly Martinez",20250609,"LD").
-shift_data("32368","Kimberly Martinez",20250610,"WR").
-shift_data("32368","Kimberly Martinez",20250611,"D").
-shift_data("32368","Kimberly Martinez",20250612,"D").
-shift_data("32368","Kimberly Martinez",20250613,"SE").
-shift_data("32368","Kimberly Martinez",20250614,"SN").
-shift_data("32368","Kimberly Martinez",20250615,"WR").
-shift_data("32368","Kimberly Martinez",20250616,"D").
-shift_data("32368","Kimberly Martinez",20250617,"D").
-shift_data("32368","Kimberly Martinez",20250618,"D").
-shift_data("32368","Kimberly Martinez",20250619,"D").
-shift_data("32368","Kimberly Martinez",20250620,"LD").
-shift_data("32368","Kimberly Martinez",20250621,"WR").
-shift_data("32368","Kimberly Martinez",20250622,"WR").
-shift_data("32368","Kimberly Martinez",20250623,"D").
-shift_data("32368","Kimberly Martinez",20250624,"D").
-shift_data("32368","Kimberly Martinez",20250625,"D").
-shift_data("32368","Kimberly Martinez",20250626,"SE").
-shift_data("32368","Kimberly Martinez",20250627,"SN").
-shift_data("32368","Kimberly Martinez",20250628,"WR").
-shift_data("32368","Kimberly Martinez",20250629,"WR").
-shift_data("32368","Kimberly Martinez",20250630,"D").
-shift_data("32368","Kimberly Martinez",20250701,"D").
-shift_data("32368","Kimberly Martinez",20250702,"D").
-shift_data("32368","Kimberly Martinez",20250703,"D").
-shift_data("32368","Kimberly Martinez",20250704,"LD").
-shift_data("32368","Kimberly Martinez",20250705,"WR").
-shift_data("32368","Kimberly Martinez",20250706,"WR").
-shift_data("32368","Kimberly Martinez",20250707,"AL").
-shift_data("32368","Kimberly Martinez",20250708,"D").
-shift_data("32368","Kimberly Martinez",20250709,"D").
-shift_data("32368","Kimberly Martinez",20250710,"D").
-shift_data("32368","Kimberly Martinez",20250711,"SE").
-shift_data("32368","Kimberly Martinez",20250712,"SN").
-shift_data("32368","Kimberly Martinez",20250713,"WR").
-shift_data("32368","Kimberly Martinez",20250714,"D").
-shift_data("32368","Kimberly Martinez",20250715,"D").
-shift_data("32368","Kimberly Martinez",20250716,"D").
-shift_data("32368","Kimberly Martinez",20250717,"LD").
-shift_data("32368","Kimberly Martinez",20250718,"WR").
-shift_data("32368","Kimberly Martinez",20250719,"WR").
-shift_data("32368","Kimberly Martinez",20250720,"WR").
-shift_data("32368","Kimberly Martinez",20250721,"PH").
-shift_data("32368","Kimberly Martinez",20250722,"D").
-shift_data("32368","Kimberly Martinez",20250723,"D").
-shift_data("32368","Kimberly Martinez",20250724,"D").
-shift_data("32368","Kimberly Martinez",20250725,"LD").
-shift_data("32368","Kimberly Martinez",20250726,"WR").
-shift_data("32368","Kimberly Martinez",20250727,"WR").
-shift_data("32368","Kimberly Martinez",20250728,"D").
-shift_data("32368","Kimberly Martinez",20250729,"HL").
-shift_data("32368","Kimberly Martinez",20250730,"AL").
-shift_data("32368","Kimberly Martinez",20250731,"D").
-shift_data("32368","Kimberly Martinez",20250801,"SE").
-shift_data("32368","Kimberly Martinez",20250802,"SN").
-shift_data("32368","Kimberly Martinez",20250803,"WR").
-shift_data("32368","Kimberly Martinez",20250804,"D").
-shift_data("32368","Kimberly Martinez",20250805,"D").
-shift_data("32368","Kimberly Martinez",20250806,"D").
-shift_data("32368","Kimberly Martinez",20250807,"WR").
-shift_data("32368","Kimberly Martinez",20250808,"SE").
-shift_data("32368","Kimberly Martinez",20250809,"SN").
-shift_data("32368","Kimberly Martinez",20250810,"WR").
-shift_data("32368","Kimberly Martinez",20250811,"PH").
-shift_data("32368","Kimberly Martinez",20250812,"WR").
-shift_data("32368","Kimberly Martinez",20250813,"D").
-shift_data("32368","Kimberly Martinez",20250814,"D").
-shift_data("32368","Kimberly Martinez",20250815,"LD").
-shift_data("32368","Kimberly Martinez",20250816,"WR").
-shift_data("32368","Kimberly Martinez",20250817,"WR").
-shift_data("32368","Kimberly Martinez",20250818,"WR").
-shift_data("32368","Kimberly Martinez",20250819,"HL").
-shift_data("32368","Kimberly Martinez",20250820,"D").
-shift_data("32368","Kimberly Martinez",20250821,"D").
-shift_data("32368","Kimberly Martinez",20250822,"LD").
-shift_data("32368","Kimberly Martinez",20250823,"WR").
-shift_data("32368","Kimberly Martinez",20250824,"WR").
-shift_data("32368","Kimberly Martinez",20250825,"D").
-shift_data("32368","Kimberly Martinez",20250826,"WR").
-shift_data("32368","Kimberly Martinez",20250827,"D").
-shift_data("32368","Kimberly Martinez",20250828,"D").
-shift_data("32368","Kimberly Martinez",20250829,"SE").
-shift_data("32368","Kimberly Martinez",20250830,"SN").
-shift_data("32368","Kimberly Martinez",20250831,"WR").
-shift_data("32368","Kimberly Martinez",20250901,"AL").
-shift_data("32368","Kimberly Martinez",20250902,"D").
-shift_data("32368","Kimberly Martinez",20250903,"AL").
-shift_data("32368","Kimberly Martinez",20250904,"AL").
-shift_data("32368","Kimberly Martinez",20250905,"LD").
-shift_data("32368","Kimberly Martinez",20250906,"WR").
-shift_data("32368","Kimberly Martinez",20250907,"WR").
-shift_data("32368","Kimberly Martinez",20250908,"D").
-shift_data("32368","Kimberly Martinez",20250909,"D").
-shift_data("32368","Kimberly Martinez",20250910,"D").
-shift_data("32368","Kimberly Martinez",20250911,"D").
-shift_data("32368","Kimberly Martinez",20250912,"SE").
-shift_data("32368","Kimberly Martinez",20250913,"SN").
-shift_data("32368","Kimberly Martinez",20250914,"WR").
-shift_data("32368","Kimberly Martinez",20250915,"PH").
-shift_data("32368","Kimberly Martinez",20250916,"D").
-shift_data("32368","Kimberly Martinez",20250917,"D").
-shift_data("32368","Kimberly Martinez",20250918,"D").
-shift_data("32368","Kimberly Martinez",20250919,"LD").
-shift_data("32368","Kimberly Martinez",20250920,"WR").
-shift_data("32368","Kimberly Martinez",20250921,"WR").
-shift_data("32368","Kimberly Martinez",20250922,"SE").
-shift_data("32368","Kimberly Martinez",20250923,"SN").
-shift_data("32368","Kimberly Martinez",20250924,"WR").
-shift_data("32368","Kimberly Martinez",20250925,"D").
-shift_data("32368","Kimberly Martinez",20250926,"SL").
-shift_data("32368","Kimberly Martinez",20250927,"SL").
-shift_data("32368","Kimberly Martinez",20250928,"WR").
-shift_data("32368","Kimberly Martinez",20250929,"SL").
-shift_data("32368","Kimberly Martinez",20250930,"SL").
-shift_data("32368","Kimberly Martinez",20251001,"SP").
-shift_data("32368","Kimberly Martinez",20251002,"D").
-shift_data("32368","Kimberly Martinez",20251003,"D").
-shift_data("32368","Kimberly Martinez",20251004,"WR").
-shift_data("32368","Kimberly Martinez",20251005,"WR").
-shift_data("32368","Kimberly Martinez",20251006,"D").
-shift_data("32368","Kimberly Martinez",20251007,"D").
-shift_data("32368","Kimberly Martinez",20251008,"D").
-shift_data("32368","Kimberly Martinez",20251009,"D").
-shift_data("32368","Kimberly Martinez",20251010,"AL").
-shift_data("32368","Kimberly Martinez",20251011,"WR").
-shift_data("32368","Kimberly Martinez",20251012,"WR").
-shift_data("32368","Kimberly Martinez",20251013,"PH").
-shift_data("32368","Kimberly Martinez",20251014,"D").
-shift_data("32368","Kimberly Martinez",20251015,"D").
-shift_data("32368","Kimberly Martinez",20251016,"D").
-shift_data("32368","Kimberly Martinez",20251017,"LD").
-shift_data("32368","Kimberly Martinez",20251018,"WR").
-shift_data("32368","Kimberly Martinez",20251019,"D").
-shift_data("32368","Kimberly Martinez",20251020,"D").
-shift_data("32368","Kimberly Martinez",20251021,"D").
-shift_data("32368","Kimberly Martinez",20251022,"D").
-shift_data("32368","Kimberly Martinez",20251023,"WR").
-shift_data("32368","Kimberly Martinez",20251024,"SE").
-shift_data("32368","Kimberly Martinez",20251025,"SN").
-shift_data("32368","Kimberly Martinez",20251026,"WR").
-shift_data("32368","Kimberly Martinez",20251027,"D").
-shift_data("32368","Kimberly Martinez",20251028,"WR").
-shift_data("32368","Kimberly Martinez",20251029,"WR").
-shift_data("32368","Kimberly Martinez",20251030,"D").
-shift_data("32368","Kimberly Martinez",20251031,"SE").
-shift_data("32368","Kimberly Martinez",20251101,"SN").
-shift_data("32368","Kimberly Martinez",20251102,"WR").
-shift_data("32368","Kimberly Martinez",20251103,"PH").
-shift_data("32368","Kimberly Martinez",20251104,"D").
-shift_data("32368","Kimberly Martinez",20251105,"D").
-shift_data("32368","Kimberly Martinez",20251106,"D").
-shift_data("32368","Kimberly Martinez",20251107,"LD").
-shift_data("32368","Kimberly Martinez",20251108,"WR").
-shift_data("32368","Kimberly Martinez",20251109,"D").
-shift_data("32368","Kimberly Martinez",20251110,"D").
-shift_data("32368","Kimberly Martinez",20251111,"D").
-shift_data("32368","Kimberly Martinez",20251112,"WR").
-shift_data("32368","Kimberly Martinez",20251113,"D").
-shift_data("32368","Kimberly Martinez",20251114,"SE").
-shift_data("32368","Kimberly Martinez",20251115,"SN").
-shift_data("32368","Kimberly Martinez",20251116,"WR").
-shift_data("32368","Kimberly Martinez",20251117,"D").
-shift_data("32368","Kimberly Martinez",20251118,"D").
-shift_data("32368","Kimberly Martinez",20251119,"WR").
-shift_data("32368","Kimberly Martinez",20251120,"SE").
-shift_data("32368","Kimberly Martinez",20251121,"SN").
-shift_data("32368","Kimberly Martinez",20251122,"WR").
-shift_data("32368","Kimberly Martinez",20251123,"D").
-shift_data("32368","Kimberly Martinez",20251124,"PH").
-shift_data("32368","Kimberly Martinez",20251125,"D").
-shift_data("32368","Kimberly Martinez",20251126,"D").
-shift_data("32368","Kimberly Martinez",20251127,"WR").
-shift_data("32368","Kimberly Martinez",20251128,"LD").
-shift_data("32368","Kimberly Martinez",20251129,"WR").
-shift_data("32368","Kimberly Martinez",20251130,"WR").
-shift_data("32368","Kimberly Martinez",20251201,"SP").
-shift_data("32368","Kimberly Martinez",20251202,"SP").
-shift_data("32368","Kimberly Martinez",20251203,"SP").
-shift_data("32368","Kimberly Martinez",20251204,"SP").
-shift_data("32368","Kimberly Martinez",20251205,"SP").
-shift_data("32368","Kimberly Martinez",20251206,"WR").
-shift_data("32368","Kimberly Martinez",20251207,"SL").
-shift_data("32368","Kimberly Martinez",20251208,"SL").
-shift_data("32368","Kimberly Martinez",20251209,"D").
-shift_data("32368","Kimberly Martinez",20251210,"WR").
-shift_data("32368","Kimberly Martinez",20251211,"D").
-shift_data("32368","Kimberly Martinez",20251212,"AL").
-shift_data("32368","Kimberly Martinez",20251213,"WR").
-shift_data("32368","Kimberly Martinez",20251214,"WR").
-shift_data("32368","Kimberly Martinez",20251215,"D").
-shift_data("32368","Kimberly Martinez",20251216,"D").
-shift_data("32368","Kimberly Martinez",20251217,"D").
-shift_data("32368","Kimberly Martinez",20251218,"LD").
-shift_data("32368","Kimberly Martinez",20251219,"WR").
-shift_data("32368","Kimberly Martinez",20251220,"WR").
-shift_data("32368","Kimberly Martinez",20251221,"WR").
-shift_data("32368","Kimberly Martinez",20251222,"LD").
-shift_data("32368","Kimberly Martinez",20251223,"WR").
-shift_data("32368","Kimberly Martinez",20251224,"D").
-shift_data("32368","Kimberly Martinez",20251225,"LD").
-shift_data("32368","Kimberly Martinez",20251226,"SE").
-shift_data("32368","Kimberly Martinez",20251227,"SN").
-shift_data("32368","Kimberly Martinez",20251228,"WR").
-shift_data("32368","Kimberly Martinez",20251229,"SE").
-shift_data("32368","Kimberly Martinez",20251230,"SN").
-shift_data("32368","Kimberly Martinez",20251231,"PH").
-shift_data("324321","nan",20250405,"WR").
-shift_data("324321","nan",20250406,"WR").
-shift_data("324321","nan",20250412,"WR").
-shift_data("324321","nan",20250413,"WR").
-shift_data("324321","nan",20250419,"WR").
-shift_data("324321","nan",20250420,"WR").
-shift_data("324321","nan",20250426,"WR").
-shift_data("324321","nan",20250427,"WR").
-shift_data("324321","nan",20250429,"PH").
-shift_data("324321","nan",20250503,"WR").
-shift_data("324321","nan",20250504,"WR").
-shift_data("324321","nan",20250505,"PH").
-shift_data("324321","nan",20250506,"PH").
-shift_data("324321","nan",20250507,"AL").
-shift_data("324321","nan",20250508,"AL").
-shift_data("324321","nan",20250509,"AL").
-shift_data("324321","nan",20250510,"WR").
-shift_data("324321","nan",20250511,"WR").
-shift_data("324321","nan",20250512,"AL").
-shift_data("324321","nan",20250513,"AL").
-shift_data("324321","nan",20250516,"HL").
-shift_data("324321","nan",20250517,"WR").
-shift_data("324321","nan",20250518,"WR").
-shift_data("324321","nan",20250520,"AL").
-shift_data("324321","nan",20250524,"WR").
-shift_data("324321","nan",20250525,"WR").
-shift_data("324321","nan",20250531,"WR").
-shift_data("324321","nan",20250601,"WR").
-shift_data("324321","nan",20250606,"HL").
-shift_data("324321","nan",20250607,"WR").
-shift_data("324321","nan",20250608,"WR").
-shift_data("324321","nan",20250614,"WR").
-shift_data("324321","nan",20250615,"WR").
-shift_data("324321","nan",20250621,"WR").
-shift_data("324321","nan",20250622,"WR").
-shift_data("324321","nan",20250628,"WR").
-shift_data("324321","nan",20250629,"WR").
-shift_data("324321","nan",20250705,"WR").
-shift_data("324321","nan",20250706,"WR").
-shift_data("324321","nan",20250712,"WR").
-shift_data("324321","nan",20250713,"WR").
-shift_data("324321","nan",20250719,"WR").
-shift_data("324321","nan",20250720,"WR").
-shift_data("324321","nan",20250721,"PH").
-shift_data("324321","nan",20250725,"AL").
-shift_data("324321","nan",20250726,"WR").
-shift_data("324321","nan",20250727,"WR").
-shift_data("324321","nan",20250731,"AL").
-shift_data("324321","nan",20250802,"WR").
-shift_data("324321","nan",20250803,"WR").
-shift_data("324321","nan",20250809,"WR").
-shift_data("324321","nan",20250810,"WR").
-shift_data("324321","nan",20250811,"PH").
-shift_data("324321","nan",20250814,"HL").
-shift_data("324321","nan",20250815,"HL").
-shift_data("324321","nan",20250816,"WR").
-shift_data("324321","nan",20250817,"WR").
-shift_data("324321","nan",20250823,"WR").
-shift_data("324321","nan",20250824,"WR").
-shift_data("324321","nan",20250830,"WR").
-shift_data("324321","nan",20250831,"WR").
-shift_data("324321","nan",20250906,"WR").
-shift_data("324321","nan",20250907,"WR").
-shift_data("324321","nan",20250913,"WR").
-shift_data("324321","nan",20250914,"WR").
-shift_data("324321","nan",20250915,"PH").
-shift_data("324321","nan",20250919,"AL").
-shift_data("324321","nan",20250920,"WR").
-shift_data("324321","nan",20250921,"WR").
-shift_data("324321","nan",20250923,"PH").
-shift_data("324321","nan",20250927,"WR").
-shift_data("324321","nan",20250928,"WR").
-shift_data("324321","nan",20251004,"WR").
-shift_data("324321","nan",20251005,"WR").
-shift_data("324321","nan",20251007,"AL").
-shift_data("324321","nan",20251008,"AL").
-shift_data("324321","nan",20251011,"WR").
-shift_data("324321","nan",20251012,"WR").
-shift_data("324321","nan",20251013,"PH").
-shift_data("324321","nan",20251018,"WR").
-shift_data("324321","nan",20251019,"WR").
-shift_data("324321","nan",20251024,"AL").
-shift_data("324321","nan",20251025,"WR").
-shift_data("324321","nan",20251026,"WR").
-shift_data("324321","nan",20251029,"AL").
-shift_data("324321","nan",20251101,"WR").
-shift_data("324321","nan",20251102,"WR").
-shift_data("324321","nan",20251103,"PH").
-shift_data("324321","nan",20251106,"AL").
-shift_data("324321","nan",20251107,"AL").
-shift_data("324321","nan",20251108,"WR").
-shift_data("324321","nan",20251109,"WR").
-shift_data("324321","nan",20251115,"WR").
-shift_data("324321","nan",20251116,"WR").
-shift_data("324321","nan",20251122,"WR").
-shift_data("324321","nan",20251123,"WR").
-shift_data("324321","nan",20251124,"PH").
-shift_data("324321","nan",20251128,"AL").
-shift_data("324321","nan",20251129,"WR").
-shift_data("324321","nan",20251130,"WR").
-shift_data("324321","nan",20251206,"WR").
-shift_data("324321","nan",20251207,"WR").
-shift_data("324321","nan",20251213,"WR").
-shift_data("324321","nan",20251214,"WR").
-shift_data("324321","nan",20251220,"WR").
-shift_data("324321","nan",20251221,"WR").
-shift_data("324321","nan",20251227,"WR").
-shift_data("324321","nan",20251228,"WR").
-shift_data("324321","nan",20251229,"PH").
-shift_data("324321","nan",20251230,"PH").
-shift_data("324321","nan",20251231,"PH").
 shift_data("32803","Stacey Rivers",20200921,"D").
 shift_data("32803","Stacey Rivers",20200922,"D").
 shift_data("32803","Stacey Rivers",20200923,"D").
@@ -17795,281 +15179,6 @@ shift_data("33231","Katie Perkins",20250203,"AL").
 shift_data("33231","Katie Perkins",20250204,"WR").
 shift_data("33231","Katie Perkins",20250219,"D").
 shift_data("33231","Katie Perkins",20250307,"D").
-shift_data("33231","Katie Perkins",20250401,"WR").
-shift_data("33231","Katie Perkins",20250402,"WR").
-shift_data("33231","Katie Perkins",20250403,"LD").
-shift_data("33231","Katie Perkins",20250404,"SE").
-shift_data("33231","Katie Perkins",20250405,"SN").
-shift_data("33231","Katie Perkins",20250406,"SE").
-shift_data("33231","Katie Perkins",20250407,"SN").
-shift_data("33231","Katie Perkins",20250408,"WR").
-shift_data("33231","Katie Perkins",20250409,"LD").
-shift_data("33231","Katie Perkins",20250410,"WR").
-shift_data("33231","Katie Perkins",20250411,"SE").
-shift_data("33231","Katie Perkins",20250412,"SN").
-shift_data("33231","Katie Perkins",20250413,"SE").
-shift_data("33231","Katie Perkins",20250414,"SN").
-shift_data("33231","Katie Perkins",20250415,"WR").
-shift_data("33231","Katie Perkins",20250416,"SE").
-shift_data("33231","Katie Perkins",20250417,"SN").
-shift_data("33231","Katie Perkins",20250418,"WR").
-shift_data("33231","Katie Perkins",20250419,"LD").
-shift_data("33231","Katie Perkins",20250420,"WR").
-shift_data("33231","Katie Perkins",20250421,"LD").
-shift_data("33231","Katie Perkins",20250422,"SE").
-shift_data("33231","Katie Perkins",20250423,"SN").
-shift_data("33231","Katie Perkins",20250424,"WR").
-shift_data("33231","Katie Perkins",20250425,"D").
-shift_data("33231","Katie Perkins",20250426,"LD").
-shift_data("33231","Katie Perkins",20250427,"SE").
-shift_data("33231","Katie Perkins",20250428,"SN").
-shift_data("33231","Katie Perkins",20250429,"SE").
-shift_data("33231","Katie Perkins",20250430,"SN").
-shift_data("33231","Katie Perkins",20250501,"WR").
-shift_data("33231","Katie Perkins",20250502,"WR").
-shift_data("33231","Katie Perkins",20250503,"WR").
-shift_data("33231","Katie Perkins",20250504,"LD").
-shift_data("33231","Katie Perkins",20250505,"PH").
-shift_data("33231","Katie Perkins",20250506,"D").
-shift_data("33231","Katie Perkins",20250507,"LD").
-shift_data("33231","Katie Perkins",20250508,"SE").
-shift_data("33231","Katie Perkins",20250509,"SN").
-shift_data("33231","Katie Perkins",20250510,"WR").
-shift_data("33231","Katie Perkins",20250511,"SE").
-shift_data("33231","Katie Perkins",20250512,"SN").
-shift_data("33231","Katie Perkins",20250513,"WR").
-shift_data("33231","Katie Perkins",20250514,"LD").
-shift_data("33231","Katie Perkins",20250515,"SE").
-shift_data("33231","Katie Perkins",20250516,"SN").
-shift_data("33231","Katie Perkins",20250517,"WR").
-shift_data("33231","Katie Perkins",20250518,"LD").
-shift_data("33231","Katie Perkins",20250519,"WR").
-shift_data("33231","Katie Perkins",20250520,"LD").
-shift_data("33231","Katie Perkins",20250521,"SE").
-shift_data("33231","Katie Perkins",20250522,"SN").
-shift_data("33231","Katie Perkins",20250523,"WR").
-shift_data("33231","Katie Perkins",20250524,"LD").
-shift_data("33231","Katie Perkins",20250525,"SE").
-shift_data("33231","Katie Perkins",20250526,"SN").
-shift_data("33231","Katie Perkins",20250527,"SE").
-shift_data("33231","Katie Perkins",20250528,"SN").
-shift_data("33231","Katie Perkins",20250529,"WR").
-shift_data("33231","Katie Perkins",20250530,"LD").
-shift_data("33231","Katie Perkins",20250531,"WR").
-shift_data("33231","Katie Perkins",20250601,"D").
-shift_data("33231","Katie Perkins",20250602,"LD").
-shift_data("33231","Katie Perkins",20250603,"WR").
-shift_data("33231","Katie Perkins",20250604,"LD").
-shift_data("33231","Katie Perkins",20250605,"SE").
-shift_data("33231","Katie Perkins",20250606,"SN").
-shift_data("33231","Katie Perkins",20250607,"WR").
-shift_data("33231","Katie Perkins",20250608,"WR").
-shift_data("33231","Katie Perkins",20250609,"LD").
-shift_data("33231","Katie Perkins",20250610,"SE").
-shift_data("33231","Katie Perkins",20250611,"SN").
-shift_data("33231","Katie Perkins",20250612,"SE").
-shift_data("33231","Katie Perkins",20250613,"SN").
-shift_data("33231","Katie Perkins",20250614,"WR").
-shift_data("33231","Katie Perkins",20250615,"WR").
-shift_data("33231","Katie Perkins",20250616,"D").
-shift_data("33231","Katie Perkins",20250617,"LD").
-shift_data("33231","Katie Perkins",20250618,"SE").
-shift_data("33231","Katie Perkins",20250619,"SN").
-shift_data("33231","Katie Perkins",20250620,"WR").
-shift_data("33231","Katie Perkins",20250621,"LD").
-shift_data("33231","Katie Perkins",20250622,"SE").
-shift_data("33231","Katie Perkins",20250623,"SN").
-shift_data("33231","Katie Perkins",20250624,"WR").
-shift_data("33231","Katie Perkins",20250625,"SE").
-shift_data("33231","Katie Perkins",20250626,"SN").
-shift_data("33231","Katie Perkins",20250627,"WR").
-shift_data("33231","Katie Perkins",20250628,"WR").
-shift_data("33231","Katie Perkins",20250629,"LD").
-shift_data("33231","Katie Perkins",20250630,"SE").
-shift_data("33231","Katie Perkins",20250701,"SN").
-shift_data("33231","Katie Perkins",20250702,"WR").
-shift_data("33231","Katie Perkins",20250703,"LD").
-shift_data("33231","Katie Perkins",20250704,"SE").
-shift_data("33231","Katie Perkins",20250705,"SN").
-shift_data("33231","Katie Perkins",20250706,"WR").
-shift_data("33231","Katie Perkins",20250707,"D").
-shift_data("33231","Katie Perkins",20250708,"LD").
-shift_data("33231","Katie Perkins",20250709,"WR").
-shift_data("33231","Katie Perkins",20250710,"LD").
-shift_data("33231","Katie Perkins",20250711,"WR").
-shift_data("33231","Katie Perkins",20250712,"D").
-shift_data("33231","Katie Perkins",20250713,"LD").
-shift_data("33231","Katie Perkins",20250714,"SE").
-shift_data("33231","Katie Perkins",20250715,"SN").
-shift_data("33231","Katie Perkins",20250716,"WR").
-shift_data("33231","Katie Perkins",20250717,"AL").
-shift_data("33231","Katie Perkins",20250718,"LD").
-shift_data("33231","Katie Perkins",20250719,"SE").
-shift_data("33231","Katie Perkins",20250720,"SN").
-shift_data("33231","Katie Perkins",20250721,"PH").
-shift_data("33231","Katie Perkins",20250722,"LD").
-shift_data("33231","Katie Perkins",20250723,"WR").
-shift_data("33231","Katie Perkins",20250724,"D").
-shift_data("33231","Katie Perkins",20250725,"WR").
-shift_data("33231","Katie Perkins",20250726,"SE").
-shift_data("33231","Katie Perkins",20250727,"SN").
-shift_data("33231","Katie Perkins",20250728,"WR").
-shift_data("33231","Katie Perkins",20250729,"D").
-shift_data("33231","Katie Perkins",20250730,"LD").
-shift_data("33231","Katie Perkins",20250731,"WR").
-shift_data("33231","Katie Perkins",20250801,"LD").
-shift_data("33231","Katie Perkins",20250802,"SE").
-shift_data("33231","Katie Perkins",20250803,"SN").
-shift_data("33231","Katie Perkins",20250804,"WR").
-shift_data("33231","Katie Perkins",20250805,"LD").
-shift_data("33231","Katie Perkins",20250806,"SE").
-shift_data("33231","Katie Perkins",20250807,"SN").
-shift_data("33231","Katie Perkins",20250808,"WR").
-shift_data("33231","Katie Perkins",20250809,"WR").
-shift_data("33231","Katie Perkins",20250810,"AL").
-shift_data("33231","Katie Perkins",20250811,"SE").
-shift_data("33231","Katie Perkins",20250812,"SN").
-shift_data("33231","Katie Perkins",20250813,"WR").
-shift_data("33231","Katie Perkins",20250814,"LD").
-shift_data("33231","Katie Perkins",20250815,"SE").
-shift_data("33231","Katie Perkins",20250816,"SN").
-shift_data("33231","Katie Perkins",20250817,"SE").
-shift_data("33231","Katie Perkins",20250818,"SN").
-shift_data("33231","Katie Perkins",20250819,"WR").
-shift_data("33231","Katie Perkins",20250820,"LD").
-shift_data("33231","Katie Perkins",20250821,"WR").
-shift_data("33231","Katie Perkins",20250822,"LD").
-shift_data("33231","Katie Perkins",20250823,"WR").
-shift_data("33231","Katie Perkins",20250824,"WR").
-shift_data("33231","Katie Perkins",20250825,"LD").
-shift_data("33231","Katie Perkins",20250826,"LM").
-shift_data("33231","Katie Perkins",20250827,"SE").
-shift_data("33231","Katie Perkins",20250828,"SN").
-shift_data("33231","Katie Perkins",20250829,"HL").
-shift_data("33231","Katie Perkins",20250830,"WR").
-shift_data("33231","Katie Perkins",20250831,"D").
-shift_data("33231","Katie Perkins",20250901,"LD").
-shift_data("33231","Katie Perkins",20250902,"SE").
-shift_data("33231","Katie Perkins",20250903,"SN").
-shift_data("33231","Katie Perkins",20250904,"WR").
-shift_data("33231","Katie Perkins",20250905,"D").
-shift_data("33231","Katie Perkins",20250906,"LD").
-shift_data("33231","Katie Perkins",20250907,"SE").
-shift_data("33231","Katie Perkins",20250908,"SN").
-shift_data("33231","Katie Perkins",20250909,"WR").
-shift_data("33231","Katie Perkins",20250910,"SE").
-shift_data("33231","Katie Perkins",20250911,"SN").
-shift_data("33231","Katie Perkins",20250912,"HL").
-shift_data("33231","Katie Perkins",20250913,"WR").
-shift_data("33231","Katie Perkins",20250914,"WR").
-shift_data("33231","Katie Perkins",20250915,"LD").
-shift_data("33231","Katie Perkins",20250916,"SE").
-shift_data("33231","Katie Perkins",20250917,"SN").
-shift_data("33231","Katie Perkins",20250918,"WR").
-shift_data("33231","Katie Perkins",20250919,"D").
-shift_data("33231","Katie Perkins",20250920,"D").
-shift_data("33231","Katie Perkins",20250921,"LD").
-shift_data("33231","Katie Perkins",20250922,"AL").
-shift_data("33231","Katie Perkins",20250923,"PH").
-shift_data("33231","Katie Perkins",20250924,"LD").
-shift_data("33231","Katie Perkins",20250925,"SE").
-shift_data("33231","Katie Perkins",20250926,"SN").
-shift_data("33231","Katie Perkins",20250927,"WR").
-shift_data("33231","Katie Perkins",20250928,"WR").
-shift_data("33231","Katie Perkins",20250929,"SE").
-shift_data("33231","Katie Perkins",20250930,"SN").
-shift_data("33231","Katie Perkins",20251001,"WR").
-shift_data("33231","Katie Perkins",20251002,"WR").
-shift_data("33231","Katie Perkins",20251003,"LD").
-shift_data("33231","Katie Perkins",20251004,"SE").
-shift_data("33231","Katie Perkins",20251005,"SN").
-shift_data("33231","Katie Perkins",20251006,"HL").
-shift_data("33231","Katie Perkins",20251007,"WR").
-shift_data("33231","Katie Perkins",20251008,"LD").
-shift_data("33231","Katie Perkins",20251009,"WR").
-shift_data("33231","Katie Perkins",20251010,"SE").
-shift_data("33231","Katie Perkins",20251011,"SN").
-shift_data("33231","Katie Perkins",20251012,"SE").
-shift_data("33231","Katie Perkins",20251013,"SN").
-shift_data("33231","Katie Perkins",20251014,"AL").
-shift_data("33231","Katie Perkins",20251015,"WR").
-shift_data("33231","Katie Perkins",20251016,"LD").
-shift_data("33231","Katie Perkins",20251017,"SE").
-shift_data("33231","Katie Perkins",20251018,"SN").
-shift_data("33231","Katie Perkins",20251019,"SE").
-shift_data("33231","Katie Perkins",20251020,"SN").
-shift_data("33231","Katie Perkins",20251021,"WR").
-shift_data("33231","Katie Perkins",20251022,"LD").
-shift_data("33231","Katie Perkins",20251023,"WR").
-shift_data("33231","Katie Perkins",20251024,"LD").
-shift_data("33231","Katie Perkins",20251025,"WR").
-shift_data("33231","Katie Perkins",20251026,"HL").
-shift_data("33231","Katie Perkins",20251027,"WR").
-shift_data("33231","Katie Perkins",20251028,"D").
-shift_data("33231","Katie Perkins",20251029,"LD").
-shift_data("33231","Katie Perkins",20251030,"SE").
-shift_data("33231","Katie Perkins",20251031,"SN").
-shift_data("33231","Katie Perkins",20251101,"WR").
-shift_data("33231","Katie Perkins",20251102,"SE").
-shift_data("33231","Katie Perkins",20251103,"SN").
-shift_data("33231","Katie Perkins",20251104,"WR").
-shift_data("33231","Katie Perkins",20251105,"AL").
-shift_data("33231","Katie Perkins",20251106,"D").
-shift_data("33231","Katie Perkins",20251107,"LD").
-shift_data("33231","Katie Perkins",20251108,"WR").
-shift_data("33231","Katie Perkins",20251109,"WR").
-shift_data("33231","Katie Perkins",20251110,"D").
-shift_data("33231","Katie Perkins",20251111,"LD").
-shift_data("33231","Katie Perkins",20251112,"SE").
-shift_data("33231","Katie Perkins",20251113,"SN").
-shift_data("33231","Katie Perkins",20251114,"AL").
-shift_data("33231","Katie Perkins",20251115,"WR").
-shift_data("33231","Katie Perkins",20251116,"D").
-shift_data("33231","Katie Perkins",20251117,"LD").
-shift_data("33231","Katie Perkins",20251118,"SE").
-shift_data("33231","Katie Perkins",20251119,"SN").
-shift_data("33231","Katie Perkins",20251120,"WR").
-shift_data("33231","Katie Perkins",20251121,"WR").
-shift_data("33231","Katie Perkins",20251122,"WR").
-shift_data("33231","Katie Perkins",20251123,"D").
-shift_data("33231","Katie Perkins",20251124,"LD").
-shift_data("33231","Katie Perkins",20251125,"SE").
-shift_data("33231","Katie Perkins",20251126,"SN").
-shift_data("33231","Katie Perkins",20251127,"WR").
-shift_data("33231","Katie Perkins",20251128,"WR").
-shift_data("33231","Katie Perkins",20251129,"LD").
-shift_data("33231","Katie Perkins",20251130,"SE").
-shift_data("33231","Katie Perkins",20251201,"SN").
-shift_data("33231","Katie Perkins",20251202,"WR").
-shift_data("33231","Katie Perkins",20251203,"D").
-shift_data("33231","Katie Perkins",20251204,"LD").
-shift_data("33231","Katie Perkins",20251205,"SE").
-shift_data("33231","Katie Perkins",20251206,"SN").
-shift_data("33231","Katie Perkins",20251207,"WR").
-shift_data("33231","Katie Perkins",20251208,"LD").
-shift_data("33231","Katie Perkins",20251209,"SE").
-shift_data("33231","Katie Perkins",20251210,"SN").
-shift_data("33231","Katie Perkins",20251211,"WR").
-shift_data("33231","Katie Perkins",20251212,"LD").
-shift_data("33231","Katie Perkins",20251213,"SE").
-shift_data("33231","Katie Perkins",20251214,"SN").
-shift_data("33231","Katie Perkins",20251215,"WR").
-shift_data("33231","Katie Perkins",20251216,"LD").
-shift_data("33231","Katie Perkins",20251217,"SE").
-shift_data("33231","Katie Perkins",20251218,"SN").
-shift_data("33231","Katie Perkins",20251219,"WR").
-shift_data("33231","Katie Perkins",20251220,"WR").
-shift_data("33231","Katie Perkins",20251221,"WR").
-shift_data("33231","Katie Perkins",20251222,"SE").
-shift_data("33231","Katie Perkins",20251223,"SN").
-shift_data("33231","Katie Perkins",20251224,"WR").
-shift_data("33231","Katie Perkins",20251225,"LD").
-shift_data("33231","Katie Perkins",20251226,"SE").
-shift_data("33231","Katie Perkins",20251227,"SN").
-shift_data("33231","Katie Perkins",20251228,"WR").
-shift_data("33231","Katie Perkins",20251229,"LD").
-shift_data("33231","Katie Perkins",20251230,"SE").
-shift_data("33231","Katie Perkins",20251231,"SN").
 shift_data("34054", "Jane Taylor", 20250801, "WR").
 shift_data("34054", "Jane Taylor", 20250802, "LD").
 shift_data("34054", "Jane Taylor", 20250803, "WR").
@@ -18456,281 +15565,6 @@ shift_data("34054","Jane Taylor",20250104,"LD").
 shift_data("34054","Jane Taylor",20250218,"D").
 shift_data("34054","Jane Taylor",20250314,"AL").
 shift_data("34054","Jane Taylor",20250315,"AL").
-shift_data("34054","Jane Taylor",20250401,"SN").
-shift_data("34054","Jane Taylor",20250402,"SE").
-shift_data("34054","Jane Taylor",20250403,"SN").
-shift_data("34054","Jane Taylor",20250404,"WR").
-shift_data("34054","Jane Taylor",20250405,"LD").
-shift_data("34054","Jane Taylor",20250406,"WR").
-shift_data("34054","Jane Taylor",20250407,"LD").
-shift_data("34054","Jane Taylor",20250408,"WR").
-shift_data("34054","Jane Taylor",20250409,"LD").
-shift_data("34054","Jane Taylor",20250410,"SE").
-shift_data("34054","Jane Taylor",20250411,"SN").
-shift_data("34054","Jane Taylor",20250412,"WR").
-shift_data("34054","Jane Taylor",20250413,"WR").
-shift_data("34054","Jane Taylor",20250414,"LD").
-shift_data("34054","Jane Taylor",20250415,"SE").
-shift_data("34054","Jane Taylor",20250416,"SN").
-shift_data("34054","Jane Taylor",20250417,"WR").
-shift_data("34054","Jane Taylor",20250418,"D").
-shift_data("34054","Jane Taylor",20250419,"AL").
-shift_data("34054","Jane Taylor",20250420,"LD").
-shift_data("34054","Jane Taylor",20250421,"SE").
-shift_data("34054","Jane Taylor",20250422,"SN").
-shift_data("34054","Jane Taylor",20250423,"WR").
-shift_data("34054","Jane Taylor",20250424,"LD").
-shift_data("34054","Jane Taylor",20250425,"SE").
-shift_data("34054","Jane Taylor",20250426,"SN").
-shift_data("34054","Jane Taylor",20250427,"WR").
-shift_data("34054","Jane Taylor",20250428,"LD").
-shift_data("34054","Jane Taylor",20250429,"PH").
-shift_data("34054","Jane Taylor",20250430,"WR").
-shift_data("34054","Jane Taylor",20250501,"WR").
-shift_data("34054","Jane Taylor",20250502,"LD").
-shift_data("34054","Jane Taylor",20250503,"SE").
-shift_data("34054","Jane Taylor",20250504,"SN").
-shift_data("34054","Jane Taylor",20250505,"PH").
-shift_data("34054","Jane Taylor",20250506,"LD").
-shift_data("34054","Jane Taylor",20250507,"SE").
-shift_data("34054","Jane Taylor",20250508,"SN").
-shift_data("34054","Jane Taylor",20250509,"SE").
-shift_data("34054","Jane Taylor",20250510,"SN").
-shift_data("34054","Jane Taylor",20250511,"WR").
-shift_data("34054","Jane Taylor",20250512,"WR").
-shift_data("34054","Jane Taylor",20250513,"LD").
-shift_data("34054","Jane Taylor",20250514,"WR").
-shift_data("34054","Jane Taylor",20250515,"LD").
-shift_data("34054","Jane Taylor",20250516,"SE").
-shift_data("34054","Jane Taylor",20250517,"SN").
-shift_data("34054","Jane Taylor",20250518,"WR").
-shift_data("34054","Jane Taylor",20250519,"LD").
-shift_data("34054","Jane Taylor",20250520,"SE").
-shift_data("34054","Jane Taylor",20250521,"SN").
-shift_data("34054","Jane Taylor",20250522,"SE").
-shift_data("34054","Jane Taylor",20250523,"SN").
-shift_data("34054","Jane Taylor",20250524,"WR").
-shift_data("34054","Jane Taylor",20250525,"LD").
-shift_data("34054","Jane Taylor",20250526,"SE").
-shift_data("34054","Jane Taylor",20250527,"SN").
-shift_data("34054","Jane Taylor",20250528,"WR").
-shift_data("34054","Jane Taylor",20250529,"LD").
-shift_data("34054","Jane Taylor",20250530,"SE").
-shift_data("34054","Jane Taylor",20250531,"SN").
-shift_data("34054","Jane Taylor",20250601,"WR").
-shift_data("34054","Jane Taylor",20250602,"WR").
-shift_data("34054","Jane Taylor",20250603,"LD").
-shift_data("34054","Jane Taylor",20250604,"SE").
-shift_data("34054","Jane Taylor",20250605,"SN").
-shift_data("34054","Jane Taylor",20250606,"SE").
-shift_data("34054","Jane Taylor",20250607,"SN").
-shift_data("34054","Jane Taylor",20250608,"WR").
-shift_data("34054","Jane Taylor",20250609,"LD").
-shift_data("34054","Jane Taylor",20250610,"WR").
-shift_data("34054","Jane Taylor",20250611,"WR").
-shift_data("34054","Jane Taylor",20250612,"LD").
-shift_data("34054","Jane Taylor",20250613,"SE").
-shift_data("34054","Jane Taylor",20250614,"SN").
-shift_data("34054","Jane Taylor",20250615,"WR").
-shift_data("34054","Jane Taylor",20250616,"BL").
-shift_data("34054","Jane Taylor",20250617,"WR").
-shift_data("34054","Jane Taylor",20250618,"D").
-shift_data("34054","Jane Taylor",20250619,"LD").
-shift_data("34054","Jane Taylor",20250620,"SE").
-shift_data("34054","Jane Taylor",20250621,"SN").
-shift_data("34054","Jane Taylor",20250622,"WR").
-shift_data("34054","Jane Taylor",20250623,"LD").
-shift_data("34054","Jane Taylor",20250624,"SE").
-shift_data("34054","Jane Taylor",20250625,"SN").
-shift_data("34054","Jane Taylor",20250626,"SE").
-shift_data("34054","Jane Taylor",20250627,"SN").
-shift_data("34054","Jane Taylor",20250628,"WR").
-shift_data("34054","Jane Taylor",20250629,"LD").
-shift_data("34054","Jane Taylor",20250630,"SE").
-shift_data("34054","Jane Taylor",20250701,"SN").
-shift_data("34054","Jane Taylor",20250702,"WR").
-shift_data("34054","Jane Taylor",20250703,"D").
-shift_data("34054","Jane Taylor",20250704,"LD").
-shift_data("34054","Jane Taylor",20250705,"SE").
-shift_data("34054","Jane Taylor",20250706,"SN").
-shift_data("34054","Jane Taylor",20250707,"WR").
-shift_data("34054","Jane Taylor",20250708,"LD").
-shift_data("34054","Jane Taylor",20250709,"SE").
-shift_data("34054","Jane Taylor",20250710,"SN").
-shift_data("34054","Jane Taylor",20250711,"WR").
-shift_data("34054","Jane Taylor",20250712,"WR").
-shift_data("34054","Jane Taylor",20250713,"SE").
-shift_data("34054","Jane Taylor",20250714,"SN").
-shift_data("34054","Jane Taylor",20250715,"WR").
-shift_data("34054","Jane Taylor",20250716,"LD").
-shift_data("34054","Jane Taylor",20250717,"WR").
-shift_data("34054","Jane Taylor",20250718,"AL").
-shift_data("34054","Jane Taylor",20250719,"LD").
-shift_data("34054","Jane Taylor",20250720,"HL").
-shift_data("34054","Jane Taylor",20250721,"PH").
-shift_data("34054","Jane Taylor",20250722,"WR").
-shift_data("34054","Jane Taylor",20250723,"LD").
-shift_data("34054","Jane Taylor",20250724,"SE").
-shift_data("34054","Jane Taylor",20250725,"SN").
-shift_data("34054","Jane Taylor",20250726,"SE").
-shift_data("34054","Jane Taylor",20250727,"SN").
-shift_data("34054","Jane Taylor",20250728,"WR").
-shift_data("34054","Jane Taylor",20250729,"D").
-shift_data("34054","Jane Taylor",20250730,"SE").
-shift_data("34054","Jane Taylor",20250731,"SN").
-shift_data("34054","Jane Taylor",20250801,"WR").
-shift_data("34054","Jane Taylor",20250802,"LD").
-shift_data("34054","Jane Taylor",20250803,"WR").
-shift_data("34054","Jane Taylor",20250804,"LD").
-shift_data("34054","Jane Taylor",20250805,"WR").
-shift_data("34054","Jane Taylor",20250806,"D").
-shift_data("34054","Jane Taylor",20250807,"LM").
-shift_data("34054","Jane Taylor",20250808,"WR").
-shift_data("34054","Jane Taylor",20250809,"LD").
-shift_data("34054","Jane Taylor",20250810,"WR").
-shift_data("34054","Jane Taylor",20250811,"LD").
-shift_data("34054","Jane Taylor",20250812,"SE").
-shift_data("34054","Jane Taylor",20250813,"SN").
-shift_data("34054","Jane Taylor",20250814,"WR").
-shift_data("34054","Jane Taylor",20250815,"EM").
-shift_data("34054","Jane Taylor",20250816,"SE").
-shift_data("34054","Jane Taylor",20250817,"SN").
-shift_data("34054","Jane Taylor",20250818,"WR").
-shift_data("34054","Jane Taylor",20250819,"D").
-shift_data("34054","Jane Taylor",20250820,"LD").
-shift_data("34054","Jane Taylor",20250821,"SE").
-shift_data("34054","Jane Taylor",20250822,"SN").
-shift_data("34054","Jane Taylor",20250823,"WR").
-shift_data("34054","Jane Taylor",20250824,"LD").
-shift_data("34054","Jane Taylor",20250825,"SE").
-shift_data("34054","Jane Taylor",20250826,"SN").
-shift_data("34054","Jane Taylor",20250827,"WR").
-shift_data("34054","Jane Taylor",20250828,"HL").
-shift_data("34054","Jane Taylor",20250829,"HL").
-shift_data("34054","Jane Taylor",20250830,"WR").
-shift_data("34054","Jane Taylor",20250831,"LD").
-shift_data("34054","Jane Taylor",20250901,"SE").
-shift_data("34054","Jane Taylor",20250902,"SN").
-shift_data("34054","Jane Taylor",20250903,"WR").
-shift_data("34054","Jane Taylor",20250904,"D").
-shift_data("34054","Jane Taylor",20250905,"EM").
-shift_data("34054","Jane Taylor",20250906,"WR").
-shift_data("34054","Jane Taylor",20250907,"LD").
-shift_data("34054","Jane Taylor",20250908,"SE").
-shift_data("34054","Jane Taylor",20250909,"SN").
-shift_data("34054","Jane Taylor",20250910,"WR").
-shift_data("34054","Jane Taylor",20250911,"WR").
-shift_data("34054","Jane Taylor",20250912,"LD").
-shift_data("34054","Jane Taylor",20250913,"SE").
-shift_data("34054","Jane Taylor",20250914,"SN").
-shift_data("34054","Jane Taylor",20250915,"PH").
-shift_data("34054","Jane Taylor",20250916,"SE").
-shift_data("34054","Jane Taylor",20250917,"SN").
-shift_data("34054","Jane Taylor",20250918,"WR").
-shift_data("34054","Jane Taylor",20250919,"D").
-shift_data("34054","Jane Taylor",20250920,"LD").
-shift_data("34054","Jane Taylor",20250921,"WR").
-shift_data("34054","Jane Taylor",20250922,"LD").
-shift_data("34054","Jane Taylor",20250923,"SE").
-shift_data("34054","Jane Taylor",20250924,"SN").
-shift_data("34054","Jane Taylor",20250925,"WR").
-shift_data("34054","Jane Taylor",20250926,"WR").
-shift_data("34054","Jane Taylor",20250927,"LD").
-shift_data("34054","Jane Taylor",20250928,"SE").
-shift_data("34054","Jane Taylor",20250929,"SN").
-shift_data("34054","Jane Taylor",20250930,"WR").
-shift_data("34054","Jane Taylor",20251001,"D").
-shift_data("34054","Jane Taylor",20251002,"LD").
-shift_data("34054","Jane Taylor",20251003,"SE").
-shift_data("34054","Jane Taylor",20251004,"SN").
-shift_data("34054","Jane Taylor",20251005,"WR").
-shift_data("34054","Jane Taylor",20251006,"LD").
-shift_data("34054","Jane Taylor",20251007,"WR").
-shift_data("34054","Jane Taylor",20251008,"HL").
-shift_data("34054","Jane Taylor",20251009,"AL").
-shift_data("34054","Jane Taylor",20251010,"WR").
-shift_data("34054","Jane Taylor",20251011,"SE").
-shift_data("34054","Jane Taylor",20251012,"SN").
-shift_data("34054","Jane Taylor",20251013,"PH").
-shift_data("34054","Jane Taylor",20251014,"LD").
-shift_data("34054","Jane Taylor",20251015,"WR").
-shift_data("34054","Jane Taylor",20251016,"D").
-shift_data("34054","Jane Taylor",20251017,"WR").
-shift_data("34054","Jane Taylor",20251018,"LD").
-shift_data("34054","Jane Taylor",20251019,"SE").
-shift_data("34054","Jane Taylor",20251020,"SN").
-shift_data("34054","Jane Taylor",20251021,"SE").
-shift_data("34054","Jane Taylor",20251022,"SN").
-shift_data("34054","Jane Taylor",20251023,"WR").
-shift_data("34054","Jane Taylor",20251024,"LD").
-shift_data("34054","Jane Taylor",20251025,"SE").
-shift_data("34054","Jane Taylor",20251026,"SN").
-shift_data("34054","Jane Taylor",20251027,"WR").
-shift_data("34054","Jane Taylor",20251028,"LD").
-shift_data("34054","Jane Taylor",20251029,"SE").
-shift_data("34054","Jane Taylor",20251030,"SN").
-shift_data("34054","Jane Taylor",20251031,"WR").
-shift_data("34054","Jane Taylor",20251101,"D").
-shift_data("34054","Jane Taylor",20251102,"D").
-shift_data("34054","Jane Taylor",20251103,"LD").
-shift_data("34054","Jane Taylor",20251104,"WR").
-shift_data("34054","Jane Taylor",20251105,"WR").
-shift_data("34054","Jane Taylor",20251106,"SE").
-shift_data("34054","Jane Taylor",20251107,"SN").
-shift_data("34054","Jane Taylor",20251108,"WR").
-shift_data("34054","Jane Taylor",20251109,"D").
-shift_data("34054","Jane Taylor",20251110,"LD").
-shift_data("34054","Jane Taylor",20251111,"AL").
-shift_data("34054","Jane Taylor",20251112,"AL").
-shift_data("34054","Jane Taylor",20251113,"WR").
-shift_data("34054","Jane Taylor",20251114,"LD").
-shift_data("34054","Jane Taylor",20251115,"WR").
-shift_data("34054","Jane Taylor",20251116,"LD").
-shift_data("34054","Jane Taylor",20251117,"SE").
-shift_data("34054","Jane Taylor",20251118,"SN").
-shift_data("34054","Jane Taylor",20251119,"WR").
-shift_data("34054","Jane Taylor",20251120,"LM").
-shift_data("34054","Jane Taylor",20251121,"SE").
-shift_data("34054","Jane Taylor",20251122,"SN").
-shift_data("34054","Jane Taylor",20251123,"WR").
-shift_data("34054","Jane Taylor",20251124,"LD").
-shift_data("34054","Jane Taylor",20251125,"WR").
-shift_data("34054","Jane Taylor",20251126,"LD").
-shift_data("34054","Jane Taylor",20251127,"SE").
-shift_data("34054","Jane Taylor",20251128,"SN").
-shift_data("34054","Jane Taylor",20251129,"SE").
-shift_data("34054","Jane Taylor",20251130,"SN").
-shift_data("34054","Jane Taylor",20251201,"WR").
-shift_data("34054","Jane Taylor",20251202,"D").
-shift_data("34054","Jane Taylor",20251203,"D").
-shift_data("34054","Jane Taylor",20251204,"WR").
-shift_data("34054","Jane Taylor",20251205,"WR").
-shift_data("34054","Jane Taylor",20251206,"SE").
-shift_data("34054","Jane Taylor",20251207,"SN").
-shift_data("34054","Jane Taylor",20251208,"AL").
-shift_data("34054","Jane Taylor",20251209,"WR").
-shift_data("34054","Jane Taylor",20251210,"LD").
-shift_data("34054","Jane Taylor",20251211,"SE").
-shift_data("34054","Jane Taylor",20251212,"SN").
-shift_data("34054","Jane Taylor",20251213,"WR").
-shift_data("34054","Jane Taylor",20251214,"LD").
-shift_data("34054","Jane Taylor",20251215,"SE").
-shift_data("34054","Jane Taylor",20251216,"SN").
-shift_data("34054","Jane Taylor",20251217,"WR").
-shift_data("34054","Jane Taylor",20251218,"LD").
-shift_data("34054","Jane Taylor",20251219,"SE").
-shift_data("34054","Jane Taylor",20251220,"SN").
-shift_data("34054","Jane Taylor",20251221,"WR").
-shift_data("34054","Jane Taylor",20251222,"WR").
-shift_data("34054","Jane Taylor",20251223,"WR").
-shift_data("34054","Jane Taylor",20251224,"D").
-shift_data("34054","Jane Taylor",20251225,"WR").
-shift_data("34054","Jane Taylor",20251226,"WR").
-shift_data("34054","Jane Taylor",20251227,"LD").
-shift_data("34054","Jane Taylor",20251228,"SE").
-shift_data("34054","Jane Taylor",20251229,"SN").
-shift_data("34054","Jane Taylor",20251230,"PH").
-shift_data("34054","Jane Taylor",20251231,"PH").
 shift_data("346","Mrs. Sandra Ford",20200922,"PH").
 shift_data("346","Mrs. Sandra Ford",20200926,"WR").
 shift_data("346","Mrs. Sandra Ford",20200927,"WR").
@@ -22239,281 +19073,6 @@ shift_data("36421","Sean Douglas",20230328,"D").
 shift_data("36421","Sean Douglas",20230329,"D").
 shift_data("36421","Sean Douglas",20230330,"AL").
 shift_data("36421","Sean Douglas",20230331,"AL").
-shift_data("372284","nan",20250401,"D").
-shift_data("372284","nan",20250402,"D").
-shift_data("372284","nan",20250403,"D").
-shift_data("372284","nan",20250404,"D").
-shift_data("372284","nan",20250405,"WR").
-shift_data("372284","nan",20250406,"WR").
-shift_data("372284","nan",20250407,"D").
-shift_data("372284","nan",20250408,"D").
-shift_data("372284","nan",20250409,"D").
-shift_data("372284","nan",20250410,"D").
-shift_data("372284","nan",20250411,"D").
-shift_data("372284","nan",20250412,"WR").
-shift_data("372284","nan",20250413,"WR").
-shift_data("372284","nan",20250414,"D").
-shift_data("372284","nan",20250415,"D").
-shift_data("372284","nan",20250416,"D").
-shift_data("372284","nan",20250417,"D").
-shift_data("372284","nan",20250418,"D").
-shift_data("372284","nan",20250419,"WR").
-shift_data("372284","nan",20250420,"WR").
-shift_data("372284","nan",20250421,"D").
-shift_data("372284","nan",20250422,"D").
-shift_data("372284","nan",20250423,"D").
-shift_data("372284","nan",20250424,"D").
-shift_data("372284","nan",20250425,"D").
-shift_data("372284","nan",20250426,"WR").
-shift_data("372284","nan",20250427,"WR").
-shift_data("372284","nan",20250428,"D").
-shift_data("372284","nan",20250429,"PH").
-shift_data("372284","nan",20250430,"D").
-shift_data("372284","nan",20250501,"LD").
-shift_data("372284","nan",20250502,"SE").
-shift_data("372284","nan",20250503,"SN").
-shift_data("372284","nan",20250504,"WR").
-shift_data("372284","nan",20250505,"PH").
-shift_data("372284","nan",20250506,"PH").
-shift_data("372284","nan",20250507,"WR").
-shift_data("372284","nan",20250508,"D").
-shift_data("372284","nan",20250509,"D").
-shift_data("372284","nan",20250510,"WR").
-shift_data("372284","nan",20250511,"WR").
-shift_data("372284","nan",20250512,"D").
-shift_data("372284","nan",20250513,"D").
-shift_data("372284","nan",20250514,"D").
-shift_data("372284","nan",20250515,"WR").
-shift_data("372284","nan",20250516,"D").
-shift_data("372284","nan",20250517,"D").
-shift_data("372284","nan",20250518,"WR").
-shift_data("372284","nan",20250519,"D").
-shift_data("372284","nan",20250520,"D").
-shift_data("372284","nan",20250521,"D").
-shift_data("372284","nan",20250522,"D").
-shift_data("372284","nan",20250523,"D").
-shift_data("372284","nan",20250524,"WR").
-shift_data("372284","nan",20250525,"WR").
-shift_data("372284","nan",20250526,"LD").
-shift_data("372284","nan",20250527,"SE").
-shift_data("372284","nan",20250528,"SN").
-shift_data("372284","nan",20250529,"WR").
-shift_data("372284","nan",20250530,"D").
-shift_data("372284","nan",20250531,"D").
-shift_data("372284","nan",20250601,"WR").
-shift_data("372284","nan",20250602,"D").
-shift_data("372284","nan",20250603,"D").
-shift_data("372284","nan",20250604,"D").
-shift_data("372284","nan",20250605,"D").
-shift_data("372284","nan",20250606,"D").
-shift_data("372284","nan",20250607,"WR").
-shift_data("372284","nan",20250608,"WR").
-shift_data("372284","nan",20250609,"D").
-shift_data("372284","nan",20250610,"D").
-shift_data("372284","nan",20250611,"LD").
-shift_data("372284","nan",20250612,"SE").
-shift_data("372284","nan",20250613,"SN").
-shift_data("372284","nan",20250614,"WR").
-shift_data("372284","nan",20250615,"D").
-shift_data("372284","nan",20250616,"D").
-shift_data("372284","nan",20250617,"D").
-shift_data("372284","nan",20250618,"WR").
-shift_data("372284","nan",20250619,"D").
-shift_data("372284","nan",20250620,"D").
-shift_data("372284","nan",20250621,"WR").
-shift_data("372284","nan",20250622,"WR").
-shift_data("372284","nan",20250623,"D").
-shift_data("372284","nan",20250624,"D").
-shift_data("372284","nan",20250625,"LD").
-shift_data("372284","nan",20250626,"SE").
-shift_data("372284","nan",20250627,"SN").
-shift_data("372284","nan",20250628,"WR").
-shift_data("372284","nan",20250629,"D").
-shift_data("372284","nan",20250630,"D").
-shift_data("372284","nan",20250701,"D").
-shift_data("372284","nan",20250702,"WR").
-shift_data("372284","nan",20250703,"LD").
-shift_data("372284","nan",20250704,"SE").
-shift_data("372284","nan",20250705,"SN").
-shift_data("372284","nan",20250706,"WR").
-shift_data("372284","nan",20250707,"D").
-shift_data("372284","nan",20250708,"D").
-shift_data("372284","nan",20250709,"D").
-shift_data("372284","nan",20250710,"WR").
-shift_data("372284","nan",20250711,"D").
-shift_data("372284","nan",20250712,"D").
-shift_data("372284","nan",20250713,"WR").
-shift_data("372284","nan",20250714,"D").
-shift_data("372284","nan",20250715,"D").
-shift_data("372284","nan",20250716,"D").
-shift_data("372284","nan",20250717,"D").
-shift_data("372284","nan",20250718,"WR").
-shift_data("372284","nan",20250719,"WR").
-shift_data("372284","nan",20250720,"WR").
-shift_data("372284","nan",20250721,"D").
-shift_data("372284","nan",20250722,"D").
-shift_data("372284","nan",20250723,"D").
-shift_data("372284","nan",20250724,"WR").
-shift_data("372284","nan",20250725,"D").
-shift_data("372284","nan",20250726,"WR").
-shift_data("372284","nan",20250727,"LD").
-shift_data("372284","nan",20250728,"SE").
-shift_data("372284","nan",20250729,"SN").
-shift_data("372284","nan",20250730,"WR").
-shift_data("372284","nan",20250731,"D").
-shift_data("372284","nan",20250801,"LD").
-shift_data("372284","nan",20250802,"LD").
-shift_data("372284","nan",20250803,"SE").
-shift_data("372284","nan",20250804,"SN").
-shift_data("372284","nan",20250805,"WR").
-shift_data("372284","nan",20250806,"D").
-shift_data("372284","nan",20250807,"SE").
-shift_data("372284","nan",20250808,"SN").
-shift_data("372284","nan",20250809,"WR").
-shift_data("372284","nan",20250810,"WR").
-shift_data("372284","nan",20250811,"D").
-shift_data("372284","nan",20250812,"LD").
-shift_data("372284","nan",20250813,"SE").
-shift_data("372284","nan",20250814,"SN").
-shift_data("372284","nan",20250815,"WR").
-shift_data("372284","nan",20250816,"HL").
-shift_data("372284","nan",20250817,"WR").
-shift_data("372284","nan",20250818,"LD").
-shift_data("372284","nan",20250819,"SE").
-shift_data("372284","nan",20250820,"SN").
-shift_data("372284","nan",20250821,"WR").
-shift_data("372284","nan",20250822,"D").
-shift_data("372284","nan",20250823,"SE").
-shift_data("372284","nan",20250824,"SN").
-shift_data("372284","nan",20250825,"WR").
-shift_data("372284","nan",20250826,"LD").
-shift_data("372284","nan",20250827,"WR").
-shift_data("372284","nan",20250828,"WR").
-shift_data("372284","nan",20250829,"D").
-shift_data("372284","nan",20250830,"D").
-shift_data("372284","nan",20250831,"LD").
-shift_data("372284","nan",20250901,"SE").
-shift_data("372284","nan",20250902,"SN").
-shift_data("372284","nan",20250903,"WR").
-shift_data("372284","nan",20250904,"D").
-shift_data("372284","nan",20250905,"D").
-shift_data("372284","nan",20250906,"D").
-shift_data("372284","nan",20250907,"SE").
-shift_data("372284","nan",20250908,"SN").
-shift_data("372284","nan",20250909,"WR").
-shift_data("372284","nan",20250910,"D").
-shift_data("372284","nan",20250911,"LD").
-shift_data("372284","nan",20250912,"WR").
-shift_data("372284","nan",20250913,"HL").
-shift_data("372284","nan",20250914,"AL").
-shift_data("372284","nan",20250915,"PH").
-shift_data("372284","nan",20250916,"LD").
-shift_data("372284","nan",20250917,"SE").
-shift_data("372284","nan",20250918,"SN").
-shift_data("372284","nan",20250919,"WR").
-shift_data("372284","nan",20250920,"WR").
-shift_data("372284","nan",20250921,"LD").
-shift_data("372284","nan",20250922,"SE").
-shift_data("372284","nan",20250923,"SN").
-shift_data("372284","nan",20250924,"WR").
-shift_data("372284","nan",20250925,"WR").
-shift_data("372284","nan",20250926,"D").
-shift_data("372284","nan",20250927,"WR").
-shift_data("372284","nan",20250928,"LD").
-shift_data("372284","nan",20250929,"SE").
-shift_data("372284","nan",20250930,"SN").
-shift_data("372284","nan",20251001,"WR").
-shift_data("372284","nan",20251002,"D").
-shift_data("372284","nan",20251003,"WR").
-shift_data("372284","nan",20251004,"D").
-shift_data("372284","nan",20251005,"D").
-shift_data("372284","nan",20251006,"D").
-shift_data("372284","nan",20251007,"WR").
-shift_data("372284","nan",20251008,"AL").
-shift_data("372284","nan",20251009,"LD").
-shift_data("372284","nan",20251010,"SE").
-shift_data("372284","nan",20251011,"SN").
-shift_data("372284","nan",20251012,"WR").
-shift_data("372284","nan",20251013,"PH").
-shift_data("372284","nan",20251014,"LD").
-shift_data("372284","nan",20251015,"SE").
-shift_data("372284","nan",20251016,"SN").
-shift_data("372284","nan",20251017,"AL").
-shift_data("372284","nan",20251018,"D").
-shift_data("372284","nan",20251019,"WR").
-shift_data("372284","nan",20251020,"D").
-shift_data("372284","nan",20251021,"LD").
-shift_data("372284","nan",20251022,"SE").
-shift_data("372284","nan",20251023,"SN").
-shift_data("372284","nan",20251024,"HL").
-shift_data("372284","nan",20251025,"AL").
-shift_data("372284","nan",20251026,"WR").
-shift_data("372284","nan",20251027,"WR").
-shift_data("372284","nan",20251028,"D").
-shift_data("372284","nan",20251029,"WR").
-shift_data("372284","nan",20251030,"D").
-shift_data("372284","nan",20251031,"D").
-shift_data("372284","nan",20251101,"LD").
-shift_data("372284","nan",20251102,"SE").
-shift_data("372284","nan",20251103,"SN").
-shift_data("372284","nan",20251104,"HL").
-shift_data("372284","nan",20251105,"WR").
-shift_data("372284","nan",20251106,"WR").
-shift_data("372284","nan",20251107,"WR").
-shift_data("372284","nan",20251108,"D").
-shift_data("372284","nan",20251109,"AL").
-shift_data("372284","nan",20251110,"WR").
-shift_data("372284","nan",20251111,"D").
-shift_data("372284","nan",20251112,"D").
-shift_data("372284","nan",20251113,"LD").
-shift_data("372284","nan",20251114,"SE").
-shift_data("372284","nan",20251115,"SN").
-shift_data("372284","nan",20251116,"WR").
-shift_data("372284","nan",20251117,"D").
-shift_data("372284","nan",20251118,"D").
-shift_data("372284","nan",20251119,"WR").
-shift_data("372284","nan",20251120,"LD").
-shift_data("372284","nan",20251121,"SE").
-shift_data("372284","nan",20251122,"SN").
-shift_data("372284","nan",20251123,"WR").
-shift_data("372284","nan",20251124,"SE").
-shift_data("372284","nan",20251125,"SN").
-shift_data("372284","nan",20251126,"WR").
-shift_data("372284","nan",20251127,"LD").
-shift_data("372284","nan",20251128,"SE").
-shift_data("372284","nan",20251129,"SN").
-shift_data("372284","nan",20251130,"WR").
-shift_data("372284","nan",20251201,"D").
-shift_data("372284","nan",20251202,"D").
-shift_data("372284","nan",20251203,"LD").
-shift_data("372284","nan",20251204,"WR").
-shift_data("372284","nan",20251205,"D").
-shift_data("372284","nan",20251206,"WR").
-shift_data("372284","nan",20251207,"LD").
-shift_data("372284","nan",20251208,"SE").
-shift_data("372284","nan",20251209,"SN").
-shift_data("372284","nan",20251210,"WR").
-shift_data("372284","nan",20251211,"D").
-shift_data("372284","nan",20251212,"D").
-shift_data("372284","nan",20251213,"D").
-shift_data("372284","nan",20251214,"D").
-shift_data("372284","nan",20251215,"LD").
-shift_data("372284","nan",20251216,"WR").
-shift_data("372284","nan",20251217,"EM").
-shift_data("372284","nan",20251218,"SE").
-shift_data("372284","nan",20251219,"SN").
-shift_data("372284","nan",20251220,"WR").
-shift_data("372284","nan",20251221,"WR").
-shift_data("372284","nan",20251222,"LD").
-shift_data("372284","nan",20251223,"SE").
-shift_data("372284","nan",20251224,"SN").
-shift_data("372284","nan",20251225,"WR").
-shift_data("372284","nan",20251226,"D").
-shift_data("372284","nan",20251227,"WR").
-shift_data("372284","nan",20251228,"WR").
-shift_data("372284","nan",20251229,"D").
-shift_data("372284","nan",20251230,"PH").
-shift_data("372284","nan",20251231,"PH").
 shift_data("38552","Nicole Lewis",20200921,"PH").
 shift_data("38552","Nicole Lewis",20200922,"PH").
 shift_data("38552","Nicole Lewis",20200923,"D").
@@ -24992,281 +21551,6 @@ shift_data("38988","Evan Cabrera",20250101,"PH").
 shift_data("38988","Evan Cabrera",20250102,"PH").
 shift_data("38988","Evan Cabrera",20250103,"PH").
 shift_data("38988","Evan Cabrera",20250104,"WR").
-shift_data("38988","Evan Cabrera",20250401,"WR").
-shift_data("38988","Evan Cabrera",20250402,"LD").
-shift_data("38988","Evan Cabrera",20250403,"WR").
-shift_data("38988","Evan Cabrera",20250404,"D").
-shift_data("38988","Evan Cabrera",20250405,"LD").
-shift_data("38988","Evan Cabrera",20250406,"SE").
-shift_data("38988","Evan Cabrera",20250407,"SN").
-shift_data("38988","Evan Cabrera",20250408,"WR").
-shift_data("38988","Evan Cabrera",20250409,"D").
-shift_data("38988","Evan Cabrera",20250410,"LD").
-shift_data("38988","Evan Cabrera",20250411,"LM").
-shift_data("38988","Evan Cabrera",20250412,"WR").
-shift_data("38988","Evan Cabrera",20250413,"WR").
-shift_data("38988","Evan Cabrera",20250414,"D").
-shift_data("38988","Evan Cabrera",20250415,"D").
-shift_data("38988","Evan Cabrera",20250416,"LD").
-shift_data("38988","Evan Cabrera",20250417,"SE").
-shift_data("38988","Evan Cabrera",20250418,"SN").
-shift_data("38988","Evan Cabrera",20250419,"WR").
-shift_data("38988","Evan Cabrera",20250420,"LD").
-shift_data("38988","Evan Cabrera",20250421,"WR").
-shift_data("38988","Evan Cabrera",20250422,"SE").
-shift_data("38988","Evan Cabrera",20250423,"SN").
-shift_data("38988","Evan Cabrera",20250424,"SE").
-shift_data("38988","Evan Cabrera",20250425,"SN").
-shift_data("38988","Evan Cabrera",20250426,"WR").
-shift_data("38988","Evan Cabrera",20250427,"D").
-shift_data("38988","Evan Cabrera",20250428,"LD").
-shift_data("38988","Evan Cabrera",20250429,"PH").
-shift_data("38988","Evan Cabrera",20250430,"LD").
-shift_data("38988","Evan Cabrera",20250501,"SE").
-shift_data("38988","Evan Cabrera",20250502,"SN").
-shift_data("38988","Evan Cabrera",20250503,"WR").
-shift_data("38988","Evan Cabrera",20250504,"LD").
-shift_data("38988","Evan Cabrera",20250505,"SE").
-shift_data("38988","Evan Cabrera",20250506,"SN").
-shift_data("38988","Evan Cabrera",20250507,"WR").
-shift_data("38988","Evan Cabrera",20250508,"WR").
-shift_data("38988","Evan Cabrera",20250509,"WR").
-shift_data("38988","Evan Cabrera",20250510,"SE").
-shift_data("38988","Evan Cabrera",20250511,"SN").
-shift_data("38988","Evan Cabrera",20250512,"SE").
-shift_data("38988","Evan Cabrera",20250513,"SN").
-shift_data("38988","Evan Cabrera",20250514,"WR").
-shift_data("38988","Evan Cabrera",20250515,"LD").
-shift_data("38988","Evan Cabrera",20250516,"LM").
-shift_data("38988","Evan Cabrera",20250517,"WR").
-shift_data("38988","Evan Cabrera",20250518,"D").
-shift_data("38988","Evan Cabrera",20250519,"LD").
-shift_data("38988","Evan Cabrera",20250520,"WR").
-shift_data("38988","Evan Cabrera",20250521,"SE").
-shift_data("38988","Evan Cabrera",20250522,"SN").
-shift_data("38988","Evan Cabrera",20250523,"WR").
-shift_data("38988","Evan Cabrera",20250524,"D").
-shift_data("38988","Evan Cabrera",20250525,"SE").
-shift_data("38988","Evan Cabrera",20250526,"SN").
-shift_data("38988","Evan Cabrera",20250527,"WR").
-shift_data("38988","Evan Cabrera",20250528,"LD").
-shift_data("38988","Evan Cabrera",20250529,"SE").
-shift_data("38988","Evan Cabrera",20250530,"SN").
-shift_data("38988","Evan Cabrera",20250531,"SE").
-shift_data("38988","Evan Cabrera",20250601,"SN").
-shift_data("38988","Evan Cabrera",20250602,"WR").
-shift_data("38988","Evan Cabrera",20250603,"WR").
-shift_data("38988","Evan Cabrera",20250604,"LD").
-shift_data("38988","Evan Cabrera",20250605,"WR").
-shift_data("38988","Evan Cabrera",20250606,"LD").
-shift_data("38988","Evan Cabrera",20250607,"WR").
-shift_data("38988","Evan Cabrera",20250608,"D").
-shift_data("38988","Evan Cabrera",20250609,"SE").
-shift_data("38988","Evan Cabrera",20250610,"SN").
-shift_data("38988","Evan Cabrera",20250611,"SE").
-shift_data("38988","Evan Cabrera",20250612,"SN").
-shift_data("38988","Evan Cabrera",20250613,"WR").
-shift_data("38988","Evan Cabrera",20250614,"LD").
-shift_data("38988","Evan Cabrera",20250615,"WR").
-shift_data("38988","Evan Cabrera",20250616,"LD").
-shift_data("38988","Evan Cabrera",20250617,"SE").
-shift_data("38988","Evan Cabrera",20250618,"SN").
-shift_data("38988","Evan Cabrera",20250619,"WR").
-shift_data("38988","Evan Cabrera",20250620,"D").
-shift_data("38988","Evan Cabrera",20250621,"LD").
-shift_data("38988","Evan Cabrera",20250622,"SE").
-shift_data("38988","Evan Cabrera",20250623,"SN").
-shift_data("38988","Evan Cabrera",20250624,"WR").
-shift_data("38988","Evan Cabrera",20250625,"D").
-shift_data("38988","Evan Cabrera",20250626,"D").
-shift_data("38988","Evan Cabrera",20250627,"D").
-shift_data("38988","Evan Cabrera",20250628,"LD").
-shift_data("38988","Evan Cabrera",20250629,"WR").
-shift_data("38988","Evan Cabrera",20250630,"SE").
-shift_data("38988","Evan Cabrera",20250701,"SN").
-shift_data("38988","Evan Cabrera",20250702,"WR").
-shift_data("38988","Evan Cabrera",20250703,"WR").
-shift_data("38988","Evan Cabrera",20250704,"D").
-shift_data("38988","Evan Cabrera",20250705,"LD").
-shift_data("38988","Evan Cabrera",20250706,"SE").
-shift_data("38988","Evan Cabrera",20250707,"SN").
-shift_data("38988","Evan Cabrera",20250708,"WR").
-shift_data("38988","Evan Cabrera",20250709,"LD").
-shift_data("38988","Evan Cabrera",20250710,"SE").
-shift_data("38988","Evan Cabrera",20250711,"SN").
-shift_data("38988","Evan Cabrera",20250712,"WR").
-shift_data("38988","Evan Cabrera",20250713,"LD").
-shift_data("38988","Evan Cabrera",20250714,"WR").
-shift_data("38988","Evan Cabrera",20250715,"D").
-shift_data("38988","Evan Cabrera",20250716,"D").
-shift_data("38988","Evan Cabrera",20250717,"LD").
-shift_data("38988","Evan Cabrera",20250718,"WR").
-shift_data("38988","Evan Cabrera",20250719,"SE").
-shift_data("38988","Evan Cabrera",20250720,"SN").
-shift_data("38988","Evan Cabrera",20250721,"PH").
-shift_data("38988","Evan Cabrera",20250722,"D").
-shift_data("38988","Evan Cabrera",20250723,"LD").
-shift_data("38988","Evan Cabrera",20250724,"WR").
-shift_data("38988","Evan Cabrera",20250725,"WR").
-shift_data("38988","Evan Cabrera",20250726,"WR").
-shift_data("38988","Evan Cabrera",20250727,"LD").
-shift_data("38988","Evan Cabrera",20250728,"SE").
-shift_data("38988","Evan Cabrera",20250729,"SN").
-shift_data("38988","Evan Cabrera",20250730,"WR").
-shift_data("38988","Evan Cabrera",20250731,"D").
-shift_data("38988","Evan Cabrera",20250801,"LD").
-shift_data("38988","Evan Cabrera",20250802,"WR").
-shift_data("38988","Evan Cabrera",20250803,"WR").
-shift_data("38988","Evan Cabrera",20250804,"D").
-shift_data("38988","Evan Cabrera",20250805,"LD").
-shift_data("38988","Evan Cabrera",20250806,"SE").
-shift_data("38988","Evan Cabrera",20250807,"SN").
-shift_data("38988","Evan Cabrera",20250808,"WR").
-shift_data("38988","Evan Cabrera",20250809,"AL").
-shift_data("38988","Evan Cabrera",20250810,"SE").
-shift_data("38988","Evan Cabrera",20250811,"SN").
-shift_data("38988","Evan Cabrera",20250812,"SE").
-shift_data("38988","Evan Cabrera",20250813,"SN").
-shift_data("38988","Evan Cabrera",20250814,"WR").
-shift_data("38988","Evan Cabrera",20250815,"LD").
-shift_data("38988","Evan Cabrera",20250816,"SE").
-shift_data("38988","Evan Cabrera",20250817,"SN").
-shift_data("38988","Evan Cabrera",20250818,"WR").
-shift_data("38988","Evan Cabrera",20250819,"LD").
-shift_data("38988","Evan Cabrera",20250820,"SE").
-shift_data("38988","Evan Cabrera",20250821,"SN").
-shift_data("38988","Evan Cabrera",20250822,"WR").
-shift_data("38988","Evan Cabrera",20250823,"WR").
-shift_data("38988","Evan Cabrera",20250824,"LD").
-shift_data("38988","Evan Cabrera",20250825,"SE").
-shift_data("38988","Evan Cabrera",20250826,"SN").
-shift_data("38988","Evan Cabrera",20250827,"WR").
-shift_data("38988","Evan Cabrera",20250828,"D").
-shift_data("38988","Evan Cabrera",20250829,"LD").
-shift_data("38988","Evan Cabrera",20250830,"SE").
-shift_data("38988","Evan Cabrera",20250831,"SN").
-shift_data("38988","Evan Cabrera",20250901,"WR").
-shift_data("38988","Evan Cabrera",20250902,"D").
-shift_data("38988","Evan Cabrera",20250903,"AL").
-shift_data("38988","Evan Cabrera",20250904,"LD").
-shift_data("38988","Evan Cabrera",20250905,"SE").
-shift_data("38988","Evan Cabrera",20250906,"SN").
-shift_data("38988","Evan Cabrera",20250907,"WR").
-shift_data("38988","Evan Cabrera",20250908,"D").
-shift_data("38988","Evan Cabrera",20250909,"LD").
-shift_data("38988","Evan Cabrera",20250910,"WR").
-shift_data("38988","Evan Cabrera",20250911,"SE").
-shift_data("38988","Evan Cabrera",20250912,"SN").
-shift_data("38988","Evan Cabrera",20250913,"WR").
-shift_data("38988","Evan Cabrera",20250914,"D").
-shift_data("38988","Evan Cabrera",20250915,"LD").
-shift_data("38988","Evan Cabrera",20250916,"SE").
-shift_data("38988","Evan Cabrera",20250917,"SN").
-shift_data("38988","Evan Cabrera",20250918,"WR").
-shift_data("38988","Evan Cabrera",20250919,"D").
-shift_data("38988","Evan Cabrera",20250920,"LD").
-shift_data("38988","Evan Cabrera",20250921,"WR").
-shift_data("38988","Evan Cabrera",20250922,"WR").
-shift_data("38988","Evan Cabrera",20250923,"LD").
-shift_data("38988","Evan Cabrera",20250924,"SE").
-shift_data("38988","Evan Cabrera",20250925,"SN").
-shift_data("38988","Evan Cabrera",20250926,"WR").
-shift_data("38988","Evan Cabrera",20250927,"LD").
-shift_data("38988","Evan Cabrera",20250928,"SE").
-shift_data("38988","Evan Cabrera",20250929,"SN").
-shift_data("38988","Evan Cabrera",20250930,"WR").
-shift_data("38988","Evan Cabrera",20251001,"D").
-shift_data("38988","Evan Cabrera",20251002,"WR").
-shift_data("38988","Evan Cabrera",20251003,"LD").
-shift_data("38988","Evan Cabrera",20251004,"SE").
-shift_data("38988","Evan Cabrera",20251005,"SN").
-shift_data("38988","Evan Cabrera",20251006,"WR").
-shift_data("38988","Evan Cabrera",20251007,"HL").
-shift_data("38988","Evan Cabrera",20251008,"HL").
-shift_data("38988","Evan Cabrera",20251009,"WR").
-shift_data("38988","Evan Cabrera",20251010,"D").
-shift_data("38988","Evan Cabrera",20251011,"SE").
-shift_data("38988","Evan Cabrera",20251012,"SN").
-shift_data("38988","Evan Cabrera",20251013,"PH").
-shift_data("38988","Evan Cabrera",20251014,"LD").
-shift_data("38988","Evan Cabrera",20251015,"WR").
-shift_data("38988","Evan Cabrera",20251016,"SE").
-shift_data("38988","Evan Cabrera",20251017,"SN").
-shift_data("38988","Evan Cabrera",20251018,"WR").
-shift_data("38988","Evan Cabrera",20251019,"WR").
-shift_data("38988","Evan Cabrera",20251020,"LD").
-shift_data("38988","Evan Cabrera",20251021,"SE").
-shift_data("38988","Evan Cabrera",20251022,"SN").
-shift_data("38988","Evan Cabrera",20251023,"WR").
-shift_data("38988","Evan Cabrera",20251024,"LD").
-shift_data("38988","Evan Cabrera",20251025,"SE").
-shift_data("38988","Evan Cabrera",20251026,"SN").
-shift_data("38988","Evan Cabrera",20251027,"SE").
-shift_data("38988","Evan Cabrera",20251028,"SN").
-shift_data("38988","Evan Cabrera",20251029,"WR").
-shift_data("38988","Evan Cabrera",20251030,"LD").
-shift_data("38988","Evan Cabrera",20251031,"SE").
-shift_data("38988","Evan Cabrera",20251101,"SN").
-shift_data("38988","Evan Cabrera",20251102,"WR").
-shift_data("38988","Evan Cabrera",20251103,"LD").
-shift_data("38988","Evan Cabrera",20251104,"WR").
-shift_data("38988","Evan Cabrera",20251105,"AL").
-shift_data("38988","Evan Cabrera",20251106,"AL").
-shift_data("38988","Evan Cabrera",20251107,"D").
-shift_data("38988","Evan Cabrera",20251108,"WR").
-shift_data("38988","Evan Cabrera",20251109,"SE").
-shift_data("38988","Evan Cabrera",20251110,"SN").
-shift_data("38988","Evan Cabrera",20251111,"WR").
-shift_data("38988","Evan Cabrera",20251112,"LD").
-shift_data("38988","Evan Cabrera",20251113,"WR").
-shift_data("38988","Evan Cabrera",20251114,"D").
-shift_data("38988","Evan Cabrera",20251115,"D").
-shift_data("38988","Evan Cabrera",20251116,"WR").
-shift_data("38988","Evan Cabrera",20251117,"LD").
-shift_data("38988","Evan Cabrera",20251118,"SE").
-shift_data("38988","Evan Cabrera",20251119,"SN").
-shift_data("38988","Evan Cabrera",20251120,"WR").
-shift_data("38988","Evan Cabrera",20251121,"D").
-shift_data("38988","Evan Cabrera",20251122,"WR").
-shift_data("38988","Evan Cabrera",20251123,"WR").
-shift_data("38988","Evan Cabrera",20251124,"LD").
-shift_data("38988","Evan Cabrera",20251125,"LM").
-shift_data("38988","Evan Cabrera",20251126,"SE").
-shift_data("38988","Evan Cabrera",20251127,"SN").
-shift_data("38988","Evan Cabrera",20251128,"WR").
-shift_data("38988","Evan Cabrera",20251129,"LD").
-shift_data("38988","Evan Cabrera",20251130,"SE").
-shift_data("38988","Evan Cabrera",20251201,"SN").
-shift_data("38988","Evan Cabrera",20251202,"WR").
-shift_data("38988","Evan Cabrera",20251203,"SE").
-shift_data("38988","Evan Cabrera",20251204,"SN").
-shift_data("38988","Evan Cabrera",20251205,"AL").
-shift_data("38988","Evan Cabrera",20251206,"LD").
-shift_data("38988","Evan Cabrera",20251207,"SL").
-shift_data("38988","Evan Cabrera",20251208,"SL").
-shift_data("38988","Evan Cabrera",20251209,"SE").
-shift_data("38988","Evan Cabrera",20251210,"SN").
-shift_data("38988","Evan Cabrera",20251211,"WR").
-shift_data("38988","Evan Cabrera",20251212,"SL").
-shift_data("38988","Evan Cabrera",20251213,"WR").
-shift_data("38988","Evan Cabrera",20251214,"SL").
-shift_data("38988","Evan Cabrera",20251215,"WR").
-shift_data("38988","Evan Cabrera",20251216,"SL").
-shift_data("38988","Evan Cabrera",20251217,"SL").
-shift_data("38988","Evan Cabrera",20251218,"WR").
-shift_data("38988","Evan Cabrera",20251219,"WR").
-shift_data("38988","Evan Cabrera",20251220,"SL").
-shift_data("38988","Evan Cabrera",20251221,"SL").
-shift_data("38988","Evan Cabrera",20251222,"SL").
-shift_data("38988","Evan Cabrera",20251223,"SL").
-shift_data("38988","Evan Cabrera",20251224,"WR").
-shift_data("38988","Evan Cabrera",20251225,"SL").
-shift_data("38988","Evan Cabrera",20251226,"WR").
-shift_data("38988","Evan Cabrera",20251227,"WR").
-shift_data("38988","Evan Cabrera",20251228,"SL").
-shift_data("38988","Evan Cabrera",20251229,"PH").
-shift_data("38988","Evan Cabrera",20251230,"PH").
-shift_data("38988","Evan Cabrera",20251231,"PH").
 shift_data("39400","Christopher Martin",20200921,"D").
 shift_data("39400","Christopher Martin",20200922,"PH").
 shift_data("39400","Christopher Martin",20200923,"D").
@@ -25385,293 +21669,6 @@ shift_data("39400","Christopher Martin",20210113,"D").
 shift_data("39400","Christopher Martin",20210114,"D").
 shift_data("39400","Christopher Martin",20210115,"D").
 shift_data("39400","Christopher Martin",20210116,"WR").
-shift_data("395817","nan",20250401,"D").
-shift_data("395817","nan",20250402,"D").
-shift_data("395817","nan",20250403,"D").
-shift_data("395817","nan",20250404,"D").
-shift_data("395817","nan",20250405,"WR").
-shift_data("395817","nan",20250406,"WR").
-shift_data("395817","nan",20250407,"D").
-shift_data("395817","nan",20250408,"D").
-shift_data("395817","nan",20250409,"D").
-shift_data("395817","nan",20250410,"D").
-shift_data("395817","nan",20250411,"D").
-shift_data("395817","nan",20250412,"WR").
-shift_data("395817","nan",20250413,"WR").
-shift_data("395817","nan",20250414,"D").
-shift_data("395817","nan",20250415,"D").
-shift_data("395817","nan",20250416,"D").
-shift_data("395817","nan",20250417,"D").
-shift_data("395817","nan",20250418,"D").
-shift_data("395817","nan",20250419,"WR").
-shift_data("395817","nan",20250420,"WR").
-shift_data("395817","nan",20250421,"D").
-shift_data("395817","nan",20250422,"D").
-shift_data("395817","nan",20250423,"D").
-shift_data("395817","nan",20250424,"D").
-shift_data("395817","nan",20250425,"D").
-shift_data("395817","nan",20250426,"WR").
-shift_data("395817","nan",20250427,"WR").
-shift_data("395817","nan",20250428,"D").
-shift_data("395817","nan",20250429,"PH").
-shift_data("395817","nan",20250430,"D").
-shift_data("395817","nan",20250501,"D").
-shift_data("395817","nan",20250502,"D").
-shift_data("395817","nan",20250503,"D").
-shift_data("395817","nan",20250504,"WR").
-shift_data("395817","nan",20250505,"PH").
-shift_data("395817","nan",20250506,"PH").
-shift_data("395817","nan",20250507,"WR").
-shift_data("395817","nan",20250508,"D").
-shift_data("395817","nan",20250509,"D").
-shift_data("395817","nan",20250510,"LD").
-shift_data("395817","nan",20250511,"SE").
-shift_data("395817","nan",20250512,"SN").
-shift_data("395817","nan",20250513,"WR").
-shift_data("395817","nan",20250514,"WR").
-shift_data("395817","nan",20250515,"D").
-shift_data("395817","nan",20250516,"D").
-shift_data("395817","nan",20250517,"WR").
-shift_data("395817","nan",20250518,"WR").
-shift_data("395817","nan",20250519,"D").
-shift_data("395817","nan",20250520,"D").
-shift_data("395817","nan",20250521,"SL").
-shift_data("395817","nan",20250522,"D").
-shift_data("395817","nan",20250523,"D").
-shift_data("395817","nan",20250524,"WR").
-shift_data("395817","nan",20250525,"WR").
-shift_data("395817","nan",20250526,"D").
-shift_data("395817","nan",20250527,"D").
-shift_data("395817","nan",20250528,"D").
-shift_data("395817","nan",20250529,"WR").
-shift_data("395817","nan",20250530,"D").
-shift_data("395817","nan",20250531,"LD").
-shift_data("395817","nan",20250601,"SE").
-shift_data("395817","nan",20250602,"SN").
-shift_data("395817","nan",20250603,"WR").
-shift_data("395817","nan",20250604,"D").
-shift_data("395817","nan",20250605,"D").
-shift_data("395817","nan",20250606,"D").
-shift_data("395817","nan",20250607,"D").
-shift_data("395817","nan",20250608,"WR").
-shift_data("395817","nan",20250609,"D").
-shift_data("395817","nan",20250610,"D").
-shift_data("395817","nan",20250611,"WR").
-shift_data("395817","nan",20250612,"D").
-shift_data("395817","nan",20250613,"D").
-shift_data("395817","nan",20250614,"LD").
-shift_data("395817","nan",20250615,"SE").
-shift_data("395817","nan",20250616,"SN").
-shift_data("395817","nan",20250617,"WR").
-shift_data("395817","nan",20250618,"D").
-shift_data("395817","nan",20250619,"D").
-shift_data("395817","nan",20250620,"WR").
-shift_data("395817","nan",20250621,"WR").
-shift_data("395817","nan",20250622,"D").
-shift_data("395817","nan",20250623,"WR").
-shift_data("395817","nan",20250624,"D").
-shift_data("395817","nan",20250625,"D").
-shift_data("395817","nan",20250626,"WR").
-shift_data("395817","nan",20250627,"D").
-shift_data("395817","nan",20250628,"SL").
-shift_data("395817","nan",20250629,"SL").
-shift_data("395817","nan",20250630,"SL").
-shift_data("395817","nan",20250701,"WR").
-shift_data("395817","nan",20250702,"D").
-shift_data("395817","nan",20250703,"WR").
-shift_data("395817","nan",20250704,"D").
-shift_data("395817","nan",20250705,"D").
-shift_data("395817","nan",20250706,"D").
-shift_data("395817","nan",20250707,"WR").
-shift_data("395817","nan",20250708,"D").
-shift_data("395817","nan",20250709,"LD").
-shift_data("395817","nan",20250710,"SE").
-shift_data("395817","nan",20250711,"SN").
-shift_data("395817","nan",20250712,"WR").
-shift_data("395817","nan",20250713,"D").
-shift_data("395817","nan",20250714,"D").
-shift_data("395817","nan",20250715,"D").
-shift_data("395817","nan",20250716,"D").
-shift_data("395817","nan",20250717,"WR").
-shift_data("395817","nan",20250718,"D").
-shift_data("395817","nan",20250719,"WR").
-shift_data("395817","nan",20250720,"WR").
-shift_data("395817","nan",20250721,"LD").
-shift_data("395817","nan",20250722,"SE").
-shift_data("395817","nan",20250723,"SN").
-shift_data("395817","nan",20250724,"WR").
-shift_data("395817","nan",20250725,"WR").
-shift_data("395817","nan",20250726,"D").
-shift_data("395817","nan",20250727,"D").
-shift_data("395817","nan",20250728,"WR").
-shift_data("395817","nan",20250729,"D").
-shift_data("395817","nan",20250730,"LD").
-shift_data("395817","nan",20250731,"SE").
-shift_data("395817","nan",20250801,"SN").
-shift_data("395817","nan",20250802,"WR").
-shift_data("395817","nan",20250803,"WR").
-shift_data("395817","nan",20250804,"D").
-shift_data("395817","nan",20250805,"WR").
-shift_data("395817","nan",20250806,"D").
-shift_data("395817","nan",20250807,"LD").
-shift_data("395817","nan",20250808,"SE").
-shift_data("395817","nan",20250809,"SN").
-shift_data("395817","nan",20250810,"WR").
-shift_data("395817","nan",20250811,"PH").
-shift_data("395817","nan",20250812,"D").
-shift_data("395817","nan",20250813,"D").
-shift_data("395817","nan",20250814,"D").
-shift_data("395817","nan",20250815,"D").
-shift_data("395817","nan",20250816,"D").
-shift_data("395817","nan",20250817,"WR").
-shift_data("395817","nan",20250818,"D").
-shift_data("395817","nan",20250819,"LD").
-shift_data("395817","nan",20250820,"WR").
-shift_data("395817","nan",20250821,"D").
-shift_data("395817","nan",20250822,"D").
-shift_data("395817","nan",20250823,"WR").
-shift_data("395817","nan",20250824,"D").
-shift_data("395817","nan",20250825,"LD").
-shift_data("395817","nan",20250826,"SE").
-shift_data("395817","nan",20250827,"SN").
-shift_data("395817","nan",20250828,"WR").
-shift_data("395817","nan",20250829,"D").
-shift_data("395817","nan",20250830,"WR").
-shift_data("395817","nan",20250831,"WR").
-shift_data("395817","nan",20250901,"D").
-shift_data("395817","nan",20250902,"LD").
-shift_data("395817","nan",20250903,"SE").
-shift_data("395817","nan",20250904,"SN").
-shift_data("395817","nan",20250905,"WR").
-shift_data("395817","nan",20250906,"SE").
-shift_data("395817","nan",20250907,"SN").
-shift_data("395817","nan",20250908,"WR").
-shift_data("395817","nan",20250909,"D").
-shift_data("395817","nan",20250910,"D").
-shift_data("395817","nan",20250911,"D").
-shift_data("395817","nan",20250912,"D").
-shift_data("395817","nan",20250913,"AL").
-shift_data("395817","nan",20250914,"SL").
-shift_data("395817","nan",20250915,"SE").
-shift_data("395817","nan",20250916,"SN").
-shift_data("395817","nan",20250917,"WR").
-shift_data("395817","nan",20250918,"LD").
-shift_data("395817","nan",20250919,"WR").
-shift_data("395817","nan",20250920,"WR").
-shift_data("395817","nan",20250921,"D").
-shift_data("395817","nan",20250922,"D").
-shift_data("395817","nan",20250923,"PH").
-shift_data("395817","nan",20250924,"D").
-shift_data("395817","nan",20250925,"LD").
-shift_data("395817","nan",20250926,"WR").
-shift_data("395817","nan",20250927,"D").
-shift_data("395817","nan",20250928,"WR").
-shift_data("395817","nan",20250929,"D").
-shift_data("395817","nan",20250930,"SL").
-shift_data("395817","nan",20251001,"SE").
-shift_data("395817","nan",20251002,"SN").
-shift_data("395817","nan",20251003,"WR").
-shift_data("395817","nan",20251004,"SE").
-shift_data("395817","nan",20251005,"SN").
-shift_data("395817","nan",20251006,"WR").
-shift_data("395817","nan",20251007,"LD").
-shift_data("395817","nan",20251008,"SE").
-shift_data("395817","nan",20251009,"SN").
-shift_data("395817","nan",20251010,"WR").
-shift_data("395817","nan",20251011,"LD").
-shift_data("395817","nan",20251012,"LD").
-shift_data("395817","nan",20251013,"SE").
-shift_data("395817","nan",20251014,"SN").
-shift_data("395817","nan",20251015,"WR").
-shift_data("395817","nan",20251016,"D").
-shift_data("395817","nan",20251017,"SE").
-shift_data("395817","nan",20251018,"SN").
-shift_data("395817","nan",20251019,"WR").
-shift_data("395817","nan",20251020,"D").
-shift_data("395817","nan",20251021,"D").
-shift_data("395817","nan",20251022,"WR").
-shift_data("395817","nan",20251023,"WR").
-shift_data("395817","nan",20251024,"D").
-shift_data("395817","nan",20251025,"D").
-shift_data("395817","nan",20251026,"LD").
-shift_data("395817","nan",20251027,"SE").
-shift_data("395817","nan",20251028,"SN").
-shift_data("395817","nan",20251029,"AL").
-shift_data("395817","nan",20251030,"AL").
-shift_data("395817","nan",20251031,"HL").
-shift_data("395817","nan",20251101,"HL").
-shift_data("395817","nan",20251102,"HL").
-shift_data("395817","nan",20251103,"PH").
-shift_data("395817","nan",20251104,"WR").
-shift_data("395817","nan",20251105,"LD").
-shift_data("395817","nan",20251106,"WR").
-shift_data("395817","nan",20251107,"WR").
-shift_data("395817","nan",20251108,"WR").
-shift_data("395817","nan",20251109,"D").
-shift_data("395817","nan",20251110,"WR").
-shift_data("395817","nan",20251111,"LD").
-shift_data("395817","nan",20251112,"SE").
-shift_data("395817","nan",20251113,"SN").
-shift_data("395817","nan",20251114,"HL").
-shift_data("395817","nan",20251115,"AL").
-shift_data("395817","nan",20251116,"AL").
-shift_data("395817","nan",20251117,"AL").
-shift_data("395817","nan",20251118,"D").
-shift_data("395817","nan",20251119,"LD").
-shift_data("395817","nan",20251120,"WR").
-shift_data("395817","nan",20251121,"LD").
-shift_data("395817","nan",20251122,"SE").
-shift_data("395817","nan",20251123,"SN").
-shift_data("395817","nan",20251124,"PH").
-shift_data("395817","nan",20251125,"SE").
-shift_data("395817","nan",20251126,"SN").
-shift_data("395817","nan",20251127,"WR").
-shift_data("395817","nan",20251128,"WR").
-shift_data("395817","nan",20251129,"WR").
-shift_data("395817","nan",20251130,"SE").
-shift_data("395817","nan",20251201,"SN").
-shift_data("395817","nan",20251202,"WR").
-shift_data("395817","nan",20251203,"WR").
-shift_data("395817","nan",20251204,"WR").
-shift_data("395817","nan",20251205,"D").
-shift_data("395817","nan",20251206,"LD").
-shift_data("395817","nan",20251207,"WR").
-shift_data("395817","nan",20251208,"EM").
-shift_data("395817","nan",20251209,"D").
-shift_data("395817","nan",20251210,"AL").
-shift_data("395817","nan",20251211,"WR").
-shift_data("395817","nan",20251212,"D").
-shift_data("395817","nan",20251213,"WR").
-shift_data("395817","nan",20251214,"D").
-shift_data("395817","nan",20251215,"LD").
-shift_data("395817","nan",20251216,"SE").
-shift_data("395817","nan",20251217,"SN").
-shift_data("395817","nan",20251218,"WR").
-shift_data("395817","nan",20251219,"D").
-shift_data("395817","nan",20251220,"LD").
-shift_data("395817","nan",20251221,"SE").
-shift_data("395817","nan",20251222,"SN").
-shift_data("395817","nan",20251223,"WR").
-shift_data("395817","nan",20251224,"LD").
-shift_data("395817","nan",20251225,"SE").
-shift_data("395817","nan",20251226,"SN").
-shift_data("395817","nan",20251227,"WR").
-shift_data("395817","nan",20251228,"WR").
-shift_data("395817","nan",20251229,"PH").
-shift_data("395817","nan",20251230,"PH").
-shift_data("395817","nan",20251231,"D").
-shift_data("413124","nan",20250624,"AL").
-shift_data("413124","nan",20250829,"AL").
-shift_data("413124","nan",20250903,"AL").
-shift_data("413124","nan",20251022,"AL").
-shift_data("413124","nan",20251118,"AL").
-shift_data("413124","nan",20251201,"AL").
-shift_data("413124","nan",20251216,"AL").
-shift_data("413124","nan",20251225,"BL").
-shift_data("413124","nan",20251226,"AB").
-shift_data("413124","nan",20251229,"PH").
-shift_data("413124","nan",20251230,"PH").
-shift_data("413124","nan",20251231,"PH").
 shift_data("41879","James Lee",20200921,"D").
 shift_data("41879","James Lee",20200922,"D").
 shift_data("41879","James Lee",20200923,"D").
@@ -26857,144 +22854,6 @@ shift_data("42386","Kim Morton",20250101,"LD").
 shift_data("42386","Kim Morton",20250102,"SE").
 shift_data("42386","Kim Morton",20250103,"SN").
 shift_data("42386","Kim Morton",20250104,"WR").
-shift_data("42386","Kim Morton",20250401,"SE").
-shift_data("42386","Kim Morton",20250402,"SN").
-shift_data("42386","Kim Morton",20250403,"WR").
-shift_data("42386","Kim Morton",20250404,"SE").
-shift_data("42386","Kim Morton",20250405,"SN").
-shift_data("42386","Kim Morton",20250406,"WR").
-shift_data("42386","Kim Morton",20250407,"D").
-shift_data("42386","Kim Morton",20250408,"LD").
-shift_data("42386","Kim Morton",20250409,"SE").
-shift_data("42386","Kim Morton",20250410,"SN").
-shift_data("42386","Kim Morton",20250411,"WR").
-shift_data("42386","Kim Morton",20250412,"LD").
-shift_data("42386","Kim Morton",20250413,"WR").
-shift_data("42386","Kim Morton",20250414,"LD").
-shift_data("42386","Kim Morton",20250415,"SE").
-shift_data("42386","Kim Morton",20250416,"SN").
-shift_data("42386","Kim Morton",20250417,"WR").
-shift_data("42386","Kim Morton",20250418,"LD").
-shift_data("42386","Kim Morton",20250419,"SE").
-shift_data("42386","Kim Morton",20250420,"SN").
-shift_data("42386","Kim Morton",20250421,"WR").
-shift_data("42386","Kim Morton",20250422,"LD").
-shift_data("42386","Kim Morton",20250423,"SE").
-shift_data("42386","Kim Morton",20250424,"SN").
-shift_data("42386","Kim Morton",20250425,"WR").
-shift_data("42386","Kim Morton",20250426,"D").
-shift_data("42386","Kim Morton",20250427,"SE").
-shift_data("42386","Kim Morton",20250428,"SN").
-shift_data("42386","Kim Morton",20250429,"PH").
-shift_data("42386","Kim Morton",20250430,"LM").
-shift_data("42386","Kim Morton",20250501,"SE").
-shift_data("42386","Kim Morton",20250502,"SN").
-shift_data("42386","Kim Morton",20250503,"WR").
-shift_data("42386","Kim Morton",20250504,"WR").
-shift_data("42386","Kim Morton",20250505,"LD").
-shift_data("42386","Kim Morton",20250506,"SE").
-shift_data("42386","Kim Morton",20250507,"SN").
-shift_data("42386","Kim Morton",20250508,"WR").
-shift_data("42386","Kim Morton",20250509,"D").
-shift_data("42386","Kim Morton",20250510,"WR").
-shift_data("42386","Kim Morton",20250511,"LD").
-shift_data("42386","Kim Morton",20250512,"WR").
-shift_data("42386","Kim Morton",20250513,"LD").
-shift_data("42386","Kim Morton",20250514,"SE").
-shift_data("42386","Kim Morton",20250515,"SN").
-shift_data("42386","Kim Morton",20250516,"WR").
-shift_data("42386","Kim Morton",20250517,"AL").
-shift_data("42386","Kim Morton",20250518,"AL").
-shift_data("42386","Kim Morton",20250519,"LD").
-shift_data("42386","Kim Morton",20250520,"WR").
-shift_data("42386","Kim Morton",20250521,"LD").
-shift_data("42386","Kim Morton",20250522,"SE").
-shift_data("42386","Kim Morton",20250523,"SN").
-shift_data("42386","Kim Morton",20250524,"WR").
-shift_data("42386","Kim Morton",20250525,"D").
-shift_data("42386","Kim Morton",20250526,"LD").
-shift_data("42386","Kim Morton",20250527,"SE").
-shift_data("42386","Kim Morton",20250528,"SN").
-shift_data("42386","Kim Morton",20250529,"WR").
-shift_data("42386","Kim Morton",20250530,"WR").
-shift_data("42386","Kim Morton",20250531,"LD").
-shift_data("42386","Kim Morton",20250601,"SE").
-shift_data("42386","Kim Morton",20250602,"SN").
-shift_data("42386","Kim Morton",20250603,"WR").
-shift_data("42386","Kim Morton",20250604,"D").
-shift_data("42386","Kim Morton",20250605,"LD").
-shift_data("42386","Kim Morton",20250606,"WR").
-shift_data("42386","Kim Morton",20250607,"LD").
-shift_data("42386","Kim Morton",20250608,"WR").
-shift_data("42386","Kim Morton",20250609,"WR").
-shift_data("42386","Kim Morton",20250610,"SE").
-shift_data("42386","Kim Morton",20250611,"SN").
-shift_data("42386","Kim Morton",20250612,"WR").
-shift_data("42386","Kim Morton",20250613,"LD").
-shift_data("42386","Kim Morton",20250614,"SE").
-shift_data("42386","Kim Morton",20250615,"SN").
-shift_data("42386","Kim Morton",20250616,"WR").
-shift_data("42386","Kim Morton",20250617,"LD").
-shift_data("42386","Kim Morton",20250618,"SE").
-shift_data("42386","Kim Morton",20250619,"SN").
-shift_data("42386","Kim Morton",20250620,"SE").
-shift_data("42386","Kim Morton",20250621,"SN").
-shift_data("42386","Kim Morton",20250622,"WR").
-shift_data("42386","Kim Morton",20250623,"LD").
-shift_data("42386","Kim Morton",20250624,"SE").
-shift_data("42386","Kim Morton",20250625,"SN").
-shift_data("42386","Kim Morton",20250626,"WR").
-shift_data("42386","Kim Morton",20250627,"D").
-shift_data("42386","Kim Morton",20250628,"LD").
-shift_data("42386","Kim Morton",20250629,"WR").
-shift_data("42386","Kim Morton",20250630,"D").
-shift_data("42386","Kim Morton",20250701,"D").
-shift_data("42386","Kim Morton",20250702,"SE").
-shift_data("42386","Kim Morton",20250703,"SN").
-shift_data("42386","Kim Morton",20250704,"WR").
-shift_data("42386","Kim Morton",20250705,"WR").
-shift_data("42386","Kim Morton",20250706,"LD").
-shift_data("42386","Kim Morton",20250707,"SE").
-shift_data("42386","Kim Morton",20250708,"SN").
-shift_data("42386","Kim Morton",20250709,"SE").
-shift_data("42386","Kim Morton",20250710,"SN").
-shift_data("42386","Kim Morton",20250711,"WR").
-shift_data("42386","Kim Morton",20250712,"LD").
-shift_data("42386","Kim Morton",20250713,"WR").
-shift_data("42386","Kim Morton",20250714,"LD").
-shift_data("42386","Kim Morton",20250715,"WR").
-shift_data("42386","Kim Morton",20250716,"LD").
-shift_data("42386","Kim Morton",20250717,"SE").
-shift_data("42386","Kim Morton",20250718,"SN").
-shift_data("42386","Kim Morton",20250719,"SE").
-shift_data("42386","Kim Morton",20250720,"SN").
-shift_data("42386","Kim Morton",20250721,"PH").
-shift_data("42386","Kim Morton",20250722,"SE").
-shift_data("42386","Kim Morton",20250723,"SN").
-shift_data("42386","Kim Morton",20250724,"WR").
-shift_data("42386","Kim Morton",20250725,"AL").
-shift_data("42386","Kim Morton",20250726,"HL").
-shift_data("42386","Kim Morton",20250727,"WR").
-shift_data("42386","Kim Morton",20250728,"LD").
-shift_data("42386","Kim Morton",20250729,"SE").
-shift_data("42386","Kim Morton",20250730,"SN").
-shift_data("42386","Kim Morton",20250731,"WR").
-shift_data("42386","Kim Morton",20250801,"LD").
-shift_data("42386","Kim Morton",20250802,"WR").
-shift_data("42386","Kim Morton",20250803,"LD").
-shift_data("42386","Kim Morton",20250804,"SE").
-shift_data("42386","Kim Morton",20250805,"SN").
-shift_data("42386","Kim Morton",20250806,"WR").
-shift_data("42386","Kim Morton",20250807,"SE").
-shift_data("42386","Kim Morton",20250808,"SN").
-shift_data("42386","Kim Morton",20250809,"SE").
-shift_data("42386","Kim Morton",20250810,"SN").
-shift_data("42386","Kim Morton",20250811,"PH").
-shift_data("42386","Kim Morton",20250812,"WR").
-shift_data("42386","Kim Morton",20250813,"LD").
-shift_data("42386","Kim Morton",20250814,"WR").
-shift_data("42386","Kim Morton",20250815,"LD").
-shift_data("42386","Kim Morton",20250816,"WR").
 shift_data("42538","Erin Johnson DVM",20200921,"D").
 shift_data("42538","Erin Johnson DVM",20200922,"D").
 shift_data("42538","Erin Johnson DVM",20200923,"WR").
@@ -29323,281 +25182,6 @@ shift_data("42904","Vincent Combs",20250102,"PH").
 shift_data("42904","Vincent Combs",20250103,"PH").
 shift_data("42904","Vincent Combs",20250104,"LD").
 shift_data("42904","Vincent Combs",20250115,"D").
-shift_data("42904","Vincent Combs",20250401,"D").
-shift_data("42904","Vincent Combs",20250402,"D").
-shift_data("42904","Vincent Combs",20250403,"LD").
-shift_data("42904","Vincent Combs",20250404,"WR").
-shift_data("42904","Vincent Combs",20250405,"SE").
-shift_data("42904","Vincent Combs",20250406,"SN").
-shift_data("42904","Vincent Combs",20250407,"WR").
-shift_data("42904","Vincent Combs",20250408,"LD").
-shift_data("42904","Vincent Combs",20250409,"SE").
-shift_data("42904","Vincent Combs",20250410,"SN").
-shift_data("42904","Vincent Combs",20250411,"SE").
-shift_data("42904","Vincent Combs",20250412,"SN").
-shift_data("42904","Vincent Combs",20250413,"WR").
-shift_data("42904","Vincent Combs",20250414,"D").
-shift_data("42904","Vincent Combs",20250415,"LD").
-shift_data("42904","Vincent Combs",20250416,"WR").
-shift_data("42904","Vincent Combs",20250417,"WR").
-shift_data("42904","Vincent Combs",20250418,"AL").
-shift_data("42904","Vincent Combs",20250419,"D").
-shift_data("42904","Vincent Combs",20250420,"SE").
-shift_data("42904","Vincent Combs",20250421,"SN").
-shift_data("42904","Vincent Combs",20250422,"WR").
-shift_data("42904","Vincent Combs",20250423,"LD").
-shift_data("42904","Vincent Combs",20250424,"WR").
-shift_data("42904","Vincent Combs",20250425,"LD").
-shift_data("42904","Vincent Combs",20250426,"SE").
-shift_data("42904","Vincent Combs",20250427,"SN").
-shift_data("42904","Vincent Combs",20250428,"WR").
-shift_data("42904","Vincent Combs",20250429,"PH").
-shift_data("42904","Vincent Combs",20250430,"SE").
-shift_data("42904","Vincent Combs",20250501,"SN").
-shift_data("42904","Vincent Combs",20250502,"WR").
-shift_data("42904","Vincent Combs",20250503,"LD").
-shift_data("42904","Vincent Combs",20250504,"SE").
-shift_data("42904","Vincent Combs",20250505,"SN").
-shift_data("42904","Vincent Combs",20250506,"PH").
-shift_data("42904","Vincent Combs",20250507,"D").
-shift_data("42904","Vincent Combs",20250508,"LD").
-shift_data("42904","Vincent Combs",20250509,"WR").
-shift_data("42904","Vincent Combs",20250510,"LD").
-shift_data("42904","Vincent Combs",20250511,"SE").
-shift_data("42904","Vincent Combs",20250512,"SN").
-shift_data("42904","Vincent Combs",20250513,"SE").
-shift_data("42904","Vincent Combs",20250514,"SN").
-shift_data("42904","Vincent Combs",20250515,"WR").
-shift_data("42904","Vincent Combs",20250516,"SE").
-shift_data("42904","Vincent Combs",20250517,"SN").
-shift_data("42904","Vincent Combs",20250518,"WR").
-shift_data("42904","Vincent Combs",20250519,"LD").
-shift_data("42904","Vincent Combs",20250520,"LM").
-shift_data("42904","Vincent Combs",20250521,"WR").
-shift_data("42904","Vincent Combs",20250522,"WR").
-shift_data("42904","Vincent Combs",20250523,"LD").
-shift_data("42904","Vincent Combs",20250524,"WR").
-shift_data("42904","Vincent Combs",20250525,"LD").
-shift_data("42904","Vincent Combs",20250526,"SE").
-shift_data("42904","Vincent Combs",20250527,"SN").
-shift_data("42904","Vincent Combs",20250528,"WR").
-shift_data("42904","Vincent Combs",20250529,"LD").
-shift_data("42904","Vincent Combs",20250530,"SE").
-shift_data("42904","Vincent Combs",20250531,"SN").
-shift_data("42904","Vincent Combs",20250601,"WR").
-shift_data("42904","Vincent Combs",20250602,"WR").
-shift_data("42904","Vincent Combs",20250603,"WR").
-shift_data("42904","Vincent Combs",20250604,"LD").
-shift_data("42904","Vincent Combs",20250605,"SE").
-shift_data("42904","Vincent Combs",20250606,"SN").
-shift_data("42904","Vincent Combs",20250607,"SE").
-shift_data("42904","Vincent Combs",20250608,"SN").
-shift_data("42904","Vincent Combs",20250609,"WR").
-shift_data("42904","Vincent Combs",20250610,"SL").
-shift_data("42904","Vincent Combs",20250611,"SL").
-shift_data("42904","Vincent Combs",20250612,"SL").
-shift_data("42904","Vincent Combs",20250613,"WR").
-shift_data("42904","Vincent Combs",20250614,"D").
-shift_data("42904","Vincent Combs",20250615,"LD").
-shift_data("42904","Vincent Combs",20250616,"SE").
-shift_data("42904","Vincent Combs",20250617,"SN").
-shift_data("42904","Vincent Combs",20250618,"WR").
-shift_data("42904","Vincent Combs",20250619,"LD").
-shift_data("42904","Vincent Combs",20250620,"WR").
-shift_data("42904","Vincent Combs",20250621,"D").
-shift_data("42904","Vincent Combs",20250622,"LD").
-shift_data("42904","Vincent Combs",20250623,"SE").
-shift_data("42904","Vincent Combs",20250624,"SN").
-shift_data("42904","Vincent Combs",20250625,"WR").
-shift_data("42904","Vincent Combs",20250626,"D").
-shift_data("42904","Vincent Combs",20250627,"LD").
-shift_data("42904","Vincent Combs",20250628,"SE").
-shift_data("42904","Vincent Combs",20250629,"SN").
-shift_data("42904","Vincent Combs",20250630,"WR").
-shift_data("42904","Vincent Combs",20250701,"LD").
-shift_data("42904","Vincent Combs",20250702,"WR").
-shift_data("42904","Vincent Combs",20250703,"LD").
-shift_data("42904","Vincent Combs",20250704,"WR").
-shift_data("42904","Vincent Combs",20250705,"WR").
-shift_data("42904","Vincent Combs",20250706,"SE").
-shift_data("42904","Vincent Combs",20250707,"SN").
-shift_data("42904","Vincent Combs",20250708,"WR").
-shift_data("42904","Vincent Combs",20250709,"LD").
-shift_data("42904","Vincent Combs",20250710,"SE").
-shift_data("42904","Vincent Combs",20250711,"SN").
-shift_data("42904","Vincent Combs",20250712,"SE").
-shift_data("42904","Vincent Combs",20250713,"SN").
-shift_data("42904","Vincent Combs",20250714,"WR").
-shift_data("42904","Vincent Combs",20250715,"D").
-shift_data("42904","Vincent Combs",20250716,"LD").
-shift_data("42904","Vincent Combs",20250717,"SE").
-shift_data("42904","Vincent Combs",20250718,"SN").
-shift_data("42904","Vincent Combs",20250719,"WR").
-shift_data("42904","Vincent Combs",20250720,"D").
-shift_data("42904","Vincent Combs",20250721,"LD").
-shift_data("42904","Vincent Combs",20250722,"SE").
-shift_data("42904","Vincent Combs",20250723,"SN").
-shift_data("42904","Vincent Combs",20250724,"WR").
-shift_data("42904","Vincent Combs",20250725,"LD").
-shift_data("42904","Vincent Combs",20250726,"WR").
-shift_data("42904","Vincent Combs",20250727,"LD").
-shift_data("42904","Vincent Combs",20250728,"SE").
-shift_data("42904","Vincent Combs",20250729,"SN").
-shift_data("42904","Vincent Combs",20250730,"WR").
-shift_data("42904","Vincent Combs",20250731,"WR").
-shift_data("42904","Vincent Combs",20250801,"LD").
-shift_data("42904","Vincent Combs",20250802,"SE").
-shift_data("42904","Vincent Combs",20250803,"SN").
-shift_data("42904","Vincent Combs",20250804,"WR").
-shift_data("42904","Vincent Combs",20250805,"WR").
-shift_data("42904","Vincent Combs",20250806,"LD").
-shift_data("42904","Vincent Combs",20250807,"WR").
-shift_data("42904","Vincent Combs",20250808,"LD").
-shift_data("42904","Vincent Combs",20250809,"SE").
-shift_data("42904","Vincent Combs",20250810,"SN").
-shift_data("42904","Vincent Combs",20250811,"SE").
-shift_data("42904","Vincent Combs",20250812,"SN").
-shift_data("42904","Vincent Combs",20250813,"WR").
-shift_data("42904","Vincent Combs",20250814,"LM").
-shift_data("42904","Vincent Combs",20250815,"SE").
-shift_data("42904","Vincent Combs",20250816,"SN").
-shift_data("42904","Vincent Combs",20250817,"WR").
-shift_data("42904","Vincent Combs",20250818,"LD").
-shift_data("42904","Vincent Combs",20250819,"LM").
-shift_data("42904","Vincent Combs",20250820,"SE").
-shift_data("42904","Vincent Combs",20250821,"SN").
-shift_data("42904","Vincent Combs",20250822,"WR").
-shift_data("42904","Vincent Combs",20250823,"LD").
-shift_data("42904","Vincent Combs",20250824,"SE").
-shift_data("42904","Vincent Combs",20250825,"SN").
-shift_data("42904","Vincent Combs",20250826,"WR").
-shift_data("42904","Vincent Combs",20250827,"SE").
-shift_data("42904","Vincent Combs",20250828,"SN").
-shift_data("42904","Vincent Combs",20250829,"AL").
-shift_data("42904","Vincent Combs",20250830,"WR").
-shift_data("42904","Vincent Combs",20250831,"WR").
-shift_data("42904","Vincent Combs",20250901,"HL").
-shift_data("42904","Vincent Combs",20250902,"WR").
-shift_data("42904","Vincent Combs",20250903,"LD").
-shift_data("42904","Vincent Combs",20250904,"SE").
-shift_data("42904","Vincent Combs",20250905,"SN").
-shift_data("42904","Vincent Combs",20250906,"WR").
-shift_data("42904","Vincent Combs",20250907,"D").
-shift_data("42904","Vincent Combs",20250908,"LD").
-shift_data("42904","Vincent Combs",20250909,"SE").
-shift_data("42904","Vincent Combs",20250910,"SN").
-shift_data("42904","Vincent Combs",20250911,"WR").
-shift_data("42904","Vincent Combs",20250912,"D").
-shift_data("42904","Vincent Combs",20250913,"LD").
-shift_data("42904","Vincent Combs",20250914,"SE").
-shift_data("42904","Vincent Combs",20250915,"SN").
-shift_data("42904","Vincent Combs",20250916,"WR").
-shift_data("42904","Vincent Combs",20250917,"D").
-shift_data("42904","Vincent Combs",20250918,"LD").
-shift_data("42904","Vincent Combs",20250919,"SE").
-shift_data("42904","Vincent Combs",20250920,"SN").
-shift_data("42904","Vincent Combs",20250921,"WR").
-shift_data("42904","Vincent Combs",20250922,"WR").
-shift_data("42904","Vincent Combs",20250923,"LD").
-shift_data("42904","Vincent Combs",20250924,"SE").
-shift_data("42904","Vincent Combs",20250925,"SN").
-shift_data("42904","Vincent Combs",20250926,"WR").
-shift_data("42904","Vincent Combs",20250927,"WR").
-shift_data("42904","Vincent Combs",20250928,"LD").
-shift_data("42904","Vincent Combs",20250929,"SE").
-shift_data("42904","Vincent Combs",20250930,"SN").
-shift_data("42904","Vincent Combs",20251001,"WR").
-shift_data("42904","Vincent Combs",20251002,"D").
-shift_data("42904","Vincent Combs",20251003,"LD").
-shift_data("42904","Vincent Combs",20251004,"WR").
-shift_data("42904","Vincent Combs",20251005,"LD").
-shift_data("42904","Vincent Combs",20251006,"SE").
-shift_data("42904","Vincent Combs",20251007,"SN").
-shift_data("42904","Vincent Combs",20251008,"WR").
-shift_data("42904","Vincent Combs",20251009,"AL").
-shift_data("42904","Vincent Combs",20251010,"LD").
-shift_data("42904","Vincent Combs",20251011,"SE").
-shift_data("42904","Vincent Combs",20251012,"SN").
-shift_data("42904","Vincent Combs",20251013,"PH").
-shift_data("42904","Vincent Combs",20251014,"LD").
-shift_data("42904","Vincent Combs",20251015,"SE").
-shift_data("42904","Vincent Combs",20251016,"SN").
-shift_data("42904","Vincent Combs",20251017,"WR").
-shift_data("42904","Vincent Combs",20251018,"D").
-shift_data("42904","Vincent Combs",20251019,"WR").
-shift_data("42904","Vincent Combs",20251020,"LD").
-shift_data("42904","Vincent Combs",20251021,"SE").
-shift_data("42904","Vincent Combs",20251022,"SN").
-shift_data("42904","Vincent Combs",20251023,"WR").
-shift_data("42904","Vincent Combs",20251024,"SE").
-shift_data("42904","Vincent Combs",20251025,"SN").
-shift_data("42904","Vincent Combs",20251026,"WR").
-shift_data("42904","Vincent Combs",20251027,"LD").
-shift_data("42904","Vincent Combs",20251028,"SE").
-shift_data("42904","Vincent Combs",20251029,"SN").
-shift_data("42904","Vincent Combs",20251030,"WR").
-shift_data("42904","Vincent Combs",20251031,"LD").
-shift_data("42904","Vincent Combs",20251101,"WR").
-shift_data("42904","Vincent Combs",20251102,"D").
-shift_data("42904","Vincent Combs",20251103,"PH").
-shift_data("42904","Vincent Combs",20251104,"LD").
-shift_data("42904","Vincent Combs",20251105,"SE").
-shift_data("42904","Vincent Combs",20251106,"SN").
-shift_data("42904","Vincent Combs",20251107,"WR").
-shift_data("42904","Vincent Combs",20251108,"WR").
-shift_data("42904","Vincent Combs",20251109,"LD").
-shift_data("42904","Vincent Combs",20251110,"SE").
-shift_data("42904","Vincent Combs",20251111,"SN").
-shift_data("42904","Vincent Combs",20251112,"WR").
-shift_data("42904","Vincent Combs",20251113,"AL").
-shift_data("42904","Vincent Combs",20251114,"D").
-shift_data("42904","Vincent Combs",20251115,"WR").
-shift_data("42904","Vincent Combs",20251116,"LD").
-shift_data("42904","Vincent Combs",20251117,"SE").
-shift_data("42904","Vincent Combs",20251118,"SN").
-shift_data("42904","Vincent Combs",20251119,"WR").
-shift_data("42904","Vincent Combs",20251120,"LD").
-shift_data("42904","Vincent Combs",20251121,"SE").
-shift_data("42904","Vincent Combs",20251122,"SN").
-shift_data("42904","Vincent Combs",20251123,"WR").
-shift_data("42904","Vincent Combs",20251124,"LD").
-shift_data("42904","Vincent Combs",20251125,"SE").
-shift_data("42904","Vincent Combs",20251126,"SN").
-shift_data("42904","Vincent Combs",20251127,"WR").
-shift_data("42904","Vincent Combs",20251128,"WR").
-shift_data("42904","Vincent Combs",20251129,"LD").
-shift_data("42904","Vincent Combs",20251130,"SE").
-shift_data("42904","Vincent Combs",20251201,"SN").
-shift_data("42904","Vincent Combs",20251202,"WR").
-shift_data("42904","Vincent Combs",20251203,"LD").
-shift_data("42904","Vincent Combs",20251204,"SE").
-shift_data("42904","Vincent Combs",20251205,"SN").
-shift_data("42904","Vincent Combs",20251206,"WR").
-shift_data("42904","Vincent Combs",20251207,"SE").
-shift_data("42904","Vincent Combs",20251208,"SN").
-shift_data("42904","Vincent Combs",20251209,"WR").
-shift_data("42904","Vincent Combs",20251210,"LD").
-shift_data("42904","Vincent Combs",20251211,"SE").
-shift_data("42904","Vincent Combs",20251212,"SN").
-shift_data("42904","Vincent Combs",20251213,"WR").
-shift_data("42904","Vincent Combs",20251214,"WR").
-shift_data("42904","Vincent Combs",20251215,"WR").
-shift_data("42904","Vincent Combs",20251216,"LD").
-shift_data("42904","Vincent Combs",20251217,"SE").
-shift_data("42904","Vincent Combs",20251218,"SN").
-shift_data("42904","Vincent Combs",20251219,"WR").
-shift_data("42904","Vincent Combs",20251220,"WR").
-shift_data("42904","Vincent Combs",20251221,"WR").
-shift_data("42904","Vincent Combs",20251222,"LD").
-shift_data("42904","Vincent Combs",20251223,"SE").
-shift_data("42904","Vincent Combs",20251224,"SN").
-shift_data("42904","Vincent Combs",20251225,"WR").
-shift_data("42904","Vincent Combs",20251226,"LD").
-shift_data("42904","Vincent Combs",20251227,"SE").
-shift_data("42904","Vincent Combs",20251228,"SN").
-shift_data("42904","Vincent Combs",20251229,"PH").
-shift_data("42904","Vincent Combs",20251230,"PH").
-shift_data("42904","Vincent Combs",20251231,"PH").
 shift_data("44539","Kimberly Love",20200921,"D").
 shift_data("44539","Kimberly Love",20200922,"D").
 shift_data("44539","Kimberly Love",20200923,"LM").
@@ -32209,109 +27793,6 @@ shift_data("55540","Kevin Marks",20230923,"AL").
 shift_data("55540","Kevin Marks",20230924,"AL").
 shift_data("55540","Kevin Marks",20230925,"AL").
 shift_data("55540","Kevin Marks",20230926,"WR").
-shift_data("564088","nan",20250405,"WR").
-shift_data("564088","nan",20250406,"WR").
-shift_data("564088","nan",20250412,"WR").
-shift_data("564088","nan",20250413,"WR").
-shift_data("564088","nan",20250415,"HL").
-shift_data("564088","nan",20250419,"WR").
-shift_data("564088","nan",20250420,"WR").
-shift_data("564088","nan",20250426,"WR").
-shift_data("564088","nan",20250427,"WR").
-shift_data("564088","nan",20250429,"PH").
-shift_data("564088","nan",20250503,"WR").
-shift_data("564088","nan",20250504,"WR").
-shift_data("564088","nan",20250505,"PH").
-shift_data("564088","nan",20250506,"PH").
-shift_data("564088","nan",20250510,"WR").
-shift_data("564088","nan",20250511,"WR").
-shift_data("564088","nan",20250514,"HL").
-shift_data("564088","nan",20250517,"WR").
-shift_data("564088","nan",20250518,"WR").
-shift_data("564088","nan",20250524,"WR").
-shift_data("564088","nan",20250525,"WR").
-shift_data("564088","nan",20250531,"WR").
-shift_data("564088","nan",20250601,"WR").
-shift_data("564088","nan",20250602,"HL").
-shift_data("564088","nan",20250607,"WR").
-shift_data("564088","nan",20250608,"WR").
-shift_data("564088","nan",20250614,"WR").
-shift_data("564088","nan",20250615,"WR").
-shift_data("564088","nan",20250621,"WR").
-shift_data("564088","nan",20250622,"WR").
-shift_data("564088","nan",20250624,"AL").
-shift_data("564088","nan",20250628,"WR").
-shift_data("564088","nan",20250629,"WR").
-shift_data("564088","nan",20250705,"WR").
-shift_data("564088","nan",20250706,"WR").
-shift_data("564088","nan",20250712,"WR").
-shift_data("564088","nan",20250713,"WR").
-shift_data("564088","nan",20250715,"HL").
-shift_data("564088","nan",20250719,"WR").
-shift_data("564088","nan",20250720,"WR").
-shift_data("564088","nan",20250721,"PH").
-shift_data("564088","nan",20250726,"WR").
-shift_data("564088","nan",20250727,"WR").
-shift_data("564088","nan",20250802,"WR").
-shift_data("564088","nan",20250803,"WR").
-shift_data("564088","nan",20250809,"WR").
-shift_data("564088","nan",20250810,"WR").
-shift_data("564088","nan",20250811,"PH").
-shift_data("564088","nan",20250814,"AL").
-shift_data("564088","nan",20250815,"AL").
-shift_data("564088","nan",20250816,"WR").
-shift_data("564088","nan",20250817,"WR").
-shift_data("564088","nan",20250823,"WR").
-shift_data("564088","nan",20250824,"WR").
-shift_data("564088","nan",20250830,"WR").
-shift_data("564088","nan",20250831,"WR").
-shift_data("564088","nan",20250906,"WR").
-shift_data("564088","nan",20250907,"WR").
-shift_data("564088","nan",20250912,"AL").
-shift_data("564088","nan",20250913,"WR").
-shift_data("564088","nan",20250914,"WR").
-shift_data("564088","nan",20250915,"PH").
-shift_data("564088","nan",20250920,"WR").
-shift_data("564088","nan",20250921,"WR").
-shift_data("564088","nan",20250923,"PH").
-shift_data("564088","nan",20250927,"WR").
-shift_data("564088","nan",20250928,"WR").
-shift_data("564088","nan",20251004,"WR").
-shift_data("564088","nan",20251005,"WR").
-shift_data("564088","nan",20251011,"WR").
-shift_data("564088","nan",20251012,"WR").
-shift_data("564088","nan",20251013,"PH").
-shift_data("564088","nan",20251018,"WR").
-shift_data("564088","nan",20251019,"WR").
-shift_data("564088","nan",20251025,"WR").
-shift_data("564088","nan",20251026,"WR").
-shift_data("564088","nan",20251030,"AL").
-shift_data("564088","nan",20251101,"WR").
-shift_data("564088","nan",20251102,"WR").
-shift_data("564088","nan",20251103,"PH").
-shift_data("564088","nan",20251108,"WR").
-shift_data("564088","nan",20251109,"WR").
-shift_data("564088","nan",20251113,"AL").
-shift_data("564088","nan",20251115,"WR").
-shift_data("564088","nan",20251116,"WR").
-shift_data("564088","nan",20251122,"WR").
-shift_data("564088","nan",20251123,"WR").
-shift_data("564088","nan",20251124,"PH").
-shift_data("564088","nan",20251129,"WR").
-shift_data("564088","nan",20251130,"WR").
-shift_data("564088","nan",20251202,"AL").
-shift_data("564088","nan",20251206,"WR").
-shift_data("564088","nan",20251207,"WR").
-shift_data("564088","nan",20251213,"WR").
-shift_data("564088","nan",20251214,"WR").
-shift_data("564088","nan",20251220,"WR").
-shift_data("564088","nan",20251221,"WR").
-shift_data("564088","nan",20251225,"AL").
-shift_data("564088","nan",20251227,"WR").
-shift_data("564088","nan",20251228,"WR").
-shift_data("564088","nan",20251229,"PH").
-shift_data("564088","nan",20251230,"PH").
-shift_data("564088","nan",20251231,"PH").
 shift_data("57827", "Jonathan Michael", 20250801, "SN").
 shift_data("57827", "Jonathan Michael", 20250802, "WR").
 shift_data("57827", "Jonathan Michael", 20250803, "LD").
@@ -33531,281 +29012,6 @@ shift_data("58103","Erica Lopez",20250101,"SE").
 shift_data("58103","Erica Lopez",20250102,"SN").
 shift_data("58103","Erica Lopez",20250103,"PH").
 shift_data("58103","Erica Lopez",20250104,"D").
-shift_data("58103","Erica Lopez",20250401,"SE").
-shift_data("58103","Erica Lopez",20250402,"SN").
-shift_data("58103","Erica Lopez",20250403,"WR").
-shift_data("58103","Erica Lopez",20250404,"D").
-shift_data("58103","Erica Lopez",20250405,"D").
-shift_data("58103","Erica Lopez",20250406,"WR").
-shift_data("58103","Erica Lopez",20250407,"LD").
-shift_data("58103","Erica Lopez",20250408,"WR").
-shift_data("58103","Erica Lopez",20250409,"D").
-shift_data("58103","Erica Lopez",20250410,"LD").
-shift_data("58103","Erica Lopez",20250411,"SE").
-shift_data("58103","Erica Lopez",20250412,"SN").
-shift_data("58103","Erica Lopez",20250413,"WR").
-shift_data("58103","Erica Lopez",20250414,"LD").
-shift_data("58103","Erica Lopez",20250415,"SE").
-shift_data("58103","Erica Lopez",20250416,"SN").
-shift_data("58103","Erica Lopez",20250417,"WR").
-shift_data("58103","Erica Lopez",20250418,"AL").
-shift_data("58103","Erica Lopez",20250419,"LD").
-shift_data("58103","Erica Lopez",20250420,"WR").
-shift_data("58103","Erica Lopez",20250421,"SE").
-shift_data("58103","Erica Lopez",20250422,"SN").
-shift_data("58103","Erica Lopez",20250423,"SE").
-shift_data("58103","Erica Lopez",20250424,"SN").
-shift_data("58103","Erica Lopez",20250425,"WR").
-shift_data("58103","Erica Lopez",20250426,"D").
-shift_data("58103","Erica Lopez",20250427,"SE").
-shift_data("58103","Erica Lopez",20250428,"SN").
-shift_data("58103","Erica Lopez",20250429,"PH").
-shift_data("58103","Erica Lopez",20250430,"SE").
-shift_data("58103","Erica Lopez",20250501,"SN").
-shift_data("58103","Erica Lopez",20250502,"WR").
-shift_data("58103","Erica Lopez",20250503,"LD").
-shift_data("58103","Erica Lopez",20250504,"WR").
-shift_data("58103","Erica Lopez",20250505,"D").
-shift_data("58103","Erica Lopez",20250506,"PH").
-shift_data("58103","Erica Lopez",20250507,"LD").
-shift_data("58103","Erica Lopez",20250508,"WR").
-shift_data("58103","Erica Lopez",20250509,"LD").
-shift_data("58103","Erica Lopez",20250510,"SE").
-shift_data("58103","Erica Lopez",20250511,"SN").
-shift_data("58103","Erica Lopez",20250512,"WR").
-shift_data("58103","Erica Lopez",20250513,"WR").
-shift_data("58103","Erica Lopez",20250514,"LD").
-shift_data("58103","Erica Lopez",20250515,"WR").
-shift_data("58103","Erica Lopez",20250516,"LD").
-shift_data("58103","Erica Lopez",20250517,"SE").
-shift_data("58103","Erica Lopez",20250518,"SN").
-shift_data("58103","Erica Lopez",20250519,"WR").
-shift_data("58103","Erica Lopez",20250520,"WR").
-shift_data("58103","Erica Lopez",20250521,"LD").
-shift_data("58103","Erica Lopez",20250522,"SE").
-shift_data("58103","Erica Lopez",20250523,"SN").
-shift_data("58103","Erica Lopez",20250524,"SE").
-shift_data("58103","Erica Lopez",20250525,"SN").
-shift_data("58103","Erica Lopez",20250526,"WR").
-shift_data("58103","Erica Lopez",20250527,"LD").
-shift_data("58103","Erica Lopez",20250528,"SE").
-shift_data("58103","Erica Lopez",20250529,"SN").
-shift_data("58103","Erica Lopez",20250530,"WR").
-shift_data("58103","Erica Lopez",20250531,"D").
-shift_data("58103","Erica Lopez",20250601,"LD").
-shift_data("58103","Erica Lopez",20250602,"SE").
-shift_data("58103","Erica Lopez",20250603,"SN").
-shift_data("58103","Erica Lopez",20250604,"WR").
-shift_data("58103","Erica Lopez",20250605,"LD").
-shift_data("58103","Erica Lopez",20250606,"WR").
-shift_data("58103","Erica Lopez",20250607,"D").
-shift_data("58103","Erica Lopez",20250608,"LD").
-shift_data("58103","Erica Lopez",20250609,"SE").
-shift_data("58103","Erica Lopez",20250610,"SN").
-shift_data("58103","Erica Lopez",20250611,"WR").
-shift_data("58103","Erica Lopez",20250612,"WR").
-shift_data("58103","Erica Lopez",20250613,"WR").
-shift_data("58103","Erica Lopez",20250614,"LD").
-shift_data("58103","Erica Lopez",20250615,"SE").
-shift_data("58103","Erica Lopez",20250616,"SN").
-shift_data("58103","Erica Lopez",20250617,"SE").
-shift_data("58103","Erica Lopez",20250618,"SN").
-shift_data("58103","Erica Lopez",20250619,"WR").
-shift_data("58103","Erica Lopez",20250620,"LD").
-shift_data("58103","Erica Lopez",20250621,"SE").
-shift_data("58103","Erica Lopez",20250622,"SN").
-shift_data("58103","Erica Lopez",20250623,"AL").
-shift_data("58103","Erica Lopez",20250624,"AL").
-shift_data("58103","Erica Lopez",20250625,"LD").
-shift_data("58103","Erica Lopez",20250626,"WR").
-shift_data("58103","Erica Lopez",20250627,"SE").
-shift_data("58103","Erica Lopez",20250628,"SN").
-shift_data("58103","Erica Lopez",20250629,"WR").
-shift_data("58103","Erica Lopez",20250630,"D").
-shift_data("58103","Erica Lopez",20250701,"LD").
-shift_data("58103","Erica Lopez",20250702,"SE").
-shift_data("58103","Erica Lopez",20250703,"SN").
-shift_data("58103","Erica Lopez",20250704,"WR").
-shift_data("58103","Erica Lopez",20250705,"D").
-shift_data("58103","Erica Lopez",20250706,"LD").
-shift_data("58103","Erica Lopez",20250707,"SE").
-shift_data("58103","Erica Lopez",20250708,"SN").
-shift_data("58103","Erica Lopez",20250709,"WR").
-shift_data("58103","Erica Lopez",20250710,"WR").
-shift_data("58103","Erica Lopez",20250711,"LD").
-shift_data("58103","Erica Lopez",20250712,"SE").
-shift_data("58103","Erica Lopez",20250713,"SN").
-shift_data("58103","Erica Lopez",20250714,"WR").
-shift_data("58103","Erica Lopez",20250715,"WR").
-shift_data("58103","Erica Lopez",20250716,"SE").
-shift_data("58103","Erica Lopez",20250717,"SN").
-shift_data("58103","Erica Lopez",20250718,"WR").
-shift_data("58103","Erica Lopez",20250719,"LD").
-shift_data("58103","Erica Lopez",20250720,"SE").
-shift_data("58103","Erica Lopez",20250721,"SN").
-shift_data("58103","Erica Lopez",20250722,"WR").
-shift_data("58103","Erica Lopez",20250723,"WR").
-shift_data("58103","Erica Lopez",20250724,"LD").
-shift_data("58103","Erica Lopez",20250725,"SE").
-shift_data("58103","Erica Lopez",20250726,"SN").
-shift_data("58103","Erica Lopez",20250727,"SE").
-shift_data("58103","Erica Lopez",20250728,"SN").
-shift_data("58103","Erica Lopez",20250729,"WR").
-shift_data("58103","Erica Lopez",20250730,"LD").
-shift_data("58103","Erica Lopez",20250731,"WR").
-shift_data("58103","Erica Lopez",20250801,"D").
-shift_data("58103","Erica Lopez",20250802,"WR").
-shift_data("58103","Erica Lopez",20250803,"SE").
-shift_data("58103","Erica Lopez",20250804,"SN").
-shift_data("58103","Erica Lopez",20250805,"SE").
-shift_data("58103","Erica Lopez",20250806,"SN").
-shift_data("58103","Erica Lopez",20250807,"WR").
-shift_data("58103","Erica Lopez",20250808,"D").
-shift_data("58103","Erica Lopez",20250809,"LD").
-shift_data("58103","Erica Lopez",20250810,"WR").
-shift_data("58103","Erica Lopez",20250811,"PH").
-shift_data("58103","Erica Lopez",20250812,"LD").
-shift_data("58103","Erica Lopez",20250813,"WR").
-shift_data("58103","Erica Lopez",20250814,"D").
-shift_data("58103","Erica Lopez",20250815,"D").
-shift_data("58103","Erica Lopez",20250816,"LD").
-shift_data("58103","Erica Lopez",20250817,"SE").
-shift_data("58103","Erica Lopez",20250818,"SN").
-shift_data("58103","Erica Lopez",20250819,"WR").
-shift_data("58103","Erica Lopez",20250820,"LD").
-shift_data("58103","Erica Lopez",20250821,"SE").
-shift_data("58103","Erica Lopez",20250822,"SN").
-shift_data("58103","Erica Lopez",20250823,"WR").
-shift_data("58103","Erica Lopez",20250824,"D").
-shift_data("58103","Erica Lopez",20250825,"D").
-shift_data("58103","Erica Lopez",20250826,"D").
-shift_data("58103","Erica Lopez",20250827,"LD").
-shift_data("58103","Erica Lopez",20250828,"WR").
-shift_data("58103","Erica Lopez",20250829,"WR").
-shift_data("58103","Erica Lopez",20250830,"LD").
-shift_data("58103","Erica Lopez",20250831,"SE").
-shift_data("58103","Erica Lopez",20250901,"SN").
-shift_data("58103","Erica Lopez",20250902,"SE").
-shift_data("58103","Erica Lopez",20250903,"SN").
-shift_data("58103","Erica Lopez",20250904,"WR").
-shift_data("58103","Erica Lopez",20250905,"D").
-shift_data("58103","Erica Lopez",20250906,"WR").
-shift_data("58103","Erica Lopez",20250907,"LD").
-shift_data("58103","Erica Lopez",20250908,"SE").
-shift_data("58103","Erica Lopez",20250909,"SN").
-shift_data("58103","Erica Lopez",20250910,"WR").
-shift_data("58103","Erica Lopez",20250911,"LD").
-shift_data("58103","Erica Lopez",20250912,"WR").
-shift_data("58103","Erica Lopez",20250913,"D").
-shift_data("58103","Erica Lopez",20250914,"LD").
-shift_data("58103","Erica Lopez",20250915,"SE").
-shift_data("58103","Erica Lopez",20250916,"SN").
-shift_data("58103","Erica Lopez",20250917,"SE").
-shift_data("58103","Erica Lopez",20250918,"SN").
-shift_data("58103","Erica Lopez",20250919,"WR").
-shift_data("58103","Erica Lopez",20250920,"WR").
-shift_data("58103","Erica Lopez",20250921,"D").
-shift_data("58103","Erica Lopez",20250922,"LD").
-shift_data("58103","Erica Lopez",20250923,"PH").
-shift_data("58103","Erica Lopez",20250924,"WR").
-shift_data("58103","Erica Lopez",20250925,"WR").
-shift_data("58103","Erica Lopez",20250926,"LD").
-shift_data("58103","Erica Lopez",20250927,"SE").
-shift_data("58103","Erica Lopez",20250928,"SN").
-shift_data("58103","Erica Lopez",20250929,"WR").
-shift_data("58103","Erica Lopez",20250930,"LD").
-shift_data("58103","Erica Lopez",20251001,"SE").
-shift_data("58103","Erica Lopez",20251002,"SN").
-shift_data("58103","Erica Lopez",20251003,"WR").
-shift_data("58103","Erica Lopez",20251004,"LD").
-shift_data("58103","Erica Lopez",20251005,"SE").
-shift_data("58103","Erica Lopez",20251006,"SN").
-shift_data("58103","Erica Lopez",20251007,"WR").
-shift_data("58103","Erica Lopez",20251008,"LD").
-shift_data("58103","Erica Lopez",20251009,"SE").
-shift_data("58103","Erica Lopez",20251010,"SN").
-shift_data("58103","Erica Lopez",20251011,"WR").
-shift_data("58103","Erica Lopez",20251012,"LD").
-shift_data("58103","Erica Lopez",20251013,"PH").
-shift_data("58103","Erica Lopez",20251014,"D").
-shift_data("58103","Erica Lopez",20251015,"SE").
-shift_data("58103","Erica Lopez",20251016,"SN").
-shift_data("58103","Erica Lopez",20251017,"WR").
-shift_data("58103","Erica Lopez",20251018,"LD").
-shift_data("58103","Erica Lopez",20251019,"SE").
-shift_data("58103","Erica Lopez",20251020,"SN").
-shift_data("58103","Erica Lopez",20251021,"WR").
-shift_data("58103","Erica Lopez",20251022,"SE").
-shift_data("58103","Erica Lopez",20251023,"SN").
-shift_data("58103","Erica Lopez",20251024,"WR").
-shift_data("58103","Erica Lopez",20251025,"LD").
-shift_data("58103","Erica Lopez",20251026,"SE").
-shift_data("58103","Erica Lopez",20251027,"SN").
-shift_data("58103","Erica Lopez",20251028,"WR").
-shift_data("58103","Erica Lopez",20251029,"AL").
-shift_data("58103","Erica Lopez",20251030,"D").
-shift_data("58103","Erica Lopez",20251031,"LD").
-shift_data("58103","Erica Lopez",20251101,"WR").
-shift_data("58103","Erica Lopez",20251102,"D").
-shift_data("58103","Erica Lopez",20251103,"SE").
-shift_data("58103","Erica Lopez",20251104,"SN").
-shift_data("58103","Erica Lopez",20251105,"WR").
-shift_data("58103","Erica Lopez",20251106,"WR").
-shift_data("58103","Erica Lopez",20251107,"WR").
-shift_data("58103","Erica Lopez",20251108,"LD").
-shift_data("58103","Erica Lopez",20251109,"SE").
-shift_data("58103","Erica Lopez",20251110,"SN").
-shift_data("58103","Erica Lopez",20251111,"WR").
-shift_data("58103","Erica Lopez",20251112,"D").
-shift_data("58103","Erica Lopez",20251113,"LD").
-shift_data("58103","Erica Lopez",20251114,"SE").
-shift_data("58103","Erica Lopez",20251115,"SN").
-shift_data("58103","Erica Lopez",20251116,"HL").
-shift_data("58103","Erica Lopez",20251117,"HL").
-shift_data("58103","Erica Lopez",20251118,"AL").
-shift_data("58103","Erica Lopez",20251119,"D").
-shift_data("58103","Erica Lopez",20251120,"LD").
-shift_data("58103","Erica Lopez",20251121,"WR").
-shift_data("58103","Erica Lopez",20251122,"WR").
-shift_data("58103","Erica Lopez",20251123,"WR").
-shift_data("58103","Erica Lopez",20251124,"SE").
-shift_data("58103","Erica Lopez",20251125,"SN").
-shift_data("58103","Erica Lopez",20251126,"WR").
-shift_data("58103","Erica Lopez",20251127,"D").
-shift_data("58103","Erica Lopez",20251128,"D").
-shift_data("58103","Erica Lopez",20251129,"AL").
-shift_data("58103","Erica Lopez",20251130,"WR").
-shift_data("58103","Erica Lopez",20251201,"WR").
-shift_data("58103","Erica Lopez",20251202,"LD").
-shift_data("58103","Erica Lopez",20251203,"SE").
-shift_data("58103","Erica Lopez",20251204,"SN").
-shift_data("58103","Erica Lopez",20251205,"WR").
-shift_data("58103","Erica Lopez",20251206,"LD").
-shift_data("58103","Erica Lopez",20251207,"WR").
-shift_data("58103","Erica Lopez",20251208,"SE").
-shift_data("58103","Erica Lopez",20251209,"SN").
-shift_data("58103","Erica Lopez",20251210,"WR").
-shift_data("58103","Erica Lopez",20251211,"LD").
-shift_data("58103","Erica Lopez",20251212,"SE").
-shift_data("58103","Erica Lopez",20251213,"SN").
-shift_data("58103","Erica Lopez",20251214,"WR").
-shift_data("58103","Erica Lopez",20251215,"WR").
-shift_data("58103","Erica Lopez",20251216,"WR").
-shift_data("58103","Erica Lopez",20251217,"WR").
-shift_data("58103","Erica Lopez",20251218,"D").
-shift_data("58103","Erica Lopez",20251219,"LD").
-shift_data("58103","Erica Lopez",20251220,"SE").
-shift_data("58103","Erica Lopez",20251221,"SN").
-shift_data("58103","Erica Lopez",20251222,"WR").
-shift_data("58103","Erica Lopez",20251223,"D").
-shift_data("58103","Erica Lopez",20251224,"LD").
-shift_data("58103","Erica Lopez",20251225,"SE").
-shift_data("58103","Erica Lopez",20251226,"SN").
-shift_data("58103","Erica Lopez",20251227,"WR").
-shift_data("58103","Erica Lopez",20251228,"LD").
-shift_data("58103","Erica Lopez",20251229,"SE").
-shift_data("58103","Erica Lopez",20251230,"SN").
-shift_data("58103","Erica Lopez",20251231,"PH").
 shift_data("58704", "Debra Burns", 20250801, "D").
 shift_data("58704", "Debra Burns", 20250802, "WR").
 shift_data("58704", "Debra Burns", 20250803, "D").
@@ -34664,1205 +29870,6 @@ shift_data("59576","Holly Conley",20250216,"AL").
 shift_data("59576","Holly Conley",20250217,"WR").
 shift_data("59576","Holly Conley",20250315,"WR").
 shift_data("59576","Holly Conley",20250316,"WR").
-shift_data("59576","Holly Conley",20250401,"WR").
-shift_data("59576","Holly Conley",20250402,"LD").
-shift_data("59576","Holly Conley",20250403,"SE").
-shift_data("59576","Holly Conley",20250404,"SN").
-shift_data("59576","Holly Conley",20250405,"WR").
-shift_data("59576","Holly Conley",20250406,"LD").
-shift_data("59576","Holly Conley",20250407,"SE").
-shift_data("59576","Holly Conley",20250408,"SN").
-shift_data("59576","Holly Conley",20250409,"WR").
-shift_data("59576","Holly Conley",20250410,"WR").
-shift_data("59576","Holly Conley",20250411,"D").
-shift_data("59576","Holly Conley",20250412,"LD").
-shift_data("59576","Holly Conley",20250413,"SE").
-shift_data("59576","Holly Conley",20250414,"SN").
-shift_data("59576","Holly Conley",20250415,"WR").
-shift_data("59576","Holly Conley",20250416,"LD").
-shift_data("59576","Holly Conley",20250417,"SE").
-shift_data("59576","Holly Conley",20250418,"SN").
-shift_data("59576","Holly Conley",20250419,"WR").
-shift_data("59576","Holly Conley",20250420,"LD").
-shift_data("59576","Holly Conley",20250421,"WR").
-shift_data("59576","Holly Conley",20250422,"LD").
-shift_data("59576","Holly Conley",20250423,"SE").
-shift_data("59576","Holly Conley",20250424,"SN").
-shift_data("59576","Holly Conley",20250425,"WR").
-shift_data("59576","Holly Conley",20250426,"D").
-shift_data("59576","Holly Conley",20250427,"LD").
-shift_data("59576","Holly Conley",20250428,"SE").
-shift_data("59576","Holly Conley",20250429,"SN").
-shift_data("59576","Holly Conley",20250430,"WR").
-shift_data("59576","Holly Conley",20250501,"LD").
-shift_data("59576","Holly Conley",20250502,"WR").
-shift_data("59576","Holly Conley",20250503,"LD").
-shift_data("59576","Holly Conley",20250504,"WR").
-shift_data("59576","Holly Conley",20250505,"PH").
-shift_data("59576","Holly Conley",20250506,"LD").
-shift_data("59576","Holly Conley",20250507,"SE").
-shift_data("59576","Holly Conley",20250508,"SN").
-shift_data("59576","Holly Conley",20250509,"WR").
-shift_data("59576","Holly Conley",20250510,"LD").
-shift_data("59576","Holly Conley",20250511,"SE").
-shift_data("59576","Holly Conley",20250512,"SN").
-shift_data("59576","Holly Conley",20250513,"SE").
-shift_data("59576","Holly Conley",20250514,"SN").
-shift_data("59576","Holly Conley",20250515,"WR").
-shift_data("59576","Holly Conley",20250516,"WR").
-shift_data("59576","Holly Conley",20250517,"LD").
-shift_data("59576","Holly Conley",20250518,"SE").
-shift_data("59576","Holly Conley",20250519,"SN").
-shift_data("59576","Holly Conley",20250520,"SE").
-shift_data("59576","Holly Conley",20250521,"SN").
-shift_data("59576","Holly Conley",20250522,"WR").
-shift_data("59576","Holly Conley",20250523,"WR").
-shift_data("59576","Holly Conley",20250524,"D").
-shift_data("59576","Holly Conley",20250525,"D").
-shift_data("59576","Holly Conley",20250526,"LD").
-shift_data("59576","Holly Conley",20250527,"WR").
-shift_data("59576","Holly Conley",20250528,"LD").
-shift_data("59576","Holly Conley",20250529,"SE").
-shift_data("59576","Holly Conley",20250530,"SN").
-shift_data("59576","Holly Conley",20250531,"WR").
-shift_data("59576","Holly Conley",20250601,"D").
-shift_data("59576","Holly Conley",20250602,"LD").
-shift_data("59576","Holly Conley",20250603,"SE").
-shift_data("59576","Holly Conley",20250604,"SN").
-shift_data("59576","Holly Conley",20250605,"WR").
-shift_data("59576","Holly Conley",20250606,"LD").
-shift_data("59576","Holly Conley",20250607,"SE").
-shift_data("59576","Holly Conley",20250608,"SN").
-shift_data("59576","Holly Conley",20250609,"WR").
-shift_data("59576","Holly Conley",20250610,"WR").
-shift_data("59576","Holly Conley",20250611,"SE").
-shift_data("59576","Holly Conley",20250612,"SN").
-shift_data("59576","Holly Conley",20250613,"WR").
-shift_data("59576","Holly Conley",20250614,"LD").
-shift_data("59576","Holly Conley",20250615,"SE").
-shift_data("59576","Holly Conley",20250616,"SN").
-shift_data("59576","Holly Conley",20250617,"WR").
-shift_data("59576","Holly Conley",20250618,"LD").
-shift_data("59576","Holly Conley",20250619,"SE").
-shift_data("59576","Holly Conley",20250620,"SN").
-shift_data("59576","Holly Conley",20250621,"WR").
-shift_data("59576","Holly Conley",20250622,"LD").
-shift_data("59576","Holly Conley",20250623,"SE").
-shift_data("59576","Holly Conley",20250624,"SN").
-shift_data("59576","Holly Conley",20250625,"WR").
-shift_data("59576","Holly Conley",20250626,"WR").
-shift_data("59576","Holly Conley",20250627,"LD").
-shift_data("59576","Holly Conley",20250628,"WR").
-shift_data("59576","Holly Conley",20250629,"SE").
-shift_data("59576","Holly Conley",20250630,"SN").
-shift_data("59576","Holly Conley",20250701,"WR").
-shift_data("59576","Holly Conley",20250702,"D").
-shift_data("59576","Holly Conley",20250703,"LD").
-shift_data("59576","Holly Conley",20250704,"WR").
-shift_data("59576","Holly Conley",20250705,"SE").
-shift_data("59576","Holly Conley",20250706,"SN").
-shift_data("59576","Holly Conley",20250707,"WR").
-shift_data("59576","Holly Conley",20250708,"D").
-shift_data("59576","Holly Conley",20250709,"D").
-shift_data("59576","Holly Conley",20250710,"LD").
-shift_data("59576","Holly Conley",20250711,"WR").
-shift_data("59576","Holly Conley",20250712,"LD").
-shift_data("59576","Holly Conley",20250713,"SE").
-shift_data("59576","Holly Conley",20250714,"SN").
-shift_data("59576","Holly Conley",20250715,"SE").
-shift_data("59576","Holly Conley",20250716,"SN").
-shift_data("59576","Holly Conley",20250717,"HL").
-shift_data("59576","Holly Conley",20250718,"AL").
-shift_data("59576","Holly Conley",20250719,"WR").
-shift_data("59576","Holly Conley",20250720,"LD").
-shift_data("59576","Holly Conley",20250721,"SE").
-shift_data("59576","Holly Conley",20250722,"SN").
-shift_data("59576","Holly Conley",20250723,"WR").
-shift_data("59576","Holly Conley",20250724,"WR").
-shift_data("59576","Holly Conley",20250725,"D").
-shift_data("59576","Holly Conley",20250726,"LD").
-shift_data("59576","Holly Conley",20250727,"SE").
-shift_data("59576","Holly Conley",20250728,"SN").
-shift_data("59576","Holly Conley",20250729,"WR").
-shift_data("59576","Holly Conley",20250730,"LD").
-shift_data("59576","Holly Conley",20250731,"SE").
-shift_data("59576","Holly Conley",20250801,"SN").
-shift_data("59576","Holly Conley",20250802,"WR").
-shift_data("59576","Holly Conley",20250803,"D").
-shift_data("59576","Holly Conley",20250804,"LD").
-shift_data("59576","Holly Conley",20250805,"SE").
-shift_data("59576","Holly Conley",20250806,"SN").
-shift_data("59576","Holly Conley",20250807,"WR").
-shift_data("59576","Holly Conley",20250808,"D").
-shift_data("59576","Holly Conley",20250809,"WR").
-shift_data("59576","Holly Conley",20250810,"LD").
-shift_data("59576","Holly Conley",20250811,"PH").
-shift_data("59576","Holly Conley",20250812,"D").
-shift_data("59576","Holly Conley",20250813,"WR").
-shift_data("59576","Holly Conley",20250814,"WR").
-shift_data("59576","Holly Conley",20250815,"SE").
-shift_data("59576","Holly Conley",20250816,"SN").
-shift_data("59576","Holly Conley",20250817,"WR").
-shift_data("59576","Holly Conley",20250818,"LD").
-shift_data("59576","Holly Conley",20250819,"SE").
-shift_data("59576","Holly Conley",20250820,"SN").
-shift_data("59576","Holly Conley",20250821,"SE").
-shift_data("59576","Holly Conley",20250822,"SN").
-shift_data("59576","Holly Conley",20250823,"WR").
-shift_data("59576","Holly Conley",20250824,"SE").
-shift_data("59576","Holly Conley",20250825,"SN").
-shift_data("59576","Holly Conley",20250826,"WR").
-shift_data("59576","Holly Conley",20250827,"D").
-shift_data("59576","Holly Conley",20250828,"LD").
-shift_data("59576","Holly Conley",20250829,"WR").
-shift_data("59576","Holly Conley",20250830,"WR").
-shift_data("59576","Holly Conley",20250831,"D").
-shift_data("59576","Holly Conley",20250901,"D").
-shift_data("59576","Holly Conley",20250902,"LD").
-shift_data("59576","Holly Conley",20250903,"SE").
-shift_data("59576","Holly Conley",20250904,"SN").
-shift_data("59576","Holly Conley",20250905,"WR").
-shift_data("59576","Holly Conley",20250906,"LD").
-shift_data("59576","Holly Conley",20250907,"WR").
-shift_data("59576","Holly Conley",20250908,"D").
-shift_data("59576","Holly Conley",20250909,"D").
-shift_data("59576","Holly Conley",20250910,"WR").
-shift_data("59576","Holly Conley",20250911,"LD").
-shift_data("59576","Holly Conley",20250912,"LM").
-shift_data("59576","Holly Conley",20250913,"SE").
-shift_data("59576","Holly Conley",20250914,"SN").
-shift_data("59576","Holly Conley",20250915,"PH").
-shift_data("59576","Holly Conley",20250916,"D").
-shift_data("59576","Holly Conley",20250917,"LD").
-shift_data("59576","Holly Conley",20250918,"SE").
-shift_data("59576","Holly Conley",20250919,"SN").
-shift_data("59576","Holly Conley",20250920,"WR").
-shift_data("59576","Holly Conley",20250921,"WR").
-shift_data("59576","Holly Conley",20250922,"LD").
-shift_data("59576","Holly Conley",20250923,"SE").
-shift_data("59576","Holly Conley",20250924,"SN").
-shift_data("59576","Holly Conley",20250925,"WR").
-shift_data("59576","Holly Conley",20250926,"LD").
-shift_data("59576","Holly Conley",20250927,"SE").
-shift_data("59576","Holly Conley",20250928,"SN").
-shift_data("59576","Holly Conley",20250929,"WR").
-shift_data("59576","Holly Conley",20250930,"D").
-shift_data("59576","Holly Conley",20251001,"LD").
-shift_data("59576","Holly Conley",20251002,"LM").
-shift_data("59576","Holly Conley",20251003,"WR").
-shift_data("59576","Holly Conley",20251004,"WR").
-shift_data("59576","Holly Conley",20251005,"SE").
-shift_data("59576","Holly Conley",20251006,"SN").
-shift_data("59576","Holly Conley",20251007,"SE").
-shift_data("59576","Holly Conley",20251008,"SN").
-shift_data("59576","Holly Conley",20251009,"WR").
-shift_data("59576","Holly Conley",20251010,"LD").
-shift_data("59576","Holly Conley",20251011,"WR").
-shift_data("59576","Holly Conley",20251012,"WR").
-shift_data("59576","Holly Conley",20251013,"LD").
-shift_data("59576","Holly Conley",20251014,"WR").
-shift_data("59576","Holly Conley",20251015,"SE").
-shift_data("59576","Holly Conley",20251016,"SN").
-shift_data("59576","Holly Conley",20251017,"WR").
-shift_data("59576","Holly Conley",20251018,"AL").
-shift_data("59576","Holly Conley",20251019,"LD").
-shift_data("59576","Holly Conley",20251020,"SE").
-shift_data("59576","Holly Conley",20251021,"SN").
-shift_data("59576","Holly Conley",20251022,"WR").
-shift_data("59576","Holly Conley",20251023,"LD").
-shift_data("59576","Holly Conley",20251024,"WR").
-shift_data("59576","Holly Conley",20251025,"D").
-shift_data("59576","Holly Conley",20251026,"AL").
-shift_data("59576","Holly Conley",20251027,"LD").
-shift_data("59576","Holly Conley",20251028,"SE").
-shift_data("59576","Holly Conley",20251029,"SN").
-shift_data("59576","Holly Conley",20251030,"WR").
-shift_data("59576","Holly Conley",20251031,"WR").
-shift_data("59576","Holly Conley",20251101,"SE").
-shift_data("59576","Holly Conley",20251102,"SN").
-shift_data("59576","Holly Conley",20251103,"PH").
-shift_data("59576","Holly Conley",20251104,"D").
-shift_data("59576","Holly Conley",20251105,"LD").
-shift_data("59576","Holly Conley",20251106,"WR").
-shift_data("59576","Holly Conley",20251107,"D").
-shift_data("59576","Holly Conley",20251108,"SE").
-shift_data("59576","Holly Conley",20251109,"SN").
-shift_data("59576","Holly Conley",20251110,"WR").
-shift_data("59576","Holly Conley",20251111,"SE").
-shift_data("59576","Holly Conley",20251112,"SN").
-shift_data("59576","Holly Conley",20251113,"WR").
-shift_data("59576","Holly Conley",20251114,"D").
-shift_data("59576","Holly Conley",20251115,"LD").
-shift_data("59576","Holly Conley",20251116,"SE").
-shift_data("59576","Holly Conley",20251117,"SN").
-shift_data("59576","Holly Conley",20251118,"WR").
-shift_data("59576","Holly Conley",20251119,"LD").
-shift_data("59576","Holly Conley",20251120,"SE").
-shift_data("59576","Holly Conley",20251121,"SN").
-shift_data("59576","Holly Conley",20251122,"HL").
-shift_data("59576","Holly Conley",20251123,"HL").
-shift_data("59576","Holly Conley",20251124,"PH").
-shift_data("59576","Holly Conley",20251125,"WR").
-shift_data("59576","Holly Conley",20251126,"WR").
-shift_data("59576","Holly Conley",20251127,"D").
-shift_data("59576","Holly Conley",20251128,"LD").
-shift_data("59576","Holly Conley",20251129,"WR").
-shift_data("59576","Holly Conley",20251130,"WR").
-shift_data("59576","Holly Conley",20251201,"LD").
-shift_data("59576","Holly Conley",20251202,"SE").
-shift_data("59576","Holly Conley",20251203,"SN").
-shift_data("59576","Holly Conley",20251204,"WR").
-shift_data("59576","Holly Conley",20251205,"LD").
-shift_data("59576","Holly Conley",20251206,"SE").
-shift_data("59576","Holly Conley",20251207,"SN").
-shift_data("59576","Holly Conley",20251208,"WR").
-shift_data("59576","Holly Conley",20251209,"WR").
-shift_data("59576","Holly Conley",20251210,"D").
-shift_data("59576","Holly Conley",20251211,"WR").
-shift_data("59576","Holly Conley",20251212,"LD").
-shift_data("59576","Holly Conley",20251213,"WR").
-shift_data("59576","Holly Conley",20251214,"WR").
-shift_data("59576","Holly Conley",20251215,"D").
-shift_data("59576","Holly Conley",20251216,"D").
-shift_data("59576","Holly Conley",20251217,"D").
-shift_data("59576","Holly Conley",20251218,"D").
-shift_data("59576","Holly Conley",20251219,"LD").
-shift_data("59576","Holly Conley",20251220,"WR").
-shift_data("59576","Holly Conley",20251221,"SE").
-shift_data("59576","Holly Conley",20251222,"SN").
-shift_data("59576","Holly Conley",20251223,"WR").
-shift_data("59576","Holly Conley",20251224,"LD").
-shift_data("59576","Holly Conley",20251225,"SE").
-shift_data("59576","Holly Conley",20251226,"SN").
-shift_data("59576","Holly Conley",20251227,"WR").
-shift_data("59576","Holly Conley",20251228,"D").
-shift_data("59576","Holly Conley",20251229,"PH").
-shift_data("59576","Holly Conley",20251230,"PH").
-shift_data("59576","Holly Conley",20251231,"LD").
-shift_data("606231","nan",20250401,"D").
-shift_data("606231","nan",20250402,"D").
-shift_data("606231","nan",20250403,"D").
-shift_data("606231","nan",20250404,"D").
-shift_data("606231","nan",20250405,"WR").
-shift_data("606231","nan",20250406,"WR").
-shift_data("606231","nan",20250407,"D").
-shift_data("606231","nan",20250408,"D").
-shift_data("606231","nan",20250409,"D").
-shift_data("606231","nan",20250410,"D").
-shift_data("606231","nan",20250411,"D").
-shift_data("606231","nan",20250412,"WR").
-shift_data("606231","nan",20250413,"WR").
-shift_data("606231","nan",20250414,"D").
-shift_data("606231","nan",20250415,"D").
-shift_data("606231","nan",20250416,"D").
-shift_data("606231","nan",20250417,"D").
-shift_data("606231","nan",20250418,"D").
-shift_data("606231","nan",20250419,"WR").
-shift_data("606231","nan",20250420,"WR").
-shift_data("606231","nan",20250421,"D").
-shift_data("606231","nan",20250422,"D").
-shift_data("606231","nan",20250423,"D").
-shift_data("606231","nan",20250424,"D").
-shift_data("606231","nan",20250425,"D").
-shift_data("606231","nan",20250426,"WR").
-shift_data("606231","nan",20250427,"WR").
-shift_data("606231","nan",20250428,"D").
-shift_data("606231","nan",20250429,"PH").
-shift_data("606231","nan",20250430,"D").
-shift_data("606231","nan",20250501,"D").
-shift_data("606231","nan",20250502,"D").
-shift_data("606231","nan",20250503,"WR").
-shift_data("606231","nan",20250504,"D").
-shift_data("606231","nan",20250505,"PH").
-shift_data("606231","nan",20250506,"PH").
-shift_data("606231","nan",20250507,"WR").
-shift_data("606231","nan",20250508,"WR").
-shift_data("606231","nan",20250509,"LD").
-shift_data("606231","nan",20250510,"SE").
-shift_data("606231","nan",20250511,"SN").
-shift_data("606231","nan",20250512,"WR").
-shift_data("606231","nan",20250513,"D").
-shift_data("606231","nan",20250514,"D").
-shift_data("606231","nan",20250515,"D").
-shift_data("606231","nan",20250516,"D").
-shift_data("606231","nan",20250517,"WR").
-shift_data("606231","nan",20250518,"WR").
-shift_data("606231","nan",20250519,"D").
-shift_data("606231","nan",20250520,"D").
-shift_data("606231","nan",20250521,"D").
-shift_data("606231","nan",20250522,"D").
-shift_data("606231","nan",20250523,"D").
-shift_data("606231","nan",20250524,"WR").
-shift_data("606231","nan",20250525,"WR").
-shift_data("606231","nan",20250526,"D").
-shift_data("606231","nan",20250527,"D").
-shift_data("606231","nan",20250528,"D").
-shift_data("606231","nan",20250529,"D").
-shift_data("606231","nan",20250530,"D").
-shift_data("606231","nan",20250531,"WR").
-shift_data("606231","nan",20250601,"D").
-shift_data("606231","nan",20250602,"WR").
-shift_data("606231","nan",20250603,"BL").
-shift_data("606231","nan",20250604,"LD").
-shift_data("606231","nan",20250605,"SE").
-shift_data("606231","nan",20250606,"SN").
-shift_data("606231","nan",20250607,"WR").
-shift_data("606231","nan",20250608,"WR").
-shift_data("606231","nan",20250609,"D").
-shift_data("606231","nan",20250610,"D").
-shift_data("606231","nan",20250611,"D").
-shift_data("606231","nan",20250612,"D").
-shift_data("606231","nan",20250613,"D").
-shift_data("606231","nan",20250614,"WR").
-shift_data("606231","nan",20250615,"D").
-shift_data("606231","nan",20250616,"WR").
-shift_data("606231","nan",20250617,"D").
-shift_data("606231","nan",20250618,"WR").
-shift_data("606231","nan",20250619,"D").
-shift_data("606231","nan",20250620,"LD").
-shift_data("606231","nan",20250621,"SE").
-shift_data("606231","nan",20250622,"SN").
-shift_data("606231","nan",20250623,"WR").
-shift_data("606231","nan",20250624,"D").
-shift_data("606231","nan",20250625,"D").
-shift_data("606231","nan",20250626,"D").
-shift_data("606231","nan",20250627,"WR").
-shift_data("606231","nan",20250628,"D").
-shift_data("606231","nan",20250629,"WR").
-shift_data("606231","nan",20250630,"D").
-shift_data("606231","nan",20250701,"LD").
-shift_data("606231","nan",20250702,"SE").
-shift_data("606231","nan",20250703,"SN").
-shift_data("606231","nan",20250704,"WR").
-shift_data("606231","nan",20250705,"WR").
-shift_data("606231","nan",20250706,"D").
-shift_data("606231","nan",20250707,"WR").
-shift_data("606231","nan",20250708,"D").
-shift_data("606231","nan",20250709,"WR").
-shift_data("606231","nan",20250710,"D").
-shift_data("606231","nan",20250711,"LD").
-shift_data("606231","nan",20250712,"SE").
-shift_data("606231","nan",20250713,"SN").
-shift_data("606231","nan",20250714,"WR").
-shift_data("606231","nan",20250715,"D").
-shift_data("606231","nan",20250716,"D").
-shift_data("606231","nan",20250717,"D").
-shift_data("606231","nan",20250718,"D").
-shift_data("606231","nan",20250719,"D").
-shift_data("606231","nan",20250720,"WR").
-shift_data("606231","nan",20250721,"PH").
-shift_data("606231","nan",20250722,"D").
-shift_data("606231","nan",20250723,"D").
-shift_data("606231","nan",20250724,"LD").
-shift_data("606231","nan",20250725,"SE").
-shift_data("606231","nan",20250726,"SN").
-shift_data("606231","nan",20250727,"WR").
-shift_data("606231","nan",20250728,"D").
-shift_data("606231","nan",20250729,"D").
-shift_data("606231","nan",20250730,"WR").
-shift_data("606231","nan",20250731,"D").
-shift_data("606231","nan",20250801,"LD").
-shift_data("606231","nan",20250802,"SE").
-shift_data("606231","nan",20250803,"SN").
-shift_data("606231","nan",20250804,"WR").
-shift_data("606231","nan",20250805,"WR").
-shift_data("606231","nan",20250806,"D").
-shift_data("606231","nan",20250807,"WR").
-shift_data("606231","nan",20250808,"D").
-shift_data("606231","nan",20250809,"LD").
-shift_data("606231","nan",20250810,"SE").
-shift_data("606231","nan",20250811,"SN").
-shift_data("606231","nan",20250812,"WR").
-shift_data("606231","nan",20250813,"D").
-shift_data("606231","nan",20250814,"D").
-shift_data("606231","nan",20250815,"D").
-shift_data("606231","nan",20250816,"WR").
-shift_data("606231","nan",20250817,"LD").
-shift_data("606231","nan",20250818,"SE").
-shift_data("606231","nan",20250819,"SN").
-shift_data("606231","nan",20250820,"WR").
-shift_data("606231","nan",20250821,"D").
-shift_data("606231","nan",20250822,"D").
-shift_data("606231","nan",20250823,"D").
-shift_data("606231","nan",20250824,"WR").
-shift_data("606231","nan",20250825,"WR").
-shift_data("606231","nan",20250826,"D").
-shift_data("606231","nan",20250827,"AL").
-shift_data("606231","nan",20250828,"WR").
-shift_data("606231","nan",20250829,"LD").
-shift_data("606231","nan",20250830,"SE").
-shift_data("606231","nan",20250831,"SN").
-shift_data("606231","nan",20250901,"WR").
-shift_data("606231","nan",20250902,"D").
-shift_data("606231","nan",20250903,"D").
-shift_data("606231","nan",20250904,"D").
-shift_data("606231","nan",20250905,"LD").
-shift_data("606231","nan",20250906,"WR").
-shift_data("606231","nan",20250907,"D").
-shift_data("606231","nan",20250908,"WR").
-shift_data("606231","nan",20250909,"WR").
-shift_data("606231","nan",20250910,"D").
-shift_data("606231","nan",20250911,"D").
-shift_data("606231","nan",20250912,"SE").
-shift_data("606231","nan",20250913,"SN").
-shift_data("606231","nan",20250914,"WR").
-shift_data("606231","nan",20250915,"PH").
-shift_data("606231","nan",20250916,"HL").
-shift_data("606231","nan",20250917,"WR").
-shift_data("606231","nan",20250918,"WR").
-shift_data("606231","nan",20250919,"LD").
-shift_data("606231","nan",20250920,"SE").
-shift_data("606231","nan",20250921,"SN").
-shift_data("606231","nan",20250922,"WR").
-shift_data("606231","nan",20250923,"LD").
-shift_data("606231","nan",20250924,"SE").
-shift_data("606231","nan",20250925,"SN").
-shift_data("606231","nan",20250926,"WR").
-shift_data("606231","nan",20250927,"D").
-shift_data("606231","nan",20250928,"D").
-shift_data("606231","nan",20250929,"D").
-shift_data("606231","nan",20250930,"LM").
-shift_data("606231","nan",20251001,"WR").
-shift_data("606231","nan",20251002,"LD").
-shift_data("606231","nan",20251003,"SE").
-shift_data("606231","nan",20251004,"SN").
-shift_data("606231","nan",20251005,"WR").
-shift_data("606231","nan",20251006,"D").
-shift_data("606231","nan",20251007,"D").
-shift_data("606231","nan",20251008,"LD").
-shift_data("606231","nan",20251009,"SE").
-shift_data("606231","nan",20251010,"SN").
-shift_data("606231","nan",20251011,"WR").
-shift_data("606231","nan",20251012,"WR").
-shift_data("606231","nan",20251013,"LD").
-shift_data("606231","nan",20251014,"SE").
-shift_data("606231","nan",20251015,"SN").
-shift_data("606231","nan",20251016,"WR").
-shift_data("606231","nan",20251017,"SL").
-shift_data("606231","nan",20251018,"LD").
-shift_data("606231","nan",20251019,"WR").
-shift_data("606231","nan",20251020,"WR").
-shift_data("606231","nan",20251021,"D").
-shift_data("606231","nan",20251022,"D").
-shift_data("606231","nan",20251023,"D").
-shift_data("606231","nan",20251024,"WR").
-shift_data("606231","nan",20251025,"SE").
-shift_data("606231","nan",20251026,"SN").
-shift_data("606231","nan",20251027,"AL").
-shift_data("606231","nan",20251028,"AL").
-shift_data("606231","nan",20251029,"D").
-shift_data("606231","nan",20251030,"WR").
-shift_data("606231","nan",20251031,"SE").
-shift_data("606231","nan",20251101,"SN").
-shift_data("606231","nan",20251102,"WR").
-shift_data("606231","nan",20251103,"D").
-shift_data("606231","nan",20251104,"LD").
-shift_data("606231","nan",20251105,"WR").
-shift_data("606231","nan",20251106,"D").
-shift_data("606231","nan",20251107,"LD").
-shift_data("606231","nan",20251108,"SE").
-shift_data("606231","nan",20251109,"SN").
-shift_data("606231","nan",20251110,"WR").
-shift_data("606231","nan",20251111,"WR").
-shift_data("606231","nan",20251112,"LD").
-shift_data("606231","nan",20251113,"SE").
-shift_data("606231","nan",20251114,"SN").
-shift_data("606231","nan",20251115,"HL").
-shift_data("606231","nan",20251116,"AL").
-shift_data("606231","nan",20251117,"AL").
-shift_data("606231","nan",20251118,"D").
-shift_data("606231","nan",20251119,"SE").
-shift_data("606231","nan",20251120,"SN").
-shift_data("606231","nan",20251121,"WR").
-shift_data("606231","nan",20251122,"WR").
-shift_data("606231","nan",20251123,"LD").
-shift_data("606231","nan",20251124,"PH").
-shift_data("606231","nan",20251125,"LD").
-shift_data("606231","nan",20251126,"SE").
-shift_data("606231","nan",20251127,"SN").
-shift_data("606231","nan",20251128,"WR").
-shift_data("606231","nan",20251129,"D").
-shift_data("606231","nan",20251130,"D").
-shift_data("606231","nan",20251201,"LD").
-shift_data("606231","nan",20251202,"SE").
-shift_data("606231","nan",20251203,"SN").
-shift_data("606231","nan",20251204,"WR").
-shift_data("606231","nan",20251205,"WR").
-shift_data("606231","nan",20251206,"WR").
-shift_data("606231","nan",20251207,"D").
-shift_data("606231","nan",20251208,"D").
-shift_data("606231","nan",20251209,"LD").
-shift_data("606231","nan",20251210,"WR").
-shift_data("606231","nan",20251211,"WR").
-shift_data("606231","nan",20251212,"D").
-shift_data("606231","nan",20251213,"LD").
-shift_data("606231","nan",20251214,"SE").
-shift_data("606231","nan",20251215,"SN").
-shift_data("606231","nan",20251216,"WR").
-shift_data("606231","nan",20251217,"D").
-shift_data("606231","nan",20251218,"D").
-shift_data("606231","nan",20251219,"LD").
-shift_data("606231","nan",20251220,"SE").
-shift_data("606231","nan",20251221,"SN").
-shift_data("606231","nan",20251222,"WR").
-shift_data("606231","nan",20251223,"WR").
-shift_data("606231","nan",20251224,"SE").
-shift_data("606231","nan",20251225,"SN").
-shift_data("606231","nan",20251226,"WR").
-shift_data("606231","nan",20251227,"D").
-shift_data("606231","nan",20251228,"WR").
-shift_data("606231","nan",20251229,"D").
-shift_data("606231","nan",20251230,"PH").
-shift_data("606231","nan",20251231,"PH").
-shift_data("606377","nan",20250401,"D").
-shift_data("606377","nan",20250402,"D").
-shift_data("606377","nan",20250403,"D").
-shift_data("606377","nan",20250404,"D").
-shift_data("606377","nan",20250405,"WR").
-shift_data("606377","nan",20250406,"WR").
-shift_data("606377","nan",20250407,"D").
-shift_data("606377","nan",20250408,"D").
-shift_data("606377","nan",20250409,"D").
-shift_data("606377","nan",20250410,"D").
-shift_data("606377","nan",20250411,"D").
-shift_data("606377","nan",20250412,"WR").
-shift_data("606377","nan",20250413,"WR").
-shift_data("606377","nan",20250414,"D").
-shift_data("606377","nan",20250415,"D").
-shift_data("606377","nan",20250416,"D").
-shift_data("606377","nan",20250417,"D").
-shift_data("606377","nan",20250418,"D").
-shift_data("606377","nan",20250419,"WR").
-shift_data("606377","nan",20250420,"WR").
-shift_data("606377","nan",20250421,"D").
-shift_data("606377","nan",20250422,"D").
-shift_data("606377","nan",20250423,"D").
-shift_data("606377","nan",20250424,"D").
-shift_data("606377","nan",20250425,"D").
-shift_data("606377","nan",20250426,"WR").
-shift_data("606377","nan",20250427,"WR").
-shift_data("606377","nan",20250428,"D").
-shift_data("606377","nan",20250429,"PH").
-shift_data("606377","nan",20250430,"D").
-shift_data("606377","nan",20250501,"D").
-shift_data("606377","nan",20250502,"D").
-shift_data("606377","nan",20250503,"WR").
-shift_data("606377","nan",20250504,"WR").
-shift_data("606377","nan",20250505,"PH").
-shift_data("606377","nan",20250506,"PH").
-shift_data("606377","nan",20250507,"D").
-shift_data("606377","nan",20250508,"D").
-shift_data("606377","nan",20250509,"D").
-shift_data("606377","nan",20250510,"D").
-shift_data("606377","nan",20250511,"WR").
-shift_data("606377","nan",20250512,"D").
-shift_data("606377","nan",20250513,"D").
-shift_data("606377","nan",20250514,"D").
-shift_data("606377","nan",20250515,"WR").
-shift_data("606377","nan",20250516,"D").
-shift_data("606377","nan",20250517,"LD").
-shift_data("606377","nan",20250518,"SE").
-shift_data("606377","nan",20250519,"SN").
-shift_data("606377","nan",20250520,"WR").
-shift_data("606377","nan",20250521,"WR").
-shift_data("606377","nan",20250522,"D").
-shift_data("606377","nan",20250523,"D").
-shift_data("606377","nan",20250524,"WR").
-shift_data("606377","nan",20250525,"LD").
-shift_data("606377","nan",20250526,"SE").
-shift_data("606377","nan",20250527,"SN").
-shift_data("606377","nan",20250528,"WR").
-shift_data("606377","nan",20250529,"D").
-shift_data("606377","nan",20250530,"D").
-shift_data("606377","nan",20250531,"WR").
-shift_data("606377","nan",20250601,"WR").
-shift_data("606377","nan",20250602,"D").
-shift_data("606377","nan",20250603,"D").
-shift_data("606377","nan",20250604,"WR").
-shift_data("606377","nan",20250605,"D").
-shift_data("606377","nan",20250606,"D").
-shift_data("606377","nan",20250607,"D").
-shift_data("606377","nan",20250608,"D").
-shift_data("606377","nan",20250609,"WR").
-shift_data("606377","nan",20250610,"D").
-shift_data("606377","nan",20250611,"D").
-shift_data("606377","nan",20250612,"D").
-shift_data("606377","nan",20250613,"D").
-shift_data("606377","nan",20250614,"D").
-shift_data("606377","nan",20250615,"WR").
-shift_data("606377","nan",20250616,"D").
-shift_data("606377","nan",20250617,"D").
-shift_data("606377","nan",20250618,"D").
-shift_data("606377","nan",20250619,"WR").
-shift_data("606377","nan",20250620,"D").
-shift_data("606377","nan",20250621,"WR").
-shift_data("606377","nan",20250622,"D").
-shift_data("606377","nan",20250623,"WR").
-shift_data("606377","nan",20250624,"D").
-shift_data("606377","nan",20250625,"D").
-shift_data("606377","nan",20250626,"D").
-shift_data("606377","nan",20250627,"D").
-shift_data("606377","nan",20250628,"WR").
-shift_data("606377","nan",20250629,"WR").
-shift_data("606377","nan",20250630,"LD").
-shift_data("606377","nan",20250701,"SE").
-shift_data("606377","nan",20250702,"SN").
-shift_data("606377","nan",20250703,"WR").
-shift_data("606377","nan",20250704,"D").
-shift_data("606377","nan",20250705,"WR").
-shift_data("606377","nan",20250706,"WR").
-shift_data("606377","nan",20250707,"D").
-shift_data("606377","nan",20250708,"D").
-shift_data("606377","nan",20250709,"WR").
-shift_data("606377","nan",20250710,"D").
-shift_data("606377","nan",20250711,"D").
-shift_data("606377","nan",20250712,"D").
-shift_data("606377","nan",20250713,"D").
-shift_data("606377","nan",20250714,"D").
-shift_data("606377","nan",20250715,"WR").
-shift_data("606377","nan",20250716,"D").
-shift_data("606377","nan",20250717,"SL").
-shift_data("606377","nan",20250718,"SL").
-shift_data("606377","nan",20250719,"SL").
-shift_data("606377","nan",20250720,"WR").
-shift_data("606377","nan",20250721,"D").
-shift_data("606377","nan",20250722,"WR").
-shift_data("606377","nan",20250723,"WR").
-shift_data("606377","nan",20250724,"D").
-shift_data("606377","nan",20250725,"LD").
-shift_data("606377","nan",20250726,"SE").
-shift_data("606377","nan",20250727,"SN").
-shift_data("606377","nan",20250728,"WR").
-shift_data("606377","nan",20250729,"D").
-shift_data("606377","nan",20250730,"D").
-shift_data("606377","nan",20250731,"LD").
-shift_data("606377","nan",20250801,"SE").
-shift_data("606377","nan",20250802,"SN").
-shift_data("606377","nan",20250803,"WR").
-shift_data("606377","nan",20250804,"D").
-shift_data("606377","nan",20250805,"D").
-shift_data("606377","nan",20250806,"D").
-shift_data("606377","nan",20250807,"D").
-shift_data("606377","nan",20250808,"D").
-shift_data("606377","nan",20250809,"WR").
-shift_data("606377","nan",20250810,"WR").
-shift_data("606377","nan",20250811,"LD").
-shift_data("606377","nan",20250812,"SE").
-shift_data("606377","nan",20250813,"SN").
-shift_data("606377","nan",20250814,"WR").
-shift_data("606377","nan",20250815,"D").
-shift_data("606377","nan",20250816,"WR").
-shift_data("606377","nan",20250817,"WR").
-shift_data("606377","nan",20250818,"HL").
-shift_data("606377","nan",20250819,"HL").
-shift_data("606377","nan",20250820,"HL").
-shift_data("606377","nan",20250821,"D").
-shift_data("606377","nan",20250822,"D").
-shift_data("606377","nan",20250823,"LD").
-shift_data("606377","nan",20250824,"SE").
-shift_data("606377","nan",20250825,"SN").
-shift_data("606377","nan",20250826,"WR").
-shift_data("606377","nan",20250827,"AL").
-shift_data("606377","nan",20250828,"WR").
-shift_data("606377","nan",20250829,"BL").
-shift_data("606377","nan",20250830,"EM").
-shift_data("606377","nan",20250831,"WR").
-shift_data("606377","nan",20250901,"WR").
-shift_data("606377","nan",20250902,"D").
-shift_data("606377","nan",20250903,"WR").
-shift_data("606377","nan",20250904,"LD").
-shift_data("606377","nan",20250905,"SE").
-shift_data("606377","nan",20250906,"SN").
-shift_data("606377","nan",20250907,"WR").
-shift_data("606377","nan",20250908,"LD").
-shift_data("606377","nan",20250909,"SE").
-shift_data("606377","nan",20250910,"SN").
-shift_data("606377","nan",20250911,"WR").
-shift_data("606377","nan",20250912,"AL").
-shift_data("606377","nan",20250913,"D").
-shift_data("606377","nan",20250914,"WR").
-shift_data("606377","nan",20250915,"D").
-shift_data("606377","nan",20250916,"D").
-shift_data("606377","nan",20250917,"D").
-shift_data("606377","nan",20250918,"WR").
-shift_data("606377","nan",20250919,"D").
-shift_data("606377","nan",20250920,"D").
-shift_data("606377","nan",20250921,"SE").
-shift_data("606377","nan",20250922,"SN").
-shift_data("606377","nan",20250923,"PH").
-shift_data("606377","nan",20250924,"D").
-shift_data("606377","nan",20250925,"LD").
-shift_data("606377","nan",20250926,"SE").
-shift_data("606377","nan",20250927,"SN").
-shift_data("606377","nan",20250928,"WR").
-shift_data("606377","nan",20250929,"D").
-shift_data("606377","nan",20250930,"WR").
-shift_data("606377","nan",20251001,"LD").
-shift_data("606377","nan",20251002,"SE").
-shift_data("606377","nan",20251003,"SN").
-shift_data("606377","nan",20251004,"WR").
-shift_data("606377","nan",20251005,"WR").
-shift_data("606377","nan",20251006,"LD").
-shift_data("606377","nan",20251007,"SE").
-shift_data("606377","nan",20251008,"SN").
-shift_data("606377","nan",20251009,"WR").
-shift_data("606377","nan",20251010,"LD").
-shift_data("606377","nan",20251011,"WR").
-shift_data("606377","nan",20251012,"D").
-shift_data("606377","nan",20251013,"D").
-shift_data("606377","nan",20251014,"WR").
-shift_data("606377","nan",20251015,"D").
-shift_data("606377","nan",20251016,"AL").
-shift_data("606377","nan",20251017,"LD").
-shift_data("606377","nan",20251018,"SE").
-shift_data("606377","nan",20251019,"SN").
-shift_data("606377","nan",20251020,"WR").
-shift_data("606377","nan",20251021,"WR").
-shift_data("606377","nan",20251022,"WR").
-shift_data("606377","nan",20251023,"D").
-shift_data("606377","nan",20251024,"D").
-shift_data("606377","nan",20251025,"LD").
-shift_data("606377","nan",20251026,"SE").
-shift_data("606377","nan",20251027,"SN").
-shift_data("606377","nan",20251028,"WR").
-shift_data("606377","nan",20251029,"D").
-shift_data("606377","nan",20251030,"WR").
-shift_data("606377","nan",20251031,"LD").
-shift_data("606377","nan",20251101,"SE").
-shift_data("606377","nan",20251102,"SN").
-shift_data("606377","nan",20251103,"PH").
-shift_data("606377","nan",20251104,"WR").
-shift_data("606377","nan",20251105,"WR").
-shift_data("606377","nan",20251106,"LD").
-shift_data("606377","nan",20251107,"SE").
-shift_data("606377","nan",20251108,"SN").
-shift_data("606377","nan",20251109,"WR").
-shift_data("606377","nan",20251110,"HL").
-shift_data("606377","nan",20251111,"AL").
-shift_data("606377","nan",20251112,"D").
-shift_data("606377","nan",20251113,"D").
-shift_data("606377","nan",20251114,"WR").
-shift_data("606377","nan",20251115,"D").
-shift_data("606377","nan",20251116,"WR").
-shift_data("606377","nan",20251117,"LD").
-shift_data("606377","nan",20251118,"WR").
-shift_data("606377","nan",20251119,"D").
-shift_data("606377","nan",20251120,"D").
-shift_data("606377","nan",20251121,"D").
-shift_data("606377","nan",20251122,"WR").
-shift_data("606377","nan",20251123,"SE").
-shift_data("606377","nan",20251124,"SN").
-shift_data("606377","nan",20251125,"WR").
-shift_data("606377","nan",20251126,"LD").
-shift_data("606377","nan",20251127,"SE").
-shift_data("606377","nan",20251128,"SN").
-shift_data("606377","nan",20251129,"WR").
-shift_data("606377","nan",20251130,"LD").
-shift_data("606377","nan",20251201,"SE").
-shift_data("606377","nan",20251202,"SN").
-shift_data("606377","nan",20251203,"WR").
-shift_data("606377","nan",20251204,"LD").
-shift_data("606377","nan",20251205,"SE").
-shift_data("606377","nan",20251206,"SN").
-shift_data("606377","nan",20251207,"WR").
-shift_data("606377","nan",20251208,"D").
-shift_data("606377","nan",20251209,"D").
-shift_data("606377","nan",20251210,"SE").
-shift_data("606377","nan",20251211,"SN").
-shift_data("606377","nan",20251212,"WR").
-shift_data("606377","nan",20251213,"WR").
-shift_data("606377","nan",20251214,"AL").
-shift_data("606377","nan",20251215,"AL").
-shift_data("606377","nan",20251216,"LD").
-shift_data("606377","nan",20251217,"SE").
-shift_data("606377","nan",20251218,"SN").
-shift_data("606377","nan",20251219,"WR").
-shift_data("606377","nan",20251220,"D").
-shift_data("606377","nan",20251221,"D").
-shift_data("606377","nan",20251222,"WR").
-shift_data("606377","nan",20251223,"LD").
-shift_data("606377","nan",20251224,"WR").
-shift_data("606377","nan",20251225,"D").
-shift_data("606377","nan",20251226,"D").
-shift_data("606377","nan",20251227,"WR").
-shift_data("606377","nan",20251228,"WR").
-shift_data("606377","nan",20251229,"LD").
-shift_data("606377","nan",20251230,"SE").
-shift_data("606377","nan",20251231,"SN").
-shift_data("606606","nan",20250401,"D").
-shift_data("606606","nan",20250402,"D").
-shift_data("606606","nan",20250403,"D").
-shift_data("606606","nan",20250404,"D").
-shift_data("606606","nan",20250405,"WR").
-shift_data("606606","nan",20250406,"WR").
-shift_data("606606","nan",20250407,"D").
-shift_data("606606","nan",20250408,"D").
-shift_data("606606","nan",20250409,"D").
-shift_data("606606","nan",20250410,"D").
-shift_data("606606","nan",20250411,"D").
-shift_data("606606","nan",20250412,"WR").
-shift_data("606606","nan",20250413,"WR").
-shift_data("606606","nan",20250414,"D").
-shift_data("606606","nan",20250415,"D").
-shift_data("606606","nan",20250416,"D").
-shift_data("606606","nan",20250417,"D").
-shift_data("606606","nan",20250418,"D").
-shift_data("606606","nan",20250419,"WR").
-shift_data("606606","nan",20250420,"WR").
-shift_data("606606","nan",20250421,"D").
-shift_data("606606","nan",20250422,"D").
-shift_data("606606","nan",20250423,"D").
-shift_data("606606","nan",20250424,"D").
-shift_data("606606","nan",20250425,"D").
-shift_data("606606","nan",20250426,"WR").
-shift_data("606606","nan",20250427,"WR").
-shift_data("606606","nan",20250428,"D").
-shift_data("606606","nan",20250429,"PH").
-shift_data("606606","nan",20250430,"LD").
-shift_data("606606","nan",20250501,"SE").
-shift_data("606606","nan",20250502,"SN").
-shift_data("606606","nan",20250503,"WR").
-shift_data("606606","nan",20250504,"WR").
-shift_data("606606","nan",20250505,"PH").
-shift_data("606606","nan",20250506,"PH").
-shift_data("606606","nan",20250507,"D").
-shift_data("606606","nan",20250508,"D").
-shift_data("606606","nan",20250509,"D").
-shift_data("606606","nan",20250510,"WR").
-shift_data("606606","nan",20250511,"D").
-shift_data("606606","nan",20250512,"D").
-shift_data("606606","nan",20250513,"D").
-shift_data("606606","nan",20250514,"WR").
-shift_data("606606","nan",20250515,"D").
-shift_data("606606","nan",20250516,"D").
-shift_data("606606","nan",20250517,"WR").
-shift_data("606606","nan",20250518,"WR").
-shift_data("606606","nan",20250519,"D").
-shift_data("606606","nan",20250520,"D").
-shift_data("606606","nan",20250521,"D").
-shift_data("606606","nan",20250522,"D").
-shift_data("606606","nan",20250523,"SL").
-shift_data("606606","nan",20250524,"WR").
-shift_data("606606","nan",20250525,"WR").
-shift_data("606606","nan",20250526,"D").
-shift_data("606606","nan",20250527,"D").
-shift_data("606606","nan",20250528,"D").
-shift_data("606606","nan",20250529,"D").
-shift_data("606606","nan",20250530,"D").
-shift_data("606606","nan",20250531,"WR").
-shift_data("606606","nan",20250601,"WR").
-shift_data("606606","nan",20250602,"D").
-shift_data("606606","nan",20250603,"D").
-shift_data("606606","nan",20250604,"SL").
-shift_data("606606","nan",20250605,"WR").
-shift_data("606606","nan",20250606,"D").
-shift_data("606606","nan",20250607,"WR").
-shift_data("606606","nan",20250608,"D").
-shift_data("606606","nan",20250609,"D").
-shift_data("606606","nan",20250610,"D").
-shift_data("606606","nan",20250611,"D").
-shift_data("606606","nan",20250612,"WR").
-shift_data("606606","nan",20250613,"LD").
-shift_data("606606","nan",20250614,"SE").
-shift_data("606606","nan",20250615,"SN").
-shift_data("606606","nan",20250616,"WR").
-shift_data("606606","nan",20250617,"WR").
-shift_data("606606","nan",20250618,"D").
-shift_data("606606","nan",20250619,"D").
-shift_data("606606","nan",20250620,"D").
-shift_data("606606","nan",20250621,"D").
-shift_data("606606","nan",20250622,"WR").
-shift_data("606606","nan",20250623,"D").
-shift_data("606606","nan",20250624,"D").
-shift_data("606606","nan",20250625,"WR").
-shift_data("606606","nan",20250626,"D").
-shift_data("606606","nan",20250627,"LD").
-shift_data("606606","nan",20250628,"SE").
-shift_data("606606","nan",20250629,"SN").
-shift_data("606606","nan",20250630,"WR").
-shift_data("606606","nan",20250701,"D").
-shift_data("606606","nan",20250702,"D").
-shift_data("606606","nan",20250703,"D").
-shift_data("606606","nan",20250704,"D").
-shift_data("606606","nan",20250705,"WR").
-shift_data("606606","nan",20250706,"WR").
-shift_data("606606","nan",20250707,"WR").
-shift_data("606606","nan",20250708,"D").
-shift_data("606606","nan",20250709,"D").
-shift_data("606606","nan",20250710,"LD").
-shift_data("606606","nan",20250711,"SE").
-shift_data("606606","nan",20250712,"SN").
-shift_data("606606","nan",20250713,"WR").
-shift_data("606606","nan",20250714,"D").
-shift_data("606606","nan",20250715,"D").
-shift_data("606606","nan",20250716,"D").
-shift_data("606606","nan",20250717,"D").
-shift_data("606606","nan",20250718,"D").
-shift_data("606606","nan",20250719,"WR").
-shift_data("606606","nan",20250720,"WR").
-shift_data("606606","nan",20250721,"PH").
-shift_data("606606","nan",20250722,"D").
-shift_data("606606","nan",20250723,"D").
-shift_data("606606","nan",20250724,"WR").
-shift_data("606606","nan",20250725,"WR").
-shift_data("606606","nan",20250726,"LD").
-shift_data("606606","nan",20250727,"SE").
-shift_data("606606","nan",20250728,"SN").
-shift_data("606606","nan",20250729,"WR").
-shift_data("606606","nan",20250730,"SL").
-shift_data("606606","nan",20250731,"D").
-shift_data("606606","nan",20250801,"D").
-shift_data("606606","nan",20250802,"D").
-shift_data("606606","nan",20250803,"WR").
-shift_data("606606","nan",20250804,"D").
-shift_data("606606","nan",20250805,"WR").
-shift_data("606606","nan",20250806,"D").
-shift_data("606606","nan",20250807,"D").
-shift_data("606606","nan",20250808,"LD").
-shift_data("606606","nan",20250809,"SE").
-shift_data("606606","nan",20250810,"SN").
-shift_data("606606","nan",20250811,"PH").
-shift_data("606606","nan",20250812,"WR").
-shift_data("606606","nan",20250813,"LD").
-shift_data("606606","nan",20250814,"SE").
-shift_data("606606","nan",20250815,"SN").
-shift_data("606606","nan",20250816,"WR").
-shift_data("606606","nan",20250817,"D").
-shift_data("606606","nan",20250818,"D").
-shift_data("606606","nan",20250819,"SL").
-shift_data("606606","nan",20250820,"SL").
-shift_data("606606","nan",20250821,"WR").
-shift_data("606606","nan",20250822,"SL").
-shift_data("606606","nan",20250823,"SL").
-shift_data("606606","nan",20250824,"SL").
-shift_data("606606","nan",20250825,"SL").
-shift_data("606606","nan",20250826,"SL").
-shift_data("606606","nan",20250827,"WR").
-shift_data("606606","nan",20250828,"WR").
-shift_data("606606","nan",20250829,"D").
-shift_data("606606","nan",20250830,"WR").
-shift_data("606606","nan",20250831,"D").
-shift_data("606606","nan",20250901,"D").
-shift_data("606606","nan",20250902,"WR").
-shift_data("606606","nan",20250903,"D").
-shift_data("606606","nan",20250904,"D").
-shift_data("606606","nan",20250905,"D").
-shift_data("606606","nan",20250906,"WR").
-shift_data("606606","nan",20250907,"WR").
-shift_data("606606","nan",20250908,"D").
-shift_data("606606","nan",20250909,"D").
-shift_data("606606","nan",20250910,"D").
-shift_data("606606","nan",20250911,"D").
-shift_data("606606","nan",20250912,"D").
-shift_data("606606","nan",20250913,"WR").
-shift_data("606606","nan",20250914,"HL").
-shift_data("606606","nan",20250915,"PH").
-shift_data("606606","nan",20250916,"AL").
-shift_data("606606","nan",20250917,"WR").
-shift_data("606606","nan",20250918,"D").
-shift_data("606606","nan",20250919,"D").
-shift_data("606606","nan",20250920,"WR").
-shift_data("606606","nan",20250921,"WR").
-shift_data("606606","nan",20250922,"D").
-shift_data("606606","nan",20250923,"PH").
-shift_data("606606","nan",20250924,"D").
-shift_data("606606","nan",20250925,"D").
-shift_data("606606","nan",20250926,"D").
-shift_data("606606","nan",20250927,"WR").
-shift_data("606606","nan",20250928,"WR").
-shift_data("606606","nan",20250929,"D").
-shift_data("606606","nan",20250930,"D").
-shift_data("606606","nan",20251001,"D").
-shift_data("606606","nan",20251002,"D").
-shift_data("606606","nan",20251003,"D").
-shift_data("606606","nan",20251004,"WR").
-shift_data("606606","nan",20251005,"WR").
-shift_data("606606","nan",20251006,"AL").
-shift_data("606606","nan",20251007,"D").
-shift_data("606606","nan",20251008,"D").
-shift_data("606606","nan",20251009,"D").
-shift_data("606606","nan",20251010,"D").
-shift_data("606606","nan",20251011,"WR").
-shift_data("606606","nan",20251012,"WR").
-shift_data("606606","nan",20251013,"PH").
-shift_data("606606","nan",20251014,"D").
-shift_data("606606","nan",20251015,"D").
-shift_data("606606","nan",20251016,"D").
-shift_data("606606","nan",20251017,"D").
-shift_data("606606","nan",20251018,"WR").
-shift_data("606606","nan",20251019,"D").
-shift_data("606606","nan",20251020,"D").
-shift_data("606606","nan",20251021,"WR").
-shift_data("606606","nan",20251022,"D").
-shift_data("606606","nan",20251023,"D").
-shift_data("606606","nan",20251024,"D").
-shift_data("606606","nan",20251025,"WR").
-shift_data("606606","nan",20251026,"WR").
-shift_data("606606","nan",20251027,"D").
-shift_data("606606","nan",20251028,"WR").
-shift_data("606606","nan",20251029,"D").
-shift_data("606606","nan",20251030,"D").
-shift_data("606606","nan",20251031,"D").
-shift_data("606606","nan",20251101,"D").
-shift_data("606606","nan",20251102,"WR").
-shift_data("606606","nan",20251103,"PH").
-shift_data("606606","nan",20251104,"D").
-shift_data("606606","nan",20251105,"D").
-shift_data("606606","nan",20251106,"D").
-shift_data("606606","nan",20251107,"D").
-shift_data("606606","nan",20251108,"WR").
-shift_data("606606","nan",20251109,"LD").
-shift_data("606606","nan",20251110,"WR").
-shift_data("606606","nan",20251111,"WR").
-shift_data("606606","nan",20251112,"D").
-shift_data("606606","nan",20251113,"D").
-shift_data("606606","nan",20251114,"D").
-shift_data("606606","nan",20251115,"WR").
-shift_data("606606","nan",20251116,"SE").
-shift_data("606606","nan",20251117,"SN").
-shift_data("606606","nan",20251118,"WR").
-shift_data("606606","nan",20251119,"D").
-shift_data("606606","nan",20251120,"D").
-shift_data("606606","nan",20251121,"D").
-shift_data("606606","nan",20251122,"LD").
-shift_data("606606","nan",20251123,"WR").
-shift_data("606606","nan",20251124,"PH").
-shift_data("606606","nan",20251125,"AL").
-shift_data("606606","nan",20251126,"AL").
-shift_data("606606","nan",20251127,"AL").
-shift_data("606606","nan",20251128,"D").
-shift_data("606606","nan",20251129,"SE").
-shift_data("606606","nan",20251130,"SN").
-shift_data("606606","nan",20251201,"WR").
-shift_data("606606","nan",20251202,"WR").
-shift_data("606606","nan",20251203,"D").
-shift_data("606606","nan",20251204,"SL").
-shift_data("606606","nan",20251205,"WR").
-shift_data("606606","nan",20251206,"SL").
-shift_data("606606","nan",20251207,"SL").
-shift_data("606606","nan",20251208,"D").
-shift_data("606606","nan",20251209,"WR").
-shift_data("606606","nan",20251210,"D").
-shift_data("606606","nan",20251211,"D").
-shift_data("606606","nan",20251212,"LM").
-shift_data("606606","nan",20251213,"WR").
-shift_data("606606","nan",20251214,"HL").
-shift_data("606606","nan",20251215,"AL").
-shift_data("606606","nan",20251216,"AL").
-shift_data("606606","nan",20251217,"D").
-shift_data("606606","nan",20251218,"WR").
-shift_data("606606","nan",20251219,"D").
-shift_data("606606","nan",20251220,"WR").
-shift_data("606606","nan",20251221,"D").
-shift_data("606606","nan",20251222,"SE").
-shift_data("606606","nan",20251223,"SN").
-shift_data("606606","nan",20251224,"WR").
-shift_data("606606","nan",20251225,"WR").
-shift_data("606606","nan",20251226,"D").
-shift_data("606606","nan",20251227,"WR").
-shift_data("606606","nan",20251228,"LD").
-shift_data("606606","nan",20251229,"SE").
-shift_data("606606","nan",20251230,"SN").
-shift_data("606606","nan",20251231,"PH").
-shift_data("62062","nan",20250405,"WR").
-shift_data("62062","nan",20250406,"WR").
-shift_data("62062","nan",20250412,"WR").
-shift_data("62062","nan",20250413,"WR").
-shift_data("62062","nan",20250419,"WR").
-shift_data("62062","nan",20250420,"WR").
-shift_data("62062","nan",20250426,"WR").
-shift_data("62062","nan",20250427,"WR").
-shift_data("62062","nan",20250429,"PH").
-shift_data("62062","nan",20250501,"HL").
-shift_data("62062","nan",20250502,"HL").
-shift_data("62062","nan",20250503,"WR").
-shift_data("62062","nan",20250504,"WR").
-shift_data("62062","nan",20250505,"PH").
-shift_data("62062","nan",20250506,"PH").
-shift_data("62062","nan",20250510,"WR").
-shift_data("62062","nan",20250511,"WR").
-shift_data("62062","nan",20250517,"WR").
-shift_data("62062","nan",20250518,"WR").
-shift_data("62062","nan",20250524,"WR").
-shift_data("62062","nan",20250525,"WR").
-shift_data("62062","nan",20250531,"WR").
-shift_data("62062","nan",20250601,"WR").
-shift_data("62062","nan",20250607,"WR").
-shift_data("62062","nan",20250608,"WR").
-shift_data("62062","nan",20250614,"WR").
-shift_data("62062","nan",20250615,"WR").
-shift_data("62062","nan",20250621,"WR").
-shift_data("62062","nan",20250622,"WR").
-shift_data("62062","nan",20250627,"HL").
-shift_data("62062","nan",20250628,"WR").
-shift_data("62062","nan",20250629,"WR").
-shift_data("62062","nan",20250705,"WR").
-shift_data("62062","nan",20250706,"WR").
-shift_data("62062","nan",20250712,"WR").
-shift_data("62062","nan",20250713,"WR").
-shift_data("62062","nan",20250719,"WR").
-shift_data("62062","nan",20250720,"WR").
-shift_data("62062","nan",20250721,"PH").
-shift_data("62062","nan",20250726,"WR").
-shift_data("62062","nan",20250727,"WR").
-shift_data("62062","nan",20250802,"WR").
-shift_data("62062","nan",20250803,"WR").
-shift_data("62062","nan",20250809,"WR").
-shift_data("62062","nan",20250810,"WR").
-shift_data("62062","nan",20250811,"PH").
-shift_data("62062","nan",20250812,"AL").
-shift_data("62062","nan",20250813,"AL").
-shift_data("62062","nan",20250816,"WR").
-shift_data("62062","nan",20250817,"WR").
-shift_data("62062","nan",20250823,"WR").
-shift_data("62062","nan",20250824,"WR").
-shift_data("62062","nan",20250830,"WR").
-shift_data("62062","nan",20250831,"WR").
-shift_data("62062","nan",20250906,"WR").
-shift_data("62062","nan",20250907,"WR").
-shift_data("62062","nan",20250913,"WR").
-shift_data("62062","nan",20250914,"WR").
-shift_data("62062","nan",20250915,"PH").
-shift_data("62062","nan",20250920,"WR").
-shift_data("62062","nan",20250921,"WR").
-shift_data("62062","nan",20250923,"PH").
-shift_data("62062","nan",20250927,"WR").
-shift_data("62062","nan",20250928,"WR").
-shift_data("62062","nan",20251004,"WR").
-shift_data("62062","nan",20251005,"WR").
-shift_data("62062","nan",20251011,"WR").
-shift_data("62062","nan",20251012,"WR").
-shift_data("62062","nan",20251013,"PH").
-shift_data("62062","nan",20251017,"HL").
-shift_data("62062","nan",20251018,"WR").
-shift_data("62062","nan",20251019,"WR").
-shift_data("62062","nan",20251025,"WR").
-shift_data("62062","nan",20251026,"WR").
-shift_data("62062","nan",20251101,"WR").
-shift_data("62062","nan",20251102,"WR").
-shift_data("62062","nan",20251103,"PH").
-shift_data("62062","nan",20251108,"WR").
-shift_data("62062","nan",20251109,"WR").
-shift_data("62062","nan",20251115,"WR").
-shift_data("62062","nan",20251116,"WR").
-shift_data("62062","nan",20251121,"AL").
-shift_data("62062","nan",20251122,"WR").
-shift_data("62062","nan",20251123,"WR").
-shift_data("62062","nan",20251124,"PH").
-shift_data("62062","nan",20251128,"AL").
-shift_data("62062","nan",20251129,"WR").
-shift_data("62062","nan",20251130,"WR").
-shift_data("62062","nan",20251206,"WR").
-shift_data("62062","nan",20251207,"WR").
-shift_data("62062","nan",20251213,"WR").
-shift_data("62062","nan",20251214,"WR").
-shift_data("62062","nan",20251220,"WR").
-shift_data("62062","nan",20251221,"WR").
-shift_data("62062","nan",20251227,"WR").
-shift_data("62062","nan",20251228,"WR").
-shift_data("62062","nan",20251229,"PH").
-shift_data("62062","nan",20251230,"PH").
-shift_data("62062","nan",20251231,"PH").
 shift_data("65326", "Loretta Anderson DVM", 20250801, "SN").
 shift_data("65326", "Loretta Anderson DVM", 20250802, "WR").
 shift_data("65326", "Loretta Anderson DVM", 20250803, "WR").
@@ -36982,281 +30989,6 @@ shift_data("65326","Loretta Anderson DVM",20250224,"PH").
 shift_data("65326","Loretta Anderson DVM",20250225,"AL").
 shift_data("65326","Loretta Anderson DVM",20250226,"AL").
 shift_data("65326","Loretta Anderson DVM",20250227,"WR").
-shift_data("65326","Loretta Anderson DVM",20250401,"WR").
-shift_data("65326","Loretta Anderson DVM",20250402,"LD").
-shift_data("65326","Loretta Anderson DVM",20250403,"SE").
-shift_data("65326","Loretta Anderson DVM",20250404,"SN").
-shift_data("65326","Loretta Anderson DVM",20250405,"WR").
-shift_data("65326","Loretta Anderson DVM",20250406,"D").
-shift_data("65326","Loretta Anderson DVM",20250407,"SE").
-shift_data("65326","Loretta Anderson DVM",20250408,"SN").
-shift_data("65326","Loretta Anderson DVM",20250409,"WR").
-shift_data("65326","Loretta Anderson DVM",20250410,"WR").
-shift_data("65326","Loretta Anderson DVM",20250411,"LD").
-shift_data("65326","Loretta Anderson DVM",20250412,"SE").
-shift_data("65326","Loretta Anderson DVM",20250413,"SN").
-shift_data("65326","Loretta Anderson DVM",20250414,"SE").
-shift_data("65326","Loretta Anderson DVM",20250415,"SN").
-shift_data("65326","Loretta Anderson DVM",20250416,"WR").
-shift_data("65326","Loretta Anderson DVM",20250417,"LD").
-shift_data("65326","Loretta Anderson DVM",20250418,"SE").
-shift_data("65326","Loretta Anderson DVM",20250419,"SN").
-shift_data("65326","Loretta Anderson DVM",20250420,"WR").
-shift_data("65326","Loretta Anderson DVM",20250421,"LD").
-shift_data("65326","Loretta Anderson DVM",20250422,"SE").
-shift_data("65326","Loretta Anderson DVM",20250423,"SN").
-shift_data("65326","Loretta Anderson DVM",20250424,"WR").
-shift_data("65326","Loretta Anderson DVM",20250425,"D").
-shift_data("65326","Loretta Anderson DVM",20250426,"LD").
-shift_data("65326","Loretta Anderson DVM",20250427,"WR").
-shift_data("65326","Loretta Anderson DVM",20250428,"D").
-shift_data("65326","Loretta Anderson DVM",20250429,"SE").
-shift_data("65326","Loretta Anderson DVM",20250430,"SN").
-shift_data("65326","Loretta Anderson DVM",20250501,"WR").
-shift_data("65326","Loretta Anderson DVM",20250502,"LD").
-shift_data("65326","Loretta Anderson DVM",20250503,"WR").
-shift_data("65326","Loretta Anderson DVM",20250504,"LD").
-shift_data("65326","Loretta Anderson DVM",20250505,"SE").
-shift_data("65326","Loretta Anderson DVM",20250506,"SN").
-shift_data("65326","Loretta Anderson DVM",20250507,"SE").
-shift_data("65326","Loretta Anderson DVM",20250508,"SN").
-shift_data("65326","Loretta Anderson DVM",20250509,"WR").
-shift_data("65326","Loretta Anderson DVM",20250510,"LD").
-shift_data("65326","Loretta Anderson DVM",20250511,"WR").
-shift_data("65326","Loretta Anderson DVM",20250512,"LD").
-shift_data("65326","Loretta Anderson DVM",20250513,"SE").
-shift_data("65326","Loretta Anderson DVM",20250514,"SN").
-shift_data("65326","Loretta Anderson DVM",20250515,"WR").
-shift_data("65326","Loretta Anderson DVM",20250516,"SE").
-shift_data("65326","Loretta Anderson DVM",20250517,"SN").
-shift_data("65326","Loretta Anderson DVM",20250518,"SE").
-shift_data("65326","Loretta Anderson DVM",20250519,"SN").
-shift_data("65326","Loretta Anderson DVM",20250520,"WR").
-shift_data("65326","Loretta Anderson DVM",20250521,"D").
-shift_data("65326","Loretta Anderson DVM",20250522,"LD").
-shift_data("65326","Loretta Anderson DVM",20250523,"WR").
-shift_data("65326","Loretta Anderson DVM",20250524,"LD").
-shift_data("65326","Loretta Anderson DVM",20250525,"WR").
-shift_data("65326","Loretta Anderson DVM",20250526,"AL").
-shift_data("65326","Loretta Anderson DVM",20250527,"D").
-shift_data("65326","Loretta Anderson DVM",20250528,"D").
-shift_data("65326","Loretta Anderson DVM",20250529,"D").
-shift_data("65326","Loretta Anderson DVM",20250530,"D").
-shift_data("65326","Loretta Anderson DVM",20250531,"WR").
-shift_data("65326","Loretta Anderson DVM",20250601,"SE").
-shift_data("65326","Loretta Anderson DVM",20250602,"SN").
-shift_data("65326","Loretta Anderson DVM",20250603,"SE").
-shift_data("65326","Loretta Anderson DVM",20250604,"SN").
-shift_data("65326","Loretta Anderson DVM",20250605,"WR").
-shift_data("65326","Loretta Anderson DVM",20250606,"LD").
-shift_data("65326","Loretta Anderson DVM",20250607,"WR").
-shift_data("65326","Loretta Anderson DVM",20250608,"LD").
-shift_data("65326","Loretta Anderson DVM",20250609,"SE").
-shift_data("65326","Loretta Anderson DVM",20250610,"SN").
-shift_data("65326","Loretta Anderson DVM",20250611,"WR").
-shift_data("65326","Loretta Anderson DVM",20250612,"WR").
-shift_data("65326","Loretta Anderson DVM",20250613,"LD").
-shift_data("65326","Loretta Anderson DVM",20250614,"SE").
-shift_data("65326","Loretta Anderson DVM",20250615,"SN").
-shift_data("65326","Loretta Anderson DVM",20250616,"WR").
-shift_data("65326","Loretta Anderson DVM",20250617,"LD").
-shift_data("65326","Loretta Anderson DVM",20250618,"SE").
-shift_data("65326","Loretta Anderson DVM",20250619,"SN").
-shift_data("65326","Loretta Anderson DVM",20250620,"WR").
-shift_data("65326","Loretta Anderson DVM",20250621,"LD").
-shift_data("65326","Loretta Anderson DVM",20250622,"WR").
-shift_data("65326","Loretta Anderson DVM",20250623,"D").
-shift_data("65326","Loretta Anderson DVM",20250624,"LD").
-shift_data("65326","Loretta Anderson DVM",20250625,"SE").
-shift_data("65326","Loretta Anderson DVM",20250626,"SN").
-shift_data("65326","Loretta Anderson DVM",20250627,"WR").
-shift_data("65326","Loretta Anderson DVM",20250628,"D").
-shift_data("65326","Loretta Anderson DVM",20250629,"SE").
-shift_data("65326","Loretta Anderson DVM",20250630,"SN").
-shift_data("65326","Loretta Anderson DVM",20250701,"WR").
-shift_data("65326","Loretta Anderson DVM",20250702,"LD").
-shift_data("65326","Loretta Anderson DVM",20250703,"SE").
-shift_data("65326","Loretta Anderson DVM",20250704,"SN").
-shift_data("65326","Loretta Anderson DVM",20250705,"WR").
-shift_data("65326","Loretta Anderson DVM",20250706,"LD").
-shift_data("65326","Loretta Anderson DVM",20250707,"SE").
-shift_data("65326","Loretta Anderson DVM",20250708,"SN").
-shift_data("65326","Loretta Anderson DVM",20250709,"WR").
-shift_data("65326","Loretta Anderson DVM",20250710,"WR").
-shift_data("65326","Loretta Anderson DVM",20250711,"LD").
-shift_data("65326","Loretta Anderson DVM",20250712,"WR").
-shift_data("65326","Loretta Anderson DVM",20250713,"LD").
-shift_data("65326","Loretta Anderson DVM",20250714,"WR").
-shift_data("65326","Loretta Anderson DVM",20250715,"LD").
-shift_data("65326","Loretta Anderson DVM",20250716,"SE").
-shift_data("65326","Loretta Anderson DVM",20250717,"SN").
-shift_data("65326","Loretta Anderson DVM",20250718,"SE").
-shift_data("65326","Loretta Anderson DVM",20250719,"SN").
-shift_data("65326","Loretta Anderson DVM",20250720,"WR").
-shift_data("65326","Loretta Anderson DVM",20250721,"D").
-shift_data("65326","Loretta Anderson DVM",20250722,"LD").
-shift_data("65326","Loretta Anderson DVM",20250723,"SE").
-shift_data("65326","Loretta Anderson DVM",20250724,"SN").
-shift_data("65326","Loretta Anderson DVM",20250725,"WR").
-shift_data("65326","Loretta Anderson DVM",20250726,"D").
-shift_data("65326","Loretta Anderson DVM",20250727,"WR").
-shift_data("65326","Loretta Anderson DVM",20250728,"LD").
-shift_data("65326","Loretta Anderson DVM",20250729,"SE").
-shift_data("65326","Loretta Anderson DVM",20250730,"SN").
-shift_data("65326","Loretta Anderson DVM",20250731,"SE").
-shift_data("65326","Loretta Anderson DVM",20250801,"SN").
-shift_data("65326","Loretta Anderson DVM",20250802,"WR").
-shift_data("65326","Loretta Anderson DVM",20250803,"WR").
-shift_data("65326","Loretta Anderson DVM",20250804,"LD").
-shift_data("65326","Loretta Anderson DVM",20250805,"SE").
-shift_data("65326","Loretta Anderson DVM",20250806,"SN").
-shift_data("65326","Loretta Anderson DVM",20250807,"WR").
-shift_data("65326","Loretta Anderson DVM",20250808,"LD").
-shift_data("65326","Loretta Anderson DVM",20250809,"WR").
-shift_data("65326","Loretta Anderson DVM",20250810,"LD").
-shift_data("65326","Loretta Anderson DVM",20250811,"SE").
-shift_data("65326","Loretta Anderson DVM",20250812,"SN").
-shift_data("65326","Loretta Anderson DVM",20250813,"WR").
-shift_data("65326","Loretta Anderson DVM",20250814,"LD").
-shift_data("65326","Loretta Anderson DVM",20250815,"SE").
-shift_data("65326","Loretta Anderson DVM",20250816,"SN").
-shift_data("65326","Loretta Anderson DVM",20250817,"WR").
-shift_data("65326","Loretta Anderson DVM",20250818,"D").
-shift_data("65326","Loretta Anderson DVM",20250819,"D").
-shift_data("65326","Loretta Anderson DVM",20250820,"WR").
-shift_data("65326","Loretta Anderson DVM",20250821,"LD").
-shift_data("65326","Loretta Anderson DVM",20250822,"SE").
-shift_data("65326","Loretta Anderson DVM",20250823,"SN").
-shift_data("65326","Loretta Anderson DVM",20250824,"WR").
-shift_data("65326","Loretta Anderson DVM",20250825,"LD").
-shift_data("65326","Loretta Anderson DVM",20250826,"SE").
-shift_data("65326","Loretta Anderson DVM",20250827,"SN").
-shift_data("65326","Loretta Anderson DVM",20250828,"WR").
-shift_data("65326","Loretta Anderson DVM",20250829,"D").
-shift_data("65326","Loretta Anderson DVM",20250830,"LD").
-shift_data("65326","Loretta Anderson DVM",20250831,"SE").
-shift_data("65326","Loretta Anderson DVM",20250901,"SN").
-shift_data("65326","Loretta Anderson DVM",20250902,"WR").
-shift_data("65326","Loretta Anderson DVM",20250903,"D").
-shift_data("65326","Loretta Anderson DVM",20250904,"SE").
-shift_data("65326","Loretta Anderson DVM",20250905,"SN").
-shift_data("65326","Loretta Anderson DVM",20250906,"WR").
-shift_data("65326","Loretta Anderson DVM",20250907,"WR").
-shift_data("65326","Loretta Anderson DVM",20250908,"D").
-shift_data("65326","Loretta Anderson DVM",20250909,"LD").
-shift_data("65326","Loretta Anderson DVM",20250910,"SE").
-shift_data("65326","Loretta Anderson DVM",20250911,"SN").
-shift_data("65326","Loretta Anderson DVM",20250912,"WR").
-shift_data("65326","Loretta Anderson DVM",20250913,"LD").
-shift_data("65326","Loretta Anderson DVM",20250914,"SE").
-shift_data("65326","Loretta Anderson DVM",20250915,"SN").
-shift_data("65326","Loretta Anderson DVM",20250916,"WR").
-shift_data("65326","Loretta Anderson DVM",20250917,"LD").
-shift_data("65326","Loretta Anderson DVM",20250918,"SE").
-shift_data("65326","Loretta Anderson DVM",20250919,"SN").
-shift_data("65326","Loretta Anderson DVM",20250920,"WR").
-shift_data("65326","Loretta Anderson DVM",20250921,"SE").
-shift_data("65326","Loretta Anderson DVM",20250922,"SN").
-shift_data("65326","Loretta Anderson DVM",20250923,"PH").
-shift_data("65326","Loretta Anderson DVM",20250924,"WR").
-shift_data("65326","Loretta Anderson DVM",20250925,"WR").
-shift_data("65326","Loretta Anderson DVM",20250926,"D").
-shift_data("65326","Loretta Anderson DVM",20250927,"D").
-shift_data("65326","Loretta Anderson DVM",20250928,"D").
-shift_data("65326","Loretta Anderson DVM",20250929,"LD").
-shift_data("65326","Loretta Anderson DVM",20250930,"WR").
-shift_data("65326","Loretta Anderson DVM",20251001,"TR").
-shift_data("65326","Loretta Anderson DVM",20251002,"SE").
-shift_data("65326","Loretta Anderson DVM",20251003,"SN").
-shift_data("65326","Loretta Anderson DVM",20251004,"WR").
-shift_data("65326","Loretta Anderson DVM",20251005,"LD").
-shift_data("65326","Loretta Anderson DVM",20251006,"SE").
-shift_data("65326","Loretta Anderson DVM",20251007,"SN").
-shift_data("65326","Loretta Anderson DVM",20251008,"WR").
-shift_data("65326","Loretta Anderson DVM",20251009,"LD").
-shift_data("65326","Loretta Anderson DVM",20251010,"WR").
-shift_data("65326","Loretta Anderson DVM",20251011,"LD").
-shift_data("65326","Loretta Anderson DVM",20251012,"WR").
-shift_data("65326","Loretta Anderson DVM",20251013,"SE").
-shift_data("65326","Loretta Anderson DVM",20251014,"SN").
-shift_data("65326","Loretta Anderson DVM",20251015,"WR").
-shift_data("65326","Loretta Anderson DVM",20251016,"LD").
-shift_data("65326","Loretta Anderson DVM",20251017,"SE").
-shift_data("65326","Loretta Anderson DVM",20251018,"SN").
-shift_data("65326","Loretta Anderson DVM",20251019,"WR").
-shift_data("65326","Loretta Anderson DVM",20251020,"D").
-shift_data("65326","Loretta Anderson DVM",20251021,"LD").
-shift_data("65326","Loretta Anderson DVM",20251022,"WR").
-shift_data("65326","Loretta Anderson DVM",20251023,"LD").
-shift_data("65326","Loretta Anderson DVM",20251024,"WR").
-shift_data("65326","Loretta Anderson DVM",20251025,"LD").
-shift_data("65326","Loretta Anderson DVM",20251026,"WR").
-shift_data("65326","Loretta Anderson DVM",20251027,"TR").
-shift_data("65326","Loretta Anderson DVM",20251028,"WR").
-shift_data("65326","Loretta Anderson DVM",20251029,"HL").
-shift_data("65326","Loretta Anderson DVM",20251030,"HL").
-shift_data("65326","Loretta Anderson DVM",20251031,"HL").
-shift_data("65326","Loretta Anderson DVM",20251101,"AL").
-shift_data("65326","Loretta Anderson DVM",20251102,"SE").
-shift_data("65326","Loretta Anderson DVM",20251103,"SN").
-shift_data("65326","Loretta Anderson DVM",20251104,"SE").
-shift_data("65326","Loretta Anderson DVM",20251105,"SN").
-shift_data("65326","Loretta Anderson DVM",20251106,"WR").
-shift_data("65326","Loretta Anderson DVM",20251107,"LD").
-shift_data("65326","Loretta Anderson DVM",20251108,"SE").
-shift_data("65326","Loretta Anderson DVM",20251109,"SN").
-shift_data("65326","Loretta Anderson DVM",20251110,"WR").
-shift_data("65326","Loretta Anderson DVM",20251111,"SE").
-shift_data("65326","Loretta Anderson DVM",20251112,"SN").
-shift_data("65326","Loretta Anderson DVM",20251113,"WR").
-shift_data("65326","Loretta Anderson DVM",20251114,"TR").
-shift_data("65326","Loretta Anderson DVM",20251115,"LD").
-shift_data("65326","Loretta Anderson DVM",20251116,"SE").
-shift_data("65326","Loretta Anderson DVM",20251117,"SN").
-shift_data("65326","Loretta Anderson DVM",20251118,"SE").
-shift_data("65326","Loretta Anderson DVM",20251119,"SN").
-shift_data("65326","Loretta Anderson DVM",20251120,"WR").
-shift_data("65326","Loretta Anderson DVM",20251121,"WR").
-shift_data("65326","Loretta Anderson DVM",20251122,"D").
-shift_data("65326","Loretta Anderson DVM",20251123,"LD").
-shift_data("65326","Loretta Anderson DVM",20251124,"PH").
-shift_data("65326","Loretta Anderson DVM",20251125,"LD").
-shift_data("65326","Loretta Anderson DVM",20251126,"WR").
-shift_data("65326","Loretta Anderson DVM",20251127,"TR").
-shift_data("65326","Loretta Anderson DVM",20251128,"LD").
-shift_data("65326","Loretta Anderson DVM",20251129,"WR").
-shift_data("65326","Loretta Anderson DVM",20251130,"WR").
-shift_data("65326","Loretta Anderson DVM",20251201,"SE").
-shift_data("65326","Loretta Anderson DVM",20251202,"SN").
-shift_data("65326","Loretta Anderson DVM",20251203,"WR").
-shift_data("65326","Loretta Anderson DVM",20251204,"LD").
-shift_data("65326","Loretta Anderson DVM",20251205,"SE").
-shift_data("65326","Loretta Anderson DVM",20251206,"SN").
-shift_data("65326","Loretta Anderson DVM",20251207,"WR").
-shift_data("65326","Loretta Anderson DVM",20251208,"TR").
-shift_data("65326","Loretta Anderson DVM",20251209,"D").
-shift_data("65326","Loretta Anderson DVM",20251210,"LM").
-shift_data("65326","Loretta Anderson DVM",20251211,"WR").
-shift_data("65326","Loretta Anderson DVM",20251212,"D").
-shift_data("65326","Loretta Anderson DVM",20251213,"LD").
-shift_data("65326","Loretta Anderson DVM",20251214,"WR").
-shift_data("65326","Loretta Anderson DVM",20251215,"LD").
-shift_data("65326","Loretta Anderson DVM",20251216,"WR").
-shift_data("65326","Loretta Anderson DVM",20251217,"LD").
-shift_data("65326","Loretta Anderson DVM",20251218,"SE").
-shift_data("65326","Loretta Anderson DVM",20251219,"SN").
-shift_data("65326","Loretta Anderson DVM",20251220,"WR").
-shift_data("65326","Loretta Anderson DVM",20251221,"D").
-shift_data("65326","Loretta Anderson DVM",20251222,"D").
-shift_data("65326","Loretta Anderson DVM",20251223,"SE").
-shift_data("65326","Loretta Anderson DVM",20251224,"SN").
-shift_data("65326","Loretta Anderson DVM",20251225,"WR").
-shift_data("65326","Loretta Anderson DVM",20251226,"WR").
-shift_data("65326","Loretta Anderson DVM",20251227,"HL").
-shift_data("65326","Loretta Anderson DVM",20251228,"LD").
-shift_data("65326","Loretta Anderson DVM",20251229,"SE").
-shift_data("65326","Loretta Anderson DVM",20251230,"SN").
-shift_data("65326","Loretta Anderson DVM",20251231,"SE").
 shift_data("67379", "Tristan Perkins", 20250802, "WR").
 shift_data("67379", "Tristan Perkins", 20250803, "WR").
 shift_data("67379", "Tristan Perkins", 20250809, "WR").
@@ -37270,98 +31002,6 @@ shift_data("67379", "Tristan Perkins", 20250831, "WR").
 shift_data("67379", "Tristan Perkins", 20250906, "WR").
 shift_data("67379", "Tristan Perkins", 20250907, "WR").
 shift_data("67379", "Tristan Perkins", 20250913, "WR").
-shift_data("67379","Tristan Perkins",20250405,"WR").
-shift_data("67379","Tristan Perkins",20250406,"WR").
-shift_data("67379","Tristan Perkins",20250412,"WR").
-shift_data("67379","Tristan Perkins",20250413,"WR").
-shift_data("67379","Tristan Perkins",20250419,"WR").
-shift_data("67379","Tristan Perkins",20250420,"WR").
-shift_data("67379","Tristan Perkins",20250426,"WR").
-shift_data("67379","Tristan Perkins",20250427,"WR").
-shift_data("67379","Tristan Perkins",20250429,"PH").
-shift_data("67379","Tristan Perkins",20250503,"WR").
-shift_data("67379","Tristan Perkins",20250504,"WR").
-shift_data("67379","Tristan Perkins",20250505,"PH").
-shift_data("67379","Tristan Perkins",20250506,"PH").
-shift_data("67379","Tristan Perkins",20250510,"WR").
-shift_data("67379","Tristan Perkins",20250511,"WR").
-shift_data("67379","Tristan Perkins",20250517,"WR").
-shift_data("67379","Tristan Perkins",20250518,"WR").
-shift_data("67379","Tristan Perkins",20250524,"WR").
-shift_data("67379","Tristan Perkins",20250525,"WR").
-shift_data("67379","Tristan Perkins",20250531,"WR").
-shift_data("67379","Tristan Perkins",20250601,"WR").
-shift_data("67379","Tristan Perkins",20250607,"WR").
-shift_data("67379","Tristan Perkins",20250608,"WR").
-shift_data("67379","Tristan Perkins",20250614,"WR").
-shift_data("67379","Tristan Perkins",20250615,"WR").
-shift_data("67379","Tristan Perkins",20250621,"WR").
-shift_data("67379","Tristan Perkins",20250622,"WR").
-shift_data("67379","Tristan Perkins",20250628,"WR").
-shift_data("67379","Tristan Perkins",20250629,"WR").
-shift_data("67379","Tristan Perkins",20250705,"WR").
-shift_data("67379","Tristan Perkins",20250706,"WR").
-shift_data("67379","Tristan Perkins",20250712,"WR").
-shift_data("67379","Tristan Perkins",20250713,"WR").
-shift_data("67379","Tristan Perkins",20250719,"WR").
-shift_data("67379","Tristan Perkins",20250720,"WR").
-shift_data("67379","Tristan Perkins",20250721,"PH").
-shift_data("67379","Tristan Perkins",20250726,"WR").
-shift_data("67379","Tristan Perkins",20250727,"WR").
-shift_data("67379","Tristan Perkins",20250802,"WR").
-shift_data("67379","Tristan Perkins",20250803,"WR").
-shift_data("67379","Tristan Perkins",20250809,"WR").
-shift_data("67379","Tristan Perkins",20250810,"WR").
-shift_data("67379","Tristan Perkins",20250811,"PH").
-shift_data("67379","Tristan Perkins",20250816,"WR").
-shift_data("67379","Tristan Perkins",20250817,"WR").
-shift_data("67379","Tristan Perkins",20250823,"WR").
-shift_data("67379","Tristan Perkins",20250824,"WR").
-shift_data("67379","Tristan Perkins",20250830,"WR").
-shift_data("67379","Tristan Perkins",20250831,"WR").
-shift_data("67379","Tristan Perkins",20250906,"WR").
-shift_data("67379","Tristan Perkins",20250907,"WR").
-shift_data("67379","Tristan Perkins",20250913,"WR").
-shift_data("67379","Tristan Perkins",20250914,"WR").
-shift_data("67379","Tristan Perkins",20250915,"PH").
-shift_data("67379","Tristan Perkins",20250920,"WR").
-shift_data("67379","Tristan Perkins",20250921,"WR").
-shift_data("67379","Tristan Perkins",20250923,"PH").
-shift_data("67379","Tristan Perkins",20250927,"WR").
-shift_data("67379","Tristan Perkins",20250928,"WR").
-shift_data("67379","Tristan Perkins",20251004,"WR").
-shift_data("67379","Tristan Perkins",20251005,"WR").
-shift_data("67379","Tristan Perkins",20251011,"WR").
-shift_data("67379","Tristan Perkins",20251012,"WR").
-shift_data("67379","Tristan Perkins",20251013,"PH").
-shift_data("67379","Tristan Perkins",20251018,"WR").
-shift_data("67379","Tristan Perkins",20251019,"WR").
-shift_data("67379","Tristan Perkins",20251025,"WR").
-shift_data("67379","Tristan Perkins",20251026,"WR").
-shift_data("67379","Tristan Perkins",20251101,"WR").
-shift_data("67379","Tristan Perkins",20251102,"WR").
-shift_data("67379","Tristan Perkins",20251103,"PH").
-shift_data("67379","Tristan Perkins",20251108,"WR").
-shift_data("67379","Tristan Perkins",20251109,"WR").
-shift_data("67379","Tristan Perkins",20251115,"WR").
-shift_data("67379","Tristan Perkins",20251116,"WR").
-shift_data("67379","Tristan Perkins",20251120,"AL").
-shift_data("67379","Tristan Perkins",20251122,"WR").
-shift_data("67379","Tristan Perkins",20251123,"WR").
-shift_data("67379","Tristan Perkins",20251124,"PH").
-shift_data("67379","Tristan Perkins",20251129,"WR").
-shift_data("67379","Tristan Perkins",20251130,"WR").
-shift_data("67379","Tristan Perkins",20251206,"WR").
-shift_data("67379","Tristan Perkins",20251207,"WR").
-shift_data("67379","Tristan Perkins",20251213,"WR").
-shift_data("67379","Tristan Perkins",20251214,"WR").
-shift_data("67379","Tristan Perkins",20251220,"WR").
-shift_data("67379","Tristan Perkins",20251221,"WR").
-shift_data("67379","Tristan Perkins",20251227,"WR").
-shift_data("67379","Tristan Perkins",20251228,"WR").
-shift_data("67379","Tristan Perkins",20251229,"PH").
-shift_data("67379","Tristan Perkins",20251230,"PH").
-shift_data("67379","Tristan Perkins",20251231,"PH").
 shift_data("67469","Dennis Allen",20220306,"WR").
 shift_data("67469","Dennis Allen",20220307,"D").
 shift_data("67469","Dennis Allen",20220308,"D").
@@ -37370,281 +31010,6 @@ shift_data("67469","Dennis Allen",20220310,"SE").
 shift_data("67469","Dennis Allen",20220311,"SN").
 shift_data("67469","Dennis Allen",20220312,"WR").
 shift_data("67469","Dennis Allen",20220313,"WR").
-shift_data("68154","Amanda Jacobs",20250401,"D").
-shift_data("68154","Amanda Jacobs",20250402,"D").
-shift_data("68154","Amanda Jacobs",20250403,"D").
-shift_data("68154","Amanda Jacobs",20250404,"D").
-shift_data("68154","Amanda Jacobs",20250405,"WR").
-shift_data("68154","Amanda Jacobs",20250406,"WR").
-shift_data("68154","Amanda Jacobs",20250407,"D").
-shift_data("68154","Amanda Jacobs",20250408,"D").
-shift_data("68154","Amanda Jacobs",20250409,"D").
-shift_data("68154","Amanda Jacobs",20250410,"D").
-shift_data("68154","Amanda Jacobs",20250411,"D").
-shift_data("68154","Amanda Jacobs",20250412,"WR").
-shift_data("68154","Amanda Jacobs",20250413,"D").
-shift_data("68154","Amanda Jacobs",20250414,"D").
-shift_data("68154","Amanda Jacobs",20250415,"WR").
-shift_data("68154","Amanda Jacobs",20250416,"D").
-shift_data("68154","Amanda Jacobs",20250417,"D").
-shift_data("68154","Amanda Jacobs",20250418,"D").
-shift_data("68154","Amanda Jacobs",20250419,"WR").
-shift_data("68154","Amanda Jacobs",20250420,"WR").
-shift_data("68154","Amanda Jacobs",20250421,"D").
-shift_data("68154","Amanda Jacobs",20250422,"D").
-shift_data("68154","Amanda Jacobs",20250423,"D").
-shift_data("68154","Amanda Jacobs",20250424,"D").
-shift_data("68154","Amanda Jacobs",20250425,"D").
-shift_data("68154","Amanda Jacobs",20250426,"WR").
-shift_data("68154","Amanda Jacobs",20250427,"AL").
-shift_data("68154","Amanda Jacobs",20250428,"WR").
-shift_data("68154","Amanda Jacobs",20250429,"PH").
-shift_data("68154","Amanda Jacobs",20250430,"D").
-shift_data("68154","Amanda Jacobs",20250501,"WR").
-shift_data("68154","Amanda Jacobs",20250502,"D").
-shift_data("68154","Amanda Jacobs",20250503,"AL").
-shift_data("68154","Amanda Jacobs",20250504,"AL").
-shift_data("68154","Amanda Jacobs",20250505,"PH").
-shift_data("68154","Amanda Jacobs",20250506,"PH").
-shift_data("68154","Amanda Jacobs",20250507,"D").
-shift_data("68154","Amanda Jacobs",20250508,"WR").
-shift_data("68154","Amanda Jacobs",20250509,"WR").
-shift_data("68154","Amanda Jacobs",20250510,"D").
-shift_data("68154","Amanda Jacobs",20250511,"D").
-shift_data("68154","Amanda Jacobs",20250512,"D").
-shift_data("68154","Amanda Jacobs",20250513,"WR").
-shift_data("68154","Amanda Jacobs",20250514,"WR").
-shift_data("68154","Amanda Jacobs",20250515,"LD").
-shift_data("68154","Amanda Jacobs",20250516,"SE").
-shift_data("68154","Amanda Jacobs",20250517,"SN").
-shift_data("68154","Amanda Jacobs",20250518,"WR").
-shift_data("68154","Amanda Jacobs",20250519,"D").
-shift_data("68154","Amanda Jacobs",20250520,"D").
-shift_data("68154","Amanda Jacobs",20250521,"WR").
-shift_data("68154","Amanda Jacobs",20250522,"D").
-shift_data("68154","Amanda Jacobs",20250523,"LD").
-shift_data("68154","Amanda Jacobs",20250524,"SE").
-shift_data("68154","Amanda Jacobs",20250525,"SN").
-shift_data("68154","Amanda Jacobs",20250526,"WR").
-shift_data("68154","Amanda Jacobs",20250527,"WR").
-shift_data("68154","Amanda Jacobs",20250528,"D").
-shift_data("68154","Amanda Jacobs",20250529,"D").
-shift_data("68154","Amanda Jacobs",20250530,"LD").
-shift_data("68154","Amanda Jacobs",20250531,"SE").
-shift_data("68154","Amanda Jacobs",20250601,"SN").
-shift_data("68154","Amanda Jacobs",20250602,"WR").
-shift_data("68154","Amanda Jacobs",20250603,"D").
-shift_data("68154","Amanda Jacobs",20250604,"WR").
-shift_data("68154","Amanda Jacobs",20250605,"D").
-shift_data("68154","Amanda Jacobs",20250606,"D").
-shift_data("68154","Amanda Jacobs",20250607,"LD").
-shift_data("68154","Amanda Jacobs",20250608,"SE").
-shift_data("68154","Amanda Jacobs",20250609,"SN").
-shift_data("68154","Amanda Jacobs",20250610,"WR").
-shift_data("68154","Amanda Jacobs",20250611,"LD").
-shift_data("68154","Amanda Jacobs",20250612,"SE").
-shift_data("68154","Amanda Jacobs",20250613,"SN").
-shift_data("68154","Amanda Jacobs",20250614,"WR").
-shift_data("68154","Amanda Jacobs",20250615,"LD").
-shift_data("68154","Amanda Jacobs",20250616,"SE").
-shift_data("68154","Amanda Jacobs",20250617,"SN").
-shift_data("68154","Amanda Jacobs",20250618,"WR").
-shift_data("68154","Amanda Jacobs",20250619,"D").
-shift_data("68154","Amanda Jacobs",20250620,"D").
-shift_data("68154","Amanda Jacobs",20250621,"WR").
-shift_data("68154","Amanda Jacobs",20250622,"WR").
-shift_data("68154","Amanda Jacobs",20250623,"LD").
-shift_data("68154","Amanda Jacobs",20250624,"SE").
-shift_data("68154","Amanda Jacobs",20250625,"SN").
-shift_data("68154","Amanda Jacobs",20250626,"WR").
-shift_data("68154","Amanda Jacobs",20250627,"LD").
-shift_data("68154","Amanda Jacobs",20250628,"SE").
-shift_data("68154","Amanda Jacobs",20250629,"SN").
-shift_data("68154","Amanda Jacobs",20250630,"WR").
-shift_data("68154","Amanda Jacobs",20250701,"D").
-shift_data("68154","Amanda Jacobs",20250702,"LD").
-shift_data("68154","Amanda Jacobs",20250703,"SE").
-shift_data("68154","Amanda Jacobs",20250704,"SN").
-shift_data("68154","Amanda Jacobs",20250705,"WR").
-shift_data("68154","Amanda Jacobs",20250706,"WR").
-shift_data("68154","Amanda Jacobs",20250707,"D").
-shift_data("68154","Amanda Jacobs",20250708,"D").
-shift_data("68154","Amanda Jacobs",20250709,"WR").
-shift_data("68154","Amanda Jacobs",20250710,"LD").
-shift_data("68154","Amanda Jacobs",20250711,"SE").
-shift_data("68154","Amanda Jacobs",20250712,"SN").
-shift_data("68154","Amanda Jacobs",20250713,"WR").
-shift_data("68154","Amanda Jacobs",20250714,"LD").
-shift_data("68154","Amanda Jacobs",20250715,"SE").
-shift_data("68154","Amanda Jacobs",20250716,"SN").
-shift_data("68154","Amanda Jacobs",20250717,"WR").
-shift_data("68154","Amanda Jacobs",20250718,"D").
-shift_data("68154","Amanda Jacobs",20250719,"D").
-shift_data("68154","Amanda Jacobs",20250720,"LD").
-shift_data("68154","Amanda Jacobs",20250721,"SE").
-shift_data("68154","Amanda Jacobs",20250722,"SN").
-shift_data("68154","Amanda Jacobs",20250723,"WR").
-shift_data("68154","Amanda Jacobs",20250724,"LD").
-shift_data("68154","Amanda Jacobs",20250725,"SE").
-shift_data("68154","Amanda Jacobs",20250726,"SN").
-shift_data("68154","Amanda Jacobs",20250727,"WR").
-shift_data("68154","Amanda Jacobs",20250728,"WR").
-shift_data("68154","Amanda Jacobs",20250729,"D").
-shift_data("68154","Amanda Jacobs",20250730,"D").
-shift_data("68154","Amanda Jacobs",20250731,"SE").
-shift_data("68154","Amanda Jacobs",20250801,"SN").
-shift_data("68154","Amanda Jacobs",20250802,"WR").
-shift_data("68154","Amanda Jacobs",20250803,"LD").
-shift_data("68154","Amanda Jacobs",20250804,"WR").
-shift_data("68154","Amanda Jacobs",20250805,"SL").
-shift_data("68154","Amanda Jacobs",20250806,"SL").
-shift_data("68154","Amanda Jacobs",20250807,"SL").
-shift_data("68154","Amanda Jacobs",20250808,"SL").
-shift_data("68154","Amanda Jacobs",20250809,"WR").
-shift_data("68154","Amanda Jacobs",20250810,"WR").
-shift_data("68154","Amanda Jacobs",20250811,"PH").
-shift_data("68154","Amanda Jacobs",20250812,"SP").
-shift_data("68154","Amanda Jacobs",20250813,"D").
-shift_data("68154","Amanda Jacobs",20250814,"WR").
-shift_data("68154","Amanda Jacobs",20250815,"LD").
-shift_data("68154","Amanda Jacobs",20250816,"SE").
-shift_data("68154","Amanda Jacobs",20250817,"SN").
-shift_data("68154","Amanda Jacobs",20250818,"WR").
-shift_data("68154","Amanda Jacobs",20250819,"LD").
-shift_data("68154","Amanda Jacobs",20250820,"SE").
-shift_data("68154","Amanda Jacobs",20250821,"SN").
-shift_data("68154","Amanda Jacobs",20250822,"WR").
-shift_data("68154","Amanda Jacobs",20250823,"LD").
-shift_data("68154","Amanda Jacobs",20250824,"LM").
-shift_data("68154","Amanda Jacobs",20250825,"AL").
-shift_data("68154","Amanda Jacobs",20250826,"WR").
-shift_data("68154","Amanda Jacobs",20250827,"WR").
-shift_data("68154","Amanda Jacobs",20250828,"SE").
-shift_data("68154","Amanda Jacobs",20250829,"SN").
-shift_data("68154","Amanda Jacobs",20250830,"WR").
-shift_data("68154","Amanda Jacobs",20250831,"SE").
-shift_data("68154","Amanda Jacobs",20250901,"SN").
-shift_data("68154","Amanda Jacobs",20250902,"WR").
-shift_data("68154","Amanda Jacobs",20250903,"LD").
-shift_data("68154","Amanda Jacobs",20250904,"LD").
-shift_data("68154","Amanda Jacobs",20250905,"LM").
-shift_data("68154","Amanda Jacobs",20250906,"SE").
-shift_data("68154","Amanda Jacobs",20250907,"SN").
-shift_data("68154","Amanda Jacobs",20250908,"WR").
-shift_data("68154","Amanda Jacobs",20250909,"D").
-shift_data("68154","Amanda Jacobs",20250910,"LD").
-shift_data("68154","Amanda Jacobs",20250911,"SE").
-shift_data("68154","Amanda Jacobs",20250912,"SN").
-shift_data("68154","Amanda Jacobs",20250913,"WR").
-shift_data("68154","Amanda Jacobs",20250914,"D").
-shift_data("68154","Amanda Jacobs",20250915,"LD").
-shift_data("68154","Amanda Jacobs",20250916,"HL").
-shift_data("68154","Amanda Jacobs",20250917,"HL").
-shift_data("68154","Amanda Jacobs",20250918,"WR").
-shift_data("68154","Amanda Jacobs",20250919,"WR").
-shift_data("68154","Amanda Jacobs",20250920,"AL").
-shift_data("68154","Amanda Jacobs",20250921,"LD").
-shift_data("68154","Amanda Jacobs",20250922,"SE").
-shift_data("68154","Amanda Jacobs",20250923,"SN").
-shift_data("68154","Amanda Jacobs",20250924,"WR").
-shift_data("68154","Amanda Jacobs",20250925,"LD").
-shift_data("68154","Amanda Jacobs",20250926,"SE").
-shift_data("68154","Amanda Jacobs",20250927,"SN").
-shift_data("68154","Amanda Jacobs",20250928,"WR").
-shift_data("68154","Amanda Jacobs",20250929,"D").
-shift_data("68154","Amanda Jacobs",20250930,"WR").
-shift_data("68154","Amanda Jacobs",20251001,"LD").
-shift_data("68154","Amanda Jacobs",20251002,"SE").
-shift_data("68154","Amanda Jacobs",20251003,"SN").
-shift_data("68154","Amanda Jacobs",20251004,"WR").
-shift_data("68154","Amanda Jacobs",20251005,"WR").
-shift_data("68154","Amanda Jacobs",20251006,"LD").
-shift_data("68154","Amanda Jacobs",20251007,"SE").
-shift_data("68154","Amanda Jacobs",20251008,"SN").
-shift_data("68154","Amanda Jacobs",20251009,"SE").
-shift_data("68154","Amanda Jacobs",20251010,"SN").
-shift_data("68154","Amanda Jacobs",20251011,"WR").
-shift_data("68154","Amanda Jacobs",20251012,"SE").
-shift_data("68154","Amanda Jacobs",20251013,"SN").
-shift_data("68154","Amanda Jacobs",20251014,"WR").
-shift_data("68154","Amanda Jacobs",20251015,"WR").
-shift_data("68154","Amanda Jacobs",20251016,"SE").
-shift_data("68154","Amanda Jacobs",20251017,"SN").
-shift_data("68154","Amanda Jacobs",20251018,"WR").
-shift_data("68154","Amanda Jacobs",20251019,"AL").
-shift_data("68154","Amanda Jacobs",20251020,"LD").
-shift_data("68154","Amanda Jacobs",20251021,"WR").
-shift_data("68154","Amanda Jacobs",20251022,"LD").
-shift_data("68154","Amanda Jacobs",20251023,"SE").
-shift_data("68154","Amanda Jacobs",20251024,"SN").
-shift_data("68154","Amanda Jacobs",20251025,"WR").
-shift_data("68154","Amanda Jacobs",20251026,"D").
-shift_data("68154","Amanda Jacobs",20251027,"LD").
-shift_data("68154","Amanda Jacobs",20251028,"SE").
-shift_data("68154","Amanda Jacobs",20251029,"SN").
-shift_data("68154","Amanda Jacobs",20251030,"WR").
-shift_data("68154","Amanda Jacobs",20251031,"D").
-shift_data("68154","Amanda Jacobs",20251101,"WR").
-shift_data("68154","Amanda Jacobs",20251102,"LD").
-shift_data("68154","Amanda Jacobs",20251103,"PH").
-shift_data("68154","Amanda Jacobs",20251104,"SE").
-shift_data("68154","Amanda Jacobs",20251105,"SN").
-shift_data("68154","Amanda Jacobs",20251106,"WR").
-shift_data("68154","Amanda Jacobs",20251107,"AL").
-shift_data("68154","Amanda Jacobs",20251108,"LD").
-shift_data("68154","Amanda Jacobs",20251109,"WR").
-shift_data("68154","Amanda Jacobs",20251110,"D").
-shift_data("68154","Amanda Jacobs",20251111,"LD").
-shift_data("68154","Amanda Jacobs",20251112,"SE").
-shift_data("68154","Amanda Jacobs",20251113,"SN").
-shift_data("68154","Amanda Jacobs",20251114,"HL").
-shift_data("68154","Amanda Jacobs",20251115,"HL").
-shift_data("68154","Amanda Jacobs",20251116,"WR").
-shift_data("68154","Amanda Jacobs",20251117,"AL").
-shift_data("68154","Amanda Jacobs",20251118,"LD").
-shift_data("68154","Amanda Jacobs",20251119,"SE").
-shift_data("68154","Amanda Jacobs",20251120,"SN").
-shift_data("68154","Amanda Jacobs",20251121,"WR").
-shift_data("68154","Amanda Jacobs",20251122,"LD").
-shift_data("68154","Amanda Jacobs",20251123,"SE").
-shift_data("68154","Amanda Jacobs",20251124,"SN").
-shift_data("68154","Amanda Jacobs",20251125,"WR").
-shift_data("68154","Amanda Jacobs",20251126,"D").
-shift_data("68154","Amanda Jacobs",20251127,"LD").
-shift_data("68154","Amanda Jacobs",20251128,"SE").
-shift_data("68154","Amanda Jacobs",20251129,"SN").
-shift_data("68154","Amanda Jacobs",20251130,"WR").
-shift_data("68154","Amanda Jacobs",20251201,"WR").
-shift_data("68154","Amanda Jacobs",20251202,"LD").
-shift_data("68154","Amanda Jacobs",20251203,"WR").
-shift_data("68154","Amanda Jacobs",20251204,"SE").
-shift_data("68154","Amanda Jacobs",20251205,"SN").
-shift_data("68154","Amanda Jacobs",20251206,"WR").
-shift_data("68154","Amanda Jacobs",20251207,"D").
-shift_data("68154","Amanda Jacobs",20251208,"LD").
-shift_data("68154","Amanda Jacobs",20251209,"WR").
-shift_data("68154","Amanda Jacobs",20251210,"SE").
-shift_data("68154","Amanda Jacobs",20251211,"SN").
-shift_data("68154","Amanda Jacobs",20251212,"WR").
-shift_data("68154","Amanda Jacobs",20251213,"SE").
-shift_data("68154","Amanda Jacobs",20251214,"SN").
-shift_data("68154","Amanda Jacobs",20251215,"SE").
-shift_data("68154","Amanda Jacobs",20251216,"SN").
-shift_data("68154","Amanda Jacobs",20251217,"WR").
-shift_data("68154","Amanda Jacobs",20251218,"D").
-shift_data("68154","Amanda Jacobs",20251219,"WR").
-shift_data("68154","Amanda Jacobs",20251220,"LD").
-shift_data("68154","Amanda Jacobs",20251221,"WR").
-shift_data("68154","Amanda Jacobs",20251222,"WR").
-shift_data("68154","Amanda Jacobs",20251223,"LD").
-shift_data("68154","Amanda Jacobs",20251224,"SE").
-shift_data("68154","Amanda Jacobs",20251225,"SN").
-shift_data("68154","Amanda Jacobs",20251226,"WR").
-shift_data("68154","Amanda Jacobs",20251227,"LD").
-shift_data("68154","Amanda Jacobs",20251228,"SE").
-shift_data("68154","Amanda Jacobs",20251229,"SN").
-shift_data("68154","Amanda Jacobs",20251230,"PH").
-shift_data("68154","Amanda Jacobs",20251231,"LD").
 shift_data("69425","Maria Choi",20200921,"D").
 shift_data("69425","Maria Choi",20200922,"PH").
 shift_data("69425","Maria Choi",20200923,"D").
@@ -40797,279 +34162,6 @@ shift_data("72226","Lisa Curry",20250221,"SE").
 shift_data("72226","Lisa Curry",20250222,"SN").
 shift_data("72226","Lisa Curry",20250314,"D").
 shift_data("72226","Lisa Curry",20250318,"D").
-shift_data("72226","Lisa Curry",20250401,"SE").
-shift_data("72226","Lisa Curry",20250402,"SN").
-shift_data("72226","Lisa Curry",20250403,"SE").
-shift_data("72226","Lisa Curry",20250404,"SN").
-shift_data("72226","Lisa Curry",20250405,"WR").
-shift_data("72226","Lisa Curry",20250406,"WR").
-shift_data("72226","Lisa Curry",20250407,"D").
-shift_data("72226","Lisa Curry",20250408,"AL").
-shift_data("72226","Lisa Curry",20250409,"D").
-shift_data("72226","Lisa Curry",20250410,"D").
-shift_data("72226","Lisa Curry",20250411,"LD").
-shift_data("72226","Lisa Curry",20250412,"WR").
-shift_data("72226","Lisa Curry",20250413,"WR").
-shift_data("72226","Lisa Curry",20250414,"WR").
-shift_data("72226","Lisa Curry",20250415,"D").
-shift_data("72226","Lisa Curry",20250416,"D").
-shift_data("72226","Lisa Curry",20250417,"LD").
-shift_data("72226","Lisa Curry",20250418,"SE").
-shift_data("72226","Lisa Curry",20250419,"SN").
-shift_data("72226","Lisa Curry",20250420,"WR").
-shift_data("72226","Lisa Curry",20250421,"WR").
-shift_data("72226","Lisa Curry",20250422,"D").
-shift_data("72226","Lisa Curry",20250423,"D").
-shift_data("72226","Lisa Curry",20250424,"LD").
-shift_data("72226","Lisa Curry",20250425,"SE").
-shift_data("72226","Lisa Curry",20250426,"SN").
-shift_data("72226","Lisa Curry",20250427,"WR").
-shift_data("72226","Lisa Curry",20250428,"SE").
-shift_data("72226","Lisa Curry",20250429,"SN").
-shift_data("72226","Lisa Curry",20250430,"WR").
-shift_data("72226","Lisa Curry",20250501,"LD").
-shift_data("72226","Lisa Curry",20250502,"SE").
-shift_data("72226","Lisa Curry",20250503,"SN").
-shift_data("72226","Lisa Curry",20250504,"WR").
-shift_data("72226","Lisa Curry",20250505,"PH").
-shift_data("72226","Lisa Curry",20250506,"PH").
-shift_data("72226","Lisa Curry",20250507,"WR").
-shift_data("72226","Lisa Curry",20250508,"LD").
-shift_data("72226","Lisa Curry",20250509,"SE").
-shift_data("72226","Lisa Curry",20250510,"SN").
-shift_data("72226","Lisa Curry",20250511,"WR").
-shift_data("72226","Lisa Curry",20250512,"WR").
-shift_data("72226","Lisa Curry",20250513,"D").
-shift_data("72226","Lisa Curry",20250514,"D").
-shift_data("72226","Lisa Curry",20250515,"D").
-shift_data("72226","Lisa Curry",20250516,"D").
-shift_data("72226","Lisa Curry",20250517,"WR").
-shift_data("72226","Lisa Curry",20250518,"D").
-shift_data("72226","Lisa Curry",20250519,"D").
-shift_data("72226","Lisa Curry",20250520,"LD").
-shift_data("72226","Lisa Curry",20250521,"WR").
-shift_data("72226","Lisa Curry",20250522,"LD").
-shift_data("72226","Lisa Curry",20250523,"SE").
-shift_data("72226","Lisa Curry",20250524,"SN").
-shift_data("72226","Lisa Curry",20250525,"WR").
-shift_data("72226","Lisa Curry",20250526,"D").
-shift_data("72226","Lisa Curry",20250527,"D").
-shift_data("72226","Lisa Curry",20250528,"WR").
-shift_data("72226","Lisa Curry",20250529,"LD").
-shift_data("72226","Lisa Curry",20250530,"SE").
-shift_data("72226","Lisa Curry",20250531,"SN").
-shift_data("72226","Lisa Curry",20250601,"WR").
-shift_data("72226","Lisa Curry",20250602,"AL").
-shift_data("72226","Lisa Curry",20250603,"D").
-shift_data("72226","Lisa Curry",20250604,"D").
-shift_data("72226","Lisa Curry",20250605,"WR").
-shift_data("72226","Lisa Curry",20250606,"SE").
-shift_data("72226","Lisa Curry",20250607,"SN").
-shift_data("72226","Lisa Curry",20250608,"WR").
-shift_data("72226","Lisa Curry",20250609,"D").
-shift_data("72226","Lisa Curry",20250610,"D").
-shift_data("72226","Lisa Curry",20250611,"LD").
-shift_data("72226","Lisa Curry",20250612,"WR").
-shift_data("72226","Lisa Curry",20250613,"D").
-shift_data("72226","Lisa Curry",20250614,"AL").
-shift_data("72226","Lisa Curry",20250615,"WR").
-shift_data("72226","Lisa Curry",20250616,"WR").
-shift_data("72226","Lisa Curry",20250617,"D").
-shift_data("72226","Lisa Curry",20250618,"D").
-shift_data("72226","Lisa Curry",20250619,"LD").
-shift_data("72226","Lisa Curry",20250620,"SE").
-shift_data("72226","Lisa Curry",20250621,"SN").
-shift_data("72226","Lisa Curry",20250622,"WR").
-shift_data("72226","Lisa Curry",20250623,"D").
-shift_data("72226","Lisa Curry",20250624,"D").
-shift_data("72226","Lisa Curry",20250625,"LD").
-shift_data("72226","Lisa Curry",20250626,"WR").
-shift_data("72226","Lisa Curry",20250627,"SE").
-shift_data("72226","Lisa Curry",20250628,"SN").
-shift_data("72226","Lisa Curry",20250629,"WR").
-shift_data("72226","Lisa Curry",20250630,"LD").
-shift_data("72226","Lisa Curry",20250701,"WR").
-shift_data("72226","Lisa Curry",20250702,"D").
-shift_data("72226","Lisa Curry",20250703,"D").
-shift_data("72226","Lisa Curry",20250704,"SE").
-shift_data("72226","Lisa Curry",20250705,"SN").
-shift_data("72226","Lisa Curry",20250706,"WR").
-shift_data("72226","Lisa Curry",20250707,"WR").
-shift_data("72226","Lisa Curry",20250708,"D").
-shift_data("72226","Lisa Curry",20250709,"D").
-shift_data("72226","Lisa Curry",20250710,"LD").
-shift_data("72226","Lisa Curry",20250711,"SE").
-shift_data("72226","Lisa Curry",20250712,"SN").
-shift_data("72226","Lisa Curry",20250713,"WR").
-shift_data("72226","Lisa Curry",20250714,"LD").
-shift_data("72226","Lisa Curry",20250715,"WR").
-shift_data("72226","Lisa Curry",20250716,"D").
-shift_data("72226","Lisa Curry",20250717,"D").
-shift_data("72226","Lisa Curry",20250718,"SE").
-shift_data("72226","Lisa Curry",20250719,"SN").
-shift_data("72226","Lisa Curry",20250720,"WR").
-shift_data("72226","Lisa Curry",20250721,"PH").
-shift_data("72226","Lisa Curry",20250722,"D").
-shift_data("72226","Lisa Curry",20250723,"D").
-shift_data("72226","Lisa Curry",20250724,"LD").
-shift_data("72226","Lisa Curry",20250725,"SE").
-shift_data("72226","Lisa Curry",20250726,"SN").
-shift_data("72226","Lisa Curry",20250727,"WR").
-shift_data("72226","Lisa Curry",20250728,"WR").
-shift_data("72226","Lisa Curry",20250729,"LD").
-shift_data("72226","Lisa Curry",20250730,"SE").
-shift_data("72226","Lisa Curry",20250731,"SN").
-shift_data("72226","Lisa Curry",20250801,"SE").
-shift_data("72226","Lisa Curry",20250802,"SN").
-shift_data("72226","Lisa Curry",20250803,"WR").
-shift_data("72226","Lisa Curry",20250804,"WR").
-shift_data("72226","Lisa Curry",20250805,"WR").
-shift_data("72226","Lisa Curry",20250806,"HL").
-shift_data("72226","Lisa Curry",20250807,"HL").
-shift_data("72226","Lisa Curry",20250808,"HL").
-shift_data("72226","Lisa Curry",20250809,"LD").
-shift_data("72226","Lisa Curry",20250810,"SE").
-shift_data("72226","Lisa Curry",20250811,"SN").
-shift_data("72226","Lisa Curry",20250812,"WR").
-shift_data("72226","Lisa Curry",20250813,"LD").
-shift_data("72226","Lisa Curry",20250814,"WR").
-shift_data("72226","Lisa Curry",20250815,"D").
-shift_data("72226","Lisa Curry",20250816,"D").
-shift_data("72226","Lisa Curry",20250817,"WR").
-shift_data("72226","Lisa Curry",20250818,"LD").
-shift_data("72226","Lisa Curry",20250819,"SE").
-shift_data("72226","Lisa Curry",20250820,"SN").
-shift_data("72226","Lisa Curry",20250821,"SE").
-shift_data("72226","Lisa Curry",20250822,"SN").
-shift_data("72226","Lisa Curry",20250823,"WR").
-shift_data("72226","Lisa Curry",20250824,"WR").
-shift_data("72226","Lisa Curry",20250825,"WR").
-shift_data("72226","Lisa Curry",20250826,"D").
-shift_data("72226","Lisa Curry",20250827,"D").
-shift_data("72226","Lisa Curry",20250828,"LD").
-shift_data("72226","Lisa Curry",20250829,"SE").
-shift_data("72226","Lisa Curry",20250830,"SN").
-shift_data("72226","Lisa Curry",20250831,"WR").
-shift_data("72226","Lisa Curry",20250901,"D").
-shift_data("72226","Lisa Curry",20250902,"D").
-shift_data("72226","Lisa Curry",20250903,"D").
-shift_data("72226","Lisa Curry",20250904,"LD").
-shift_data("72226","Lisa Curry",20250905,"SE").
-shift_data("72226","Lisa Curry",20250906,"SN").
-shift_data("72226","Lisa Curry",20250907,"WR").
-shift_data("72226","Lisa Curry",20250908,"D").
-shift_data("72226","Lisa Curry",20250909,"D").
-shift_data("72226","Lisa Curry",20250910,"LD").
-shift_data("72226","Lisa Curry",20250911,"WR").
-shift_data("72226","Lisa Curry",20250912,"D").
-shift_data("72226","Lisa Curry",20250913,"WR").
-shift_data("72226","Lisa Curry",20250914,"WR").
-shift_data("72226","Lisa Curry",20250915,"PH").
-shift_data("72226","Lisa Curry",20250916,"LD").
-shift_data("72226","Lisa Curry",20250917,"WR").
-shift_data("72226","Lisa Curry",20250918,"D").
-shift_data("72226","Lisa Curry",20250919,"SE").
-shift_data("72226","Lisa Curry",20250920,"SN").
-shift_data("72226","Lisa Curry",20250921,"WR").
-shift_data("72226","Lisa Curry",20250922,"WR").
-shift_data("72226","Lisa Curry",20250923,"D").
-shift_data("72226","Lisa Curry",20250924,"D").
-shift_data("72226","Lisa Curry",20250925,"LD").
-shift_data("72226","Lisa Curry",20250926,"SE").
-shift_data("72226","Lisa Curry",20250927,"SN").
-shift_data("72226","Lisa Curry",20250928,"WR").
-shift_data("72226","Lisa Curry",20250929,"WR").
-shift_data("72226","Lisa Curry",20250930,"D").
-shift_data("72226","Lisa Curry",20251001,"D").
-shift_data("72226","Lisa Curry",20251002,"LD").
-shift_data("72226","Lisa Curry",20251003,"SE").
-shift_data("72226","Lisa Curry",20251004,"SN").
-shift_data("72226","Lisa Curry",20251005,"WR").
-shift_data("72226","Lisa Curry",20251006,"D").
-shift_data("72226","Lisa Curry",20251007,"AL").
-shift_data("72226","Lisa Curry",20251008,"D").
-shift_data("72226","Lisa Curry",20251009,"D").
-shift_data("72226","Lisa Curry",20251010,"D").
-shift_data("72226","Lisa Curry",20251011,"WR").
-shift_data("72226","Lisa Curry",20251012,"LD").
-shift_data("72226","Lisa Curry",20251013,"SE").
-shift_data("72226","Lisa Curry",20251014,"SN").
-shift_data("72226","Lisa Curry",20251015,"WR").
-shift_data("72226","Lisa Curry",20251016,"WR").
-shift_data("72226","Lisa Curry",20251017,"WR").
-shift_data("72226","Lisa Curry",20251018,"SE").
-shift_data("72226","Lisa Curry",20251019,"SN").
-shift_data("72226","Lisa Curry",20251020,"WR").
-shift_data("72226","Lisa Curry",20251021,"D").
-shift_data("72226","Lisa Curry",20251022,"D").
-shift_data("72226","Lisa Curry",20251023,"WR").
-shift_data("72226","Lisa Curry",20251024,"D").
-shift_data("72226","Lisa Curry",20251025,"LD").
-shift_data("72226","Lisa Curry",20251026,"WR").
-shift_data("72226","Lisa Curry",20251027,"D").
-shift_data("72226","Lisa Curry",20251028,"D").
-shift_data("72226","Lisa Curry",20251029,"LD").
-shift_data("72226","Lisa Curry",20251030,"SE").
-shift_data("72226","Lisa Curry",20251031,"SN").
-shift_data("72226","Lisa Curry",20251101,"WR").
-shift_data("72226","Lisa Curry",20251102,"WR").
-shift_data("72226","Lisa Curry",20251103,"PH").
-shift_data("72226","Lisa Curry",20251104,"AL").
-shift_data("72226","Lisa Curry",20251105,"D").
-shift_data("72226","Lisa Curry",20251106,"LD").
-shift_data("72226","Lisa Curry",20251107,"SE").
-shift_data("72226","Lisa Curry",20251108,"SN").
-shift_data("72226","Lisa Curry",20251109,"WR").
-shift_data("72226","Lisa Curry",20251110,"D").
-shift_data("72226","Lisa Curry",20251111,"LD").
-shift_data("72226","Lisa Curry",20251112,"WR").
-shift_data("72226","Lisa Curry",20251113,"D").
-shift_data("72226","Lisa Curry",20251114,"SE").
-shift_data("72226","Lisa Curry",20251115,"SN").
-shift_data("72226","Lisa Curry",20251116,"WR").
-shift_data("72226","Lisa Curry",20251117,"D").
-shift_data("72226","Lisa Curry",20251118,"D").
-shift_data("72226","Lisa Curry",20251119,"D").
-shift_data("72226","Lisa Curry",20251120,"SL").
-shift_data("72226","Lisa Curry",20251121,"SL").
-shift_data("72226","Lisa Curry",20251122,"SL").
-shift_data("72226","Lisa Curry",20251123,"WR").
-shift_data("72226","Lisa Curry",20251124,"PH").
-shift_data("72226","Lisa Curry",20251125,"SL").
-shift_data("72226","Lisa Curry",20251126,"SL").
-shift_data("72226","Lisa Curry",20251127,"SL").
-shift_data("72226","Lisa Curry",20251128,"SL").
-shift_data("72226","Lisa Curry",20251129,"WR").
-shift_data("72226","Lisa Curry",20251130,"SL").
-shift_data("72226","Lisa Curry",20251201,"WR").
-shift_data("72226","Lisa Curry",20251202,"SL").
-shift_data("72226","Lisa Curry",20251203,"SL").
-shift_data("72226","Lisa Curry",20251204,"SL").
-shift_data("72226","Lisa Curry",20251205,"WR").
-shift_data("72226","Lisa Curry",20251206,"WR").
-shift_data("72226","Lisa Curry",20251207,"SL").
-shift_data("72226","Lisa Curry",20251208,"SL").
-shift_data("72226","Lisa Curry",20251209,"SL").
-shift_data("72226","Lisa Curry",20251210,"SL").
-shift_data("72226","Lisa Curry",20251211,"SL").
-shift_data("72226","Lisa Curry",20251212,"SL").
-shift_data("72226","Lisa Curry",20251213,"WR").
-shift_data("72226","Lisa Curry",20251214,"WR").
-shift_data("72226","Lisa Curry",20251215,"SL").
-shift_data("72226","Lisa Curry",20251216,"SL").
-shift_data("72226","Lisa Curry",20251217,"WR").
-shift_data("72226","Lisa Curry",20251218,"WR").
-shift_data("72226","Lisa Curry",20251219,"SL").
-shift_data("72226","Lisa Curry",20251220,"SL").
-shift_data("72226","Lisa Curry",20251221,"WR").
-shift_data("72226","Lisa Curry",20251222,"SL").
-shift_data("72226","Lisa Curry",20251223,"SL").
-shift_data("72226","Lisa Curry",20251224,"SL").
-shift_data("72226","Lisa Curry",20251225,"SL").
-shift_data("72226","Lisa Curry",20251226,"SL").
-shift_data("72226","Lisa Curry",20251227,"WR").
-shift_data("72226","Lisa Curry",20251228,"WR").
-shift_data("72226","Lisa Curry",20251229,"PH").
 shift_data("72807","Charles James",20200921,"PH").
 shift_data("72807","Charles James",20200922,"D").
 shift_data("72807","Charles James",20200923,"D").
@@ -41911,368 +35003,6 @@ shift_data("72807","Charles James",20230203,"AL").
 shift_data("72807","Charles James",20230204,"AL").
 shift_data("73641", "Emma Smith", 20250829, "AL").
 shift_data("73641", "Emma Smith", 20250903, "AL").
-shift_data("77355","William Stevens",20251006,"D").
-shift_data("77355","William Stevens",20251007,"AL").
-shift_data("77355","William Stevens",20251008,"D").
-shift_data("77355","William Stevens",20251009,"D").
-shift_data("77355","William Stevens",20251010,"D").
-shift_data("77355","William Stevens",20251011,"WR").
-shift_data("77355","William Stevens",20251012,"WR").
-shift_data("77355","William Stevens",20251013,"PH").
-shift_data("77355","William Stevens",20251014,"D").
-shift_data("77355","William Stevens",20251015,"D").
-shift_data("77355","William Stevens",20251016,"D").
-shift_data("77355","William Stevens",20251017,"D").
-shift_data("77355","William Stevens",20251018,"WR").
-shift_data("77355","William Stevens",20251019,"WR").
-shift_data("77355","William Stevens",20251020,"D").
-shift_data("77355","William Stevens",20251021,"D").
-shift_data("77355","William Stevens",20251022,"D").
-shift_data("77355","William Stevens",20251023,"D").
-shift_data("77355","William Stevens",20251024,"D").
-shift_data("77355","William Stevens",20251025,"WR").
-shift_data("77355","William Stevens",20251026,"WR").
-shift_data("77355","William Stevens",20251027,"D").
-shift_data("77355","William Stevens",20251028,"D").
-shift_data("77355","William Stevens",20251029,"D").
-shift_data("77355","William Stevens",20251030,"D").
-shift_data("77355","William Stevens",20251031,"D").
-shift_data("77355","William Stevens",20251101,"WR").
-shift_data("77355","William Stevens",20251102,"WR").
-shift_data("77355","William Stevens",20251103,"PH").
-shift_data("77355","William Stevens",20251104,"HL").
-shift_data("77355","William Stevens",20251105,"D").
-shift_data("77355","William Stevens",20251106,"AL").
-shift_data("77355","William Stevens",20251107,"D").
-shift_data("77355","William Stevens",20251108,"WR").
-shift_data("77355","William Stevens",20251109,"WR").
-shift_data("77355","William Stevens",20251110,"D").
-shift_data("77355","William Stevens",20251111,"D").
-shift_data("77355","William Stevens",20251112,"AL").
-shift_data("77355","William Stevens",20251113,"AL").
-shift_data("77355","William Stevens",20251114,"D").
-shift_data("77355","William Stevens",20251115,"WR").
-shift_data("77355","William Stevens",20251116,"WR").
-shift_data("77355","William Stevens",20251117,"D").
-shift_data("77355","William Stevens",20251118,"D").
-shift_data("77355","William Stevens",20251119,"D").
-shift_data("77355","William Stevens",20251120,"D").
-shift_data("77355","William Stevens",20251121,"D").
-shift_data("77355","William Stevens",20251122,"WR").
-shift_data("77355","William Stevens",20251123,"WR").
-shift_data("77355","William Stevens",20251124,"PH").
-shift_data("77355","William Stevens",20251125,"D").
-shift_data("77355","William Stevens",20251126,"AL").
-shift_data("77355","William Stevens",20251127,"D").
-shift_data("77355","William Stevens",20251128,"AL").
-shift_data("77355","William Stevens",20251129,"WR").
-shift_data("77355","William Stevens",20251130,"WR").
-shift_data("77355","William Stevens",20251201,"AL").
-shift_data("77355","William Stevens",20251202,"AL").
-shift_data("77355","William Stevens",20251203,"D").
-shift_data("77355","William Stevens",20251204,"AL").
-shift_data("77355","William Stevens",20251205,"AL").
-shift_data("77355","William Stevens",20251206,"WR").
-shift_data("77355","William Stevens",20251207,"WR").
-shift_data("77355","William Stevens",20251208,"D").
-shift_data("77355","William Stevens",20251209,"D").
-shift_data("77355","William Stevens",20251210,"D").
-shift_data("77355","William Stevens",20251211,"D").
-shift_data("77355","William Stevens",20251212,"AL").
-shift_data("77355","William Stevens",20251213,"WR").
-shift_data("77355","William Stevens",20251214,"WR").
-shift_data("77355","William Stevens",20251215,"D").
-shift_data("77355","William Stevens",20251216,"D").
-shift_data("77355","William Stevens",20251217,"D").
-shift_data("77355","William Stevens",20251218,"D").
-shift_data("77355","William Stevens",20251219,"D").
-shift_data("77355","William Stevens",20251220,"WR").
-shift_data("77355","William Stevens",20251221,"WR").
-shift_data("77355","William Stevens",20251222,"D").
-shift_data("77355","William Stevens",20251223,"D").
-shift_data("77355","William Stevens",20251224,"D").
-shift_data("77355","William Stevens",20251225,"D").
-shift_data("77355","William Stevens",20251226,"D").
-shift_data("77355","William Stevens",20251227,"WR").
-shift_data("77355","William Stevens",20251228,"WR").
-shift_data("77355","William Stevens",20251229,"PH").
-shift_data("77355","William Stevens",20251230,"PH").
-shift_data("77355","William Stevens",20251231,"PH").
-shift_data("78065","Dylan Clements MD",20250401,"D").
-shift_data("78065","Dylan Clements MD",20250402,"D").
-shift_data("78065","Dylan Clements MD",20250403,"D").
-shift_data("78065","Dylan Clements MD",20250404,"D").
-shift_data("78065","Dylan Clements MD",20250405,"WR").
-shift_data("78065","Dylan Clements MD",20250406,"WR").
-shift_data("78065","Dylan Clements MD",20250407,"D").
-shift_data("78065","Dylan Clements MD",20250408,"D").
-shift_data("78065","Dylan Clements MD",20250409,"D").
-shift_data("78065","Dylan Clements MD",20250410,"D").
-shift_data("78065","Dylan Clements MD",20250411,"D").
-shift_data("78065","Dylan Clements MD",20250412,"WR").
-shift_data("78065","Dylan Clements MD",20250413,"WR").
-shift_data("78065","Dylan Clements MD",20250414,"D").
-shift_data("78065","Dylan Clements MD",20250415,"D").
-shift_data("78065","Dylan Clements MD",20250416,"AL").
-shift_data("78065","Dylan Clements MD",20250417,"D").
-shift_data("78065","Dylan Clements MD",20250418,"D").
-shift_data("78065","Dylan Clements MD",20250419,"WR").
-shift_data("78065","Dylan Clements MD",20250420,"WR").
-shift_data("78065","Dylan Clements MD",20250421,"D").
-shift_data("78065","Dylan Clements MD",20250422,"D").
-shift_data("78065","Dylan Clements MD",20250423,"D").
-shift_data("78065","Dylan Clements MD",20250424,"D").
-shift_data("78065","Dylan Clements MD",20250425,"D").
-shift_data("78065","Dylan Clements MD",20250426,"WR").
-shift_data("78065","Dylan Clements MD",20250427,"WR").
-shift_data("78065","Dylan Clements MD",20250428,"D").
-shift_data("78065","Dylan Clements MD",20250429,"PH").
-shift_data("78065","Dylan Clements MD",20250430,"D").
-shift_data("78065","Dylan Clements MD",20250501,"D").
-shift_data("78065","Dylan Clements MD",20250502,"D").
-shift_data("78065","Dylan Clements MD",20250503,"WR").
-shift_data("78065","Dylan Clements MD",20250504,"WR").
-shift_data("78065","Dylan Clements MD",20250505,"PH").
-shift_data("78065","Dylan Clements MD",20250506,"PH").
-shift_data("78065","Dylan Clements MD",20250507,"D").
-shift_data("78065","Dylan Clements MD",20250508,"D").
-shift_data("78065","Dylan Clements MD",20250509,"D").
-shift_data("78065","Dylan Clements MD",20250510,"WR").
-shift_data("78065","Dylan Clements MD",20250511,"WR").
-shift_data("78065","Dylan Clements MD",20250512,"D").
-shift_data("78065","Dylan Clements MD",20250513,"D").
-shift_data("78065","Dylan Clements MD",20250514,"D").
-shift_data("78065","Dylan Clements MD",20250515,"D").
-shift_data("78065","Dylan Clements MD",20250516,"D").
-shift_data("78065","Dylan Clements MD",20250517,"WR").
-shift_data("78065","Dylan Clements MD",20250518,"WR").
-shift_data("78065","Dylan Clements MD",20250519,"D").
-shift_data("78065","Dylan Clements MD",20250520,"D").
-shift_data("78065","Dylan Clements MD",20250521,"D").
-shift_data("78065","Dylan Clements MD",20250522,"D").
-shift_data("78065","Dylan Clements MD",20250523,"D").
-shift_data("78065","Dylan Clements MD",20250524,"WR").
-shift_data("78065","Dylan Clements MD",20250525,"WR").
-shift_data("78065","Dylan Clements MD",20250526,"D").
-shift_data("78065","Dylan Clements MD",20250527,"D").
-shift_data("78065","Dylan Clements MD",20250528,"D").
-shift_data("78065","Dylan Clements MD",20250529,"D").
-shift_data("78065","Dylan Clements MD",20250530,"D").
-shift_data("78065","Dylan Clements MD",20250531,"WR").
-shift_data("78065","Dylan Clements MD",20250601,"D").
-shift_data("78065","Dylan Clements MD",20250602,"WR").
-shift_data("78065","Dylan Clements MD",20250603,"D").
-shift_data("78065","Dylan Clements MD",20250604,"D").
-shift_data("78065","Dylan Clements MD",20250605,"D").
-shift_data("78065","Dylan Clements MD",20250606,"D").
-shift_data("78065","Dylan Clements MD",20250607,"WR").
-shift_data("78065","Dylan Clements MD",20250608,"WR").
-shift_data("78065","Dylan Clements MD",20250609,"D").
-shift_data("78065","Dylan Clements MD",20250610,"D").
-shift_data("78065","Dylan Clements MD",20250611,"D").
-shift_data("78065","Dylan Clements MD",20250612,"WR").
-shift_data("78065","Dylan Clements MD",20250613,"D").
-shift_data("78065","Dylan Clements MD",20250614,"D").
-shift_data("78065","Dylan Clements MD",20250615,"WR").
-shift_data("78065","Dylan Clements MD",20250616,"D").
-shift_data("78065","Dylan Clements MD",20250617,"D").
-shift_data("78065","Dylan Clements MD",20250618,"D").
-shift_data("78065","Dylan Clements MD",20250619,"D").
-shift_data("78065","Dylan Clements MD",20250620,"D").
-shift_data("78065","Dylan Clements MD",20250621,"WR").
-shift_data("78065","Dylan Clements MD",20250622,"D").
-shift_data("78065","Dylan Clements MD",20250623,"WR").
-shift_data("78065","Dylan Clements MD",20250624,"WR").
-shift_data("78065","Dylan Clements MD",20250625,"D").
-shift_data("78065","Dylan Clements MD",20250626,"D").
-shift_data("78065","Dylan Clements MD",20250627,"D").
-shift_data("78065","Dylan Clements MD",20250628,"D").
-shift_data("78065","Dylan Clements MD",20250629,"WR").
-shift_data("78065","Dylan Clements MD",20250630,"D").
-shift_data("78065","Dylan Clements MD",20250701,"D").
-shift_data("78065","Dylan Clements MD",20250702,"D").
-shift_data("78065","Dylan Clements MD",20250703,"D").
-shift_data("78065","Dylan Clements MD",20250704,"D").
-shift_data("78065","Dylan Clements MD",20250705,"WR").
-shift_data("78065","Dylan Clements MD",20250706,"D").
-shift_data("78065","Dylan Clements MD",20250707,"D").
-shift_data("78065","Dylan Clements MD",20250708,"D").
-shift_data("78065","Dylan Clements MD",20250709,"D").
-shift_data("78065","Dylan Clements MD",20250710,"WR").
-shift_data("78065","Dylan Clements MD",20250711,"D").
-shift_data("78065","Dylan Clements MD",20250712,"WR").
-shift_data("78065","Dylan Clements MD",20250713,"WR").
-shift_data("78065","Dylan Clements MD",20250714,"D").
-shift_data("78065","Dylan Clements MD",20250715,"D").
-shift_data("78065","Dylan Clements MD",20250716,"D").
-shift_data("78065","Dylan Clements MD",20250717,"WR").
-shift_data("78065","Dylan Clements MD",20250718,"D").
-shift_data("78065","Dylan Clements MD",20250719,"D").
-shift_data("78065","Dylan Clements MD",20250720,"WR").
-shift_data("78065","Dylan Clements MD",20250721,"PH").
-shift_data("78065","Dylan Clements MD",20250722,"AL").
-shift_data("78065","Dylan Clements MD",20250723,"AL").
-shift_data("78065","Dylan Clements MD",20250724,"D").
-shift_data("78065","Dylan Clements MD",20250725,"D").
-shift_data("78065","Dylan Clements MD",20250726,"D").
-shift_data("78065","Dylan Clements MD",20250727,"WR").
-shift_data("78065","Dylan Clements MD",20250728,"D").
-shift_data("78065","Dylan Clements MD",20250729,"D").
-shift_data("78065","Dylan Clements MD",20250730,"D").
-shift_data("78065","Dylan Clements MD",20250731,"D").
-shift_data("78065","Dylan Clements MD",20250801,"D").
-shift_data("78065","Dylan Clements MD",20250802,"WR").
-shift_data("78065","Dylan Clements MD",20250803,"D").
-shift_data("78065","Dylan Clements MD",20250804,"WR").
-shift_data("78065","Dylan Clements MD",20250805,"D").
-shift_data("78065","Dylan Clements MD",20250806,"D").
-shift_data("78065","Dylan Clements MD",20250807,"WR").
-shift_data("78065","Dylan Clements MD",20250808,"D").
-shift_data("78065","Dylan Clements MD",20250809,"D").
-shift_data("78065","Dylan Clements MD",20250810,"WR").
-shift_data("78065","Dylan Clements MD",20250811,"PH").
-shift_data("78065","Dylan Clements MD",20250812,"D").
-shift_data("78065","Dylan Clements MD",20250813,"D").
-shift_data("78065","Dylan Clements MD",20250814,"D").
-shift_data("78065","Dylan Clements MD",20250815,"WR").
-shift_data("78065","Dylan Clements MD",20250816,"WR").
-shift_data("78065","Dylan Clements MD",20250817,"WR").
-shift_data("78065","Dylan Clements MD",20250818,"SL").
-shift_data("78065","Dylan Clements MD",20250819,"SL").
-shift_data("78065","Dylan Clements MD",20250820,"SL").
-shift_data("78065","Dylan Clements MD",20250821,"SL").
-shift_data("78065","Dylan Clements MD",20250822,"SL").
-shift_data("78065","Dylan Clements MD",20250823,"WR").
-shift_data("78065","Dylan Clements MD",20250824,"WR").
-shift_data("78065","Dylan Clements MD",20250825,"SP").
-shift_data("78065","Dylan Clements MD",20250826,"D").
-shift_data("78065","Dylan Clements MD",20250827,"D").
-shift_data("78065","Dylan Clements MD",20250828,"D").
-shift_data("78065","Dylan Clements MD",20250829,"D").
-shift_data("78065","Dylan Clements MD",20250830,"WR").
-shift_data("78065","Dylan Clements MD",20250831,"WR").
-shift_data("78065","Dylan Clements MD",20250901,"D").
-shift_data("78065","Dylan Clements MD",20250902,"D").
-shift_data("78065","Dylan Clements MD",20250903,"D").
-shift_data("78065","Dylan Clements MD",20250904,"WR").
-shift_data("78065","Dylan Clements MD",20250905,"D").
-shift_data("78065","Dylan Clements MD",20250906,"D").
-shift_data("78065","Dylan Clements MD",20250907,"WR").
-shift_data("78065","Dylan Clements MD",20250908,"D").
-shift_data("78065","Dylan Clements MD",20250909,"AL").
-shift_data("78065","Dylan Clements MD",20250910,"D").
-shift_data("78065","Dylan Clements MD",20250911,"HL").
-shift_data("78065","Dylan Clements MD",20250912,"HL").
-shift_data("78065","Dylan Clements MD",20250913,"WR").
-shift_data("78065","Dylan Clements MD",20250914,"WR").
-shift_data("78065","Dylan Clements MD",20250915,"PH").
-shift_data("78065","Dylan Clements MD",20250916,"AL").
-shift_data("78065","Dylan Clements MD",20250917,"D").
-shift_data("78065","Dylan Clements MD",20250918,"D").
-shift_data("78065","Dylan Clements MD",20250919,"D").
-shift_data("78065","Dylan Clements MD",20250920,"WR").
-shift_data("78065","Dylan Clements MD",20250921,"WR").
-shift_data("78065","Dylan Clements MD",20250922,"D").
-shift_data("78065","Dylan Clements MD",20250923,"D").
-shift_data("78065","Dylan Clements MD",20250924,"D").
-shift_data("78065","Dylan Clements MD",20250925,"D").
-shift_data("78065","Dylan Clements MD",20250926,"D").
-shift_data("78065","Dylan Clements MD",20250927,"WR").
-shift_data("78065","Dylan Clements MD",20250928,"WR").
-shift_data("78065","Dylan Clements MD",20250929,"LD").
-shift_data("78065","Dylan Clements MD",20250930,"SE").
-shift_data("78065","Dylan Clements MD",20251001,"SN").
-shift_data("78065","Dylan Clements MD",20251002,"WR").
-shift_data("78065","Dylan Clements MD",20251003,"AL").
-shift_data("78065","Dylan Clements MD",20251004,"D").
-shift_data("78065","Dylan Clements MD",20251005,"WR").
-shift_data("78065","Dylan Clements MD",20251006,"D").
-shift_data("78065","Dylan Clements MD",20251007,"D").
-shift_data("78065","Dylan Clements MD",20251008,"D").
-shift_data("78065","Dylan Clements MD",20251009,"D").
-shift_data("78065","Dylan Clements MD",20251010,"D").
-shift_data("78065","Dylan Clements MD",20251011,"WR").
-shift_data("78065","Dylan Clements MD",20251012,"LD").
-shift_data("78065","Dylan Clements MD",20251013,"PH").
-shift_data("78065","Dylan Clements MD",20251014,"WR").
-shift_data("78065","Dylan Clements MD",20251015,"D").
-shift_data("78065","Dylan Clements MD",20251016,"LD").
-shift_data("78065","Dylan Clements MD",20251017,"SE").
-shift_data("78065","Dylan Clements MD",20251018,"SN").
-shift_data("78065","Dylan Clements MD",20251019,"WR").
-shift_data("78065","Dylan Clements MD",20251020,"AL").
-shift_data("78065","Dylan Clements MD",20251021,"SP").
-shift_data("78065","Dylan Clements MD",20251022,"D").
-shift_data("78065","Dylan Clements MD",20251023,"D").
-shift_data("78065","Dylan Clements MD",20251024,"WR").
-shift_data("78065","Dylan Clements MD",20251025,"LM").
-shift_data("78065","Dylan Clements MD",20251026,"WR").
-shift_data("78065","Dylan Clements MD",20251027,"D").
-shift_data("78065","Dylan Clements MD",20251028,"WR").
-shift_data("78065","Dylan Clements MD",20251029,"D").
-shift_data("78065","Dylan Clements MD",20251030,"WR").
-shift_data("78065","Dylan Clements MD",20251031,"D").
-shift_data("78065","Dylan Clements MD",20251101,"SE").
-shift_data("78065","Dylan Clements MD",20251102,"SN").
-shift_data("78065","Dylan Clements MD",20251103,"PH").
-shift_data("78065","Dylan Clements MD",20251104,"D").
-shift_data("78065","Dylan Clements MD",20251105,"D").
-shift_data("78065","Dylan Clements MD",20251106,"D").
-shift_data("78065","Dylan Clements MD",20251107,"WR").
-shift_data("78065","Dylan Clements MD",20251108,"WR").
-shift_data("78065","Dylan Clements MD",20251109,"WR").
-shift_data("78065","Dylan Clements MD",20251110,"HL").
-shift_data("78065","Dylan Clements MD",20251111,"D").
-shift_data("78065","Dylan Clements MD",20251112,"D").
-shift_data("78065","Dylan Clements MD",20251113,"D").
-shift_data("78065","Dylan Clements MD",20251114,"WR").
-shift_data("78065","Dylan Clements MD",20251115,"SE").
-shift_data("78065","Dylan Clements MD",20251116,"SN").
-shift_data("78065","Dylan Clements MD",20251117,"WR").
-shift_data("78065","Dylan Clements MD",20251118,"WR").
-shift_data("78065","Dylan Clements MD",20251119,"D").
-shift_data("78065","Dylan Clements MD",20251120,"D").
-shift_data("78065","Dylan Clements MD",20251121,"LD").
-shift_data("78065","Dylan Clements MD",20251122,"SE").
-shift_data("78065","Dylan Clements MD",20251123,"SN").
-shift_data("78065","Dylan Clements MD",20251124,"PH").
-shift_data("78065","Dylan Clements MD",20251125,"D").
-shift_data("78065","Dylan Clements MD",20251126,"D").
-shift_data("78065","Dylan Clements MD",20251127,"D").
-shift_data("78065","Dylan Clements MD",20251128,"D").
-shift_data("78065","Dylan Clements MD",20251129,"LD").
-shift_data("78065","Dylan Clements MD",20251130,"WR").
-shift_data("78065","Dylan Clements MD",20251201,"D").
-shift_data("78065","Dylan Clements MD",20251202,"D").
-shift_data("78065","Dylan Clements MD",20251203,"WR").
-shift_data("78065","Dylan Clements MD",20251204,"D").
-shift_data("78065","Dylan Clements MD",20251205,"WR").
-shift_data("78065","Dylan Clements MD",20251206,"WR").
-shift_data("78065","Dylan Clements MD",20251207,"LD").
-shift_data("78065","Dylan Clements MD",20251208,"WR").
-shift_data("78065","Dylan Clements MD",20251209,"D").
-shift_data("78065","Dylan Clements MD",20251210,"D").
-shift_data("78065","Dylan Clements MD",20251211,"D").
-shift_data("78065","Dylan Clements MD",20251212,"D").
-shift_data("78065","Dylan Clements MD",20251213,"WR").
-shift_data("78065","Dylan Clements MD",20251214,"WR").
-shift_data("78065","Dylan Clements MD",20251215,"D").
-shift_data("78065","Dylan Clements MD",20251216,"LM").
-shift_data("78065","Dylan Clements MD",20251217,"WR").
-shift_data("78065","Dylan Clements MD",20251218,"D").
-shift_data("78065","Dylan Clements MD",20251219,"D").
-shift_data("78065","Dylan Clements MD",20251220,"SE").
-shift_data("78065","Dylan Clements MD",20251221,"SN").
-shift_data("78065","Dylan Clements MD",20251222,"WR").
-shift_data("78065","Dylan Clements MD",20251223,"D").
-shift_data("78065","Dylan Clements MD",20251224,"D").
-shift_data("78065","Dylan Clements MD",20251225,"HL").
-shift_data("78065","Dylan Clements MD",20251226,"WR").
-shift_data("78065","Dylan Clements MD",20251227,"D").
-shift_data("78065","Dylan Clements MD",20251228,"WR").
-shift_data("78065","Dylan Clements MD",20251229,"PH").
-shift_data("78065","Dylan Clements MD",20251230,"LD").
-shift_data("78065","Dylan Clements MD",20251231,"PH").
 shift_data("80425", "Brian Sellers", 20250801, "SN").
 shift_data("80425", "Brian Sellers", 20250802, "WR").
 shift_data("80425", "Brian Sellers", 20250803, "WR").
@@ -43995,281 +36725,6 @@ shift_data("82404","Steven Vance",20250117,"D").
 shift_data("82404","Steven Vance",20250221,"D").
 shift_data("82404","Steven Vance",20250306,"D").
 shift_data("82404","Steven Vance",20250314,"D").
-shift_data("82404","Steven Vance",20250401,"SN").
-shift_data("82404","Steven Vance",20250402,"WR").
-shift_data("82404","Steven Vance",20250403,"LD").
-shift_data("82404","Steven Vance",20250404,"SE").
-shift_data("82404","Steven Vance",20250405,"SN").
-shift_data("82404","Steven Vance",20250406,"WR").
-shift_data("82404","Steven Vance",20250407,"LD").
-shift_data("82404","Steven Vance",20250408,"SE").
-shift_data("82404","Steven Vance",20250409,"SN").
-shift_data("82404","Steven Vance",20250410,"SE").
-shift_data("82404","Steven Vance",20250411,"SN").
-shift_data("82404","Steven Vance",20250412,"WR").
-shift_data("82404","Steven Vance",20250413,"WR").
-shift_data("82404","Steven Vance",20250414,"LD").
-shift_data("82404","Steven Vance",20250415,"SE").
-shift_data("82404","Steven Vance",20250416,"SN").
-shift_data("82404","Steven Vance",20250417,"WR").
-shift_data("82404","Steven Vance",20250418,"D").
-shift_data("82404","Steven Vance",20250419,"LD").
-shift_data("82404","Steven Vance",20250420,"WR").
-shift_data("82404","Steven Vance",20250421,"LD").
-shift_data("82404","Steven Vance",20250422,"SE").
-shift_data("82404","Steven Vance",20250423,"SN").
-shift_data("82404","Steven Vance",20250424,"WR").
-shift_data("82404","Steven Vance",20250425,"D").
-shift_data("82404","Steven Vance",20250426,"WR").
-shift_data("82404","Steven Vance",20250427,"D").
-shift_data("82404","Steven Vance",20250428,"LD").
-shift_data("82404","Steven Vance",20250429,"PH").
-shift_data("82404","Steven Vance",20250430,"LD").
-shift_data("82404","Steven Vance",20250501,"SE").
-shift_data("82404","Steven Vance",20250502,"SN").
-shift_data("82404","Steven Vance",20250503,"WR").
-shift_data("82404","Steven Vance",20250504,"WR").
-shift_data("82404","Steven Vance",20250505,"SE").
-shift_data("82404","Steven Vance",20250506,"SN").
-shift_data("82404","Steven Vance",20250507,"WR").
-shift_data("82404","Steven Vance",20250508,"D").
-shift_data("82404","Steven Vance",20250509,"LD").
-shift_data("82404","Steven Vance",20250510,"WR").
-shift_data("82404","Steven Vance",20250511,"WR").
-shift_data("82404","Steven Vance",20250512,"LD").
-shift_data("82404","Steven Vance",20250513,"SE").
-shift_data("82404","Steven Vance",20250514,"SN").
-shift_data("82404","Steven Vance",20250515,"WR").
-shift_data("82404","Steven Vance",20250516,"D").
-shift_data("82404","Steven Vance",20250517,"WR").
-shift_data("82404","Steven Vance",20250518,"LD").
-shift_data("82404","Steven Vance",20250519,"WR").
-shift_data("82404","Steven Vance",20250520,"AL").
-shift_data("82404","Steven Vance",20250521,"SE").
-shift_data("82404","Steven Vance",20250522,"SN").
-shift_data("82404","Steven Vance",20250523,"SE").
-shift_data("82404","Steven Vance",20250524,"SN").
-shift_data("82404","Steven Vance",20250525,"WR").
-shift_data("82404","Steven Vance",20250526,"LD").
-shift_data("82404","Steven Vance",20250527,"SE").
-shift_data("82404","Steven Vance",20250528,"SN").
-shift_data("82404","Steven Vance",20250529,"SE").
-shift_data("82404","Steven Vance",20250530,"SN").
-shift_data("82404","Steven Vance",20250531,"WR").
-shift_data("82404","Steven Vance",20250601,"WR").
-shift_data("82404","Steven Vance",20250602,"LD").
-shift_data("82404","Steven Vance",20250603,"SE").
-shift_data("82404","Steven Vance",20250604,"SN").
-shift_data("82404","Steven Vance",20250605,"WR").
-shift_data("82404","Steven Vance",20250606,"D").
-shift_data("82404","Steven Vance",20250607,"WR").
-shift_data("82404","Steven Vance",20250608,"D").
-shift_data("82404","Steven Vance",20250609,"LD").
-shift_data("82404","Steven Vance",20250610,"SE").
-shift_data("82404","Steven Vance",20250611,"SN").
-shift_data("82404","Steven Vance",20250612,"WR").
-shift_data("82404","Steven Vance",20250613,"LD").
-shift_data("82404","Steven Vance",20250614,"SE").
-shift_data("82404","Steven Vance",20250615,"SN").
-shift_data("82404","Steven Vance",20250616,"WR").
-shift_data("82404","Steven Vance",20250617,"LD").
-shift_data("82404","Steven Vance",20250618,"WR").
-shift_data("82404","Steven Vance",20250619,"D").
-shift_data("82404","Steven Vance",20250620,"D").
-shift_data("82404","Steven Vance",20250621,"D").
-shift_data("82404","Steven Vance",20250622,"LD").
-shift_data("82404","Steven Vance",20250623,"WR").
-shift_data("82404","Steven Vance",20250624,"LD").
-shift_data("82404","Steven Vance",20250625,"SE").
-shift_data("82404","Steven Vance",20250626,"SN").
-shift_data("82404","Steven Vance",20250627,"WR").
-shift_data("82404","Steven Vance",20250628,"WR").
-shift_data("82404","Steven Vance",20250629,"D").
-shift_data("82404","Steven Vance",20250630,"D").
-shift_data("82404","Steven Vance",20250701,"LD").
-shift_data("82404","Steven Vance",20250702,"SE").
-shift_data("82404","Steven Vance",20250703,"SN").
-shift_data("82404","Steven Vance",20250704,"WR").
-shift_data("82404","Steven Vance",20250705,"LD").
-shift_data("82404","Steven Vance",20250706,"WR").
-shift_data("82404","Steven Vance",20250707,"D").
-shift_data("82404","Steven Vance",20250708,"SE").
-shift_data("82404","Steven Vance",20250709,"SN").
-shift_data("82404","Steven Vance",20250710,"WR").
-shift_data("82404","Steven Vance",20250711,"D").
-shift_data("82404","Steven Vance",20250712,"D").
-shift_data("82404","Steven Vance",20250713,"LD").
-shift_data("82404","Steven Vance",20250714,"SE").
-shift_data("82404","Steven Vance",20250715,"SN").
-shift_data("82404","Steven Vance",20250716,"WR").
-shift_data("82404","Steven Vance",20250717,"SE").
-shift_data("82404","Steven Vance",20250718,"SN").
-shift_data("82404","Steven Vance",20250719,"WR").
-shift_data("82404","Steven Vance",20250720,"WR").
-shift_data("82404","Steven Vance",20250721,"LD").
-shift_data("82404","Steven Vance",20250722,"SE").
-shift_data("82404","Steven Vance",20250723,"SN").
-shift_data("82404","Steven Vance",20250724,"WR").
-shift_data("82404","Steven Vance",20250725,"WR").
-shift_data("82404","Steven Vance",20250726,"WR").
-shift_data("82404","Steven Vance",20250727,"LD").
-shift_data("82404","Steven Vance",20250728,"SE").
-shift_data("82404","Steven Vance",20250729,"SN").
-shift_data("82404","Steven Vance",20250730,"WR").
-shift_data("82404","Steven Vance",20250731,"SE").
-shift_data("82404","Steven Vance",20250801,"SN").
-shift_data("82404","Steven Vance",20250802,"WR").
-shift_data("82404","Steven Vance",20250803,"LD").
-shift_data("82404","Steven Vance",20250804,"SE").
-shift_data("82404","Steven Vance",20250805,"SN").
-shift_data("82404","Steven Vance",20250806,"WR").
-shift_data("82404","Steven Vance",20250807,"D").
-shift_data("82404","Steven Vance",20250808,"LD").
-shift_data("82404","Steven Vance",20250809,"SE").
-shift_data("82404","Steven Vance",20250810,"SN").
-shift_data("82404","Steven Vance",20250811,"PH").
-shift_data("82404","Steven Vance",20250812,"AL").
-shift_data("82404","Steven Vance",20250813,"HL").
-shift_data("82404","Steven Vance",20250814,"WR").
-shift_data("82404","Steven Vance",20250815,"D").
-shift_data("82404","Steven Vance",20250816,"LD").
-shift_data("82404","Steven Vance",20250817,"SE").
-shift_data("82404","Steven Vance",20250818,"SN").
-shift_data("82404","Steven Vance",20250819,"WR").
-shift_data("82404","Steven Vance",20250820,"D").
-shift_data("82404","Steven Vance",20250821,"LD").
-shift_data("82404","Steven Vance",20250822,"SE").
-shift_data("82404","Steven Vance",20250823,"SN").
-shift_data("82404","Steven Vance",20250824,"WR").
-shift_data("82404","Steven Vance",20250825,"LD").
-shift_data("82404","Steven Vance",20250826,"SE").
-shift_data("82404","Steven Vance",20250827,"SN").
-shift_data("82404","Steven Vance",20250828,"WR").
-shift_data("82404","Steven Vance",20250829,"D").
-shift_data("82404","Steven Vance",20250830,"LD").
-shift_data("82404","Steven Vance",20250831,"SE").
-shift_data("82404","Steven Vance",20250901,"SN").
-shift_data("82404","Steven Vance",20250902,"WR").
-shift_data("82404","Steven Vance",20250903,"LD").
-shift_data("82404","Steven Vance",20250904,"WR").
-shift_data("82404","Steven Vance",20250905,"D").
-shift_data("82404","Steven Vance",20250906,"WR").
-shift_data("82404","Steven Vance",20250907,"WR").
-shift_data("82404","Steven Vance",20250908,"LD").
-shift_data("82404","Steven Vance",20250909,"SE").
-shift_data("82404","Steven Vance",20250910,"SN").
-shift_data("82404","Steven Vance",20250911,"WR").
-shift_data("82404","Steven Vance",20250912,"LD").
-shift_data("82404","Steven Vance",20250913,"SE").
-shift_data("82404","Steven Vance",20250914,"SN").
-shift_data("82404","Steven Vance",20250915,"PH").
-shift_data("82404","Steven Vance",20250916,"LD").
-shift_data("82404","Steven Vance",20250917,"SE").
-shift_data("82404","Steven Vance",20250918,"SN").
-shift_data("82404","Steven Vance",20250919,"WR").
-shift_data("82404","Steven Vance",20250920,"WR").
-shift_data("82404","Steven Vance",20250921,"LD").
-shift_data("82404","Steven Vance",20250922,"SE").
-shift_data("82404","Steven Vance",20250923,"SN").
-shift_data("82404","Steven Vance",20250924,"WR").
-shift_data("82404","Steven Vance",20250925,"D").
-shift_data("82404","Steven Vance",20250926,"LD").
-shift_data("82404","Steven Vance",20250927,"SE").
-shift_data("82404","Steven Vance",20250928,"SN").
-shift_data("82404","Steven Vance",20250929,"WR").
-shift_data("82404","Steven Vance",20250930,"D").
-shift_data("82404","Steven Vance",20251001,"LD").
-shift_data("82404","Steven Vance",20251002,"SE").
-shift_data("82404","Steven Vance",20251003,"SN").
-shift_data("82404","Steven Vance",20251004,"WR").
-shift_data("82404","Steven Vance",20251005,"D").
-shift_data("82404","Steven Vance",20251006,"LD").
-shift_data("82404","Steven Vance",20251007,"SE").
-shift_data("82404","Steven Vance",20251008,"SN").
-shift_data("82404","Steven Vance",20251009,"WR").
-shift_data("82404","Steven Vance",20251010,"WR").
-shift_data("82404","Steven Vance",20251011,"WR").
-shift_data("82404","Steven Vance",20251012,"WR").
-shift_data("82404","Steven Vance",20251013,"D").
-shift_data("82404","Steven Vance",20251014,"SE").
-shift_data("82404","Steven Vance",20251015,"SN").
-shift_data("82404","Steven Vance",20251016,"WR").
-shift_data("82404","Steven Vance",20251017,"D").
-shift_data("82404","Steven Vance",20251018,"WR").
-shift_data("82404","Steven Vance",20251019,"AL").
-shift_data("82404","Steven Vance",20251020,"HL").
-shift_data("82404","Steven Vance",20251021,"HL").
-shift_data("82404","Steven Vance",20251022,"D").
-shift_data("82404","Steven Vance",20251023,"LD").
-shift_data("82404","Steven Vance",20251024,"SE").
-shift_data("82404","Steven Vance",20251025,"SN").
-shift_data("82404","Steven Vance",20251026,"WR").
-shift_data("82404","Steven Vance",20251027,"LD").
-shift_data("82404","Steven Vance",20251028,"WR").
-shift_data("82404","Steven Vance",20251029,"WR").
-shift_data("82404","Steven Vance",20251030,"LD").
-shift_data("82404","Steven Vance",20251031,"WR").
-shift_data("82404","Steven Vance",20251101,"LD").
-shift_data("82404","Steven Vance",20251102,"SE").
-shift_data("82404","Steven Vance",20251103,"SN").
-shift_data("82404","Steven Vance",20251104,"WR").
-shift_data("82404","Steven Vance",20251105,"LD").
-shift_data("82404","Steven Vance",20251106,"SE").
-shift_data("82404","Steven Vance",20251107,"SN").
-shift_data("82404","Steven Vance",20251108,"SE").
-shift_data("82404","Steven Vance",20251109,"SN").
-shift_data("82404","Steven Vance",20251110,"WR").
-shift_data("82404","Steven Vance",20251111,"D").
-shift_data("82404","Steven Vance",20251112,"LD").
-shift_data("82404","Steven Vance",20251113,"SE").
-shift_data("82404","Steven Vance",20251114,"SN").
-shift_data("82404","Steven Vance",20251115,"HL").
-shift_data("82404","Steven Vance",20251116,"AL").
-shift_data("82404","Steven Vance",20251117,"WR").
-shift_data("82404","Steven Vance",20251118,"WR").
-shift_data("82404","Steven Vance",20251119,"LD").
-shift_data("82404","Steven Vance",20251120,"SE").
-shift_data("82404","Steven Vance",20251121,"SN").
-shift_data("82404","Steven Vance",20251122,"WR").
-shift_data("82404","Steven Vance",20251123,"LD").
-shift_data("82404","Steven Vance",20251124,"SE").
-shift_data("82404","Steven Vance",20251125,"SN").
-shift_data("82404","Steven Vance",20251126,"WR").
-shift_data("82404","Steven Vance",20251127,"WR").
-shift_data("82404","Steven Vance",20251128,"D").
-shift_data("82404","Steven Vance",20251129,"AL").
-shift_data("82404","Steven Vance",20251130,"WR").
-shift_data("82404","Steven Vance",20251201,"LD").
-shift_data("82404","Steven Vance",20251202,"SE").
-shift_data("82404","Steven Vance",20251203,"SN").
-shift_data("82404","Steven Vance",20251204,"WR").
-shift_data("82404","Steven Vance",20251205,"LD").
-shift_data("82404","Steven Vance",20251206,"SE").
-shift_data("82404","Steven Vance",20251207,"SN").
-shift_data("82404","Steven Vance",20251208,"WR").
-shift_data("82404","Steven Vance",20251209,"D").
-shift_data("82404","Steven Vance",20251210,"D").
-shift_data("82404","Steven Vance",20251211,"LD").
-shift_data("82404","Steven Vance",20251212,"SE").
-shift_data("82404","Steven Vance",20251213,"SN").
-shift_data("82404","Steven Vance",20251214,"AL").
-shift_data("82404","Steven Vance",20251215,"LD").
-shift_data("82404","Steven Vance",20251216,"SE").
-shift_data("82404","Steven Vance",20251217,"SN").
-shift_data("82404","Steven Vance",20251218,"WR").
-shift_data("82404","Steven Vance",20251219,"D").
-shift_data("82404","Steven Vance",20251220,"WR").
-shift_data("82404","Steven Vance",20251221,"LD").
-shift_data("82404","Steven Vance",20251222,"SE").
-shift_data("82404","Steven Vance",20251223,"SN").
-shift_data("82404","Steven Vance",20251224,"WR").
-shift_data("82404","Steven Vance",20251225,"WR").
-shift_data("82404","Steven Vance",20251226,"D").
-shift_data("82404","Steven Vance",20251227,"WR").
-shift_data("82404","Steven Vance",20251228,"WR").
-shift_data("82404","Steven Vance",20251229,"PH").
-shift_data("82404","Steven Vance",20251230,"LD").
-shift_data("82404","Steven Vance",20251231,"SE").
 shift_data("86454", "Justin Bond", 20250801, "WR").
 shift_data("86454", "Justin Bond", 20250802, "SE").
 shift_data("86454", "Justin Bond", 20250803, "SN").
@@ -45391,281 +37846,6 @@ shift_data("86454","Justin Bond",20250207,"WR").
 shift_data("86454","Justin Bond",20250208,"WR").
 shift_data("86454","Justin Bond",20250209,"AL").
 shift_data("86454","Justin Bond",20250210,"HL").
-shift_data("86454","Justin Bond",20250401,"SN").
-shift_data("86454","Justin Bond",20250402,"SE").
-shift_data("86454","Justin Bond",20250403,"SN").
-shift_data("86454","Justin Bond",20250404,"WR").
-shift_data("86454","Justin Bond",20250405,"D").
-shift_data("86454","Justin Bond",20250406,"LD").
-shift_data("86454","Justin Bond",20250407,"SE").
-shift_data("86454","Justin Bond",20250408,"SN").
-shift_data("86454","Justin Bond",20250409,"WR").
-shift_data("86454","Justin Bond",20250410,"LD").
-shift_data("86454","Justin Bond",20250411,"WR").
-shift_data("86454","Justin Bond",20250412,"LD").
-shift_data("86454","Justin Bond",20250413,"SE").
-shift_data("86454","Justin Bond",20250414,"SN").
-shift_data("86454","Justin Bond",20250415,"WR").
-shift_data("86454","Justin Bond",20250416,"AL").
-shift_data("86454","Justin Bond",20250417,"SE").
-shift_data("86454","Justin Bond",20250418,"SN").
-shift_data("86454","Justin Bond",20250419,"WR").
-shift_data("86454","Justin Bond",20250420,"WR").
-shift_data("86454","Justin Bond",20250421,"LD").
-shift_data("86454","Justin Bond",20250422,"WR").
-shift_data("86454","Justin Bond",20250423,"WR").
-shift_data("86454","Justin Bond",20250424,"LD").
-shift_data("86454","Justin Bond",20250425,"SE").
-shift_data("86454","Justin Bond",20250426,"SN").
-shift_data("86454","Justin Bond",20250427,"WR").
-shift_data("86454","Justin Bond",20250428,"WR").
-shift_data("86454","Justin Bond",20250429,"LD").
-shift_data("86454","Justin Bond",20250430,"SE").
-shift_data("86454","Justin Bond",20250501,"SN").
-shift_data("86454","Justin Bond",20250502,"WR").
-shift_data("86454","Justin Bond",20250503,"D").
-shift_data("86454","Justin Bond",20250504,"D").
-shift_data("86454","Justin Bond",20250505,"LD").
-shift_data("86454","Justin Bond",20250506,"PH").
-shift_data("86454","Justin Bond",20250507,"WR").
-shift_data("86454","Justin Bond",20250508,"LD").
-shift_data("86454","Justin Bond",20250509,"SE").
-shift_data("86454","Justin Bond",20250510,"SN").
-shift_data("86454","Justin Bond",20250511,"WR").
-shift_data("86454","Justin Bond",20250512,"LD").
-shift_data("86454","Justin Bond",20250513,"WR").
-shift_data("86454","Justin Bond",20250514,"D").
-shift_data("86454","Justin Bond",20250515,"SE").
-shift_data("86454","Justin Bond",20250516,"SN").
-shift_data("86454","Justin Bond",20250517,"WR").
-shift_data("86454","Justin Bond",20250518,"LD").
-shift_data("86454","Justin Bond",20250519,"SE").
-shift_data("86454","Justin Bond",20250520,"SN").
-shift_data("86454","Justin Bond",20250521,"SL").
-shift_data("86454","Justin Bond",20250522,"SL").
-shift_data("86454","Justin Bond",20250523,"WR").
-shift_data("86454","Justin Bond",20250524,"HL").
-shift_data("86454","Justin Bond",20250525,"LD").
-shift_data("86454","Justin Bond",20250526,"WR").
-shift_data("86454","Justin Bond",20250527,"WR").
-shift_data("86454","Justin Bond",20250528,"D").
-shift_data("86454","Justin Bond",20250529,"LD").
-shift_data("86454","Justin Bond",20250530,"SE").
-shift_data("86454","Justin Bond",20250531,"SN").
-shift_data("86454","Justin Bond",20250601,"WR").
-shift_data("86454","Justin Bond",20250602,"LD").
-shift_data("86454","Justin Bond",20250603,"LD").
-shift_data("86454","Justin Bond",20250604,"SE").
-shift_data("86454","Justin Bond",20250605,"SN").
-shift_data("86454","Justin Bond",20250606,"WR").
-shift_data("86454","Justin Bond",20250607,"LD").
-shift_data("86454","Justin Bond",20250608,"SE").
-shift_data("86454","Justin Bond",20250609,"SN").
-shift_data("86454","Justin Bond",20250610,"WR").
-shift_data("86454","Justin Bond",20250611,"WR").
-shift_data("86454","Justin Bond",20250612,"AL").
-shift_data("86454","Justin Bond",20250613,"LD").
-shift_data("86454","Justin Bond",20250614,"SE").
-shift_data("86454","Justin Bond",20250615,"SN").
-shift_data("86454","Justin Bond",20250616,"SE").
-shift_data("86454","Justin Bond",20250617,"SN").
-shift_data("86454","Justin Bond",20250618,"WR").
-shift_data("86454","Justin Bond",20250619,"LD").
-shift_data("86454","Justin Bond",20250620,"WR").
-shift_data("86454","Justin Bond",20250621,"SE").
-shift_data("86454","Justin Bond",20250622,"SN").
-shift_data("86454","Justin Bond",20250623,"SE").
-shift_data("86454","Justin Bond",20250624,"SN").
-shift_data("86454","Justin Bond",20250625,"WR").
-shift_data("86454","Justin Bond",20250626,"LD").
-shift_data("86454","Justin Bond",20250627,"SE").
-shift_data("86454","Justin Bond",20250628,"SN").
-shift_data("86454","Justin Bond",20250629,"WR").
-shift_data("86454","Justin Bond",20250630,"LD").
-shift_data("86454","Justin Bond",20250701,"SE").
-shift_data("86454","Justin Bond",20250702,"SN").
-shift_data("86454","Justin Bond",20250703,"WR").
-shift_data("86454","Justin Bond",20250704,"LD").
-shift_data("86454","Justin Bond",20250705,"SE").
-shift_data("86454","Justin Bond",20250706,"SN").
-shift_data("86454","Justin Bond",20250707,"WR").
-shift_data("86454","Justin Bond",20250708,"LD").
-shift_data("86454","Justin Bond",20250709,"SE").
-shift_data("86454","Justin Bond",20250710,"SN").
-shift_data("86454","Justin Bond",20250711,"WR").
-shift_data("86454","Justin Bond",20250712,"WR").
-shift_data("86454","Justin Bond",20250713,"WR").
-shift_data("86454","Justin Bond",20250714,"D").
-shift_data("86454","Justin Bond",20250715,"LD").
-shift_data("86454","Justin Bond",20250716,"SE").
-shift_data("86454","Justin Bond",20250717,"SN").
-shift_data("86454","Justin Bond",20250718,"WR").
-shift_data("86454","Justin Bond",20250719,"LD").
-shift_data("86454","Justin Bond",20250720,"SE").
-shift_data("86454","Justin Bond",20250721,"SN").
-shift_data("86454","Justin Bond",20250722,"WR").
-shift_data("86454","Justin Bond",20250723,"SE").
-shift_data("86454","Justin Bond",20250724,"SN").
-shift_data("86454","Justin Bond",20250725,"WR").
-shift_data("86454","Justin Bond",20250726,"LD").
-shift_data("86454","Justin Bond",20250727,"WR").
-shift_data("86454","Justin Bond",20250728,"LD").
-shift_data("86454","Justin Bond",20250729,"WR").
-shift_data("86454","Justin Bond",20250730,"D").
-shift_data("86454","Justin Bond",20250731,"LD").
-shift_data("86454","Justin Bond",20250801,"WR").
-shift_data("86454","Justin Bond",20250802,"SE").
-shift_data("86454","Justin Bond",20250803,"SN").
-shift_data("86454","Justin Bond",20250804,"SE").
-shift_data("86454","Justin Bond",20250805,"SN").
-shift_data("86454","Justin Bond",20250806,"WR").
-shift_data("86454","Justin Bond",20250807,"D").
-shift_data("86454","Justin Bond",20250808,"LD").
-shift_data("86454","Justin Bond",20250809,"WR").
-shift_data("86454","Justin Bond",20250810,"HL").
-shift_data("86454","Justin Bond",20250811,"PH").
-shift_data("86454","Justin Bond",20250812,"D").
-shift_data("86454","Justin Bond",20250813,"LD").
-shift_data("86454","Justin Bond",20250814,"SE").
-shift_data("86454","Justin Bond",20250815,"SN").
-shift_data("86454","Justin Bond",20250816,"WR").
-shift_data("86454","Justin Bond",20250817,"LD").
-shift_data("86454","Justin Bond",20250818,"SE").
-shift_data("86454","Justin Bond",20250819,"SN").
-shift_data("86454","Justin Bond",20250820,"WR").
-shift_data("86454","Justin Bond",20250821,"D").
-shift_data("86454","Justin Bond",20250822,"D").
-shift_data("86454","Justin Bond",20250823,"WR").
-shift_data("86454","Justin Bond",20250824,"WR").
-shift_data("86454","Justin Bond",20250825,"WR").
-shift_data("86454","Justin Bond",20250826,"AL").
-shift_data("86454","Justin Bond",20250827,"D").
-shift_data("86454","Justin Bond",20250828,"LD").
-shift_data("86454","Justin Bond",20250829,"SE").
-shift_data("86454","Justin Bond",20250830,"SN").
-shift_data("86454","Justin Bond",20250831,"WR").
-shift_data("86454","Justin Bond",20250901,"LD").
-shift_data("86454","Justin Bond",20250902,"LM").
-shift_data("86454","Justin Bond",20250903,"SE").
-shift_data("86454","Justin Bond",20250904,"SN").
-shift_data("86454","Justin Bond",20250905,"WR").
-shift_data("86454","Justin Bond",20250906,"LD").
-shift_data("86454","Justin Bond",20250907,"SE").
-shift_data("86454","Justin Bond",20250908,"SN").
-shift_data("86454","Justin Bond",20250909,"WR").
-shift_data("86454","Justin Bond",20250910,"LD").
-shift_data("86454","Justin Bond",20250911,"SE").
-shift_data("86454","Justin Bond",20250912,"SN").
-shift_data("86454","Justin Bond",20250913,"WR").
-shift_data("86454","Justin Bond",20250914,"LD").
-shift_data("86454","Justin Bond",20250915,"SE").
-shift_data("86454","Justin Bond",20250916,"SN").
-shift_data("86454","Justin Bond",20250917,"WR").
-shift_data("86454","Justin Bond",20250918,"LD").
-shift_data("86454","Justin Bond",20250919,"AL").
-shift_data("86454","Justin Bond",20250920,"SE").
-shift_data("86454","Justin Bond",20250921,"SN").
-shift_data("86454","Justin Bond",20250922,"WR").
-shift_data("86454","Justin Bond",20250923,"D").
-shift_data("86454","Justin Bond",20250924,"WR").
-shift_data("86454","Justin Bond",20250925,"WR").
-shift_data("86454","Justin Bond",20250926,"D").
-shift_data("86454","Justin Bond",20250927,"WR").
-shift_data("86454","Justin Bond",20250928,"HL").
-shift_data("86454","Justin Bond",20250929,"LD").
-shift_data("86454","Justin Bond",20250930,"SE").
-shift_data("86454","Justin Bond",20251001,"SN").
-shift_data("86454","Justin Bond",20251002,"WR").
-shift_data("86454","Justin Bond",20251003,"D").
-shift_data("86454","Justin Bond",20251004,"WR").
-shift_data("86454","Justin Bond",20251005,"LD").
-shift_data("86454","Justin Bond",20251006,"SE").
-shift_data("86454","Justin Bond",20251007,"SN").
-shift_data("86454","Justin Bond",20251008,"WR").
-shift_data("86454","Justin Bond",20251009,"LD").
-shift_data("86454","Justin Bond",20251010,"SE").
-shift_data("86454","Justin Bond",20251011,"SN").
-shift_data("86454","Justin Bond",20251012,"WR").
-shift_data("86454","Justin Bond",20251013,"PH").
-shift_data("86454","Justin Bond",20251014,"D").
-shift_data("86454","Justin Bond",20251015,"LD").
-shift_data("86454","Justin Bond",20251016,"WR").
-shift_data("86454","Justin Bond",20251017,"D").
-shift_data("86454","Justin Bond",20251018,"WR").
-shift_data("86454","Justin Bond",20251019,"LD").
-shift_data("86454","Justin Bond",20251020,"SE").
-shift_data("86454","Justin Bond",20251021,"SN").
-shift_data("86454","Justin Bond",20251022,"SE").
-shift_data("86454","Justin Bond",20251023,"SN").
-shift_data("86454","Justin Bond",20251024,"HL").
-shift_data("86454","Justin Bond",20251025,"WR").
-shift_data("86454","Justin Bond",20251026,"LD").
-shift_data("86454","Justin Bond",20251027,"WR").
-shift_data("86454","Justin Bond",20251028,"D").
-shift_data("86454","Justin Bond",20251029,"LD").
-shift_data("86454","Justin Bond",20251030,"SE").
-shift_data("86454","Justin Bond",20251031,"SN").
-shift_data("86454","Justin Bond",20251101,"WR").
-shift_data("86454","Justin Bond",20251102,"LD").
-shift_data("86454","Justin Bond",20251103,"SE").
-shift_data("86454","Justin Bond",20251104,"SN").
-shift_data("86454","Justin Bond",20251105,"SE").
-shift_data("86454","Justin Bond",20251106,"SN").
-shift_data("86454","Justin Bond",20251107,"WR").
-shift_data("86454","Justin Bond",20251108,"WR").
-shift_data("86454","Justin Bond",20251109,"WR").
-shift_data("86454","Justin Bond",20251110,"LD").
-shift_data("86454","Justin Bond",20251111,"SE").
-shift_data("86454","Justin Bond",20251112,"SN").
-shift_data("86454","Justin Bond",20251113,"WR").
-shift_data("86454","Justin Bond",20251114,"LD").
-shift_data("86454","Justin Bond",20251115,"SE").
-shift_data("86454","Justin Bond",20251116,"SN").
-shift_data("86454","Justin Bond",20251117,"WR").
-shift_data("86454","Justin Bond",20251118,"D").
-shift_data("86454","Justin Bond",20251119,"LD").
-shift_data("86454","Justin Bond",20251120,"SE").
-shift_data("86454","Justin Bond",20251121,"SN").
-shift_data("86454","Justin Bond",20251122,"WR").
-shift_data("86454","Justin Bond",20251123,"WR").
-shift_data("86454","Justin Bond",20251124,"D").
-shift_data("86454","Justin Bond",20251125,"D").
-shift_data("86454","Justin Bond",20251126,"LD").
-shift_data("86454","Justin Bond",20251127,"SE").
-shift_data("86454","Justin Bond",20251128,"SN").
-shift_data("86454","Justin Bond",20251129,"WR").
-shift_data("86454","Justin Bond",20251130,"AL").
-shift_data("86454","Justin Bond",20251201,"D").
-shift_data("86454","Justin Bond",20251202,"WR").
-shift_data("86454","Justin Bond",20251203,"LD").
-shift_data("86454","Justin Bond",20251204,"SE").
-shift_data("86454","Justin Bond",20251205,"SN").
-shift_data("86454","Justin Bond",20251206,"WR").
-shift_data("86454","Justin Bond",20251207,"WR").
-shift_data("86454","Justin Bond",20251208,"SE").
-shift_data("86454","Justin Bond",20251209,"SN").
-shift_data("86454","Justin Bond",20251210,"WR").
-shift_data("86454","Justin Bond",20251211,"LD").
-shift_data("86454","Justin Bond",20251212,"SE").
-shift_data("86454","Justin Bond",20251213,"SN").
-shift_data("86454","Justin Bond",20251214,"WR").
-shift_data("86454","Justin Bond",20251215,"WR").
-shift_data("86454","Justin Bond",20251216,"D").
-shift_data("86454","Justin Bond",20251217,"LD").
-shift_data("86454","Justin Bond",20251218,"SE").
-shift_data("86454","Justin Bond",20251219,"SN").
-shift_data("86454","Justin Bond",20251220,"WR").
-shift_data("86454","Justin Bond",20251221,"WR").
-shift_data("86454","Justin Bond",20251222,"LD").
-shift_data("86454","Justin Bond",20251223,"WR").
-shift_data("86454","Justin Bond",20251224,"D").
-shift_data("86454","Justin Bond",20251225,"WR").
-shift_data("86454","Justin Bond",20251226,"LD").
-shift_data("86454","Justin Bond",20251227,"SE").
-shift_data("86454","Justin Bond",20251228,"SN").
-shift_data("86454","Justin Bond",20251229,"PH").
-shift_data("86454","Justin Bond",20251230,"SE").
-shift_data("86454","Justin Bond",20251231,"SN").
 shift_data("87573","Teresa Guzman",20200921,"D").
 shift_data("87573","Teresa Guzman",20200922,"D").
 shift_data("87573","Teresa Guzman",20200923,"D").
@@ -47566,281 +39746,6 @@ shift_data("89865","Mr. James Harmon",20250104,"WR").
 shift_data("89865","Mr. James Harmon",20250218,"D").
 shift_data("89865","Mr. James Harmon",20250220,"HL").
 shift_data("89865","Mr. James Harmon",20250221,"WR").
-shift_data("89865","Mr. James Harmon",20250401,"WR").
-shift_data("89865","Mr. James Harmon",20250402,"LD").
-shift_data("89865","Mr. James Harmon",20250403,"SE").
-shift_data("89865","Mr. James Harmon",20250404,"SN").
-shift_data("89865","Mr. James Harmon",20250405,"WR").
-shift_data("89865","Mr. James Harmon",20250406,"LD").
-shift_data("89865","Mr. James Harmon",20250407,"WR").
-shift_data("89865","Mr. James Harmon",20250408,"LD").
-shift_data("89865","Mr. James Harmon",20250409,"SE").
-shift_data("89865","Mr. James Harmon",20250410,"SN").
-shift_data("89865","Mr. James Harmon",20250411,"WR").
-shift_data("89865","Mr. James Harmon",20250412,"D").
-shift_data("89865","Mr. James Harmon",20250413,"LD").
-shift_data("89865","Mr. James Harmon",20250414,"SE").
-shift_data("89865","Mr. James Harmon",20250415,"SN").
-shift_data("89865","Mr. James Harmon",20250416,"WR").
-shift_data("89865","Mr. James Harmon",20250417,"LD").
-shift_data("89865","Mr. James Harmon",20250418,"SE").
-shift_data("89865","Mr. James Harmon",20250419,"SN").
-shift_data("89865","Mr. James Harmon",20250420,"SE").
-shift_data("89865","Mr. James Harmon",20250421,"SN").
-shift_data("89865","Mr. James Harmon",20250422,"WR").
-shift_data("89865","Mr. James Harmon",20250423,"LD").
-shift_data("89865","Mr. James Harmon",20250424,"SE").
-shift_data("89865","Mr. James Harmon",20250425,"SN").
-shift_data("89865","Mr. James Harmon",20250426,"WR").
-shift_data("89865","Mr. James Harmon",20250427,"LD").
-shift_data("89865","Mr. James Harmon",20250428,"WR").
-shift_data("89865","Mr. James Harmon",20250429,"D").
-shift_data("89865","Mr. James Harmon",20250430,"LD").
-shift_data("89865","Mr. James Harmon",20250501,"SE").
-shift_data("89865","Mr. James Harmon",20250502,"SN").
-shift_data("89865","Mr. James Harmon",20250503,"AL").
-shift_data("89865","Mr. James Harmon",20250504,"WR").
-shift_data("89865","Mr. James Harmon",20250505,"LD").
-shift_data("89865","Mr. James Harmon",20250506,"SE").
-shift_data("89865","Mr. James Harmon",20250507,"SN").
-shift_data("89865","Mr. James Harmon",20250508,"WR").
-shift_data("89865","Mr. James Harmon",20250509,"WR").
-shift_data("89865","Mr. James Harmon",20250510,"WR").
-shift_data("89865","Mr. James Harmon",20250511,"LD").
-shift_data("89865","Mr. James Harmon",20250512,"SE").
-shift_data("89865","Mr. James Harmon",20250513,"SN").
-shift_data("89865","Mr. James Harmon",20250514,"SE").
-shift_data("89865","Mr. James Harmon",20250515,"SN").
-shift_data("89865","Mr. James Harmon",20250516,"WR").
-shift_data("89865","Mr. James Harmon",20250517,"LD").
-shift_data("89865","Mr. James Harmon",20250518,"WR").
-shift_data("89865","Mr. James Harmon",20250519,"SE").
-shift_data("89865","Mr. James Harmon",20250520,"SN").
-shift_data("89865","Mr. James Harmon",20250521,"WR").
-shift_data("89865","Mr. James Harmon",20250522,"LD").
-shift_data("89865","Mr. James Harmon",20250523,"SE").
-shift_data("89865","Mr. James Harmon",20250524,"SN").
-shift_data("89865","Mr. James Harmon",20250525,"SE").
-shift_data("89865","Mr. James Harmon",20250526,"SN").
-shift_data("89865","Mr. James Harmon",20250527,"WR").
-shift_data("89865","Mr. James Harmon",20250528,"LD").
-shift_data("89865","Mr. James Harmon",20250529,"WR").
-shift_data("89865","Mr. James Harmon",20250530,"D").
-shift_data("89865","Mr. James Harmon",20250531,"WR").
-shift_data("89865","Mr. James Harmon",20250601,"LD").
-shift_data("89865","Mr. James Harmon",20250602,"SE").
-shift_data("89865","Mr. James Harmon",20250603,"SN").
-shift_data("89865","Mr. James Harmon",20250604,"WR").
-shift_data("89865","Mr. James Harmon",20250605,"LD").
-shift_data("89865","Mr. James Harmon",20250606,"SE").
-shift_data("89865","Mr. James Harmon",20250607,"SN").
-shift_data("89865","Mr. James Harmon",20250608,"WR").
-shift_data("89865","Mr. James Harmon",20250609,"D").
-shift_data("89865","Mr. James Harmon",20250610,"LD").
-shift_data("89865","Mr. James Harmon",20250611,"WR").
-shift_data("89865","Mr. James Harmon",20250612,"LD").
-shift_data("89865","Mr. James Harmon",20250613,"SE").
-shift_data("89865","Mr. James Harmon",20250614,"SN").
-shift_data("89865","Mr. James Harmon",20250615,"SE").
-shift_data("89865","Mr. James Harmon",20250616,"SN").
-shift_data("89865","Mr. James Harmon",20250617,"WR").
-shift_data("89865","Mr. James Harmon",20250618,"LD").
-shift_data("89865","Mr. James Harmon",20250619,"SE").
-shift_data("89865","Mr. James Harmon",20250620,"SN").
-shift_data("89865","Mr. James Harmon",20250621,"WR").
-shift_data("89865","Mr. James Harmon",20250622,"D").
-shift_data("89865","Mr. James Harmon",20250623,"D").
-shift_data("89865","Mr. James Harmon",20250624,"LD").
-shift_data("89865","Mr. James Harmon",20250625,"WR").
-shift_data("89865","Mr. James Harmon",20250626,"LD").
-shift_data("89865","Mr. James Harmon",20250627,"WR").
-shift_data("89865","Mr. James Harmon",20250628,"SE").
-shift_data("89865","Mr. James Harmon",20250629,"SN").
-shift_data("89865","Mr. James Harmon",20250630,"WR").
-shift_data("89865","Mr. James Harmon",20250701,"LD").
-shift_data("89865","Mr. James Harmon",20250702,"WR").
-shift_data("89865","Mr. James Harmon",20250703,"D").
-shift_data("89865","Mr. James Harmon",20250704,"D").
-shift_data("89865","Mr. James Harmon",20250705,"WR").
-shift_data("89865","Mr. James Harmon",20250706,"WR").
-shift_data("89865","Mr. James Harmon",20250707,"LD").
-shift_data("89865","Mr. James Harmon",20250708,"SE").
-shift_data("89865","Mr. James Harmon",20250709,"SN").
-shift_data("89865","Mr. James Harmon",20250710,"WR").
-shift_data("89865","Mr. James Harmon",20250711,"D").
-shift_data("89865","Mr. James Harmon",20250712,"SE").
-shift_data("89865","Mr. James Harmon",20250713,"SN").
-shift_data("89865","Mr. James Harmon",20250714,"SE").
-shift_data("89865","Mr. James Harmon",20250715,"SN").
-shift_data("89865","Mr. James Harmon",20250716,"WR").
-shift_data("89865","Mr. James Harmon",20250717,"LD").
-shift_data("89865","Mr. James Harmon",20250718,"SE").
-shift_data("89865","Mr. James Harmon",20250719,"SN").
-shift_data("89865","Mr. James Harmon",20250720,"WR").
-shift_data("89865","Mr. James Harmon",20250721,"LD").
-shift_data("89865","Mr. James Harmon",20250722,"SE").
-shift_data("89865","Mr. James Harmon",20250723,"SN").
-shift_data("89865","Mr. James Harmon",20250724,"WR").
-shift_data("89865","Mr. James Harmon",20250725,"LD").
-shift_data("89865","Mr. James Harmon",20250726,"WR").
-shift_data("89865","Mr. James Harmon",20250727,"D").
-shift_data("89865","Mr. James Harmon",20250728,"D").
-shift_data("89865","Mr. James Harmon",20250729,"LD").
-shift_data("89865","Mr. James Harmon",20250730,"SE").
-shift_data("89865","Mr. James Harmon",20250731,"SN").
-shift_data("89865","Mr. James Harmon",20250801,"WR").
-shift_data("89865","Mr. James Harmon",20250802,"WR").
-shift_data("89865","Mr. James Harmon",20250803,"LD").
-shift_data("89865","Mr. James Harmon",20250804,"SE").
-shift_data("89865","Mr. James Harmon",20250805,"SN").
-shift_data("89865","Mr. James Harmon",20250806,"SE").
-shift_data("89865","Mr. James Harmon",20250807,"SN").
-shift_data("89865","Mr. James Harmon",20250808,"WR").
-shift_data("89865","Mr. James Harmon",20250809,"D").
-shift_data("89865","Mr. James Harmon",20250810,"WR").
-shift_data("89865","Mr. James Harmon",20250811,"D").
-shift_data("89865","Mr. James Harmon",20250812,"LM").
-shift_data("89865","Mr. James Harmon",20250813,"SE").
-shift_data("89865","Mr. James Harmon",20250814,"SN").
-shift_data("89865","Mr. James Harmon",20250815,"WR").
-shift_data("89865","Mr. James Harmon",20250816,"LD").
-shift_data("89865","Mr. James Harmon",20250817,"SE").
-shift_data("89865","Mr. James Harmon",20250818,"SN").
-shift_data("89865","Mr. James Harmon",20250819,"WR").
-shift_data("89865","Mr. James Harmon",20250820,"D").
-shift_data("89865","Mr. James Harmon",20250821,"LD").
-shift_data("89865","Mr. James Harmon",20250822,"SE").
-shift_data("89865","Mr. James Harmon",20250823,"SN").
-shift_data("89865","Mr. James Harmon",20250824,"WR").
-shift_data("89865","Mr. James Harmon",20250825,"D").
-shift_data("89865","Mr. James Harmon",20250826,"EM").
-shift_data("89865","Mr. James Harmon",20250827,"LD").
-shift_data("89865","Mr. James Harmon",20250828,"SE").
-shift_data("89865","Mr. James Harmon",20250829,"SN").
-shift_data("89865","Mr. James Harmon",20250830,"WR").
-shift_data("89865","Mr. James Harmon",20250831,"WR").
-shift_data("89865","Mr. James Harmon",20250901,"LD").
-shift_data("89865","Mr. James Harmon",20250902,"SE").
-shift_data("89865","Mr. James Harmon",20250903,"SN").
-shift_data("89865","Mr. James Harmon",20250904,"WR").
-shift_data("89865","Mr. James Harmon",20250905,"D").
-shift_data("89865","Mr. James Harmon",20250906,"WR").
-shift_data("89865","Mr. James Harmon",20250907,"WR").
-shift_data("89865","Mr. James Harmon",20250908,"D").
-shift_data("89865","Mr. James Harmon",20250909,"LD").
-shift_data("89865","Mr. James Harmon",20250910,"SE").
-shift_data("89865","Mr. James Harmon",20250911,"SN").
-shift_data("89865","Mr. James Harmon",20250912,"WR").
-shift_data("89865","Mr. James Harmon",20250913,"LD").
-shift_data("89865","Mr. James Harmon",20250914,"SE").
-shift_data("89865","Mr. James Harmon",20250915,"SN").
-shift_data("89865","Mr. James Harmon",20250916,"WR").
-shift_data("89865","Mr. James Harmon",20250917,"HL").
-shift_data("89865","Mr. James Harmon",20250918,"WR").
-shift_data("89865","Mr. James Harmon",20250919,"LD").
-shift_data("89865","Mr. James Harmon",20250920,"SE").
-shift_data("89865","Mr. James Harmon",20250921,"SN").
-shift_data("89865","Mr. James Harmon",20250922,"WR").
-shift_data("89865","Mr. James Harmon",20250923,"PH").
-shift_data("89865","Mr. James Harmon",20250924,"LD").
-shift_data("89865","Mr. James Harmon",20250925,"SE").
-shift_data("89865","Mr. James Harmon",20250926,"SN").
-shift_data("89865","Mr. James Harmon",20250927,"WR").
-shift_data("89865","Mr. James Harmon",20250928,"WR").
-shift_data("89865","Mr. James Harmon",20250929,"LD").
-shift_data("89865","Mr. James Harmon",20250930,"SE").
-shift_data("89865","Mr. James Harmon",20251001,"SN").
-shift_data("89865","Mr. James Harmon",20251002,"WR").
-shift_data("89865","Mr. James Harmon",20251003,"D").
-shift_data("89865","Mr. James Harmon",20251004,"LD").
-shift_data("89865","Mr. James Harmon",20251005,"SE").
-shift_data("89865","Mr. James Harmon",20251006,"SN").
-shift_data("89865","Mr. James Harmon",20251007,"WR").
-shift_data("89865","Mr. James Harmon",20251008,"HL").
-shift_data("89865","Mr. James Harmon",20251009,"HL").
-shift_data("89865","Mr. James Harmon",20251010,"WR").
-shift_data("89865","Mr. James Harmon",20251011,"LD").
-shift_data("89865","Mr. James Harmon",20251012,"WR").
-shift_data("89865","Mr. James Harmon",20251013,"PH").
-shift_data("89865","Mr. James Harmon",20251014,"SE").
-shift_data("89865","Mr. James Harmon",20251015,"SN").
-shift_data("89865","Mr. James Harmon",20251016,"AL").
-shift_data("89865","Mr. James Harmon",20251017,"AL").
-shift_data("89865","Mr. James Harmon",20251018,"WR").
-shift_data("89865","Mr. James Harmon",20251019,"WR").
-shift_data("89865","Mr. James Harmon",20251020,"LD").
-shift_data("89865","Mr. James Harmon",20251021,"SE").
-shift_data("89865","Mr. James Harmon",20251022,"SN").
-shift_data("89865","Mr. James Harmon",20251023,"SE").
-shift_data("89865","Mr. James Harmon",20251024,"SN").
-shift_data("89865","Mr. James Harmon",20251025,"WR").
-shift_data("89865","Mr. James Harmon",20251026,"LD").
-shift_data("89865","Mr. James Harmon",20251027,"WR").
-shift_data("89865","Mr. James Harmon",20251028,"D").
-shift_data("89865","Mr. James Harmon",20251029,"SE").
-shift_data("89865","Mr. James Harmon",20251030,"SN").
-shift_data("89865","Mr. James Harmon",20251031,"WR").
-shift_data("89865","Mr. James Harmon",20251101,"D").
-shift_data("89865","Mr. James Harmon",20251102,"LD").
-shift_data("89865","Mr. James Harmon",20251103,"SE").
-shift_data("89865","Mr. James Harmon",20251104,"SN").
-shift_data("89865","Mr. James Harmon",20251105,"WR").
-shift_data("89865","Mr. James Harmon",20251106,"LD").
-shift_data("89865","Mr. James Harmon",20251107,"WR").
-shift_data("89865","Mr. James Harmon",20251108,"LD").
-shift_data("89865","Mr. James Harmon",20251109,"SE").
-shift_data("89865","Mr. James Harmon",20251110,"SN").
-shift_data("89865","Mr. James Harmon",20251111,"WR").
-shift_data("89865","Mr. James Harmon",20251112,"LD").
-shift_data("89865","Mr. James Harmon",20251113,"SE").
-shift_data("89865","Mr. James Harmon",20251114,"SN").
-shift_data("89865","Mr. James Harmon",20251115,"WR").
-shift_data("89865","Mr. James Harmon",20251116,"LD").
-shift_data("89865","Mr. James Harmon",20251117,"SE").
-shift_data("89865","Mr. James Harmon",20251118,"SN").
-shift_data("89865","Mr. James Harmon",20251119,"WR").
-shift_data("89865","Mr. James Harmon",20251120,"D").
-shift_data("89865","Mr. James Harmon",20251121,"D").
-shift_data("89865","Mr. James Harmon",20251122,"D").
-shift_data("89865","Mr. James Harmon",20251123,"LD").
-shift_data("89865","Mr. James Harmon",20251124,"PH").
-shift_data("89865","Mr. James Harmon",20251125,"LD").
-shift_data("89865","Mr. James Harmon",20251126,"SE").
-shift_data("89865","Mr. James Harmon",20251127,"SN").
-shift_data("89865","Mr. James Harmon",20251128,"SE").
-shift_data("89865","Mr. James Harmon",20251129,"SN").
-shift_data("89865","Mr. James Harmon",20251130,"WR").
-shift_data("89865","Mr. James Harmon",20251201,"WR").
-shift_data("89865","Mr. James Harmon",20251202,"LD").
-shift_data("89865","Mr. James Harmon",20251203,"WR").
-shift_data("89865","Mr. James Harmon",20251204,"WR").
-shift_data("89865","Mr. James Harmon",20251205,"WR").
-shift_data("89865","Mr. James Harmon",20251206,"D").
-shift_data("89865","Mr. James Harmon",20251207,"WR").
-shift_data("89865","Mr. James Harmon",20251208,"LD").
-shift_data("89865","Mr. James Harmon",20251209,"SE").
-shift_data("89865","Mr. James Harmon",20251210,"SN").
-shift_data("89865","Mr. James Harmon",20251211,"AL").
-shift_data("89865","Mr. James Harmon",20251212,"WR").
-shift_data("89865","Mr. James Harmon",20251213,"WR").
-shift_data("89865","Mr. James Harmon",20251214,"LD").
-shift_data("89865","Mr. James Harmon",20251215,"SE").
-shift_data("89865","Mr. James Harmon",20251216,"SN").
-shift_data("89865","Mr. James Harmon",20251217,"WR").
-shift_data("89865","Mr. James Harmon",20251218,"LD").
-shift_data("89865","Mr. James Harmon",20251219,"SE").
-shift_data("89865","Mr. James Harmon",20251220,"SN").
-shift_data("89865","Mr. James Harmon",20251221,"WR").
-shift_data("89865","Mr. James Harmon",20251222,"D").
-shift_data("89865","Mr. James Harmon",20251223,"LD").
-shift_data("89865","Mr. James Harmon",20251224,"SE").
-shift_data("89865","Mr. James Harmon",20251225,"SN").
-shift_data("89865","Mr. James Harmon",20251226,"WR").
-shift_data("89865","Mr. James Harmon",20251227,"D").
-shift_data("89865","Mr. James Harmon",20251228,"WR").
-shift_data("89865","Mr. James Harmon",20251229,"PH").
-shift_data("89865","Mr. James Harmon",20251230,"LD").
-shift_data("89865","Mr. James Harmon",20251231,"SE").
 shift_data("90483","Justin Booker",20210401,"D").
 shift_data("90483","Justin Booker",20210402,"D").
 shift_data("90483","Justin Booker",20210403,"WR").
@@ -52923,281 +44828,6 @@ shift_data("95789","Brenda Taylor",20250103,"PH").
 shift_data("95789","Brenda Taylor",20250104,"WR").
 shift_data("95789","Brenda Taylor",20250106,"WR").
 shift_data("95789","Brenda Taylor",20250225,"D").
-shift_data("95789","Brenda Taylor",20250401,"LD").
-shift_data("95789","Brenda Taylor",20250402,"WR").
-shift_data("95789","Brenda Taylor",20250403,"D").
-shift_data("95789","Brenda Taylor",20250404,"LD").
-shift_data("95789","Brenda Taylor",20250405,"WR").
-shift_data("95789","Brenda Taylor",20250406,"WR").
-shift_data("95789","Brenda Taylor",20250407,"LD").
-shift_data("95789","Brenda Taylor",20250408,"SE").
-shift_data("95789","Brenda Taylor",20250409,"SN").
-shift_data("95789","Brenda Taylor",20250410,"SE").
-shift_data("95789","Brenda Taylor",20250411,"SN").
-shift_data("95789","Brenda Taylor",20250412,"WR").
-shift_data("95789","Brenda Taylor",20250413,"LD").
-shift_data("95789","Brenda Taylor",20250414,"WR").
-shift_data("95789","Brenda Taylor",20250415,"LD").
-shift_data("95789","Brenda Taylor",20250416,"SE").
-shift_data("95789","Brenda Taylor",20250417,"SN").
-shift_data("95789","Brenda Taylor",20250418,"WR").
-shift_data("95789","Brenda Taylor",20250419,"SE").
-shift_data("95789","Brenda Taylor",20250420,"SN").
-shift_data("95789","Brenda Taylor",20250421,"SE").
-shift_data("95789","Brenda Taylor",20250422,"SN").
-shift_data("95789","Brenda Taylor",20250423,"WR").
-shift_data("95789","Brenda Taylor",20250424,"D").
-shift_data("95789","Brenda Taylor",20250425,"LD").
-shift_data("95789","Brenda Taylor",20250426,"SE").
-shift_data("95789","Brenda Taylor",20250427,"SN").
-shift_data("95789","Brenda Taylor",20250428,"WR").
-shift_data("95789","Brenda Taylor",20250429,"LD").
-shift_data("95789","Brenda Taylor",20250430,"WR").
-shift_data("95789","Brenda Taylor",20250501,"D").
-shift_data("95789","Brenda Taylor",20250502,"LD").
-shift_data("95789","Brenda Taylor",20250503,"AL").
-shift_data("95789","Brenda Taylor",20250504,"WR").
-shift_data("95789","Brenda Taylor",20250505,"D").
-shift_data("95789","Brenda Taylor",20250506,"SE").
-shift_data("95789","Brenda Taylor",20250507,"SN").
-shift_data("95789","Brenda Taylor",20250508,"WR").
-shift_data("95789","Brenda Taylor",20250509,"D").
-shift_data("95789","Brenda Taylor",20250510,"SE").
-shift_data("95789","Brenda Taylor",20250511,"SN").
-shift_data("95789","Brenda Taylor",20250512,"SE").
-shift_data("95789","Brenda Taylor",20250513,"SN").
-shift_data("95789","Brenda Taylor",20250514,"WR").
-shift_data("95789","Brenda Taylor",20250515,"D").
-shift_data("95789","Brenda Taylor",20250516,"LD").
-shift_data("95789","Brenda Taylor",20250517,"WR").
-shift_data("95789","Brenda Taylor",20250518,"LD").
-shift_data("95789","Brenda Taylor",20250519,"WR").
-shift_data("95789","Brenda Taylor",20250520,"WR").
-shift_data("95789","Brenda Taylor",20250521,"LD").
-shift_data("95789","Brenda Taylor",20250522,"SE").
-shift_data("95789","Brenda Taylor",20250523,"SN").
-shift_data("95789","Brenda Taylor",20250524,"SE").
-shift_data("95789","Brenda Taylor",20250525,"SN").
-shift_data("95789","Brenda Taylor",20250526,"WR").
-shift_data("95789","Brenda Taylor",20250527,"LD").
-shift_data("95789","Brenda Taylor",20250528,"SE").
-shift_data("95789","Brenda Taylor",20250529,"SN").
-shift_data("95789","Brenda Taylor",20250530,"WR").
-shift_data("95789","Brenda Taylor",20250531,"LD").
-shift_data("95789","Brenda Taylor",20250601,"SE").
-shift_data("95789","Brenda Taylor",20250602,"SN").
-shift_data("95789","Brenda Taylor",20250603,"WR").
-shift_data("95789","Brenda Taylor",20250604,"LD").
-shift_data("95789","Brenda Taylor",20250605,"SE").
-shift_data("95789","Brenda Taylor",20250606,"SN").
-shift_data("95789","Brenda Taylor",20250607,"WR").
-shift_data("95789","Brenda Taylor",20250608,"LD").
-shift_data("95789","Brenda Taylor",20250609,"WR").
-shift_data("95789","Brenda Taylor",20250610,"WR").
-shift_data("95789","Brenda Taylor",20250611,"LD").
-shift_data("95789","Brenda Taylor",20250612,"SE").
-shift_data("95789","Brenda Taylor",20250613,"SN").
-shift_data("95789","Brenda Taylor",20250614,"WR").
-shift_data("95789","Brenda Taylor",20250615,"D").
-shift_data("95789","Brenda Taylor",20250616,"LD").
-shift_data("95789","Brenda Taylor",20250617,"WR").
-shift_data("95789","Brenda Taylor",20250618,"SE").
-shift_data("95789","Brenda Taylor",20250619,"SN").
-shift_data("95789","Brenda Taylor",20250620,"SE").
-shift_data("95789","Brenda Taylor",20250621,"SN").
-shift_data("95789","Brenda Taylor",20250622,"WR").
-shift_data("95789","Brenda Taylor",20250623,"LD").
-shift_data("95789","Brenda Taylor",20250624,"SE").
-shift_data("95789","Brenda Taylor",20250625,"SN").
-shift_data("95789","Brenda Taylor",20250626,"WR").
-shift_data("95789","Brenda Taylor",20250627,"LD").
-shift_data("95789","Brenda Taylor",20250628,"SE").
-shift_data("95789","Brenda Taylor",20250629,"SN").
-shift_data("95789","Brenda Taylor",20250630,"WR").
-shift_data("95789","Brenda Taylor",20250701,"WR").
-shift_data("95789","Brenda Taylor",20250702,"D").
-shift_data("95789","Brenda Taylor",20250703,"D").
-shift_data("95789","Brenda Taylor",20250704,"D").
-shift_data("95789","Brenda Taylor",20250705,"SE").
-shift_data("95789","Brenda Taylor",20250706,"SN").
-shift_data("95789","Brenda Taylor",20250707,"WR").
-shift_data("95789","Brenda Taylor",20250708,"LD").
-shift_data("95789","Brenda Taylor",20250709,"SE").
-shift_data("95789","Brenda Taylor",20250710,"SN").
-shift_data("95789","Brenda Taylor",20250711,"WR").
-shift_data("95789","Brenda Taylor",20250712,"LD").
-shift_data("95789","Brenda Taylor",20250713,"WR").
-shift_data("95789","Brenda Taylor",20250714,"LD").
-shift_data("95789","Brenda Taylor",20250715,"SE").
-shift_data("95789","Brenda Taylor",20250716,"SN").
-shift_data("95789","Brenda Taylor",20250717,"WR").
-shift_data("95789","Brenda Taylor",20250718,"LD").
-shift_data("95789","Brenda Taylor",20250719,"SE").
-shift_data("95789","Brenda Taylor",20250720,"SN").
-shift_data("95789","Brenda Taylor",20250721,"PH").
-shift_data("95789","Brenda Taylor",20250722,"LD").
-shift_data("95789","Brenda Taylor",20250723,"WR").
-shift_data("95789","Brenda Taylor",20250724,"LD").
-shift_data("95789","Brenda Taylor",20250725,"SE").
-shift_data("95789","Brenda Taylor",20250726,"SN").
-shift_data("95789","Brenda Taylor",20250727,"WR").
-shift_data("95789","Brenda Taylor",20250728,"LD").
-shift_data("95789","Brenda Taylor",20250729,"WR").
-shift_data("95789","Brenda Taylor",20250730,"LD").
-shift_data("95789","Brenda Taylor",20250731,"WR").
-shift_data("95789","Brenda Taylor",20250801,"WR").
-shift_data("95789","Brenda Taylor",20250802,"D").
-shift_data("95789","Brenda Taylor",20250803,"HL").
-shift_data("95789","Brenda Taylor",20250804,"WR").
-shift_data("95789","Brenda Taylor",20250805,"SE").
-shift_data("95789","Brenda Taylor",20250806,"SN").
-shift_data("95789","Brenda Taylor",20250807,"AL").
-shift_data("95789","Brenda Taylor",20250808,"SE").
-shift_data("95789","Brenda Taylor",20250809,"SN").
-shift_data("95789","Brenda Taylor",20250810,"SE").
-shift_data("95789","Brenda Taylor",20250811,"SN").
-shift_data("95789","Brenda Taylor",20250812,"WR").
-shift_data("95789","Brenda Taylor",20250813,"LD").
-shift_data("95789","Brenda Taylor",20250814,"SE").
-shift_data("95789","Brenda Taylor",20250815,"SN").
-shift_data("95789","Brenda Taylor",20250816,"WR").
-shift_data("95789","Brenda Taylor",20250817,"WR").
-shift_data("95789","Brenda Taylor",20250818,"LD").
-shift_data("95789","Brenda Taylor",20250819,"SE").
-shift_data("95789","Brenda Taylor",20250820,"SN").
-shift_data("95789","Brenda Taylor",20250821,"WR").
-shift_data("95789","Brenda Taylor",20250822,"D").
-shift_data("95789","Brenda Taylor",20250823,"LD").
-shift_data("95789","Brenda Taylor",20250824,"SE").
-shift_data("95789","Brenda Taylor",20250825,"SN").
-shift_data("95789","Brenda Taylor",20250826,"WR").
-shift_data("95789","Brenda Taylor",20250827,"LD").
-shift_data("95789","Brenda Taylor",20250828,"SE").
-shift_data("95789","Brenda Taylor",20250829,"SN").
-shift_data("95789","Brenda Taylor",20250830,"WR").
-shift_data("95789","Brenda Taylor",20250831,"WR").
-shift_data("95789","Brenda Taylor",20250901,"LD").
-shift_data("95789","Brenda Taylor",20250902,"WR").
-shift_data("95789","Brenda Taylor",20250903,"D").
-shift_data("95789","Brenda Taylor",20250904,"D").
-shift_data("95789","Brenda Taylor",20250905,"LD").
-shift_data("95789","Brenda Taylor",20250906,"SE").
-shift_data("95789","Brenda Taylor",20250907,"SN").
-shift_data("95789","Brenda Taylor",20250908,"AL").
-shift_data("95789","Brenda Taylor",20250909,"HL").
-shift_data("95789","Brenda Taylor",20250910,"WR").
-shift_data("95789","Brenda Taylor",20250911,"WR").
-shift_data("95789","Brenda Taylor",20250912,"SE").
-shift_data("95789","Brenda Taylor",20250913,"SN").
-shift_data("95789","Brenda Taylor",20250914,"WR").
-shift_data("95789","Brenda Taylor",20250915,"LD").
-shift_data("95789","Brenda Taylor",20250916,"SE").
-shift_data("95789","Brenda Taylor",20250917,"SN").
-shift_data("95789","Brenda Taylor",20250918,"WR").
-shift_data("95789","Brenda Taylor",20250919,"LD").
-shift_data("95789","Brenda Taylor",20250920,"SE").
-shift_data("95789","Brenda Taylor",20250921,"SN").
-shift_data("95789","Brenda Taylor",20250922,"WR").
-shift_data("95789","Brenda Taylor",20250923,"PH").
-shift_data("95789","Brenda Taylor",20250924,"LD").
-shift_data("95789","Brenda Taylor",20250925,"SE").
-shift_data("95789","Brenda Taylor",20250926,"SN").
-shift_data("95789","Brenda Taylor",20250927,"WR").
-shift_data("95789","Brenda Taylor",20250928,"LD").
-shift_data("95789","Brenda Taylor",20250929,"SE").
-shift_data("95789","Brenda Taylor",20250930,"SN").
-shift_data("95789","Brenda Taylor",20251001,"WR").
-shift_data("95789","Brenda Taylor",20251002,"D").
-shift_data("95789","Brenda Taylor",20251003,"WR").
-shift_data("95789","Brenda Taylor",20251004,"LD").
-shift_data("95789","Brenda Taylor",20251005,"SE").
-shift_data("95789","Brenda Taylor",20251006,"SN").
-shift_data("95789","Brenda Taylor",20251007,"WR").
-shift_data("95789","Brenda Taylor",20251008,"LD").
-shift_data("95789","Brenda Taylor",20251009,"SE").
-shift_data("95789","Brenda Taylor",20251010,"SN").
-shift_data("95789","Brenda Taylor",20251011,"WR").
-shift_data("95789","Brenda Taylor",20251012,"D").
-shift_data("95789","Brenda Taylor",20251013,"SE").
-shift_data("95789","Brenda Taylor",20251014,"SN").
-shift_data("95789","Brenda Taylor",20251015,"WR").
-shift_data("95789","Brenda Taylor",20251016,"TR").
-shift_data("95789","Brenda Taylor",20251017,"LD").
-shift_data("95789","Brenda Taylor",20251018,"SE").
-shift_data("95789","Brenda Taylor",20251019,"SN").
-shift_data("95789","Brenda Taylor",20251020,"WR").
-shift_data("95789","Brenda Taylor",20251021,"WR").
-shift_data("95789","Brenda Taylor",20251022,"LD").
-shift_data("95789","Brenda Taylor",20251023,"SE").
-shift_data("95789","Brenda Taylor",20251024,"SN").
-shift_data("95789","Brenda Taylor",20251025,"WR").
-shift_data("95789","Brenda Taylor",20251026,"LD").
-shift_data("95789","Brenda Taylor",20251027,"SE").
-shift_data("95789","Brenda Taylor",20251028,"SN").
-shift_data("95789","Brenda Taylor",20251029,"WR").
-shift_data("95789","Brenda Taylor",20251030,"LD").
-shift_data("95789","Brenda Taylor",20251031,"SE").
-shift_data("95789","Brenda Taylor",20251101,"SN").
-shift_data("95789","Brenda Taylor",20251102,"WR").
-shift_data("95789","Brenda Taylor",20251103,"D").
-shift_data("95789","Brenda Taylor",20251104,"LD").
-shift_data("95789","Brenda Taylor",20251105,"WR").
-shift_data("95789","Brenda Taylor",20251106,"D").
-shift_data("95789","Brenda Taylor",20251107,"D").
-shift_data("95789","Brenda Taylor",20251108,"WR").
-shift_data("95789","Brenda Taylor",20251109,"WR").
-shift_data("95789","Brenda Taylor",20251110,"LD").
-shift_data("95789","Brenda Taylor",20251111,"WR").
-shift_data("95789","Brenda Taylor",20251112,"SE").
-shift_data("95789","Brenda Taylor",20251113,"SN").
-shift_data("95789","Brenda Taylor",20251114,"WR").
-shift_data("95789","Brenda Taylor",20251115,"LD").
-shift_data("95789","Brenda Taylor",20251116,"SE").
-shift_data("95789","Brenda Taylor",20251117,"SN").
-shift_data("95789","Brenda Taylor",20251118,"HL").
-shift_data("95789","Brenda Taylor",20251119,"HL").
-shift_data("95789","Brenda Taylor",20251120,"AL").
-shift_data("95789","Brenda Taylor",20251121,"WR").
-shift_data("95789","Brenda Taylor",20251122,"D").
-shift_data("95789","Brenda Taylor",20251123,"WR").
-shift_data("95789","Brenda Taylor",20251124,"PH").
-shift_data("95789","Brenda Taylor",20251125,"LD").
-shift_data("95789","Brenda Taylor",20251126,"SE").
-shift_data("95789","Brenda Taylor",20251127,"SN").
-shift_data("95789","Brenda Taylor",20251128,"WR").
-shift_data("95789","Brenda Taylor",20251129,"WR").
-shift_data("95789","Brenda Taylor",20251130,"LD").
-shift_data("95789","Brenda Taylor",20251201,"SE").
-shift_data("95789","Brenda Taylor",20251202,"SN").
-shift_data("95789","Brenda Taylor",20251203,"WR").
-shift_data("95789","Brenda Taylor",20251204,"LD").
-shift_data("95789","Brenda Taylor",20251205,"SE").
-shift_data("95789","Brenda Taylor",20251206,"SN").
-shift_data("95789","Brenda Taylor",20251207,"WR").
-shift_data("95789","Brenda Taylor",20251208,"LD").
-shift_data("95789","Brenda Taylor",20251209,"SE").
-shift_data("95789","Brenda Taylor",20251210,"SN").
-shift_data("95789","Brenda Taylor",20251211,"SE").
-shift_data("95789","Brenda Taylor",20251212,"SN").
-shift_data("95789","Brenda Taylor",20251213,"WR").
-shift_data("95789","Brenda Taylor",20251214,"LD").
-shift_data("95789","Brenda Taylor",20251215,"SE").
-shift_data("95789","Brenda Taylor",20251216,"SN").
-shift_data("95789","Brenda Taylor",20251217,"WR").
-shift_data("95789","Brenda Taylor",20251218,"WR").
-shift_data("95789","Brenda Taylor",20251219,"LD").
-shift_data("95789","Brenda Taylor",20251220,"SE").
-shift_data("95789","Brenda Taylor",20251221,"SN").
-shift_data("95789","Brenda Taylor",20251222,"WR").
-shift_data("95789","Brenda Taylor",20251223,"WR").
-shift_data("95789","Brenda Taylor",20251224,"LD").
-shift_data("95789","Brenda Taylor",20251225,"SE").
-shift_data("95789","Brenda Taylor",20251226,"SN").
-shift_data("95789","Brenda Taylor",20251227,"WR").
-shift_data("95789","Brenda Taylor",20251228,"WR").
-shift_data("95789","Brenda Taylor",20251229,"LD").
-shift_data("95789","Brenda Taylor",20251230,"PH").
-shift_data("95789","Brenda Taylor",20251231,"LD").
 shift_data("96590", "Susan Carter", 20250801, "D").
 shift_data("96590", "Susan Carter", 20250802, "LD").
 shift_data("96590", "Susan Carter", 20250803, "WR").
@@ -53945,281 +45575,6 @@ shift_data("96590","Susan Carter",20250103,"PH").
 shift_data("96590","Susan Carter",20250104,"WR").
 shift_data("96590","Susan Carter",20250123,"WR").
 shift_data("96590","Susan Carter",20250124,"WR").
-shift_data("96590","Susan Carter",20250401,"SN").
-shift_data("96590","Susan Carter",20250402,"WR").
-shift_data("96590","Susan Carter",20250403,"D").
-shift_data("96590","Susan Carter",20250404,"LD").
-shift_data("96590","Susan Carter",20250405,"SE").
-shift_data("96590","Susan Carter",20250406,"SN").
-shift_data("96590","Susan Carter",20250407,"WR").
-shift_data("96590","Susan Carter",20250408,"WR").
-shift_data("96590","Susan Carter",20250409,"LD").
-shift_data("96590","Susan Carter",20250410,"SE").
-shift_data("96590","Susan Carter",20250411,"SN").
-shift_data("96590","Susan Carter",20250412,"WR").
-shift_data("96590","Susan Carter",20250413,"LD").
-shift_data("96590","Susan Carter",20250414,"SE").
-shift_data("96590","Susan Carter",20250415,"SN").
-shift_data("96590","Susan Carter",20250416,"SE").
-shift_data("96590","Susan Carter",20250417,"SN").
-shift_data("96590","Susan Carter",20250418,"WR").
-shift_data("96590","Susan Carter",20250419,"LD").
-shift_data("96590","Susan Carter",20250420,"WR").
-shift_data("96590","Susan Carter",20250421,"SE").
-shift_data("96590","Susan Carter",20250422,"SN").
-shift_data("96590","Susan Carter",20250423,"WR").
-shift_data("96590","Susan Carter",20250424,"LD").
-shift_data("96590","Susan Carter",20250425,"WR").
-shift_data("96590","Susan Carter",20250426,"LD").
-shift_data("96590","Susan Carter",20250427,"WR").
-shift_data("96590","Susan Carter",20250428,"LD").
-shift_data("96590","Susan Carter",20250429,"SE").
-shift_data("96590","Susan Carter",20250430,"SN").
-shift_data("96590","Susan Carter",20250501,"WR").
-shift_data("96590","Susan Carter",20250502,"SE").
-shift_data("96590","Susan Carter",20250503,"SN").
-shift_data("96590","Susan Carter",20250504,"SE").
-shift_data("96590","Susan Carter",20250505,"SN").
-shift_data("96590","Susan Carter",20250506,"PH").
-shift_data("96590","Susan Carter",20250507,"LD").
-shift_data("96590","Susan Carter",20250508,"WR").
-shift_data("96590","Susan Carter",20250509,"LD").
-shift_data("96590","Susan Carter",20250510,"WR").
-shift_data("96590","Susan Carter",20250511,"LD").
-shift_data("96590","Susan Carter",20250512,"WR").
-shift_data("96590","Susan Carter",20250513,"LD").
-shift_data("96590","Susan Carter",20250514,"SE").
-shift_data("96590","Susan Carter",20250515,"SN").
-shift_data("96590","Susan Carter",20250516,"WR").
-shift_data("96590","Susan Carter",20250517,"LD").
-shift_data("96590","Susan Carter",20250518,"SE").
-shift_data("96590","Susan Carter",20250519,"SN").
-shift_data("96590","Susan Carter",20250520,"SE").
-shift_data("96590","Susan Carter",20250521,"SN").
-shift_data("96590","Susan Carter",20250522,"WR").
-shift_data("96590","Susan Carter",20250523,"AL").
-shift_data("96590","Susan Carter",20250524,"WR").
-shift_data("96590","Susan Carter",20250525,"WR").
-shift_data("96590","Susan Carter",20250526,"AL").
-shift_data("96590","Susan Carter",20250527,"WR").
-shift_data("96590","Susan Carter",20250528,"D").
-shift_data("96590","Susan Carter",20250529,"D").
-shift_data("96590","Susan Carter",20250530,"LD").
-shift_data("96590","Susan Carter",20250531,"WR").
-shift_data("96590","Susan Carter",20250601,"LD").
-shift_data("96590","Susan Carter",20250602,"WR").
-shift_data("96590","Susan Carter",20250603,"D").
-shift_data("96590","Susan Carter",20250604,"SE").
-shift_data("96590","Susan Carter",20250605,"SN").
-shift_data("96590","Susan Carter",20250606,"WR").
-shift_data("96590","Susan Carter",20250607,"AL").
-shift_data("96590","Susan Carter",20250608,"LD").
-shift_data("96590","Susan Carter",20250609,"WR").
-shift_data("96590","Susan Carter",20250610,"LD").
-shift_data("96590","Susan Carter",20250611,"SE").
-shift_data("96590","Susan Carter",20250612,"SN").
-shift_data("96590","Susan Carter",20250613,"WR").
-shift_data("96590","Susan Carter",20250614,"D").
-shift_data("96590","Susan Carter",20250615,"LD").
-shift_data("96590","Susan Carter",20250616,"SE").
-shift_data("96590","Susan Carter",20250617,"SN").
-shift_data("96590","Susan Carter",20250618,"WR").
-shift_data("96590","Susan Carter",20250619,"SE").
-shift_data("96590","Susan Carter",20250620,"SN").
-shift_data("96590","Susan Carter",20250621,"SE").
-shift_data("96590","Susan Carter",20250622,"SN").
-shift_data("96590","Susan Carter",20250623,"WR").
-shift_data("96590","Susan Carter",20250624,"LD").
-shift_data("96590","Susan Carter",20250625,"SE").
-shift_data("96590","Susan Carter",20250626,"SN").
-shift_data("96590","Susan Carter",20250627,"WR").
-shift_data("96590","Susan Carter",20250628,"LD").
-shift_data("96590","Susan Carter",20250629,"WR").
-shift_data("96590","Susan Carter",20250630,"LD").
-shift_data("96590","Susan Carter",20250701,"SE").
-shift_data("96590","Susan Carter",20250702,"SN").
-shift_data("96590","Susan Carter",20250703,"SE").
-shift_data("96590","Susan Carter",20250704,"SN").
-shift_data("96590","Susan Carter",20250705,"WR").
-shift_data("96590","Susan Carter",20250706,"D").
-shift_data("96590","Susan Carter",20250707,"LD").
-shift_data("96590","Susan Carter",20250708,"SE").
-shift_data("96590","Susan Carter",20250709,"SN").
-shift_data("96590","Susan Carter",20250710,"WR").
-shift_data("96590","Susan Carter",20250711,"WR").
-shift_data("96590","Susan Carter",20250712,"LD").
-shift_data("96590","Susan Carter",20250713,"SE").
-shift_data("96590","Susan Carter",20250714,"SN").
-shift_data("96590","Susan Carter",20250715,"SE").
-shift_data("96590","Susan Carter",20250716,"SN").
-shift_data("96590","Susan Carter",20250717,"WR").
-shift_data("96590","Susan Carter",20250718,"LD").
-shift_data("96590","Susan Carter",20250719,"WR").
-shift_data("96590","Susan Carter",20250720,"WR").
-shift_data("96590","Susan Carter",20250721,"PH").
-shift_data("96590","Susan Carter",20250722,"LD").
-shift_data("96590","Susan Carter",20250723,"SE").
-shift_data("96590","Susan Carter",20250724,"SN").
-shift_data("96590","Susan Carter",20250725,"WR").
-shift_data("96590","Susan Carter",20250726,"LD").
-shift_data("96590","Susan Carter",20250727,"SE").
-shift_data("96590","Susan Carter",20250728,"SN").
-shift_data("96590","Susan Carter",20250729,"SE").
-shift_data("96590","Susan Carter",20250730,"SN").
-shift_data("96590","Susan Carter",20250731,"WR").
-shift_data("96590","Susan Carter",20250801,"D").
-shift_data("96590","Susan Carter",20250802,"LD").
-shift_data("96590","Susan Carter",20250803,"WR").
-shift_data("96590","Susan Carter",20250804,"WR").
-shift_data("96590","Susan Carter",20250805,"D").
-shift_data("96590","Susan Carter",20250806,"LD").
-shift_data("96590","Susan Carter",20250807,"SE").
-shift_data("96590","Susan Carter",20250808,"SN").
-shift_data("96590","Susan Carter",20250809,"WR").
-shift_data("96590","Susan Carter",20250810,"LD").
-shift_data("96590","Susan Carter",20250811,"PH").
-shift_data("96590","Susan Carter",20250812,"D").
-shift_data("96590","Susan Carter",20250813,"WR").
-shift_data("96590","Susan Carter",20250814,"SE").
-shift_data("96590","Susan Carter",20250815,"SN").
-shift_data("96590","Susan Carter",20250816,"WR").
-shift_data("96590","Susan Carter",20250817,"D").
-shift_data("96590","Susan Carter",20250818,"WR").
-shift_data("96590","Susan Carter",20250819,"HL").
-shift_data("96590","Susan Carter",20250820,"HL").
-shift_data("96590","Susan Carter",20250821,"WR").
-shift_data("96590","Susan Carter",20250822,"D").
-shift_data("96590","Susan Carter",20250823,"SE").
-shift_data("96590","Susan Carter",20250824,"SN").
-shift_data("96590","Susan Carter",20250825,"WR").
-shift_data("96590","Susan Carter",20250826,"D").
-shift_data("96590","Susan Carter",20250827,"WR").
-shift_data("96590","Susan Carter",20250828,"BL").
-shift_data("96590","Susan Carter",20250829,"LD").
-shift_data("96590","Susan Carter",20250830,"WR").
-shift_data("96590","Susan Carter",20250831,"WR").
-shift_data("96590","Susan Carter",20250901,"D").
-shift_data("96590","Susan Carter",20250902,"LD").
-shift_data("96590","Susan Carter",20250903,"LM").
-shift_data("96590","Susan Carter",20250904,"SE").
-shift_data("96590","Susan Carter",20250905,"SN").
-shift_data("96590","Susan Carter",20250906,"WR").
-shift_data("96590","Susan Carter",20250907,"LD").
-shift_data("96590","Susan Carter",20250908,"SE").
-shift_data("96590","Susan Carter",20250909,"SN").
-shift_data("96590","Susan Carter",20250910,"WR").
-shift_data("96590","Susan Carter",20250911,"D").
-shift_data("96590","Susan Carter",20250912,"LD").
-shift_data("96590","Susan Carter",20250913,"SE").
-shift_data("96590","Susan Carter",20250914,"SN").
-shift_data("96590","Susan Carter",20250915,"PH").
-shift_data("96590","Susan Carter",20250916,"LD").
-shift_data("96590","Susan Carter",20250917,"SE").
-shift_data("96590","Susan Carter",20250918,"SN").
-shift_data("96590","Susan Carter",20250919,"WR").
-shift_data("96590","Susan Carter",20250920,"LD").
-shift_data("96590","Susan Carter",20250921,"SE").
-shift_data("96590","Susan Carter",20250922,"SN").
-shift_data("96590","Susan Carter",20250923,"PH").
-shift_data("96590","Susan Carter",20250924,"D").
-shift_data("96590","Susan Carter",20250925,"LD").
-shift_data("96590","Susan Carter",20250926,"WR").
-shift_data("96590","Susan Carter",20250927,"LD").
-shift_data("96590","Susan Carter",20250928,"SE").
-shift_data("96590","Susan Carter",20250929,"SN").
-shift_data("96590","Susan Carter",20250930,"WR").
-shift_data("96590","Susan Carter",20251001,"D").
-shift_data("96590","Susan Carter",20251002,"WR").
-shift_data("96590","Susan Carter",20251003,"WR").
-shift_data("96590","Susan Carter",20251004,"WR").
-shift_data("96590","Susan Carter",20251005,"D").
-shift_data("96590","Susan Carter",20251006,"SE").
-shift_data("96590","Susan Carter",20251007,"SN").
-shift_data("96590","Susan Carter",20251008,"WR").
-shift_data("96590","Susan Carter",20251009,"WR").
-shift_data("96590","Susan Carter",20251010,"D").
-shift_data("96590","Susan Carter",20251011,"D").
-shift_data("96590","Susan Carter",20251012,"WR").
-shift_data("96590","Susan Carter",20251013,"PH").
-shift_data("96590","Susan Carter",20251014,"AL").
-shift_data("96590","Susan Carter",20251015,"LD").
-shift_data("96590","Susan Carter",20251016,"WR").
-shift_data("96590","Susan Carter",20251017,"LD").
-shift_data("96590","Susan Carter",20251018,"WR").
-shift_data("96590","Susan Carter",20251019,"LD").
-shift_data("96590","Susan Carter",20251020,"SE").
-shift_data("96590","Susan Carter",20251021,"SN").
-shift_data("96590","Susan Carter",20251022,"WR").
-shift_data("96590","Susan Carter",20251023,"WR").
-shift_data("96590","Susan Carter",20251024,"SE").
-shift_data("96590","Susan Carter",20251025,"SN").
-shift_data("96590","Susan Carter",20251026,"WR").
-shift_data("96590","Susan Carter",20251027,"D").
-shift_data("96590","Susan Carter",20251028,"LD").
-shift_data("96590","Susan Carter",20251029,"SE").
-shift_data("96590","Susan Carter",20251030,"SN").
-shift_data("96590","Susan Carter",20251031,"HL").
-shift_data("96590","Susan Carter",20251101,"HL").
-shift_data("96590","Susan Carter",20251102,"WR").
-shift_data("96590","Susan Carter",20251103,"LD").
-shift_data("96590","Susan Carter",20251104,"WR").
-shift_data("96590","Susan Carter",20251105,"SE").
-shift_data("96590","Susan Carter",20251106,"SN").
-shift_data("96590","Susan Carter",20251107,"SE").
-shift_data("96590","Susan Carter",20251108,"SN").
-shift_data("96590","Susan Carter",20251109,"WR").
-shift_data("96590","Susan Carter",20251110,"SE").
-shift_data("96590","Susan Carter",20251111,"SN").
-shift_data("96590","Susan Carter",20251112,"AL").
-shift_data("96590","Susan Carter",20251113,"D").
-shift_data("96590","Susan Carter",20251114,"LD").
-shift_data("96590","Susan Carter",20251115,"SE").
-shift_data("96590","Susan Carter",20251116,"SN").
-shift_data("96590","Susan Carter",20251117,"WR").
-shift_data("96590","Susan Carter",20251118,"LD").
-shift_data("96590","Susan Carter",20251119,"SE").
-shift_data("96590","Susan Carter",20251120,"SN").
-shift_data("96590","Susan Carter",20251121,"WR").
-shift_data("96590","Susan Carter",20251122,"LD").
-shift_data("96590","Susan Carter",20251123,"SE").
-shift_data("96590","Susan Carter",20251124,"SN").
-shift_data("96590","Susan Carter",20251125,"SE").
-shift_data("96590","Susan Carter",20251126,"SN").
-shift_data("96590","Susan Carter",20251127,"WR").
-shift_data("96590","Susan Carter",20251128,"LD").
-shift_data("96590","Susan Carter",20251129,"WR").
-shift_data("96590","Susan Carter",20251130,"WR").
-shift_data("96590","Susan Carter",20251201,"WR").
-shift_data("96590","Susan Carter",20251202,"AL").
-shift_data("96590","Susan Carter",20251203,"LD").
-shift_data("96590","Susan Carter",20251204,"WR").
-shift_data("96590","Susan Carter",20251205,"D").
-shift_data("96590","Susan Carter",20251206,"AL").
-shift_data("96590","Susan Carter",20251207,"WR").
-shift_data("96590","Susan Carter",20251208,"D").
-shift_data("96590","Susan Carter",20251209,"LD").
-shift_data("96590","Susan Carter",20251210,"SE").
-shift_data("96590","Susan Carter",20251211,"SN").
-shift_data("96590","Susan Carter",20251212,"WR").
-shift_data("96590","Susan Carter",20251213,"LD").
-shift_data("96590","Susan Carter",20251214,"SE").
-shift_data("96590","Susan Carter",20251215,"SN").
-shift_data("96590","Susan Carter",20251216,"WR").
-shift_data("96590","Susan Carter",20251217,"SE").
-shift_data("96590","Susan Carter",20251218,"SN").
-shift_data("96590","Susan Carter",20251219,"WR").
-shift_data("96590","Susan Carter",20251220,"LD").
-shift_data("96590","Susan Carter",20251221,"LD").
-shift_data("96590","Susan Carter",20251222,"SE").
-shift_data("96590","Susan Carter",20251223,"SN").
-shift_data("96590","Susan Carter",20251224,"WR").
-shift_data("96590","Susan Carter",20251225,"WR").
-shift_data("96590","Susan Carter",20251226,"WR").
-shift_data("96590","Susan Carter",20251227,"LD").
-shift_data("96590","Susan Carter",20251228,"SE").
-shift_data("96590","Susan Carter",20251229,"SN").
-shift_data("96590","Susan Carter",20251230,"PH").
-shift_data("96590","Susan Carter",20251231,"PH").
 shift_data("96699", "Kenneth Miller", 20250802, "WR").
 shift_data("96699", "Kenneth Miller", 20250803, "WR").
 shift_data("96699", "Kenneth Miller", 20250809, "WR").
@@ -54728,99 +46083,6 @@ shift_data("96699","Kenneth Miller",20241124,"WR").
 shift_data("96699","Kenneth Miller",20241130,"WR").
 shift_data("96699","Kenneth Miller",20241201,"WR").
 shift_data("96699","Kenneth Miller",20241207,"WR").
-shift_data("96699","Kenneth Miller",20250405,"WR").
-shift_data("96699","Kenneth Miller",20250406,"WR").
-shift_data("96699","Kenneth Miller",20250412,"WR").
-shift_data("96699","Kenneth Miller",20250413,"WR").
-shift_data("96699","Kenneth Miller",20250419,"WR").
-shift_data("96699","Kenneth Miller",20250420,"WR").
-shift_data("96699","Kenneth Miller",20250426,"WR").
-shift_data("96699","Kenneth Miller",20250427,"WR").
-shift_data("96699","Kenneth Miller",20250429,"PH").
-shift_data("96699","Kenneth Miller",20250503,"WR").
-shift_data("96699","Kenneth Miller",20250504,"WR").
-shift_data("96699","Kenneth Miller",20250505,"PH").
-shift_data("96699","Kenneth Miller",20250506,"PH").
-shift_data("96699","Kenneth Miller",20250510,"WR").
-shift_data("96699","Kenneth Miller",20250511,"WR").
-shift_data("96699","Kenneth Miller",20250517,"WR").
-shift_data("96699","Kenneth Miller",20250518,"WR").
-shift_data("96699","Kenneth Miller",20250524,"WR").
-shift_data("96699","Kenneth Miller",20250525,"WR").
-shift_data("96699","Kenneth Miller",20250531,"WR").
-shift_data("96699","Kenneth Miller",20250601,"WR").
-shift_data("96699","Kenneth Miller",20250607,"WR").
-shift_data("96699","Kenneth Miller",20250608,"WR").
-shift_data("96699","Kenneth Miller",20250614,"WR").
-shift_data("96699","Kenneth Miller",20250615,"WR").
-shift_data("96699","Kenneth Miller",20250621,"WR").
-shift_data("96699","Kenneth Miller",20250622,"WR").
-shift_data("96699","Kenneth Miller",20250628,"WR").
-shift_data("96699","Kenneth Miller",20250629,"WR").
-shift_data("96699","Kenneth Miller",20250705,"WR").
-shift_data("96699","Kenneth Miller",20250706,"WR").
-shift_data("96699","Kenneth Miller",20250712,"WR").
-shift_data("96699","Kenneth Miller",20250713,"WR").
-shift_data("96699","Kenneth Miller",20250719,"WR").
-shift_data("96699","Kenneth Miller",20250720,"WR").
-shift_data("96699","Kenneth Miller",20250721,"PH").
-shift_data("96699","Kenneth Miller",20250726,"WR").
-shift_data("96699","Kenneth Miller",20250727,"WR").
-shift_data("96699","Kenneth Miller",20250802,"WR").
-shift_data("96699","Kenneth Miller",20250803,"WR").
-shift_data("96699","Kenneth Miller",20250809,"WR").
-shift_data("96699","Kenneth Miller",20250810,"WR").
-shift_data("96699","Kenneth Miller",20250811,"PH").
-shift_data("96699","Kenneth Miller",20250816,"WR").
-shift_data("96699","Kenneth Miller",20250817,"WR").
-shift_data("96699","Kenneth Miller",20250823,"WR").
-shift_data("96699","Kenneth Miller",20250824,"WR").
-shift_data("96699","Kenneth Miller",20250830,"WR").
-shift_data("96699","Kenneth Miller",20250831,"WR").
-shift_data("96699","Kenneth Miller",20250906,"WR").
-shift_data("96699","Kenneth Miller",20250907,"WR").
-shift_data("96699","Kenneth Miller",20250913,"WR").
-shift_data("96699","Kenneth Miller",20250914,"WR").
-shift_data("96699","Kenneth Miller",20250915,"PH").
-shift_data("96699","Kenneth Miller",20250920,"WR").
-shift_data("96699","Kenneth Miller",20250921,"WR").
-shift_data("96699","Kenneth Miller",20250923,"PH").
-shift_data("96699","Kenneth Miller",20250927,"WR").
-shift_data("96699","Kenneth Miller",20250928,"WR").
-shift_data("96699","Kenneth Miller",20251004,"WR").
-shift_data("96699","Kenneth Miller",20251005,"WR").
-shift_data("96699","Kenneth Miller",20251011,"WR").
-shift_data("96699","Kenneth Miller",20251012,"WR").
-shift_data("96699","Kenneth Miller",20251013,"PH").
-shift_data("96699","Kenneth Miller",20251018,"WR").
-shift_data("96699","Kenneth Miller",20251019,"WR").
-shift_data("96699","Kenneth Miller",20251025,"WR").
-shift_data("96699","Kenneth Miller",20251026,"WR").
-shift_data("96699","Kenneth Miller",20251030,"AL").
-shift_data("96699","Kenneth Miller",20251101,"WR").
-shift_data("96699","Kenneth Miller",20251102,"WR").
-shift_data("96699","Kenneth Miller",20251103,"PH").
-shift_data("96699","Kenneth Miller",20251104,"AL").
-shift_data("96699","Kenneth Miller",20251108,"WR").
-shift_data("96699","Kenneth Miller",20251109,"WR").
-shift_data("96699","Kenneth Miller",20251115,"WR").
-shift_data("96699","Kenneth Miller",20251116,"WR").
-shift_data("96699","Kenneth Miller",20251122,"WR").
-shift_data("96699","Kenneth Miller",20251123,"WR").
-shift_data("96699","Kenneth Miller",20251124,"PH").
-shift_data("96699","Kenneth Miller",20251129,"WR").
-shift_data("96699","Kenneth Miller",20251130,"WR").
-shift_data("96699","Kenneth Miller",20251206,"WR").
-shift_data("96699","Kenneth Miller",20251207,"WR").
-shift_data("96699","Kenneth Miller",20251213,"WR").
-shift_data("96699","Kenneth Miller",20251214,"WR").
-shift_data("96699","Kenneth Miller",20251220,"WR").
-shift_data("96699","Kenneth Miller",20251221,"WR").
-shift_data("96699","Kenneth Miller",20251227,"WR").
-shift_data("96699","Kenneth Miller",20251228,"WR").
-shift_data("96699","Kenneth Miller",20251229,"PH").
-shift_data("96699","Kenneth Miller",20251230,"PH").
-shift_data("96699","Kenneth Miller",20251231,"PH").
 shift_data("96882","Kenneth Middleton",20200921,"D").
 shift_data("96882","Kenneth Middleton",20200922,"D").
 shift_data("96882","Kenneth Middleton",20200923,"D").
@@ -59075,1733 +50337,8741 @@ shift_data("98372", "Jason Mcintosh", 20250831, "WR").
 shift_data("98372", "Jason Mcintosh", 20250906, "WR").
 shift_data("98372", "Jason Mcintosh", 20250907, "WR").
 shift_data("98372", "Jason Mcintosh", 20250913, "WR").
-shift_data("A078975","Axel Morris",20250401,"D").
-shift_data("A078975","Axel Morris",20250402,"D").
-shift_data("A078975","Axel Morris",20250403,"D").
-shift_data("A078975","Axel Morris",20250404,"D").
-shift_data("A078975","Axel Morris",20250405,"WR").
-shift_data("A078975","Axel Morris",20250406,"WR").
-shift_data("A078975","Axel Morris",20250407,"D").
-shift_data("A078975","Axel Morris",20250408,"D").
-shift_data("A078975","Axel Morris",20250409,"D").
-shift_data("A078975","Axel Morris",20250410,"D").
-shift_data("A078975","Axel Morris",20250411,"D").
-shift_data("A078975","Axel Morris",20250412,"WR").
-shift_data("A078975","Axel Morris",20250413,"WR").
-shift_data("A078975","Axel Morris",20250414,"D").
-shift_data("A078975","Axel Morris",20250415,"D").
-shift_data("A078975","Axel Morris",20250416,"D").
-shift_data("A078975","Axel Morris",20250417,"D").
-shift_data("A078975","Axel Morris",20250418,"D").
-shift_data("A078975","Axel Morris",20250419,"WR").
-shift_data("A078975","Axel Morris",20250420,"WR").
-shift_data("A078975","Axel Morris",20250421,"D").
-shift_data("A078975","Axel Morris",20250422,"D").
-shift_data("A078975","Axel Morris",20250423,"D").
-shift_data("A078975","Axel Morris",20250424,"D").
-shift_data("A078975","Axel Morris",20250425,"D").
-shift_data("A078975","Axel Morris",20250426,"WR").
-shift_data("A078975","Axel Morris",20250427,"WR").
-shift_data("A078975","Axel Morris",20250428,"D").
-shift_data("A078975","Axel Morris",20250429,"PH").
-shift_data("A078975","Axel Morris",20250430,"D").
-shift_data("A078975","Axel Morris",20250501,"LD").
-shift_data("A078975","Axel Morris",20250502,"SE").
-shift_data("A078975","Axel Morris",20250503,"SN").
-shift_data("A078975","Axel Morris",20250504,"WR").
-shift_data("A078975","Axel Morris",20250505,"PH").
-shift_data("A078975","Axel Morris",20250506,"PH").
-shift_data("A078975","Axel Morris",20250507,"WR").
-shift_data("A078975","Axel Morris",20250508,"D").
-shift_data("A078975","Axel Morris",20250509,"D").
-shift_data("A078975","Axel Morris",20250510,"WR").
-shift_data("A078975","Axel Morris",20250511,"WR").
-shift_data("A078975","Axel Morris",20250512,"D").
-shift_data("A078975","Axel Morris",20250513,"D").
-shift_data("A078975","Axel Morris",20250514,"D").
-shift_data("A078975","Axel Morris",20250515,"WR").
-shift_data("A078975","Axel Morris",20250516,"D").
-shift_data("A078975","Axel Morris",20250517,"D").
-shift_data("A078975","Axel Morris",20250518,"WR").
-shift_data("A078975","Axel Morris",20250519,"D").
-shift_data("A078975","Axel Morris",20250520,"D").
-shift_data("A078975","Axel Morris",20250521,"D").
-shift_data("A078975","Axel Morris",20250522,"D").
-shift_data("A078975","Axel Morris",20250523,"D").
-shift_data("A078975","Axel Morris",20250524,"WR").
-shift_data("A078975","Axel Morris",20250525,"WR").
-shift_data("A078975","Axel Morris",20250526,"LD").
-shift_data("A078975","Axel Morris",20250527,"SE").
-shift_data("A078975","Axel Morris",20250528,"SN").
-shift_data("A078975","Axel Morris",20250529,"WR").
-shift_data("A078975","Axel Morris",20250530,"D").
-shift_data("A078975","Axel Morris",20250531,"D").
-shift_data("A078975","Axel Morris",20250601,"WR").
-shift_data("A078975","Axel Morris",20250602,"D").
-shift_data("A078975","Axel Morris",20250603,"D").
-shift_data("A078975","Axel Morris",20250604,"D").
-shift_data("A078975","Axel Morris",20250605,"D").
-shift_data("A078975","Axel Morris",20250606,"D").
-shift_data("A078975","Axel Morris",20250607,"WR").
-shift_data("A078975","Axel Morris",20250608,"WR").
-shift_data("A078975","Axel Morris",20250609,"D").
-shift_data("A078975","Axel Morris",20250610,"D").
-shift_data("A078975","Axel Morris",20250611,"LD").
-shift_data("A078975","Axel Morris",20250612,"SE").
-shift_data("A078975","Axel Morris",20250613,"SN").
-shift_data("A078975","Axel Morris",20250614,"WR").
-shift_data("A078975","Axel Morris",20250615,"D").
-shift_data("A078975","Axel Morris",20250616,"D").
-shift_data("A078975","Axel Morris",20250617,"D").
-shift_data("A078975","Axel Morris",20250618,"WR").
-shift_data("A078975","Axel Morris",20250619,"D").
-shift_data("A078975","Axel Morris",20250620,"D").
-shift_data("A078975","Axel Morris",20250621,"WR").
-shift_data("A078975","Axel Morris",20250622,"WR").
-shift_data("A078975","Axel Morris",20250623,"D").
-shift_data("A078975","Axel Morris",20250624,"D").
-shift_data("A078975","Axel Morris",20250625,"LD").
-shift_data("A078975","Axel Morris",20250626,"SE").
-shift_data("A078975","Axel Morris",20250627,"SN").
-shift_data("A078975","Axel Morris",20250628,"WR").
-shift_data("A078975","Axel Morris",20250629,"D").
-shift_data("A078975","Axel Morris",20250630,"D").
-shift_data("A078975","Axel Morris",20250701,"D").
-shift_data("A078975","Axel Morris",20250702,"WR").
-shift_data("A078975","Axel Morris",20250703,"LD").
-shift_data("A078975","Axel Morris",20250704,"SE").
-shift_data("A078975","Axel Morris",20250705,"SN").
-shift_data("A078975","Axel Morris",20250706,"WR").
-shift_data("A078975","Axel Morris",20250707,"D").
-shift_data("A078975","Axel Morris",20250708,"D").
-shift_data("A078975","Axel Morris",20250709,"D").
-shift_data("A078975","Axel Morris",20250710,"WR").
-shift_data("A078975","Axel Morris",20250711,"D").
-shift_data("A078975","Axel Morris",20250712,"D").
-shift_data("A078975","Axel Morris",20250713,"WR").
-shift_data("A078975","Axel Morris",20250714,"D").
-shift_data("A078975","Axel Morris",20250715,"D").
-shift_data("A078975","Axel Morris",20250716,"D").
-shift_data("A078975","Axel Morris",20250717,"D").
-shift_data("A078975","Axel Morris",20250718,"WR").
-shift_data("A078975","Axel Morris",20250719,"WR").
-shift_data("A078975","Axel Morris",20250720,"WR").
-shift_data("A078975","Axel Morris",20250721,"D").
-shift_data("A078975","Axel Morris",20250722,"D").
-shift_data("A078975","Axel Morris",20250723,"D").
-shift_data("A078975","Axel Morris",20250724,"WR").
-shift_data("A078975","Axel Morris",20250725,"D").
-shift_data("A078975","Axel Morris",20250726,"WR").
-shift_data("A078975","Axel Morris",20250727,"LD").
-shift_data("A078975","Axel Morris",20250728,"SE").
-shift_data("A078975","Axel Morris",20250729,"SN").
-shift_data("A078975","Axel Morris",20250730,"WR").
-shift_data("A078975","Axel Morris",20250731,"D").
-shift_data("A078975","Axel Morris",20250801,"LD").
-shift_data("A078975","Axel Morris",20250802,"LD").
-shift_data("A078975","Axel Morris",20250803,"SE").
-shift_data("A078975","Axel Morris",20250804,"SN").
-shift_data("A078975","Axel Morris",20250805,"WR").
-shift_data("A078975","Axel Morris",20250806,"D").
-shift_data("A078975","Axel Morris",20250807,"SE").
-shift_data("A078975","Axel Morris",20250808,"SN").
-shift_data("A078975","Axel Morris",20250809,"WR").
-shift_data("A078975","Axel Morris",20250810,"WR").
-shift_data("A078975","Axel Morris",20250811,"D").
-shift_data("A078975","Axel Morris",20250812,"LD").
-shift_data("A078975","Axel Morris",20250813,"SE").
-shift_data("A078975","Axel Morris",20250814,"SN").
-shift_data("A078975","Axel Morris",20250815,"WR").
-shift_data("A078975","Axel Morris",20250816,"HL").
-shift_data("A078975","Axel Morris",20250817,"WR").
-shift_data("A078975","Axel Morris",20250818,"LD").
-shift_data("A078975","Axel Morris",20250819,"SE").
-shift_data("A078975","Axel Morris",20250820,"SN").
-shift_data("A078975","Axel Morris",20250821,"WR").
-shift_data("A078975","Axel Morris",20250822,"D").
-shift_data("A078975","Axel Morris",20250823,"SE").
-shift_data("A078975","Axel Morris",20250824,"SN").
-shift_data("A078975","Axel Morris",20250825,"WR").
-shift_data("A078975","Axel Morris",20250826,"LD").
-shift_data("A078975","Axel Morris",20250827,"WR").
-shift_data("A078975","Axel Morris",20250828,"WR").
-shift_data("A078975","Axel Morris",20250829,"D").
-shift_data("A078975","Axel Morris",20250830,"D").
-shift_data("A078975","Axel Morris",20250831,"LD").
-shift_data("A078975","Axel Morris",20250901,"SE").
-shift_data("A078975","Axel Morris",20250902,"SN").
-shift_data("A078975","Axel Morris",20250903,"WR").
-shift_data("A078975","Axel Morris",20250904,"D").
-shift_data("A078975","Axel Morris",20250905,"D").
-shift_data("A078975","Axel Morris",20250906,"D").
-shift_data("A078975","Axel Morris",20250907,"SE").
-shift_data("A078975","Axel Morris",20250908,"SN").
-shift_data("A078975","Axel Morris",20250909,"WR").
-shift_data("A078975","Axel Morris",20250910,"D").
-shift_data("A078975","Axel Morris",20250911,"LD").
-shift_data("A078975","Axel Morris",20250912,"WR").
-shift_data("A078975","Axel Morris",20250913,"HL").
-shift_data("A078975","Axel Morris",20250914,"AL").
-shift_data("A078975","Axel Morris",20250915,"PH").
-shift_data("A078975","Axel Morris",20250916,"LD").
-shift_data("A078975","Axel Morris",20250917,"SE").
-shift_data("A078975","Axel Morris",20250918,"SN").
-shift_data("A078975","Axel Morris",20250919,"WR").
-shift_data("A078975","Axel Morris",20250920,"WR").
-shift_data("A078975","Axel Morris",20250921,"LD").
-shift_data("A078975","Axel Morris",20250922,"SE").
-shift_data("A078975","Axel Morris",20250923,"SN").
-shift_data("A078975","Axel Morris",20250924,"WR").
-shift_data("A078975","Axel Morris",20250925,"WR").
-shift_data("A078975","Axel Morris",20250926,"D").
-shift_data("A078975","Axel Morris",20250927,"WR").
-shift_data("A078975","Axel Morris",20250928,"LD").
-shift_data("A078975","Axel Morris",20250929,"SE").
-shift_data("A078975","Axel Morris",20250930,"SN").
-shift_data("A078975","Axel Morris",20251001,"WR").
-shift_data("A078975","Axel Morris",20251002,"D").
-shift_data("A078975","Axel Morris",20251003,"WR").
-shift_data("A078975","Axel Morris",20251004,"D").
-shift_data("A078975","Axel Morris",20251005,"D").
-shift_data("A078975","Axel Morris",20251006,"D").
-shift_data("A078975","Axel Morris",20251007,"WR").
-shift_data("A078975","Axel Morris",20251008,"AL").
-shift_data("A078975","Axel Morris",20251009,"LD").
-shift_data("A078975","Axel Morris",20251010,"SE").
-shift_data("A078975","Axel Morris",20251011,"SN").
-shift_data("A078975","Axel Morris",20251012,"WR").
-shift_data("A078975","Axel Morris",20251013,"PH").
-shift_data("A078975","Axel Morris",20251014,"LD").
-shift_data("A078975","Axel Morris",20251015,"SE").
-shift_data("A078975","Axel Morris",20251016,"SN").
-shift_data("A078975","Axel Morris",20251017,"AL").
-shift_data("A078975","Axel Morris",20251018,"D").
-shift_data("A078975","Axel Morris",20251019,"WR").
-shift_data("A078975","Axel Morris",20251020,"D").
-shift_data("A078975","Axel Morris",20251021,"LD").
-shift_data("A078975","Axel Morris",20251022,"SE").
-shift_data("A078975","Axel Morris",20251023,"SN").
-shift_data("A078975","Axel Morris",20251024,"HL").
-shift_data("A078975","Axel Morris",20251025,"AL").
-shift_data("A078975","Axel Morris",20251026,"WR").
-shift_data("A078975","Axel Morris",20251027,"WR").
-shift_data("A078975","Axel Morris",20251028,"D").
-shift_data("A078975","Axel Morris",20251029,"WR").
-shift_data("A078975","Axel Morris",20251030,"D").
-shift_data("A078975","Axel Morris",20251031,"D").
-shift_data("A078975","Axel Morris",20251101,"LD").
-shift_data("A078975","Axel Morris",20251102,"SE").
-shift_data("A078975","Axel Morris",20251103,"SN").
-shift_data("A078975","Axel Morris",20251104,"HL").
-shift_data("A078975","Axel Morris",20251105,"WR").
-shift_data("A078975","Axel Morris",20251106,"WR").
-shift_data("A078975","Axel Morris",20251107,"WR").
-shift_data("A078975","Axel Morris",20251108,"D").
-shift_data("A078975","Axel Morris",20251109,"AL").
-shift_data("A078975","Axel Morris",20251110,"WR").
-shift_data("A078975","Axel Morris",20251111,"D").
-shift_data("A078975","Axel Morris",20251112,"D").
-shift_data("A078975","Axel Morris",20251113,"LD").
-shift_data("A078975","Axel Morris",20251114,"SE").
-shift_data("A078975","Axel Morris",20251115,"SN").
-shift_data("A078975","Axel Morris",20251116,"WR").
-shift_data("A078975","Axel Morris",20251117,"D").
-shift_data("A078975","Axel Morris",20251118,"D").
-shift_data("A078975","Axel Morris",20251119,"WR").
-shift_data("A078975","Axel Morris",20251120,"LD").
-shift_data("A078975","Axel Morris",20251121,"SE").
-shift_data("A078975","Axel Morris",20251122,"SN").
-shift_data("A078975","Axel Morris",20251123,"WR").
-shift_data("A078975","Axel Morris",20251124,"SE").
-shift_data("A078975","Axel Morris",20251125,"SN").
-shift_data("A078975","Axel Morris",20251126,"WR").
-shift_data("A078975","Axel Morris",20251127,"LD").
-shift_data("A078975","Axel Morris",20251128,"SE").
-shift_data("A078975","Axel Morris",20251129,"SN").
-shift_data("A078975","Axel Morris",20251130,"WR").
-shift_data("A078975","Axel Morris",20251201,"D").
-shift_data("A078975","Axel Morris",20251202,"D").
-shift_data("A078975","Axel Morris",20251203,"LD").
-shift_data("A078975","Axel Morris",20251204,"WR").
-shift_data("A078975","Axel Morris",20251205,"D").
-shift_data("A078975","Axel Morris",20251206,"WR").
-shift_data("A078975","Axel Morris",20251207,"LD").
-shift_data("A078975","Axel Morris",20251208,"SE").
-shift_data("A078975","Axel Morris",20251209,"SN").
-shift_data("A078975","Axel Morris",20251210,"WR").
-shift_data("A078975","Axel Morris",20251211,"D").
-shift_data("A078975","Axel Morris",20251212,"D").
-shift_data("A078975","Axel Morris",20251213,"D").
-shift_data("A078975","Axel Morris",20251214,"D").
-shift_data("A078975","Axel Morris",20251215,"LD").
-shift_data("A078975","Axel Morris",20251216,"WR").
-shift_data("A078975","Axel Morris",20251217,"EM").
-shift_data("A078975","Axel Morris",20251218,"SE").
-shift_data("A078975","Axel Morris",20251219,"SN").
-shift_data("A078975","Axel Morris",20251220,"WR").
-shift_data("A078975","Axel Morris",20251221,"WR").
-shift_data("A078975","Axel Morris",20251222,"LD").
-shift_data("A078975","Axel Morris",20251223,"SE").
-shift_data("A078975","Axel Morris",20251224,"SN").
-shift_data("A078975","Axel Morris",20251225,"WR").
-shift_data("A078975","Axel Morris",20251226,"D").
-shift_data("A078975","Axel Morris",20251227,"WR").
-shift_data("A078975","Axel Morris",20251228,"WR").
-shift_data("A078975","Axel Morris",20251229,"D").
-shift_data("A078975","Axel Morris",20251230,"PH").
-shift_data("A078975","Axel Morris",20251231,"PH").
-shift_data("A103961","Theodore Green",20250401,"D").
-shift_data("A103961","Theodore Green",20250402,"D").
-shift_data("A103961","Theodore Green",20250403,"D").
-shift_data("A103961","Theodore Green",20250404,"D").
-shift_data("A103961","Theodore Green",20250405,"WR").
-shift_data("A103961","Theodore Green",20250406,"WR").
-shift_data("A103961","Theodore Green",20250407,"D").
-shift_data("A103961","Theodore Green",20250408,"D").
-shift_data("A103961","Theodore Green",20250409,"D").
-shift_data("A103961","Theodore Green",20250410,"D").
-shift_data("A103961","Theodore Green",20250411,"D").
-shift_data("A103961","Theodore Green",20250412,"WR").
-shift_data("A103961","Theodore Green",20250413,"WR").
-shift_data("A103961","Theodore Green",20250414,"D").
-shift_data("A103961","Theodore Green",20250415,"D").
-shift_data("A103961","Theodore Green",20250416,"D").
-shift_data("A103961","Theodore Green",20250417,"D").
-shift_data("A103961","Theodore Green",20250418,"D").
-shift_data("A103961","Theodore Green",20250419,"WR").
-shift_data("A103961","Theodore Green",20250420,"WR").
-shift_data("A103961","Theodore Green",20250421,"D").
-shift_data("A103961","Theodore Green",20250422,"D").
-shift_data("A103961","Theodore Green",20250423,"D").
-shift_data("A103961","Theodore Green",20250424,"D").
-shift_data("A103961","Theodore Green",20250425,"D").
-shift_data("A103961","Theodore Green",20250426,"WR").
-shift_data("A103961","Theodore Green",20250427,"WR").
-shift_data("A103961","Theodore Green",20250428,"D").
-shift_data("A103961","Theodore Green",20250429,"PH").
-shift_data("A103961","Theodore Green",20250430,"LD").
-shift_data("A103961","Theodore Green",20250501,"SE").
-shift_data("A103961","Theodore Green",20250502,"SN").
-shift_data("A103961","Theodore Green",20250503,"WR").
-shift_data("A103961","Theodore Green",20250504,"WR").
-shift_data("A103961","Theodore Green",20250505,"PH").
-shift_data("A103961","Theodore Green",20250506,"PH").
-shift_data("A103961","Theodore Green",20250507,"D").
-shift_data("A103961","Theodore Green",20250508,"D").
-shift_data("A103961","Theodore Green",20250509,"D").
-shift_data("A103961","Theodore Green",20250510,"WR").
-shift_data("A103961","Theodore Green",20250511,"D").
-shift_data("A103961","Theodore Green",20250512,"D").
-shift_data("A103961","Theodore Green",20250513,"D").
-shift_data("A103961","Theodore Green",20250514,"WR").
-shift_data("A103961","Theodore Green",20250515,"D").
-shift_data("A103961","Theodore Green",20250516,"D").
-shift_data("A103961","Theodore Green",20250517,"WR").
-shift_data("A103961","Theodore Green",20250518,"WR").
-shift_data("A103961","Theodore Green",20250519,"D").
-shift_data("A103961","Theodore Green",20250520,"D").
-shift_data("A103961","Theodore Green",20250521,"D").
-shift_data("A103961","Theodore Green",20250522,"D").
-shift_data("A103961","Theodore Green",20250523,"SL").
-shift_data("A103961","Theodore Green",20250524,"WR").
-shift_data("A103961","Theodore Green",20250525,"WR").
-shift_data("A103961","Theodore Green",20250526,"D").
-shift_data("A103961","Theodore Green",20250527,"D").
-shift_data("A103961","Theodore Green",20250528,"D").
-shift_data("A103961","Theodore Green",20250529,"D").
-shift_data("A103961","Theodore Green",20250530,"D").
-shift_data("A103961","Theodore Green",20250531,"WR").
-shift_data("A103961","Theodore Green",20250601,"WR").
-shift_data("A103961","Theodore Green",20250602,"D").
-shift_data("A103961","Theodore Green",20250603,"D").
-shift_data("A103961","Theodore Green",20250604,"SL").
-shift_data("A103961","Theodore Green",20250605,"WR").
-shift_data("A103961","Theodore Green",20250606,"D").
-shift_data("A103961","Theodore Green",20250607,"WR").
-shift_data("A103961","Theodore Green",20250608,"D").
-shift_data("A103961","Theodore Green",20250609,"D").
-shift_data("A103961","Theodore Green",20250610,"D").
-shift_data("A103961","Theodore Green",20250611,"D").
-shift_data("A103961","Theodore Green",20250612,"WR").
-shift_data("A103961","Theodore Green",20250613,"LD").
-shift_data("A103961","Theodore Green",20250614,"SE").
-shift_data("A103961","Theodore Green",20250615,"SN").
-shift_data("A103961","Theodore Green",20250616,"WR").
-shift_data("A103961","Theodore Green",20250617,"WR").
-shift_data("A103961","Theodore Green",20250618,"D").
-shift_data("A103961","Theodore Green",20250619,"D").
-shift_data("A103961","Theodore Green",20250620,"D").
-shift_data("A103961","Theodore Green",20250621,"D").
-shift_data("A103961","Theodore Green",20250622,"WR").
-shift_data("A103961","Theodore Green",20250623,"D").
-shift_data("A103961","Theodore Green",20250624,"D").
-shift_data("A103961","Theodore Green",20250625,"WR").
-shift_data("A103961","Theodore Green",20250626,"D").
-shift_data("A103961","Theodore Green",20250627,"LD").
-shift_data("A103961","Theodore Green",20250628,"SE").
-shift_data("A103961","Theodore Green",20250629,"SN").
-shift_data("A103961","Theodore Green",20250630,"WR").
-shift_data("A103961","Theodore Green",20250701,"D").
-shift_data("A103961","Theodore Green",20250702,"D").
-shift_data("A103961","Theodore Green",20250703,"D").
-shift_data("A103961","Theodore Green",20250704,"D").
-shift_data("A103961","Theodore Green",20250705,"WR").
-shift_data("A103961","Theodore Green",20250706,"WR").
-shift_data("A103961","Theodore Green",20250707,"WR").
-shift_data("A103961","Theodore Green",20250708,"D").
-shift_data("A103961","Theodore Green",20250709,"D").
-shift_data("A103961","Theodore Green",20250710,"LD").
-shift_data("A103961","Theodore Green",20250711,"SE").
-shift_data("A103961","Theodore Green",20250712,"SN").
-shift_data("A103961","Theodore Green",20250713,"WR").
-shift_data("A103961","Theodore Green",20250714,"D").
-shift_data("A103961","Theodore Green",20250715,"D").
-shift_data("A103961","Theodore Green",20250716,"D").
-shift_data("A103961","Theodore Green",20250717,"D").
-shift_data("A103961","Theodore Green",20250718,"D").
-shift_data("A103961","Theodore Green",20250719,"WR").
-shift_data("A103961","Theodore Green",20250720,"WR").
-shift_data("A103961","Theodore Green",20250721,"PH").
-shift_data("A103961","Theodore Green",20250722,"D").
-shift_data("A103961","Theodore Green",20250723,"D").
-shift_data("A103961","Theodore Green",20250724,"WR").
-shift_data("A103961","Theodore Green",20250725,"WR").
-shift_data("A103961","Theodore Green",20250726,"LD").
-shift_data("A103961","Theodore Green",20250727,"SE").
-shift_data("A103961","Theodore Green",20250728,"SN").
-shift_data("A103961","Theodore Green",20250729,"WR").
-shift_data("A103961","Theodore Green",20250730,"SL").
-shift_data("A103961","Theodore Green",20250731,"D").
-shift_data("A103961","Theodore Green",20250801,"D").
-shift_data("A103961","Theodore Green",20250802,"D").
-shift_data("A103961","Theodore Green",20250803,"WR").
-shift_data("A103961","Theodore Green",20250804,"D").
-shift_data("A103961","Theodore Green",20250805,"WR").
-shift_data("A103961","Theodore Green",20250806,"D").
-shift_data("A103961","Theodore Green",20250807,"D").
-shift_data("A103961","Theodore Green",20250808,"LD").
-shift_data("A103961","Theodore Green",20250809,"SE").
-shift_data("A103961","Theodore Green",20250810,"SN").
-shift_data("A103961","Theodore Green",20250811,"PH").
-shift_data("A103961","Theodore Green",20250812,"WR").
-shift_data("A103961","Theodore Green",20250813,"LD").
-shift_data("A103961","Theodore Green",20250814,"SE").
-shift_data("A103961","Theodore Green",20250815,"SN").
-shift_data("A103961","Theodore Green",20250816,"WR").
-shift_data("A103961","Theodore Green",20250817,"D").
-shift_data("A103961","Theodore Green",20250818,"D").
-shift_data("A103961","Theodore Green",20250819,"SL").
-shift_data("A103961","Theodore Green",20250820,"SL").
-shift_data("A103961","Theodore Green",20250821,"WR").
-shift_data("A103961","Theodore Green",20250822,"SL").
-shift_data("A103961","Theodore Green",20250823,"SL").
-shift_data("A103961","Theodore Green",20250824,"SL").
-shift_data("A103961","Theodore Green",20250825,"SL").
-shift_data("A103961","Theodore Green",20250826,"SL").
-shift_data("A103961","Theodore Green",20250827,"WR").
-shift_data("A103961","Theodore Green",20250828,"WR").
-shift_data("A103961","Theodore Green",20250829,"D").
-shift_data("A103961","Theodore Green",20250830,"WR").
-shift_data("A103961","Theodore Green",20250831,"D").
-shift_data("A103961","Theodore Green",20250901,"D").
-shift_data("A103961","Theodore Green",20250902,"WR").
-shift_data("A103961","Theodore Green",20250903,"D").
-shift_data("A103961","Theodore Green",20250904,"D").
-shift_data("A103961","Theodore Green",20250905,"D").
-shift_data("A103961","Theodore Green",20250906,"WR").
-shift_data("A103961","Theodore Green",20250907,"WR").
-shift_data("A103961","Theodore Green",20250908,"D").
-shift_data("A103961","Theodore Green",20250909,"D").
-shift_data("A103961","Theodore Green",20250910,"D").
-shift_data("A103961","Theodore Green",20250911,"D").
-shift_data("A103961","Theodore Green",20250912,"D").
-shift_data("A103961","Theodore Green",20250913,"WR").
-shift_data("A103961","Theodore Green",20250914,"HL").
-shift_data("A103961","Theodore Green",20250915,"PH").
-shift_data("A103961","Theodore Green",20250916,"AL").
-shift_data("A103961","Theodore Green",20250917,"WR").
-shift_data("A103961","Theodore Green",20250918,"D").
-shift_data("A103961","Theodore Green",20250919,"D").
-shift_data("A103961","Theodore Green",20250920,"WR").
-shift_data("A103961","Theodore Green",20250921,"WR").
-shift_data("A103961","Theodore Green",20250922,"D").
-shift_data("A103961","Theodore Green",20250923,"PH").
-shift_data("A103961","Theodore Green",20250924,"D").
-shift_data("A103961","Theodore Green",20250925,"D").
-shift_data("A103961","Theodore Green",20250926,"D").
-shift_data("A103961","Theodore Green",20250927,"WR").
-shift_data("A103961","Theodore Green",20250928,"WR").
-shift_data("A103961","Theodore Green",20250929,"D").
-shift_data("A103961","Theodore Green",20250930,"D").
-shift_data("A103961","Theodore Green",20251001,"D").
-shift_data("A103961","Theodore Green",20251002,"D").
-shift_data("A103961","Theodore Green",20251003,"D").
-shift_data("A103961","Theodore Green",20251004,"WR").
-shift_data("A103961","Theodore Green",20251005,"WR").
-shift_data("A103961","Theodore Green",20251006,"AL").
-shift_data("A103961","Theodore Green",20251007,"D").
-shift_data("A103961","Theodore Green",20251008,"D").
-shift_data("A103961","Theodore Green",20251009,"D").
-shift_data("A103961","Theodore Green",20251010,"D").
-shift_data("A103961","Theodore Green",20251011,"WR").
-shift_data("A103961","Theodore Green",20251012,"WR").
-shift_data("A103961","Theodore Green",20251013,"PH").
-shift_data("A103961","Theodore Green",20251014,"D").
-shift_data("A103961","Theodore Green",20251015,"D").
-shift_data("A103961","Theodore Green",20251016,"D").
-shift_data("A103961","Theodore Green",20251017,"D").
-shift_data("A103961","Theodore Green",20251018,"WR").
-shift_data("A103961","Theodore Green",20251019,"D").
-shift_data("A103961","Theodore Green",20251020,"D").
-shift_data("A103961","Theodore Green",20251021,"WR").
-shift_data("A103961","Theodore Green",20251022,"D").
-shift_data("A103961","Theodore Green",20251023,"D").
-shift_data("A103961","Theodore Green",20251024,"D").
-shift_data("A103961","Theodore Green",20251025,"WR").
-shift_data("A103961","Theodore Green",20251026,"WR").
-shift_data("A103961","Theodore Green",20251027,"D").
-shift_data("A103961","Theodore Green",20251028,"WR").
-shift_data("A103961","Theodore Green",20251029,"D").
-shift_data("A103961","Theodore Green",20251030,"D").
-shift_data("A103961","Theodore Green",20251031,"D").
-shift_data("A103961","Theodore Green",20251101,"D").
-shift_data("A103961","Theodore Green",20251102,"WR").
-shift_data("A103961","Theodore Green",20251103,"PH").
-shift_data("A103961","Theodore Green",20251104,"D").
-shift_data("A103961","Theodore Green",20251105,"D").
-shift_data("A103961","Theodore Green",20251106,"D").
-shift_data("A103961","Theodore Green",20251107,"D").
-shift_data("A103961","Theodore Green",20251108,"WR").
-shift_data("A103961","Theodore Green",20251109,"LD").
-shift_data("A103961","Theodore Green",20251110,"WR").
-shift_data("A103961","Theodore Green",20251111,"WR").
-shift_data("A103961","Theodore Green",20251112,"D").
-shift_data("A103961","Theodore Green",20251113,"D").
-shift_data("A103961","Theodore Green",20251114,"D").
-shift_data("A103961","Theodore Green",20251115,"WR").
-shift_data("A103961","Theodore Green",20251116,"SE").
-shift_data("A103961","Theodore Green",20251117,"SN").
-shift_data("A103961","Theodore Green",20251118,"WR").
-shift_data("A103961","Theodore Green",20251119,"D").
-shift_data("A103961","Theodore Green",20251120,"D").
-shift_data("A103961","Theodore Green",20251121,"D").
-shift_data("A103961","Theodore Green",20251122,"LD").
-shift_data("A103961","Theodore Green",20251123,"WR").
-shift_data("A103961","Theodore Green",20251124,"PH").
-shift_data("A103961","Theodore Green",20251125,"AL").
-shift_data("A103961","Theodore Green",20251126,"AL").
-shift_data("A103961","Theodore Green",20251127,"AL").
-shift_data("A103961","Theodore Green",20251128,"D").
-shift_data("A103961","Theodore Green",20251129,"SE").
-shift_data("A103961","Theodore Green",20251130,"SN").
-shift_data("A103961","Theodore Green",20251201,"WR").
-shift_data("A103961","Theodore Green",20251202,"WR").
-shift_data("A103961","Theodore Green",20251203,"D").
-shift_data("A103961","Theodore Green",20251204,"SL").
-shift_data("A103961","Theodore Green",20251205,"WR").
-shift_data("A103961","Theodore Green",20251206,"SL").
-shift_data("A103961","Theodore Green",20251207,"SL").
-shift_data("A103961","Theodore Green",20251208,"D").
-shift_data("A103961","Theodore Green",20251209,"WR").
-shift_data("A103961","Theodore Green",20251210,"D").
-shift_data("A103961","Theodore Green",20251211,"D").
-shift_data("A103961","Theodore Green",20251212,"LM").
-shift_data("A103961","Theodore Green",20251213,"WR").
-shift_data("A103961","Theodore Green",20251214,"HL").
-shift_data("A103961","Theodore Green",20251215,"AL").
-shift_data("A103961","Theodore Green",20251216,"AL").
-shift_data("A103961","Theodore Green",20251217,"D").
-shift_data("A103961","Theodore Green",20251218,"WR").
-shift_data("A103961","Theodore Green",20251219,"D").
-shift_data("A103961","Theodore Green",20251220,"WR").
-shift_data("A103961","Theodore Green",20251221,"D").
-shift_data("A103961","Theodore Green",20251222,"SE").
-shift_data("A103961","Theodore Green",20251223,"SN").
-shift_data("A103961","Theodore Green",20251224,"WR").
-shift_data("A103961","Theodore Green",20251225,"WR").
-shift_data("A103961","Theodore Green",20251226,"D").
-shift_data("A103961","Theodore Green",20251227,"WR").
-shift_data("A103961","Theodore Green",20251228,"LD").
-shift_data("A103961","Theodore Green",20251229,"SE").
-shift_data("A103961","Theodore Green",20251230,"SN").
-shift_data("A103961","Theodore Green",20251231,"PH").
-shift_data("A323164","John Mitchell",20250401,"D").
-shift_data("A323164","John Mitchell",20250402,"D").
-shift_data("A323164","John Mitchell",20250403,"D").
-shift_data("A323164","John Mitchell",20250404,"D").
-shift_data("A323164","John Mitchell",20250405,"WR").
-shift_data("A323164","John Mitchell",20250406,"WR").
-shift_data("A323164","John Mitchell",20250407,"D").
-shift_data("A323164","John Mitchell",20250408,"D").
-shift_data("A323164","John Mitchell",20250409,"D").
-shift_data("A323164","John Mitchell",20250410,"D").
-shift_data("A323164","John Mitchell",20250411,"D").
-shift_data("A323164","John Mitchell",20250412,"WR").
-shift_data("A323164","John Mitchell",20250413,"WR").
-shift_data("A323164","John Mitchell",20250414,"D").
-shift_data("A323164","John Mitchell",20250415,"D").
-shift_data("A323164","John Mitchell",20250416,"D").
-shift_data("A323164","John Mitchell",20250417,"D").
-shift_data("A323164","John Mitchell",20250418,"D").
-shift_data("A323164","John Mitchell",20250419,"WR").
-shift_data("A323164","John Mitchell",20250420,"WR").
-shift_data("A323164","John Mitchell",20250421,"D").
-shift_data("A323164","John Mitchell",20250422,"D").
-shift_data("A323164","John Mitchell",20250423,"D").
-shift_data("A323164","John Mitchell",20250424,"D").
-shift_data("A323164","John Mitchell",20250425,"D").
-shift_data("A323164","John Mitchell",20250426,"WR").
-shift_data("A323164","John Mitchell",20250427,"WR").
-shift_data("A323164","John Mitchell",20250428,"D").
-shift_data("A323164","John Mitchell",20250429,"PH").
-shift_data("A323164","John Mitchell",20250430,"D").
-shift_data("A323164","John Mitchell",20250501,"D").
-shift_data("A323164","John Mitchell",20250502,"D").
-shift_data("A323164","John Mitchell",20250503,"D").
-shift_data("A323164","John Mitchell",20250504,"WR").
-shift_data("A323164","John Mitchell",20250505,"PH").
-shift_data("A323164","John Mitchell",20250506,"PH").
-shift_data("A323164","John Mitchell",20250507,"WR").
-shift_data("A323164","John Mitchell",20250508,"D").
-shift_data("A323164","John Mitchell",20250509,"D").
-shift_data("A323164","John Mitchell",20250510,"LD").
-shift_data("A323164","John Mitchell",20250511,"SE").
-shift_data("A323164","John Mitchell",20250512,"SN").
-shift_data("A323164","John Mitchell",20250513,"WR").
-shift_data("A323164","John Mitchell",20250514,"WR").
-shift_data("A323164","John Mitchell",20250515,"D").
-shift_data("A323164","John Mitchell",20250516,"D").
-shift_data("A323164","John Mitchell",20250517,"WR").
-shift_data("A323164","John Mitchell",20250518,"WR").
-shift_data("A323164","John Mitchell",20250519,"D").
-shift_data("A323164","John Mitchell",20250520,"D").
-shift_data("A323164","John Mitchell",20250521,"SL").
-shift_data("A323164","John Mitchell",20250522,"D").
-shift_data("A323164","John Mitchell",20250523,"D").
-shift_data("A323164","John Mitchell",20250524,"WR").
-shift_data("A323164","John Mitchell",20250525,"WR").
-shift_data("A323164","John Mitchell",20250526,"D").
-shift_data("A323164","John Mitchell",20250527,"D").
-shift_data("A323164","John Mitchell",20250528,"D").
-shift_data("A323164","John Mitchell",20250529,"WR").
-shift_data("A323164","John Mitchell",20250530,"D").
-shift_data("A323164","John Mitchell",20250531,"LD").
-shift_data("A323164","John Mitchell",20250601,"SE").
-shift_data("A323164","John Mitchell",20250602,"SN").
-shift_data("A323164","John Mitchell",20250603,"WR").
-shift_data("A323164","John Mitchell",20250604,"D").
-shift_data("A323164","John Mitchell",20250605,"D").
-shift_data("A323164","John Mitchell",20250606,"D").
-shift_data("A323164","John Mitchell",20250607,"D").
-shift_data("A323164","John Mitchell",20250608,"WR").
-shift_data("A323164","John Mitchell",20250609,"D").
-shift_data("A323164","John Mitchell",20250610,"D").
-shift_data("A323164","John Mitchell",20250611,"WR").
-shift_data("A323164","John Mitchell",20250612,"D").
-shift_data("A323164","John Mitchell",20250613,"D").
-shift_data("A323164","John Mitchell",20250614,"LD").
-shift_data("A323164","John Mitchell",20250615,"SE").
-shift_data("A323164","John Mitchell",20250616,"SN").
-shift_data("A323164","John Mitchell",20250617,"WR").
-shift_data("A323164","John Mitchell",20250618,"D").
-shift_data("A323164","John Mitchell",20250619,"D").
-shift_data("A323164","John Mitchell",20250620,"WR").
-shift_data("A323164","John Mitchell",20250621,"WR").
-shift_data("A323164","John Mitchell",20250622,"D").
-shift_data("A323164","John Mitchell",20250623,"WR").
-shift_data("A323164","John Mitchell",20250624,"D").
-shift_data("A323164","John Mitchell",20250625,"D").
-shift_data("A323164","John Mitchell",20250626,"WR").
-shift_data("A323164","John Mitchell",20250627,"D").
-shift_data("A323164","John Mitchell",20250628,"SL").
-shift_data("A323164","John Mitchell",20250629,"SL").
-shift_data("A323164","John Mitchell",20250630,"SL").
-shift_data("A323164","John Mitchell",20250701,"WR").
-shift_data("A323164","John Mitchell",20250702,"D").
-shift_data("A323164","John Mitchell",20250703,"WR").
-shift_data("A323164","John Mitchell",20250704,"D").
-shift_data("A323164","John Mitchell",20250705,"D").
-shift_data("A323164","John Mitchell",20250706,"D").
-shift_data("A323164","John Mitchell",20250707,"WR").
-shift_data("A323164","John Mitchell",20250708,"D").
-shift_data("A323164","John Mitchell",20250709,"LD").
-shift_data("A323164","John Mitchell",20250710,"SE").
-shift_data("A323164","John Mitchell",20250711,"SN").
-shift_data("A323164","John Mitchell",20250712,"WR").
-shift_data("A323164","John Mitchell",20250713,"D").
-shift_data("A323164","John Mitchell",20250714,"D").
-shift_data("A323164","John Mitchell",20250715,"D").
-shift_data("A323164","John Mitchell",20250716,"D").
-shift_data("A323164","John Mitchell",20250717,"WR").
-shift_data("A323164","John Mitchell",20250718,"D").
-shift_data("A323164","John Mitchell",20250719,"WR").
-shift_data("A323164","John Mitchell",20250720,"WR").
-shift_data("A323164","John Mitchell",20250721,"LD").
-shift_data("A323164","John Mitchell",20250722,"SE").
-shift_data("A323164","John Mitchell",20250723,"SN").
-shift_data("A323164","John Mitchell",20250724,"WR").
-shift_data("A323164","John Mitchell",20250725,"WR").
-shift_data("A323164","John Mitchell",20250726,"D").
-shift_data("A323164","John Mitchell",20250727,"D").
-shift_data("A323164","John Mitchell",20250728,"WR").
-shift_data("A323164","John Mitchell",20250729,"D").
-shift_data("A323164","John Mitchell",20250730,"LD").
-shift_data("A323164","John Mitchell",20250731,"SE").
-shift_data("A323164","John Mitchell",20250801,"SN").
-shift_data("A323164","John Mitchell",20250802,"WR").
-shift_data("A323164","John Mitchell",20250803,"WR").
-shift_data("A323164","John Mitchell",20250804,"D").
-shift_data("A323164","John Mitchell",20250805,"WR").
-shift_data("A323164","John Mitchell",20250806,"D").
-shift_data("A323164","John Mitchell",20250807,"LD").
-shift_data("A323164","John Mitchell",20250808,"SE").
-shift_data("A323164","John Mitchell",20250809,"SN").
-shift_data("A323164","John Mitchell",20250810,"WR").
-shift_data("A323164","John Mitchell",20250811,"PH").
-shift_data("A323164","John Mitchell",20250812,"D").
-shift_data("A323164","John Mitchell",20250813,"D").
-shift_data("A323164","John Mitchell",20250814,"D").
-shift_data("A323164","John Mitchell",20250815,"D").
-shift_data("A323164","John Mitchell",20250816,"D").
-shift_data("A323164","John Mitchell",20250817,"WR").
-shift_data("A323164","John Mitchell",20250818,"D").
-shift_data("A323164","John Mitchell",20250819,"LD").
-shift_data("A323164","John Mitchell",20250820,"WR").
-shift_data("A323164","John Mitchell",20250821,"D").
-shift_data("A323164","John Mitchell",20250822,"D").
-shift_data("A323164","John Mitchell",20250823,"WR").
-shift_data("A323164","John Mitchell",20250824,"D").
-shift_data("A323164","John Mitchell",20250825,"LD").
-shift_data("A323164","John Mitchell",20250826,"SE").
-shift_data("A323164","John Mitchell",20250827,"SN").
-shift_data("A323164","John Mitchell",20250828,"WR").
-shift_data("A323164","John Mitchell",20250829,"D").
-shift_data("A323164","John Mitchell",20250830,"WR").
-shift_data("A323164","John Mitchell",20250831,"WR").
-shift_data("A323164","John Mitchell",20250901,"D").
-shift_data("A323164","John Mitchell",20250902,"LD").
-shift_data("A323164","John Mitchell",20250903,"SE").
-shift_data("A323164","John Mitchell",20250904,"SN").
-shift_data("A323164","John Mitchell",20250905,"WR").
-shift_data("A323164","John Mitchell",20250906,"SE").
-shift_data("A323164","John Mitchell",20250907,"SN").
-shift_data("A323164","John Mitchell",20250908,"WR").
-shift_data("A323164","John Mitchell",20250909,"D").
-shift_data("A323164","John Mitchell",20250910,"D").
-shift_data("A323164","John Mitchell",20250911,"D").
-shift_data("A323164","John Mitchell",20250912,"D").
-shift_data("A323164","John Mitchell",20250913,"AL").
-shift_data("A323164","John Mitchell",20250914,"SL").
-shift_data("A323164","John Mitchell",20250915,"SE").
-shift_data("A323164","John Mitchell",20250916,"SN").
-shift_data("A323164","John Mitchell",20250917,"WR").
-shift_data("A323164","John Mitchell",20250918,"LD").
-shift_data("A323164","John Mitchell",20250919,"WR").
-shift_data("A323164","John Mitchell",20250920,"WR").
-shift_data("A323164","John Mitchell",20250921,"D").
-shift_data("A323164","John Mitchell",20250922,"D").
-shift_data("A323164","John Mitchell",20250923,"PH").
-shift_data("A323164","John Mitchell",20250924,"D").
-shift_data("A323164","John Mitchell",20250925,"LD").
-shift_data("A323164","John Mitchell",20250926,"WR").
-shift_data("A323164","John Mitchell",20250927,"D").
-shift_data("A323164","John Mitchell",20250928,"WR").
-shift_data("A323164","John Mitchell",20250929,"D").
-shift_data("A323164","John Mitchell",20250930,"SL").
-shift_data("A323164","John Mitchell",20251001,"SE").
-shift_data("A323164","John Mitchell",20251002,"SN").
-shift_data("A323164","John Mitchell",20251003,"WR").
-shift_data("A323164","John Mitchell",20251004,"SE").
-shift_data("A323164","John Mitchell",20251005,"SN").
-shift_data("A323164","John Mitchell",20251006,"WR").
-shift_data("A323164","John Mitchell",20251007,"LD").
-shift_data("A323164","John Mitchell",20251008,"SE").
-shift_data("A323164","John Mitchell",20251009,"SN").
-shift_data("A323164","John Mitchell",20251010,"WR").
-shift_data("A323164","John Mitchell",20251011,"LD").
-shift_data("A323164","John Mitchell",20251012,"LD").
-shift_data("A323164","John Mitchell",20251013,"SE").
-shift_data("A323164","John Mitchell",20251014,"SN").
-shift_data("A323164","John Mitchell",20251015,"WR").
-shift_data("A323164","John Mitchell",20251016,"D").
-shift_data("A323164","John Mitchell",20251017,"SE").
-shift_data("A323164","John Mitchell",20251018,"SN").
-shift_data("A323164","John Mitchell",20251019,"WR").
-shift_data("A323164","John Mitchell",20251020,"D").
-shift_data("A323164","John Mitchell",20251021,"D").
-shift_data("A323164","John Mitchell",20251022,"WR").
-shift_data("A323164","John Mitchell",20251023,"WR").
-shift_data("A323164","John Mitchell",20251024,"D").
-shift_data("A323164","John Mitchell",20251025,"D").
-shift_data("A323164","John Mitchell",20251026,"LD").
-shift_data("A323164","John Mitchell",20251027,"SE").
-shift_data("A323164","John Mitchell",20251028,"SN").
-shift_data("A323164","John Mitchell",20251029,"AL").
-shift_data("A323164","John Mitchell",20251030,"AL").
-shift_data("A323164","John Mitchell",20251031,"HL").
-shift_data("A323164","John Mitchell",20251101,"HL").
-shift_data("A323164","John Mitchell",20251102,"HL").
-shift_data("A323164","John Mitchell",20251103,"PH").
-shift_data("A323164","John Mitchell",20251104,"WR").
-shift_data("A323164","John Mitchell",20251105,"LD").
-shift_data("A323164","John Mitchell",20251106,"WR").
-shift_data("A323164","John Mitchell",20251107,"WR").
-shift_data("A323164","John Mitchell",20251108,"WR").
-shift_data("A323164","John Mitchell",20251109,"D").
-shift_data("A323164","John Mitchell",20251110,"WR").
-shift_data("A323164","John Mitchell",20251111,"LD").
-shift_data("A323164","John Mitchell",20251112,"SE").
-shift_data("A323164","John Mitchell",20251113,"SN").
-shift_data("A323164","John Mitchell",20251114,"HL").
-shift_data("A323164","John Mitchell",20251115,"AL").
-shift_data("A323164","John Mitchell",20251116,"AL").
-shift_data("A323164","John Mitchell",20251117,"AL").
-shift_data("A323164","John Mitchell",20251118,"D").
-shift_data("A323164","John Mitchell",20251119,"LD").
-shift_data("A323164","John Mitchell",20251120,"WR").
-shift_data("A323164","John Mitchell",20251121,"LD").
-shift_data("A323164","John Mitchell",20251122,"SE").
-shift_data("A323164","John Mitchell",20251123,"SN").
-shift_data("A323164","John Mitchell",20251124,"PH").
-shift_data("A323164","John Mitchell",20251125,"SE").
-shift_data("A323164","John Mitchell",20251126,"SN").
-shift_data("A323164","John Mitchell",20251127,"WR").
-shift_data("A323164","John Mitchell",20251128,"WR").
-shift_data("A323164","John Mitchell",20251129,"WR").
-shift_data("A323164","John Mitchell",20251130,"SE").
-shift_data("A323164","John Mitchell",20251201,"SN").
-shift_data("A323164","John Mitchell",20251202,"WR").
-shift_data("A323164","John Mitchell",20251203,"WR").
-shift_data("A323164","John Mitchell",20251204,"WR").
-shift_data("A323164","John Mitchell",20251205,"D").
-shift_data("A323164","John Mitchell",20251206,"LD").
-shift_data("A323164","John Mitchell",20251207,"WR").
-shift_data("A323164","John Mitchell",20251208,"EM").
-shift_data("A323164","John Mitchell",20251209,"D").
-shift_data("A323164","John Mitchell",20251210,"AL").
-shift_data("A323164","John Mitchell",20251211,"WR").
-shift_data("A323164","John Mitchell",20251212,"D").
-shift_data("A323164","John Mitchell",20251213,"WR").
-shift_data("A323164","John Mitchell",20251214,"D").
-shift_data("A323164","John Mitchell",20251215,"LD").
-shift_data("A323164","John Mitchell",20251216,"SE").
-shift_data("A323164","John Mitchell",20251217,"SN").
-shift_data("A323164","John Mitchell",20251218,"WR").
-shift_data("A323164","John Mitchell",20251219,"D").
-shift_data("A323164","John Mitchell",20251220,"LD").
-shift_data("A323164","John Mitchell",20251221,"SE").
-shift_data("A323164","John Mitchell",20251222,"SN").
-shift_data("A323164","John Mitchell",20251223,"WR").
-shift_data("A323164","John Mitchell",20251224,"LD").
-shift_data("A323164","John Mitchell",20251225,"SE").
-shift_data("A323164","John Mitchell",20251226,"SN").
-shift_data("A323164","John Mitchell",20251227,"WR").
-shift_data("A323164","John Mitchell",20251228,"WR").
-shift_data("A323164","John Mitchell",20251229,"PH").
-shift_data("A323164","John Mitchell",20251230,"PH").
-shift_data("A323164","John Mitchell",20251231,"D").
-shift_data("A401739","Noah Turner",20250405,"WR").
-shift_data("A401739","Noah Turner",20250406,"WR").
-shift_data("A401739","Noah Turner",20250412,"WR").
-shift_data("A401739","Noah Turner",20250413,"WR").
-shift_data("A401739","Noah Turner",20250419,"WR").
-shift_data("A401739","Noah Turner",20250420,"WR").
-shift_data("A401739","Noah Turner",20250426,"WR").
-shift_data("A401739","Noah Turner",20250427,"WR").
-shift_data("A401739","Noah Turner",20250429,"PH").
-shift_data("A401739","Noah Turner",20250501,"HL").
-shift_data("A401739","Noah Turner",20250502,"HL").
-shift_data("A401739","Noah Turner",20250503,"WR").
-shift_data("A401739","Noah Turner",20250504,"WR").
-shift_data("A401739","Noah Turner",20250505,"PH").
-shift_data("A401739","Noah Turner",20250506,"PH").
-shift_data("A401739","Noah Turner",20250510,"WR").
-shift_data("A401739","Noah Turner",20250511,"WR").
-shift_data("A401739","Noah Turner",20250517,"WR").
-shift_data("A401739","Noah Turner",20250518,"WR").
-shift_data("A401739","Noah Turner",20250524,"WR").
-shift_data("A401739","Noah Turner",20250525,"WR").
-shift_data("A401739","Noah Turner",20250531,"WR").
-shift_data("A401739","Noah Turner",20250601,"WR").
-shift_data("A401739","Noah Turner",20250607,"WR").
-shift_data("A401739","Noah Turner",20250608,"WR").
-shift_data("A401739","Noah Turner",20250614,"WR").
-shift_data("A401739","Noah Turner",20250615,"WR").
-shift_data("A401739","Noah Turner",20250621,"WR").
-shift_data("A401739","Noah Turner",20250622,"WR").
-shift_data("A401739","Noah Turner",20250627,"HL").
-shift_data("A401739","Noah Turner",20250628,"WR").
-shift_data("A401739","Noah Turner",20250629,"WR").
-shift_data("A401739","Noah Turner",20250705,"WR").
-shift_data("A401739","Noah Turner",20250706,"WR").
-shift_data("A401739","Noah Turner",20250712,"WR").
-shift_data("A401739","Noah Turner",20250713,"WR").
-shift_data("A401739","Noah Turner",20250719,"WR").
-shift_data("A401739","Noah Turner",20250720,"WR").
-shift_data("A401739","Noah Turner",20250721,"PH").
-shift_data("A401739","Noah Turner",20250726,"WR").
-shift_data("A401739","Noah Turner",20250727,"WR").
-shift_data("A401739","Noah Turner",20250802,"WR").
-shift_data("A401739","Noah Turner",20250803,"WR").
-shift_data("A401739","Noah Turner",20250809,"WR").
-shift_data("A401739","Noah Turner",20250810,"WR").
-shift_data("A401739","Noah Turner",20250811,"PH").
-shift_data("A401739","Noah Turner",20250812,"AL").
-shift_data("A401739","Noah Turner",20250813,"AL").
-shift_data("A401739","Noah Turner",20250816,"WR").
-shift_data("A401739","Noah Turner",20250817,"WR").
-shift_data("A401739","Noah Turner",20250823,"WR").
-shift_data("A401739","Noah Turner",20250824,"WR").
-shift_data("A401739","Noah Turner",20250830,"WR").
-shift_data("A401739","Noah Turner",20250831,"WR").
-shift_data("A401739","Noah Turner",20250906,"WR").
-shift_data("A401739","Noah Turner",20250907,"WR").
-shift_data("A401739","Noah Turner",20250913,"WR").
-shift_data("A401739","Noah Turner",20250914,"WR").
-shift_data("A401739","Noah Turner",20250915,"PH").
-shift_data("A401739","Noah Turner",20250920,"WR").
-shift_data("A401739","Noah Turner",20250921,"WR").
-shift_data("A401739","Noah Turner",20250923,"PH").
-shift_data("A401739","Noah Turner",20250927,"WR").
-shift_data("A401739","Noah Turner",20250928,"WR").
-shift_data("A401739","Noah Turner",20251004,"WR").
-shift_data("A401739","Noah Turner",20251005,"WR").
-shift_data("A401739","Noah Turner",20251011,"WR").
-shift_data("A401739","Noah Turner",20251012,"WR").
-shift_data("A401739","Noah Turner",20251013,"PH").
-shift_data("A401739","Noah Turner",20251017,"HL").
-shift_data("A401739","Noah Turner",20251018,"WR").
-shift_data("A401739","Noah Turner",20251019,"WR").
-shift_data("A401739","Noah Turner",20251025,"WR").
-shift_data("A401739","Noah Turner",20251026,"WR").
-shift_data("A401739","Noah Turner",20251101,"WR").
-shift_data("A401739","Noah Turner",20251102,"WR").
-shift_data("A401739","Noah Turner",20251103,"PH").
-shift_data("A401739","Noah Turner",20251108,"WR").
-shift_data("A401739","Noah Turner",20251109,"WR").
-shift_data("A401739","Noah Turner",20251115,"WR").
-shift_data("A401739","Noah Turner",20251116,"WR").
-shift_data("A401739","Noah Turner",20251121,"AL").
-shift_data("A401739","Noah Turner",20251122,"WR").
-shift_data("A401739","Noah Turner",20251123,"WR").
-shift_data("A401739","Noah Turner",20251124,"PH").
-shift_data("A401739","Noah Turner",20251128,"AL").
-shift_data("A401739","Noah Turner",20251129,"WR").
-shift_data("A401739","Noah Turner",20251130,"WR").
-shift_data("A401739","Noah Turner",20251206,"WR").
-shift_data("A401739","Noah Turner",20251207,"WR").
-shift_data("A401739","Noah Turner",20251213,"WR").
-shift_data("A401739","Noah Turner",20251214,"WR").
-shift_data("A401739","Noah Turner",20251220,"WR").
-shift_data("A401739","Noah Turner",20251221,"WR").
-shift_data("A401739","Noah Turner",20251227,"WR").
-shift_data("A401739","Noah Turner",20251228,"WR").
-shift_data("A401739","Noah Turner",20251229,"PH").
-shift_data("A401739","Noah Turner",20251230,"PH").
-shift_data("A401739","Noah Turner",20251231,"PH").
-shift_data("A613440","Michael Morales",20250624,"AL").
-shift_data("A613440","Michael Morales",20250829,"AL").
-shift_data("A613440","Michael Morales",20250903,"AL").
-shift_data("A613440","Michael Morales",20251022,"AL").
-shift_data("A613440","Michael Morales",20251118,"AL").
-shift_data("A613440","Michael Morales",20251201,"AL").
-shift_data("A613440","Michael Morales",20251216,"AL").
-shift_data("A613440","Michael Morales",20251225,"BL").
-shift_data("A613440","Michael Morales",20251226,"AB").
-shift_data("A613440","Michael Morales",20251229,"PH").
-shift_data("A613440","Michael Morales",20251230,"PH").
-shift_data("A613440","Michael Morales",20251231,"PH").
-shift_data("A643086","Jayden Brown",20250401,"D").
-shift_data("A643086","Jayden Brown",20250402,"D").
-shift_data("A643086","Jayden Brown",20250403,"D").
-shift_data("A643086","Jayden Brown",20250404,"D").
-shift_data("A643086","Jayden Brown",20250405,"WR").
-shift_data("A643086","Jayden Brown",20250406,"WR").
-shift_data("A643086","Jayden Brown",20250407,"D").
-shift_data("A643086","Jayden Brown",20250408,"D").
-shift_data("A643086","Jayden Brown",20250409,"D").
-shift_data("A643086","Jayden Brown",20250410,"D").
-shift_data("A643086","Jayden Brown",20250411,"D").
-shift_data("A643086","Jayden Brown",20250412,"WR").
-shift_data("A643086","Jayden Brown",20250413,"WR").
-shift_data("A643086","Jayden Brown",20250414,"D").
-shift_data("A643086","Jayden Brown",20250415,"D").
-shift_data("A643086","Jayden Brown",20250416,"D").
-shift_data("A643086","Jayden Brown",20250417,"D").
-shift_data("A643086","Jayden Brown",20250418,"D").
-shift_data("A643086","Jayden Brown",20250419,"WR").
-shift_data("A643086","Jayden Brown",20250420,"WR").
-shift_data("A643086","Jayden Brown",20250421,"D").
-shift_data("A643086","Jayden Brown",20250422,"D").
-shift_data("A643086","Jayden Brown",20250423,"D").
-shift_data("A643086","Jayden Brown",20250424,"D").
-shift_data("A643086","Jayden Brown",20250425,"D").
-shift_data("A643086","Jayden Brown",20250426,"WR").
-shift_data("A643086","Jayden Brown",20250427,"WR").
-shift_data("A643086","Jayden Brown",20250428,"D").
-shift_data("A643086","Jayden Brown",20250429,"PH").
-shift_data("A643086","Jayden Brown",20250430,"D").
-shift_data("A643086","Jayden Brown",20250501,"D").
-shift_data("A643086","Jayden Brown",20250502,"D").
-shift_data("A643086","Jayden Brown",20250503,"WR").
-shift_data("A643086","Jayden Brown",20250504,"WR").
-shift_data("A643086","Jayden Brown",20250505,"PH").
-shift_data("A643086","Jayden Brown",20250506,"PH").
-shift_data("A643086","Jayden Brown",20250507,"D").
-shift_data("A643086","Jayden Brown",20250508,"D").
-shift_data("A643086","Jayden Brown",20250509,"D").
-shift_data("A643086","Jayden Brown",20250510,"D").
-shift_data("A643086","Jayden Brown",20250511,"WR").
-shift_data("A643086","Jayden Brown",20250512,"D").
-shift_data("A643086","Jayden Brown",20250513,"D").
-shift_data("A643086","Jayden Brown",20250514,"D").
-shift_data("A643086","Jayden Brown",20250515,"WR").
-shift_data("A643086","Jayden Brown",20250516,"D").
-shift_data("A643086","Jayden Brown",20250517,"LD").
-shift_data("A643086","Jayden Brown",20250518,"SE").
-shift_data("A643086","Jayden Brown",20250519,"SN").
-shift_data("A643086","Jayden Brown",20250520,"WR").
-shift_data("A643086","Jayden Brown",20250521,"WR").
-shift_data("A643086","Jayden Brown",20250522,"D").
-shift_data("A643086","Jayden Brown",20250523,"D").
-shift_data("A643086","Jayden Brown",20250524,"WR").
-shift_data("A643086","Jayden Brown",20250525,"LD").
-shift_data("A643086","Jayden Brown",20250526,"SE").
-shift_data("A643086","Jayden Brown",20250527,"SN").
-shift_data("A643086","Jayden Brown",20250528,"WR").
-shift_data("A643086","Jayden Brown",20250529,"D").
-shift_data("A643086","Jayden Brown",20250530,"D").
-shift_data("A643086","Jayden Brown",20250531,"WR").
-shift_data("A643086","Jayden Brown",20250601,"WR").
-shift_data("A643086","Jayden Brown",20250602,"D").
-shift_data("A643086","Jayden Brown",20250603,"D").
-shift_data("A643086","Jayden Brown",20250604,"WR").
-shift_data("A643086","Jayden Brown",20250605,"D").
-shift_data("A643086","Jayden Brown",20250606,"D").
-shift_data("A643086","Jayden Brown",20250607,"D").
-shift_data("A643086","Jayden Brown",20250608,"D").
-shift_data("A643086","Jayden Brown",20250609,"WR").
-shift_data("A643086","Jayden Brown",20250610,"D").
-shift_data("A643086","Jayden Brown",20250611,"D").
-shift_data("A643086","Jayden Brown",20250612,"D").
-shift_data("A643086","Jayden Brown",20250613,"D").
-shift_data("A643086","Jayden Brown",20250614,"D").
-shift_data("A643086","Jayden Brown",20250615,"WR").
-shift_data("A643086","Jayden Brown",20250616,"D").
-shift_data("A643086","Jayden Brown",20250617,"D").
-shift_data("A643086","Jayden Brown",20250618,"D").
-shift_data("A643086","Jayden Brown",20250619,"WR").
-shift_data("A643086","Jayden Brown",20250620,"D").
-shift_data("A643086","Jayden Brown",20250621,"WR").
-shift_data("A643086","Jayden Brown",20250622,"D").
-shift_data("A643086","Jayden Brown",20250623,"WR").
-shift_data("A643086","Jayden Brown",20250624,"D").
-shift_data("A643086","Jayden Brown",20250625,"D").
-shift_data("A643086","Jayden Brown",20250626,"D").
-shift_data("A643086","Jayden Brown",20250627,"D").
-shift_data("A643086","Jayden Brown",20250628,"WR").
-shift_data("A643086","Jayden Brown",20250629,"WR").
-shift_data("A643086","Jayden Brown",20250630,"LD").
-shift_data("A643086","Jayden Brown",20250701,"SE").
-shift_data("A643086","Jayden Brown",20250702,"SN").
-shift_data("A643086","Jayden Brown",20250703,"WR").
-shift_data("A643086","Jayden Brown",20250704,"D").
-shift_data("A643086","Jayden Brown",20250705,"WR").
-shift_data("A643086","Jayden Brown",20250706,"WR").
-shift_data("A643086","Jayden Brown",20250707,"D").
-shift_data("A643086","Jayden Brown",20250708,"D").
-shift_data("A643086","Jayden Brown",20250709,"WR").
-shift_data("A643086","Jayden Brown",20250710,"D").
-shift_data("A643086","Jayden Brown",20250711,"D").
-shift_data("A643086","Jayden Brown",20250712,"D").
-shift_data("A643086","Jayden Brown",20250713,"D").
-shift_data("A643086","Jayden Brown",20250714,"D").
-shift_data("A643086","Jayden Brown",20250715,"WR").
-shift_data("A643086","Jayden Brown",20250716,"D").
-shift_data("A643086","Jayden Brown",20250717,"SL").
-shift_data("A643086","Jayden Brown",20250718,"SL").
-shift_data("A643086","Jayden Brown",20250719,"SL").
-shift_data("A643086","Jayden Brown",20250720,"WR").
-shift_data("A643086","Jayden Brown",20250721,"D").
-shift_data("A643086","Jayden Brown",20250722,"WR").
-shift_data("A643086","Jayden Brown",20250723,"WR").
-shift_data("A643086","Jayden Brown",20250724,"D").
-shift_data("A643086","Jayden Brown",20250725,"LD").
-shift_data("A643086","Jayden Brown",20250726,"SE").
-shift_data("A643086","Jayden Brown",20250727,"SN").
-shift_data("A643086","Jayden Brown",20250728,"WR").
-shift_data("A643086","Jayden Brown",20250729,"D").
-shift_data("A643086","Jayden Brown",20250730,"D").
-shift_data("A643086","Jayden Brown",20250731,"LD").
-shift_data("A643086","Jayden Brown",20250801,"SE").
-shift_data("A643086","Jayden Brown",20250802,"SN").
-shift_data("A643086","Jayden Brown",20250803,"WR").
-shift_data("A643086","Jayden Brown",20250804,"D").
-shift_data("A643086","Jayden Brown",20250805,"D").
-shift_data("A643086","Jayden Brown",20250806,"D").
-shift_data("A643086","Jayden Brown",20250807,"D").
-shift_data("A643086","Jayden Brown",20250808,"D").
-shift_data("A643086","Jayden Brown",20250809,"WR").
-shift_data("A643086","Jayden Brown",20250810,"WR").
-shift_data("A643086","Jayden Brown",20250811,"LD").
-shift_data("A643086","Jayden Brown",20250812,"SE").
-shift_data("A643086","Jayden Brown",20250813,"SN").
-shift_data("A643086","Jayden Brown",20250814,"WR").
-shift_data("A643086","Jayden Brown",20250815,"D").
-shift_data("A643086","Jayden Brown",20250816,"WR").
-shift_data("A643086","Jayden Brown",20250817,"WR").
-shift_data("A643086","Jayden Brown",20250818,"HL").
-shift_data("A643086","Jayden Brown",20250819,"HL").
-shift_data("A643086","Jayden Brown",20250820,"HL").
-shift_data("A643086","Jayden Brown",20250821,"D").
-shift_data("A643086","Jayden Brown",20250822,"D").
-shift_data("A643086","Jayden Brown",20250823,"LD").
-shift_data("A643086","Jayden Brown",20250824,"SE").
-shift_data("A643086","Jayden Brown",20250825,"SN").
-shift_data("A643086","Jayden Brown",20250826,"WR").
-shift_data("A643086","Jayden Brown",20250827,"AL").
-shift_data("A643086","Jayden Brown",20250828,"WR").
-shift_data("A643086","Jayden Brown",20250829,"BL").
-shift_data("A643086","Jayden Brown",20250830,"EM").
-shift_data("A643086","Jayden Brown",20250831,"WR").
-shift_data("A643086","Jayden Brown",20250901,"WR").
-shift_data("A643086","Jayden Brown",20250902,"D").
-shift_data("A643086","Jayden Brown",20250903,"WR").
-shift_data("A643086","Jayden Brown",20250904,"LD").
-shift_data("A643086","Jayden Brown",20250905,"SE").
-shift_data("A643086","Jayden Brown",20250906,"SN").
-shift_data("A643086","Jayden Brown",20250907,"WR").
-shift_data("A643086","Jayden Brown",20250908,"LD").
-shift_data("A643086","Jayden Brown",20250909,"SE").
-shift_data("A643086","Jayden Brown",20250910,"SN").
-shift_data("A643086","Jayden Brown",20250911,"WR").
-shift_data("A643086","Jayden Brown",20250912,"AL").
-shift_data("A643086","Jayden Brown",20250913,"D").
-shift_data("A643086","Jayden Brown",20250914,"WR").
-shift_data("A643086","Jayden Brown",20250915,"D").
-shift_data("A643086","Jayden Brown",20250916,"D").
-shift_data("A643086","Jayden Brown",20250917,"D").
-shift_data("A643086","Jayden Brown",20250918,"WR").
-shift_data("A643086","Jayden Brown",20250919,"D").
-shift_data("A643086","Jayden Brown",20250920,"D").
-shift_data("A643086","Jayden Brown",20250921,"SE").
-shift_data("A643086","Jayden Brown",20250922,"SN").
-shift_data("A643086","Jayden Brown",20250923,"PH").
-shift_data("A643086","Jayden Brown",20250924,"D").
-shift_data("A643086","Jayden Brown",20250925,"LD").
-shift_data("A643086","Jayden Brown",20250926,"SE").
-shift_data("A643086","Jayden Brown",20250927,"SN").
-shift_data("A643086","Jayden Brown",20250928,"WR").
-shift_data("A643086","Jayden Brown",20250929,"D").
-shift_data("A643086","Jayden Brown",20250930,"WR").
-shift_data("A643086","Jayden Brown",20251001,"LD").
-shift_data("A643086","Jayden Brown",20251002,"SE").
-shift_data("A643086","Jayden Brown",20251003,"SN").
-shift_data("A643086","Jayden Brown",20251004,"WR").
-shift_data("A643086","Jayden Brown",20251005,"WR").
-shift_data("A643086","Jayden Brown",20251006,"LD").
-shift_data("A643086","Jayden Brown",20251007,"SE").
-shift_data("A643086","Jayden Brown",20251008,"SN").
-shift_data("A643086","Jayden Brown",20251009,"WR").
-shift_data("A643086","Jayden Brown",20251010,"LD").
-shift_data("A643086","Jayden Brown",20251011,"WR").
-shift_data("A643086","Jayden Brown",20251012,"D").
-shift_data("A643086","Jayden Brown",20251013,"D").
-shift_data("A643086","Jayden Brown",20251014,"WR").
-shift_data("A643086","Jayden Brown",20251015,"D").
-shift_data("A643086","Jayden Brown",20251016,"AL").
-shift_data("A643086","Jayden Brown",20251017,"LD").
-shift_data("A643086","Jayden Brown",20251018,"SE").
-shift_data("A643086","Jayden Brown",20251019,"SN").
-shift_data("A643086","Jayden Brown",20251020,"WR").
-shift_data("A643086","Jayden Brown",20251021,"WR").
-shift_data("A643086","Jayden Brown",20251022,"WR").
-shift_data("A643086","Jayden Brown",20251023,"D").
-shift_data("A643086","Jayden Brown",20251024,"D").
-shift_data("A643086","Jayden Brown",20251025,"LD").
-shift_data("A643086","Jayden Brown",20251026,"SE").
-shift_data("A643086","Jayden Brown",20251027,"SN").
-shift_data("A643086","Jayden Brown",20251028,"WR").
-shift_data("A643086","Jayden Brown",20251029,"D").
-shift_data("A643086","Jayden Brown",20251030,"WR").
-shift_data("A643086","Jayden Brown",20251031,"LD").
-shift_data("A643086","Jayden Brown",20251101,"SE").
-shift_data("A643086","Jayden Brown",20251102,"SN").
-shift_data("A643086","Jayden Brown",20251103,"PH").
-shift_data("A643086","Jayden Brown",20251104,"WR").
-shift_data("A643086","Jayden Brown",20251105,"WR").
-shift_data("A643086","Jayden Brown",20251106,"LD").
-shift_data("A643086","Jayden Brown",20251107,"SE").
-shift_data("A643086","Jayden Brown",20251108,"SN").
-shift_data("A643086","Jayden Brown",20251109,"WR").
-shift_data("A643086","Jayden Brown",20251110,"HL").
-shift_data("A643086","Jayden Brown",20251111,"AL").
-shift_data("A643086","Jayden Brown",20251112,"D").
-shift_data("A643086","Jayden Brown",20251113,"D").
-shift_data("A643086","Jayden Brown",20251114,"WR").
-shift_data("A643086","Jayden Brown",20251115,"D").
-shift_data("A643086","Jayden Brown",20251116,"WR").
-shift_data("A643086","Jayden Brown",20251117,"LD").
-shift_data("A643086","Jayden Brown",20251118,"WR").
-shift_data("A643086","Jayden Brown",20251119,"D").
-shift_data("A643086","Jayden Brown",20251120,"D").
-shift_data("A643086","Jayden Brown",20251121,"D").
-shift_data("A643086","Jayden Brown",20251122,"WR").
-shift_data("A643086","Jayden Brown",20251123,"SE").
-shift_data("A643086","Jayden Brown",20251124,"SN").
-shift_data("A643086","Jayden Brown",20251125,"WR").
-shift_data("A643086","Jayden Brown",20251126,"LD").
-shift_data("A643086","Jayden Brown",20251127,"SE").
-shift_data("A643086","Jayden Brown",20251128,"SN").
-shift_data("A643086","Jayden Brown",20251129,"WR").
-shift_data("A643086","Jayden Brown",20251130,"LD").
-shift_data("A643086","Jayden Brown",20251201,"SE").
-shift_data("A643086","Jayden Brown",20251202,"SN").
-shift_data("A643086","Jayden Brown",20251203,"WR").
-shift_data("A643086","Jayden Brown",20251204,"LD").
-shift_data("A643086","Jayden Brown",20251205,"SE").
-shift_data("A643086","Jayden Brown",20251206,"SN").
-shift_data("A643086","Jayden Brown",20251207,"WR").
-shift_data("A643086","Jayden Brown",20251208,"D").
-shift_data("A643086","Jayden Brown",20251209,"D").
-shift_data("A643086","Jayden Brown",20251210,"SE").
-shift_data("A643086","Jayden Brown",20251211,"SN").
-shift_data("A643086","Jayden Brown",20251212,"WR").
-shift_data("A643086","Jayden Brown",20251213,"WR").
-shift_data("A643086","Jayden Brown",20251214,"AL").
-shift_data("A643086","Jayden Brown",20251215,"AL").
-shift_data("A643086","Jayden Brown",20251216,"LD").
-shift_data("A643086","Jayden Brown",20251217,"SE").
-shift_data("A643086","Jayden Brown",20251218,"SN").
-shift_data("A643086","Jayden Brown",20251219,"WR").
-shift_data("A643086","Jayden Brown",20251220,"D").
-shift_data("A643086","Jayden Brown",20251221,"D").
-shift_data("A643086","Jayden Brown",20251222,"WR").
-shift_data("A643086","Jayden Brown",20251223,"LD").
-shift_data("A643086","Jayden Brown",20251224,"WR").
-shift_data("A643086","Jayden Brown",20251225,"D").
-shift_data("A643086","Jayden Brown",20251226,"D").
-shift_data("A643086","Jayden Brown",20251227,"WR").
-shift_data("A643086","Jayden Brown",20251228,"WR").
-shift_data("A643086","Jayden Brown",20251229,"LD").
-shift_data("A643086","Jayden Brown",20251230,"SE").
-shift_data("A643086","Jayden Brown",20251231,"SN").
-shift_data("A643680","James Torres",20250405,"WR").
-shift_data("A643680","James Torres",20250406,"WR").
-shift_data("A643680","James Torres",20250412,"WR").
-shift_data("A643680","James Torres",20250413,"WR").
-shift_data("A643680","James Torres",20250419,"WR").
-shift_data("A643680","James Torres",20250420,"WR").
-shift_data("A643680","James Torres",20250426,"WR").
-shift_data("A643680","James Torres",20250427,"WR").
-shift_data("A643680","James Torres",20250429,"PH").
-shift_data("A643680","James Torres",20250503,"WR").
-shift_data("A643680","James Torres",20250504,"WR").
-shift_data("A643680","James Torres",20250505,"PH").
-shift_data("A643680","James Torres",20250506,"PH").
-shift_data("A643680","James Torres",20250510,"WR").
-shift_data("A643680","James Torres",20250511,"WR").
-shift_data("A643680","James Torres",20250517,"WR").
-shift_data("A643680","James Torres",20250518,"WR").
-shift_data("A643680","James Torres",20250524,"WR").
-shift_data("A643680","James Torres",20250525,"WR").
-shift_data("A643680","James Torres",20250531,"WR").
-shift_data("A643680","James Torres",20250601,"WR").
-shift_data("A643680","James Torres",20250607,"WR").
-shift_data("A643680","James Torres",20250608,"WR").
-shift_data("A643680","James Torres",20250614,"WR").
-shift_data("A643680","James Torres",20250615,"WR").
-shift_data("A643680","James Torres",20250621,"WR").
-shift_data("A643680","James Torres",20250622,"WR").
-shift_data("A643680","James Torres",20250628,"WR").
-shift_data("A643680","James Torres",20250629,"WR").
-shift_data("A643680","James Torres",20250630,"AL").
-shift_data("A722187","Wyatt Cooper",20250401,"D").
-shift_data("A722187","Wyatt Cooper",20250402,"D").
-shift_data("A722187","Wyatt Cooper",20250403,"D").
-shift_data("A722187","Wyatt Cooper",20250404,"D").
-shift_data("A722187","Wyatt Cooper",20250405,"WR").
-shift_data("A722187","Wyatt Cooper",20250406,"WR").
-shift_data("A722187","Wyatt Cooper",20250407,"D").
-shift_data("A722187","Wyatt Cooper",20250408,"D").
-shift_data("A722187","Wyatt Cooper",20250409,"D").
-shift_data("A722187","Wyatt Cooper",20250410,"D").
-shift_data("A722187","Wyatt Cooper",20250411,"D").
-shift_data("A722187","Wyatt Cooper",20250412,"WR").
-shift_data("A722187","Wyatt Cooper",20250413,"WR").
-shift_data("A722187","Wyatt Cooper",20250414,"D").
-shift_data("A722187","Wyatt Cooper",20250415,"D").
-shift_data("A722187","Wyatt Cooper",20250416,"D").
-shift_data("A722187","Wyatt Cooper",20250417,"D").
-shift_data("A722187","Wyatt Cooper",20250418,"D").
-shift_data("A722187","Wyatt Cooper",20250419,"WR").
-shift_data("A722187","Wyatt Cooper",20250420,"WR").
-shift_data("A722187","Wyatt Cooper",20250421,"D").
-shift_data("A722187","Wyatt Cooper",20250422,"D").
-shift_data("A722187","Wyatt Cooper",20250423,"D").
-shift_data("A722187","Wyatt Cooper",20250424,"D").
-shift_data("A722187","Wyatt Cooper",20250425,"D").
-shift_data("A722187","Wyatt Cooper",20250426,"WR").
-shift_data("A722187","Wyatt Cooper",20250427,"WR").
-shift_data("A722187","Wyatt Cooper",20250428,"D").
-shift_data("A722187","Wyatt Cooper",20250429,"PH").
-shift_data("A722187","Wyatt Cooper",20250430,"D").
-shift_data("A722187","Wyatt Cooper",20250501,"D").
-shift_data("A722187","Wyatt Cooper",20250502,"D").
-shift_data("A722187","Wyatt Cooper",20250503,"WR").
-shift_data("A722187","Wyatt Cooper",20250504,"D").
-shift_data("A722187","Wyatt Cooper",20250505,"PH").
-shift_data("A722187","Wyatt Cooper",20250506,"PH").
-shift_data("A722187","Wyatt Cooper",20250507,"WR").
-shift_data("A722187","Wyatt Cooper",20250508,"WR").
-shift_data("A722187","Wyatt Cooper",20250509,"LD").
-shift_data("A722187","Wyatt Cooper",20250510,"SE").
-shift_data("A722187","Wyatt Cooper",20250511,"SN").
-shift_data("A722187","Wyatt Cooper",20250512,"WR").
-shift_data("A722187","Wyatt Cooper",20250513,"D").
-shift_data("A722187","Wyatt Cooper",20250514,"D").
-shift_data("A722187","Wyatt Cooper",20250515,"D").
-shift_data("A722187","Wyatt Cooper",20250516,"D").
-shift_data("A722187","Wyatt Cooper",20250517,"WR").
-shift_data("A722187","Wyatt Cooper",20250518,"WR").
-shift_data("A722187","Wyatt Cooper",20250519,"D").
-shift_data("A722187","Wyatt Cooper",20250520,"D").
-shift_data("A722187","Wyatt Cooper",20250521,"D").
-shift_data("A722187","Wyatt Cooper",20250522,"D").
-shift_data("A722187","Wyatt Cooper",20250523,"D").
-shift_data("A722187","Wyatt Cooper",20250524,"WR").
-shift_data("A722187","Wyatt Cooper",20250525,"WR").
-shift_data("A722187","Wyatt Cooper",20250526,"D").
-shift_data("A722187","Wyatt Cooper",20250527,"D").
-shift_data("A722187","Wyatt Cooper",20250528,"D").
-shift_data("A722187","Wyatt Cooper",20250529,"D").
-shift_data("A722187","Wyatt Cooper",20250530,"D").
-shift_data("A722187","Wyatt Cooper",20250531,"WR").
-shift_data("A722187","Wyatt Cooper",20250601,"D").
-shift_data("A722187","Wyatt Cooper",20250602,"WR").
-shift_data("A722187","Wyatt Cooper",20250603,"BL").
-shift_data("A722187","Wyatt Cooper",20250604,"LD").
-shift_data("A722187","Wyatt Cooper",20250605,"SE").
-shift_data("A722187","Wyatt Cooper",20250606,"SN").
-shift_data("A722187","Wyatt Cooper",20250607,"WR").
-shift_data("A722187","Wyatt Cooper",20250608,"WR").
-shift_data("A722187","Wyatt Cooper",20250609,"D").
-shift_data("A722187","Wyatt Cooper",20250610,"D").
-shift_data("A722187","Wyatt Cooper",20250611,"D").
-shift_data("A722187","Wyatt Cooper",20250612,"D").
-shift_data("A722187","Wyatt Cooper",20250613,"D").
-shift_data("A722187","Wyatt Cooper",20250614,"WR").
-shift_data("A722187","Wyatt Cooper",20250615,"D").
-shift_data("A722187","Wyatt Cooper",20250616,"WR").
-shift_data("A722187","Wyatt Cooper",20250617,"D").
-shift_data("A722187","Wyatt Cooper",20250618,"WR").
-shift_data("A722187","Wyatt Cooper",20250619,"D").
-shift_data("A722187","Wyatt Cooper",20250620,"LD").
-shift_data("A722187","Wyatt Cooper",20250621,"SE").
-shift_data("A722187","Wyatt Cooper",20250622,"SN").
-shift_data("A722187","Wyatt Cooper",20250623,"WR").
-shift_data("A722187","Wyatt Cooper",20250624,"D").
-shift_data("A722187","Wyatt Cooper",20250625,"D").
-shift_data("A722187","Wyatt Cooper",20250626,"D").
-shift_data("A722187","Wyatt Cooper",20250627,"WR").
-shift_data("A722187","Wyatt Cooper",20250628,"D").
-shift_data("A722187","Wyatt Cooper",20250629,"WR").
-shift_data("A722187","Wyatt Cooper",20250630,"D").
-shift_data("A722187","Wyatt Cooper",20250701,"LD").
-shift_data("A722187","Wyatt Cooper",20250702,"SE").
-shift_data("A722187","Wyatt Cooper",20250703,"SN").
-shift_data("A722187","Wyatt Cooper",20250704,"WR").
-shift_data("A722187","Wyatt Cooper",20250705,"WR").
-shift_data("A722187","Wyatt Cooper",20250706,"D").
-shift_data("A722187","Wyatt Cooper",20250707,"WR").
-shift_data("A722187","Wyatt Cooper",20250708,"D").
-shift_data("A722187","Wyatt Cooper",20250709,"WR").
-shift_data("A722187","Wyatt Cooper",20250710,"D").
-shift_data("A722187","Wyatt Cooper",20250711,"LD").
-shift_data("A722187","Wyatt Cooper",20250712,"SE").
-shift_data("A722187","Wyatt Cooper",20250713,"SN").
-shift_data("A722187","Wyatt Cooper",20250714,"WR").
-shift_data("A722187","Wyatt Cooper",20250715,"D").
-shift_data("A722187","Wyatt Cooper",20250716,"D").
-shift_data("A722187","Wyatt Cooper",20250717,"D").
-shift_data("A722187","Wyatt Cooper",20250718,"D").
-shift_data("A722187","Wyatt Cooper",20250719,"D").
-shift_data("A722187","Wyatt Cooper",20250720,"WR").
-shift_data("A722187","Wyatt Cooper",20250721,"PH").
-shift_data("A722187","Wyatt Cooper",20250722,"D").
-shift_data("A722187","Wyatt Cooper",20250723,"D").
-shift_data("A722187","Wyatt Cooper",20250724,"LD").
-shift_data("A722187","Wyatt Cooper",20250725,"SE").
-shift_data("A722187","Wyatt Cooper",20250726,"SN").
-shift_data("A722187","Wyatt Cooper",20250727,"WR").
-shift_data("A722187","Wyatt Cooper",20250728,"D").
-shift_data("A722187","Wyatt Cooper",20250729,"D").
-shift_data("A722187","Wyatt Cooper",20250730,"WR").
-shift_data("A722187","Wyatt Cooper",20250731,"D").
-shift_data("A722187","Wyatt Cooper",20250801,"LD").
-shift_data("A722187","Wyatt Cooper",20250802,"SE").
-shift_data("A722187","Wyatt Cooper",20250803,"SN").
-shift_data("A722187","Wyatt Cooper",20250804,"WR").
-shift_data("A722187","Wyatt Cooper",20250805,"WR").
-shift_data("A722187","Wyatt Cooper",20250806,"D").
-shift_data("A722187","Wyatt Cooper",20250807,"WR").
-shift_data("A722187","Wyatt Cooper",20250808,"D").
-shift_data("A722187","Wyatt Cooper",20250809,"LD").
-shift_data("A722187","Wyatt Cooper",20250810,"SE").
-shift_data("A722187","Wyatt Cooper",20250811,"SN").
-shift_data("A722187","Wyatt Cooper",20250812,"WR").
-shift_data("A722187","Wyatt Cooper",20250813,"D").
-shift_data("A722187","Wyatt Cooper",20250814,"D").
-shift_data("A722187","Wyatt Cooper",20250815,"D").
-shift_data("A722187","Wyatt Cooper",20250816,"WR").
-shift_data("A722187","Wyatt Cooper",20250817,"LD").
-shift_data("A722187","Wyatt Cooper",20250818,"SE").
-shift_data("A722187","Wyatt Cooper",20250819,"SN").
-shift_data("A722187","Wyatt Cooper",20250820,"WR").
-shift_data("A722187","Wyatt Cooper",20250821,"D").
-shift_data("A722187","Wyatt Cooper",20250822,"D").
-shift_data("A722187","Wyatt Cooper",20250823,"D").
-shift_data("A722187","Wyatt Cooper",20250824,"WR").
-shift_data("A722187","Wyatt Cooper",20250825,"WR").
-shift_data("A722187","Wyatt Cooper",20250826,"D").
-shift_data("A722187","Wyatt Cooper",20250827,"AL").
-shift_data("A722187","Wyatt Cooper",20250828,"WR").
-shift_data("A722187","Wyatt Cooper",20250829,"LD").
-shift_data("A722187","Wyatt Cooper",20250830,"SE").
-shift_data("A722187","Wyatt Cooper",20250831,"SN").
-shift_data("A722187","Wyatt Cooper",20250901,"WR").
-shift_data("A722187","Wyatt Cooper",20250902,"D").
-shift_data("A722187","Wyatt Cooper",20250903,"D").
-shift_data("A722187","Wyatt Cooper",20250904,"D").
-shift_data("A722187","Wyatt Cooper",20250905,"LD").
-shift_data("A722187","Wyatt Cooper",20250906,"WR").
-shift_data("A722187","Wyatt Cooper",20250907,"D").
-shift_data("A722187","Wyatt Cooper",20250908,"WR").
-shift_data("A722187","Wyatt Cooper",20250909,"WR").
-shift_data("A722187","Wyatt Cooper",20250910,"D").
-shift_data("A722187","Wyatt Cooper",20250911,"D").
-shift_data("A722187","Wyatt Cooper",20250912,"SE").
-shift_data("A722187","Wyatt Cooper",20250913,"SN").
-shift_data("A722187","Wyatt Cooper",20250914,"WR").
-shift_data("A722187","Wyatt Cooper",20250915,"PH").
-shift_data("A722187","Wyatt Cooper",20250916,"HL").
-shift_data("A722187","Wyatt Cooper",20250917,"WR").
-shift_data("A722187","Wyatt Cooper",20250918,"WR").
-shift_data("A722187","Wyatt Cooper",20250919,"LD").
-shift_data("A722187","Wyatt Cooper",20250920,"SE").
-shift_data("A722187","Wyatt Cooper",20250921,"SN").
-shift_data("A722187","Wyatt Cooper",20250922,"WR").
-shift_data("A722187","Wyatt Cooper",20250923,"LD").
-shift_data("A722187","Wyatt Cooper",20250924,"SE").
-shift_data("A722187","Wyatt Cooper",20250925,"SN").
-shift_data("A722187","Wyatt Cooper",20250926,"WR").
-shift_data("A722187","Wyatt Cooper",20250927,"D").
-shift_data("A722187","Wyatt Cooper",20250928,"D").
-shift_data("A722187","Wyatt Cooper",20250929,"D").
-shift_data("A722187","Wyatt Cooper",20250930,"LM").
-shift_data("A722187","Wyatt Cooper",20251001,"WR").
-shift_data("A722187","Wyatt Cooper",20251002,"LD").
-shift_data("A722187","Wyatt Cooper",20251003,"SE").
-shift_data("A722187","Wyatt Cooper",20251004,"SN").
-shift_data("A722187","Wyatt Cooper",20251005,"WR").
-shift_data("A722187","Wyatt Cooper",20251006,"D").
-shift_data("A722187","Wyatt Cooper",20251007,"D").
-shift_data("A722187","Wyatt Cooper",20251008,"LD").
-shift_data("A722187","Wyatt Cooper",20251009,"SE").
-shift_data("A722187","Wyatt Cooper",20251010,"SN").
-shift_data("A722187","Wyatt Cooper",20251011,"WR").
-shift_data("A722187","Wyatt Cooper",20251012,"WR").
-shift_data("A722187","Wyatt Cooper",20251013,"LD").
-shift_data("A722187","Wyatt Cooper",20251014,"SE").
-shift_data("A722187","Wyatt Cooper",20251015,"SN").
-shift_data("A722187","Wyatt Cooper",20251016,"WR").
-shift_data("A722187","Wyatt Cooper",20251017,"SL").
-shift_data("A722187","Wyatt Cooper",20251018,"LD").
-shift_data("A722187","Wyatt Cooper",20251019,"WR").
-shift_data("A722187","Wyatt Cooper",20251020,"WR").
-shift_data("A722187","Wyatt Cooper",20251021,"D").
-shift_data("A722187","Wyatt Cooper",20251022,"D").
-shift_data("A722187","Wyatt Cooper",20251023,"D").
-shift_data("A722187","Wyatt Cooper",20251024,"WR").
-shift_data("A722187","Wyatt Cooper",20251025,"SE").
-shift_data("A722187","Wyatt Cooper",20251026,"SN").
-shift_data("A722187","Wyatt Cooper",20251027,"AL").
-shift_data("A722187","Wyatt Cooper",20251028,"AL").
-shift_data("A722187","Wyatt Cooper",20251029,"D").
-shift_data("A722187","Wyatt Cooper",20251030,"WR").
-shift_data("A722187","Wyatt Cooper",20251031,"SE").
-shift_data("A722187","Wyatt Cooper",20251101,"SN").
-shift_data("A722187","Wyatt Cooper",20251102,"WR").
-shift_data("A722187","Wyatt Cooper",20251103,"D").
-shift_data("A722187","Wyatt Cooper",20251104,"LD").
-shift_data("A722187","Wyatt Cooper",20251105,"WR").
-shift_data("A722187","Wyatt Cooper",20251106,"D").
-shift_data("A722187","Wyatt Cooper",20251107,"LD").
-shift_data("A722187","Wyatt Cooper",20251108,"SE").
-shift_data("A722187","Wyatt Cooper",20251109,"SN").
-shift_data("A722187","Wyatt Cooper",20251110,"WR").
-shift_data("A722187","Wyatt Cooper",20251111,"WR").
-shift_data("A722187","Wyatt Cooper",20251112,"LD").
-shift_data("A722187","Wyatt Cooper",20251113,"SE").
-shift_data("A722187","Wyatt Cooper",20251114,"SN").
-shift_data("A722187","Wyatt Cooper",20251115,"HL").
-shift_data("A722187","Wyatt Cooper",20251116,"AL").
-shift_data("A722187","Wyatt Cooper",20251117,"AL").
-shift_data("A722187","Wyatt Cooper",20251118,"D").
-shift_data("A722187","Wyatt Cooper",20251119,"SE").
-shift_data("A722187","Wyatt Cooper",20251120,"SN").
-shift_data("A722187","Wyatt Cooper",20251121,"WR").
-shift_data("A722187","Wyatt Cooper",20251122,"WR").
-shift_data("A722187","Wyatt Cooper",20251123,"LD").
-shift_data("A722187","Wyatt Cooper",20251124,"PH").
-shift_data("A722187","Wyatt Cooper",20251125,"LD").
-shift_data("A722187","Wyatt Cooper",20251126,"SE").
-shift_data("A722187","Wyatt Cooper",20251127,"SN").
-shift_data("A722187","Wyatt Cooper",20251128,"WR").
-shift_data("A722187","Wyatt Cooper",20251129,"D").
-shift_data("A722187","Wyatt Cooper",20251130,"D").
-shift_data("A722187","Wyatt Cooper",20251201,"LD").
-shift_data("A722187","Wyatt Cooper",20251202,"SE").
-shift_data("A722187","Wyatt Cooper",20251203,"SN").
-shift_data("A722187","Wyatt Cooper",20251204,"WR").
-shift_data("A722187","Wyatt Cooper",20251205,"WR").
-shift_data("A722187","Wyatt Cooper",20251206,"WR").
-shift_data("A722187","Wyatt Cooper",20251207,"D").
-shift_data("A722187","Wyatt Cooper",20251208,"D").
-shift_data("A722187","Wyatt Cooper",20251209,"LD").
-shift_data("A722187","Wyatt Cooper",20251210,"WR").
-shift_data("A722187","Wyatt Cooper",20251211,"WR").
-shift_data("A722187","Wyatt Cooper",20251212,"D").
-shift_data("A722187","Wyatt Cooper",20251213,"LD").
-shift_data("A722187","Wyatt Cooper",20251214,"SE").
-shift_data("A722187","Wyatt Cooper",20251215,"SN").
-shift_data("A722187","Wyatt Cooper",20251216,"WR").
-shift_data("A722187","Wyatt Cooper",20251217,"D").
-shift_data("A722187","Wyatt Cooper",20251218,"D").
-shift_data("A722187","Wyatt Cooper",20251219,"LD").
-shift_data("A722187","Wyatt Cooper",20251220,"SE").
-shift_data("A722187","Wyatt Cooper",20251221,"SN").
-shift_data("A722187","Wyatt Cooper",20251222,"WR").
-shift_data("A722187","Wyatt Cooper",20251223,"WR").
-shift_data("A722187","Wyatt Cooper",20251224,"SE").
-shift_data("A722187","Wyatt Cooper",20251225,"SN").
-shift_data("A722187","Wyatt Cooper",20251226,"WR").
-shift_data("A722187","Wyatt Cooper",20251227,"D").
-shift_data("A722187","Wyatt Cooper",20251228,"WR").
-shift_data("A722187","Wyatt Cooper",20251229,"D").
-shift_data("A722187","Wyatt Cooper",20251230,"PH").
-shift_data("A722187","Wyatt Cooper",20251231,"PH").
-shift_data("A905162","Miles Thompson",20250405,"WR").
-shift_data("A905162","Miles Thompson",20250406,"WR").
-shift_data("A905162","Miles Thompson",20250412,"WR").
-shift_data("A905162","Miles Thompson",20250413,"WR").
-shift_data("A905162","Miles Thompson",20250415,"HL").
-shift_data("A905162","Miles Thompson",20250419,"WR").
-shift_data("A905162","Miles Thompson",20250420,"WR").
-shift_data("A905162","Miles Thompson",20250426,"WR").
-shift_data("A905162","Miles Thompson",20250427,"WR").
-shift_data("A905162","Miles Thompson",20250429,"PH").
-shift_data("A905162","Miles Thompson",20250503,"WR").
-shift_data("A905162","Miles Thompson",20250504,"WR").
-shift_data("A905162","Miles Thompson",20250505,"PH").
-shift_data("A905162","Miles Thompson",20250506,"PH").
-shift_data("A905162","Miles Thompson",20250510,"WR").
-shift_data("A905162","Miles Thompson",20250511,"WR").
-shift_data("A905162","Miles Thompson",20250514,"HL").
-shift_data("A905162","Miles Thompson",20250517,"WR").
-shift_data("A905162","Miles Thompson",20250518,"WR").
-shift_data("A905162","Miles Thompson",20250524,"WR").
-shift_data("A905162","Miles Thompson",20250525,"WR").
-shift_data("A905162","Miles Thompson",20250531,"WR").
-shift_data("A905162","Miles Thompson",20250601,"WR").
-shift_data("A905162","Miles Thompson",20250602,"HL").
-shift_data("A905162","Miles Thompson",20250607,"WR").
-shift_data("A905162","Miles Thompson",20250608,"WR").
-shift_data("A905162","Miles Thompson",20250614,"WR").
-shift_data("A905162","Miles Thompson",20250615,"WR").
-shift_data("A905162","Miles Thompson",20250621,"WR").
-shift_data("A905162","Miles Thompson",20250622,"WR").
-shift_data("A905162","Miles Thompson",20250624,"AL").
-shift_data("A905162","Miles Thompson",20250628,"WR").
-shift_data("A905162","Miles Thompson",20250629,"WR").
-shift_data("A905162","Miles Thompson",20250705,"WR").
-shift_data("A905162","Miles Thompson",20250706,"WR").
-shift_data("A905162","Miles Thompson",20250712,"WR").
-shift_data("A905162","Miles Thompson",20250713,"WR").
-shift_data("A905162","Miles Thompson",20250715,"HL").
-shift_data("A905162","Miles Thompson",20250719,"WR").
-shift_data("A905162","Miles Thompson",20250720,"WR").
-shift_data("A905162","Miles Thompson",20250721,"PH").
-shift_data("A905162","Miles Thompson",20250726,"WR").
-shift_data("A905162","Miles Thompson",20250727,"WR").
-shift_data("A905162","Miles Thompson",20250802,"WR").
-shift_data("A905162","Miles Thompson",20250803,"WR").
-shift_data("A905162","Miles Thompson",20250809,"WR").
-shift_data("A905162","Miles Thompson",20250810,"WR").
-shift_data("A905162","Miles Thompson",20250811,"PH").
-shift_data("A905162","Miles Thompson",20250814,"AL").
-shift_data("A905162","Miles Thompson",20250815,"AL").
-shift_data("A905162","Miles Thompson",20250816,"WR").
-shift_data("A905162","Miles Thompson",20250817,"WR").
-shift_data("A905162","Miles Thompson",20250823,"WR").
-shift_data("A905162","Miles Thompson",20250824,"WR").
-shift_data("A905162","Miles Thompson",20250830,"WR").
-shift_data("A905162","Miles Thompson",20250831,"WR").
-shift_data("A905162","Miles Thompson",20250906,"WR").
-shift_data("A905162","Miles Thompson",20250907,"WR").
-shift_data("A905162","Miles Thompson",20250912,"AL").
-shift_data("A905162","Miles Thompson",20250913,"WR").
-shift_data("A905162","Miles Thompson",20250914,"WR").
-shift_data("A905162","Miles Thompson",20250915,"PH").
-shift_data("A905162","Miles Thompson",20250920,"WR").
-shift_data("A905162","Miles Thompson",20250921,"WR").
-shift_data("A905162","Miles Thompson",20250923,"PH").
-shift_data("A905162","Miles Thompson",20250927,"WR").
-shift_data("A905162","Miles Thompson",20250928,"WR").
-shift_data("A905162","Miles Thompson",20251004,"WR").
-shift_data("A905162","Miles Thompson",20251005,"WR").
-shift_data("A905162","Miles Thompson",20251011,"WR").
-shift_data("A905162","Miles Thompson",20251012,"WR").
-shift_data("A905162","Miles Thompson",20251013,"PH").
-shift_data("A905162","Miles Thompson",20251018,"WR").
-shift_data("A905162","Miles Thompson",20251019,"WR").
-shift_data("A905162","Miles Thompson",20251025,"WR").
-shift_data("A905162","Miles Thompson",20251026,"WR").
-shift_data("A905162","Miles Thompson",20251030,"AL").
-shift_data("A905162","Miles Thompson",20251101,"WR").
-shift_data("A905162","Miles Thompson",20251102,"WR").
-shift_data("A905162","Miles Thompson",20251103,"PH").
-shift_data("A905162","Miles Thompson",20251108,"WR").
-shift_data("A905162","Miles Thompson",20251109,"WR").
-shift_data("A905162","Miles Thompson",20251113,"AL").
-shift_data("A905162","Miles Thompson",20251115,"WR").
-shift_data("A905162","Miles Thompson",20251116,"WR").
-shift_data("A905162","Miles Thompson",20251122,"WR").
-shift_data("A905162","Miles Thompson",20251123,"WR").
-shift_data("A905162","Miles Thompson",20251124,"PH").
-shift_data("A905162","Miles Thompson",20251129,"WR").
-shift_data("A905162","Miles Thompson",20251130,"WR").
-shift_data("A905162","Miles Thompson",20251202,"AL").
-shift_data("A905162","Miles Thompson",20251206,"WR").
-shift_data("A905162","Miles Thompson",20251207,"WR").
-shift_data("A905162","Miles Thompson",20251213,"WR").
-shift_data("A905162","Miles Thompson",20251214,"WR").
-shift_data("A905162","Miles Thompson",20251220,"WR").
-shift_data("A905162","Miles Thompson",20251221,"WR").
-shift_data("A905162","Miles Thompson",20251225,"AL").
-shift_data("A905162","Miles Thompson",20251227,"WR").
-shift_data("A905162","Miles Thompson",20251228,"WR").
-shift_data("A905162","Miles Thompson",20251229,"PH").
-shift_data("A905162","Miles Thompson",20251230,"PH").
-shift_data("A905162","Miles Thompson",20251231,"PH").
-shift_data("A928712","Jeremiah Rogers",20250405,"WR").
-shift_data("A928712","Jeremiah Rogers",20250406,"WR").
-shift_data("A928712","Jeremiah Rogers",20250412,"WR").
-shift_data("A928712","Jeremiah Rogers",20250413,"WR").
-shift_data("A928712","Jeremiah Rogers",20250419,"WR").
-shift_data("A928712","Jeremiah Rogers",20250420,"WR").
-shift_data("A928712","Jeremiah Rogers",20250426,"WR").
-shift_data("A928712","Jeremiah Rogers",20250427,"WR").
-shift_data("A928712","Jeremiah Rogers",20250429,"PH").
-shift_data("A928712","Jeremiah Rogers",20250503,"WR").
-shift_data("A928712","Jeremiah Rogers",20250504,"WR").
-shift_data("A928712","Jeremiah Rogers",20250505,"PH").
-shift_data("A928712","Jeremiah Rogers",20250506,"PH").
-shift_data("A928712","Jeremiah Rogers",20250507,"AL").
-shift_data("A928712","Jeremiah Rogers",20250508,"AL").
-shift_data("A928712","Jeremiah Rogers",20250509,"AL").
-shift_data("A928712","Jeremiah Rogers",20250510,"WR").
-shift_data("A928712","Jeremiah Rogers",20250511,"WR").
-shift_data("A928712","Jeremiah Rogers",20250512,"AL").
-shift_data("A928712","Jeremiah Rogers",20250513,"AL").
-shift_data("A928712","Jeremiah Rogers",20250516,"HL").
-shift_data("A928712","Jeremiah Rogers",20250517,"WR").
-shift_data("A928712","Jeremiah Rogers",20250518,"WR").
-shift_data("A928712","Jeremiah Rogers",20250520,"AL").
-shift_data("A928712","Jeremiah Rogers",20250524,"WR").
-shift_data("A928712","Jeremiah Rogers",20250525,"WR").
-shift_data("A928712","Jeremiah Rogers",20250531,"WR").
-shift_data("A928712","Jeremiah Rogers",20250601,"WR").
-shift_data("A928712","Jeremiah Rogers",20250606,"HL").
-shift_data("A928712","Jeremiah Rogers",20250607,"WR").
-shift_data("A928712","Jeremiah Rogers",20250608,"WR").
-shift_data("A928712","Jeremiah Rogers",20250614,"WR").
-shift_data("A928712","Jeremiah Rogers",20250615,"WR").
-shift_data("A928712","Jeremiah Rogers",20250621,"WR").
-shift_data("A928712","Jeremiah Rogers",20250622,"WR").
-shift_data("A928712","Jeremiah Rogers",20250628,"WR").
-shift_data("A928712","Jeremiah Rogers",20250629,"WR").
-shift_data("A928712","Jeremiah Rogers",20250705,"WR").
-shift_data("A928712","Jeremiah Rogers",20250706,"WR").
-shift_data("A928712","Jeremiah Rogers",20250712,"WR").
-shift_data("A928712","Jeremiah Rogers",20250713,"WR").
-shift_data("A928712","Jeremiah Rogers",20250719,"WR").
-shift_data("A928712","Jeremiah Rogers",20250720,"WR").
-shift_data("A928712","Jeremiah Rogers",20250721,"PH").
-shift_data("A928712","Jeremiah Rogers",20250725,"AL").
-shift_data("A928712","Jeremiah Rogers",20250726,"WR").
-shift_data("A928712","Jeremiah Rogers",20250727,"WR").
-shift_data("A928712","Jeremiah Rogers",20250731,"AL").
-shift_data("A928712","Jeremiah Rogers",20250802,"WR").
-shift_data("A928712","Jeremiah Rogers",20250803,"WR").
-shift_data("A928712","Jeremiah Rogers",20250809,"WR").
-shift_data("A928712","Jeremiah Rogers",20250810,"WR").
-shift_data("A928712","Jeremiah Rogers",20250811,"PH").
-shift_data("A928712","Jeremiah Rogers",20250814,"HL").
-shift_data("A928712","Jeremiah Rogers",20250815,"HL").
-shift_data("A928712","Jeremiah Rogers",20250816,"WR").
-shift_data("A928712","Jeremiah Rogers",20250817,"WR").
-shift_data("A928712","Jeremiah Rogers",20250823,"WR").
-shift_data("A928712","Jeremiah Rogers",20250824,"WR").
-shift_data("A928712","Jeremiah Rogers",20250830,"WR").
-shift_data("A928712","Jeremiah Rogers",20250831,"WR").
-shift_data("A928712","Jeremiah Rogers",20250906,"WR").
-shift_data("A928712","Jeremiah Rogers",20250907,"WR").
-shift_data("A928712","Jeremiah Rogers",20250913,"WR").
-shift_data("A928712","Jeremiah Rogers",20250914,"WR").
-shift_data("A928712","Jeremiah Rogers",20250915,"PH").
-shift_data("A928712","Jeremiah Rogers",20250919,"AL").
-shift_data("A928712","Jeremiah Rogers",20250920,"WR").
-shift_data("A928712","Jeremiah Rogers",20250921,"WR").
-shift_data("A928712","Jeremiah Rogers",20250923,"PH").
-shift_data("A928712","Jeremiah Rogers",20250927,"WR").
-shift_data("A928712","Jeremiah Rogers",20250928,"WR").
-shift_data("A928712","Jeremiah Rogers",20251004,"WR").
-shift_data("A928712","Jeremiah Rogers",20251005,"WR").
-shift_data("A928712","Jeremiah Rogers",20251007,"AL").
-shift_data("A928712","Jeremiah Rogers",20251008,"AL").
-shift_data("A928712","Jeremiah Rogers",20251011,"WR").
-shift_data("A928712","Jeremiah Rogers",20251012,"WR").
-shift_data("A928712","Jeremiah Rogers",20251013,"PH").
-shift_data("A928712","Jeremiah Rogers",20251018,"WR").
-shift_data("A928712","Jeremiah Rogers",20251019,"WR").
-shift_data("A928712","Jeremiah Rogers",20251024,"AL").
-shift_data("A928712","Jeremiah Rogers",20251025,"WR").
-shift_data("A928712","Jeremiah Rogers",20251026,"WR").
-shift_data("A928712","Jeremiah Rogers",20251029,"AL").
-shift_data("A928712","Jeremiah Rogers",20251101,"WR").
-shift_data("A928712","Jeremiah Rogers",20251102,"WR").
-shift_data("A928712","Jeremiah Rogers",20251103,"PH").
-shift_data("A928712","Jeremiah Rogers",20251106,"AL").
-shift_data("A928712","Jeremiah Rogers",20251107,"AL").
-shift_data("A928712","Jeremiah Rogers",20251108,"WR").
-shift_data("A928712","Jeremiah Rogers",20251109,"WR").
-shift_data("A928712","Jeremiah Rogers",20251115,"WR").
-shift_data("A928712","Jeremiah Rogers",20251116,"WR").
-shift_data("A928712","Jeremiah Rogers",20251122,"WR").
-shift_data("A928712","Jeremiah Rogers",20251123,"WR").
-shift_data("A928712","Jeremiah Rogers",20251124,"PH").
-shift_data("A928712","Jeremiah Rogers",20251128,"AL").
-shift_data("A928712","Jeremiah Rogers",20251129,"WR").
-shift_data("A928712","Jeremiah Rogers",20251130,"WR").
-shift_data("A928712","Jeremiah Rogers",20251206,"WR").
-shift_data("A928712","Jeremiah Rogers",20251207,"WR").
-shift_data("A928712","Jeremiah Rogers",20251213,"WR").
-shift_data("A928712","Jeremiah Rogers",20251214,"WR").
-shift_data("A928712","Jeremiah Rogers",20251220,"WR").
-shift_data("A928712","Jeremiah Rogers",20251221,"WR").
-shift_data("A928712","Jeremiah Rogers",20251227,"WR").
-shift_data("A928712","Jeremiah Rogers",20251228,"WR").
-shift_data("A928712","Jeremiah Rogers",20251229,"PH").
-shift_data("A928712","Jeremiah Rogers",20251230,"PH").
-shift_data("A928712","Jeremiah Rogers",20251231,"PH").
+shift_data("413124","nan",20250624,"AL").
+shift_data("413124","nan",20250829,"AL").
+shift_data("413124","nan",20250903,"AL").
+shift_data("413124","nan",20251022,"AL").
+shift_data("413124","nan",20251118,"AL").
+shift_data("413124","nan",20251201,"AL").
+shift_data("413124","nan",20251216,"AL").
+shift_data("413124","nan",20251225,"BL").
+shift_data("413124","nan",20251226,"AB").
+shift_data("413124","nan",20251229,"PH").
+shift_data("413124","nan",20251230,"PH").
+shift_data("413124","nan",20251231,"PH").
+shift_data("29901","Brian Mckay",20250401,"D").
+shift_data("29901","Brian Mckay",20250402,"D").
+shift_data("29901","Brian Mckay",20250403,"D").
+shift_data("29901","Brian Mckay",20250404,"D").
+shift_data("29901","Brian Mckay",20250405,"WR").
+shift_data("29901","Brian Mckay",20250406,"WR").
+shift_data("29901","Brian Mckay",20250407,"D").
+shift_data("29901","Brian Mckay",20250408,"WR").
+shift_data("29901","Brian Mckay",20250409,"D").
+shift_data("29901","Brian Mckay",20250410,"D").
+shift_data("29901","Brian Mckay",20250411,"D").
+shift_data("29901","Brian Mckay",20250412,"WR").
+shift_data("29901","Brian Mckay",20250413,"WR").
+shift_data("29901","Brian Mckay",20250414,"D").
+shift_data("29901","Brian Mckay",20250415,"D").
+shift_data("29901","Brian Mckay",20250416,"D").
+shift_data("29901","Brian Mckay",20250417,"D").
+shift_data("29901","Brian Mckay",20250418,"D").
+shift_data("29901","Brian Mckay",20250419,"D").
+shift_data("29901","Brian Mckay",20250420,"WR").
+shift_data("29901","Brian Mckay",20250421,"D").
+shift_data("29901","Brian Mckay",20250422,"WR").
+shift_data("29901","Brian Mckay",20250423,"D").
+shift_data("29901","Brian Mckay",20250424,"D").
+shift_data("29901","Brian Mckay",20250425,"D").
+shift_data("29901","Brian Mckay",20250426,"WR").
+shift_data("29901","Brian Mckay",20250427,"WR").
+shift_data("29901","Brian Mckay",20250428,"D").
+shift_data("29901","Brian Mckay",20250429,"PH").
+shift_data("29901","Brian Mckay",20250430,"D").
+shift_data("29901","Brian Mckay",20250501,"D").
+shift_data("29901","Brian Mckay",20250502,"D").
+shift_data("29901","Brian Mckay",20250503,"WR").
+shift_data("29901","Brian Mckay",20250504,"WR").
+shift_data("29901","Brian Mckay",20250505,"PH").
+shift_data("29901","Brian Mckay",20250506,"PH").
+shift_data("29901","Brian Mckay",20250507,"D").
+shift_data("29901","Brian Mckay",20250508,"D").
+shift_data("29901","Brian Mckay",20250509,"D").
+shift_data("29901","Brian Mckay",20250510,"WR").
+shift_data("29901","Brian Mckay",20250511,"WR").
+shift_data("29901","Brian Mckay",20250512,"D").
+shift_data("29901","Brian Mckay",20250513,"D").
+shift_data("29901","Brian Mckay",20250514,"D").
+shift_data("29901","Brian Mckay",20250515,"D").
+shift_data("29901","Brian Mckay",20250516,"D").
+shift_data("29901","Brian Mckay",20250517,"WR").
+shift_data("29901","Brian Mckay",20250518,"WR").
+shift_data("29901","Brian Mckay",20250519,"D").
+shift_data("29901","Brian Mckay",20250520,"D").
+shift_data("29901","Brian Mckay",20250521,"D").
+shift_data("29901","Brian Mckay",20250522,"D").
+shift_data("29901","Brian Mckay",20250523,"AL").
+shift_data("29901","Brian Mckay",20250524,"WR").
+shift_data("29901","Brian Mckay",20250525,"WR").
+shift_data("29901","Brian Mckay",20250526,"D").
+shift_data("29901","Brian Mckay",20250527,"D").
+shift_data("29901","Brian Mckay",20250528,"D").
+shift_data("29901","Brian Mckay",20250529,"D").
+shift_data("29901","Brian Mckay",20250530,"D").
+shift_data("29901","Brian Mckay",20250531,"WR").
+shift_data("29901","Brian Mckay",20250601,"WR").
+shift_data("29901","Brian Mckay",20250602,"D").
+shift_data("29901","Brian Mckay",20250603,"D").
+shift_data("29901","Brian Mckay",20250604,"D").
+shift_data("29901","Brian Mckay",20250605,"D").
+shift_data("29901","Brian Mckay",20250606,"D").
+shift_data("29901","Brian Mckay",20250607,"WR").
+shift_data("29901","Brian Mckay",20250608,"WR").
+shift_data("29901","Brian Mckay",20250609,"WR").
+shift_data("29901","Brian Mckay",20250610,"D").
+shift_data("29901","Brian Mckay",20250611,"D").
+shift_data("29901","Brian Mckay",20250612,"D").
+shift_data("29901","Brian Mckay",20250613,"D").
+shift_data("29901","Brian Mckay",20250614,"D").
+shift_data("29901","Brian Mckay",20250615,"WR").
+shift_data("29901","Brian Mckay",20250616,"D").
+shift_data("29901","Brian Mckay",20250617,"D").
+shift_data("29901","Brian Mckay",20250618,"D").
+shift_data("29901","Brian Mckay",20250619,"D").
+shift_data("29901","Brian Mckay",20250620,"D").
+shift_data("29901","Brian Mckay",20250621,"WR").
+shift_data("29901","Brian Mckay",20250622,"WR").
+shift_data("29901","Brian Mckay",20250623,"LD").
+shift_data("29901","Brian Mckay",20250624,"SE").
+shift_data("29901","Brian Mckay",20250625,"SN").
+shift_data("29901","Brian Mckay",20250626,"WR").
+shift_data("29901","Brian Mckay",20250627,"D").
+shift_data("29901","Brian Mckay",20250628,"WR").
+shift_data("29901","Brian Mckay",20250629,"WR").
+shift_data("29901","Brian Mckay",20250630,"D").
+shift_data("29901","Brian Mckay",20250701,"D").
+shift_data("29901","Brian Mckay",20250702,"D").
+shift_data("29901","Brian Mckay",20250703,"D").
+shift_data("29901","Brian Mckay",20250704,"D").
+shift_data("29901","Brian Mckay",20250705,"WR").
+shift_data("29901","Brian Mckay",20250706,"TR").
+shift_data("29901","Brian Mckay",20250707,"WR").
+shift_data("29901","Brian Mckay",20250708,"D").
+shift_data("29901","Brian Mckay",20250709,"D").
+shift_data("29901","Brian Mckay",20250710,"D").
+shift_data("29901","Brian Mckay",20250711,"D").
+shift_data("29901","Brian Mckay",20250712,"WR").
+shift_data("29901","Brian Mckay",20250713,"WR").
+shift_data("29901","Brian Mckay",20250714,"D").
+shift_data("29901","Brian Mckay",20250715,"D").
+shift_data("29901","Brian Mckay",20250716,"D").
+shift_data("29901","Brian Mckay",20250717,"D").
+shift_data("29901","Brian Mckay",20250718,"D").
+shift_data("29901","Brian Mckay",20250719,"D").
+shift_data("29901","Brian Mckay",20250720,"WR").
+shift_data("29901","Brian Mckay",20250721,"PH").
+shift_data("29901","Brian Mckay",20250722,"D").
+shift_data("29901","Brian Mckay",20250723,"D").
+shift_data("29901","Brian Mckay",20250724,"D").
+shift_data("29901","Brian Mckay",20250725,"D").
+shift_data("29901","Brian Mckay",20250726,"WR").
+shift_data("29901","Brian Mckay",20250727,"WR").
+shift_data("29901","Brian Mckay",20250728,"LD").
+shift_data("29901","Brian Mckay",20250729,"SE").
+shift_data("29901","Brian Mckay",20250730,"SN").
+shift_data("29901","Brian Mckay",20250731,"WR").
+shift_data("29901","Brian Mckay",20250801,"D").
+shift_data("29901","Brian Mckay",20250802,"WR").
+shift_data("29901","Brian Mckay",20250803,"WR").
+shift_data("29901","Brian Mckay",20250804,"D").
+shift_data("29901","Brian Mckay",20250805,"D").
+shift_data("29901","Brian Mckay",20250806,"D").
+shift_data("29901","Brian Mckay",20250807,"D").
+shift_data("29901","Brian Mckay",20250808,"D").
+shift_data("29901","Brian Mckay",20250809,"D").
+shift_data("29901","Brian Mckay",20250810,"WR").
+shift_data("29901","Brian Mckay",20250811,"PH").
+shift_data("29901","Brian Mckay",20250812,"D").
+shift_data("29901","Brian Mckay",20250813,"D").
+shift_data("29901","Brian Mckay",20250814,"D").
+shift_data("29901","Brian Mckay",20250815,"D").
+shift_data("29901","Brian Mckay",20250816,"WR").
+shift_data("29901","Brian Mckay",20250817,"WR").
+shift_data("29901","Brian Mckay",20250818,"D").
+shift_data("29901","Brian Mckay",20250819,"D").
+shift_data("29901","Brian Mckay",20250820,"D").
+shift_data("29901","Brian Mckay",20250821,"D").
+shift_data("29901","Brian Mckay",20250822,"D").
+shift_data("29901","Brian Mckay",20250823,"WR").
+shift_data("29901","Brian Mckay",20250824,"WR").
+shift_data("29901","Brian Mckay",20250825,"AL").
+shift_data("29901","Brian Mckay",20250826,"D").
+shift_data("29901","Brian Mckay",20250827,"D").
+shift_data("29901","Brian Mckay",20250828,"D").
+shift_data("29901","Brian Mckay",20250829,"D").
+shift_data("29901","Brian Mckay",20250830,"WR").
+shift_data("29901","Brian Mckay",20250831,"LD").
+shift_data("29901","Brian Mckay",20250901,"SE").
+shift_data("29901","Brian Mckay",20250902,"SN").
+shift_data("29901","Brian Mckay",20250903,"WR").
+shift_data("29901","Brian Mckay",20250904,"D").
+shift_data("29901","Brian Mckay",20250905,"D").
+shift_data("29901","Brian Mckay",20250906,"WR").
+shift_data("29901","Brian Mckay",20250907,"WR").
+shift_data("29901","Brian Mckay",20250908,"D").
+shift_data("29901","Brian Mckay",20250909,"D").
+shift_data("29901","Brian Mckay",20250910,"D").
+shift_data("29901","Brian Mckay",20250911,"D").
+shift_data("29901","Brian Mckay",20250912,"D").
+shift_data("29901","Brian Mckay",20250913,"WR").
+shift_data("29901","Brian Mckay",20250914,"LD").
+shift_data("29901","Brian Mckay",20250915,"PH").
+shift_data("29901","Brian Mckay",20250916,"D").
+shift_data("29901","Brian Mckay",20250917,"TR").
+shift_data("29901","Brian Mckay",20250918,"D").
+shift_data("29901","Brian Mckay",20250919,"WR").
+shift_data("29901","Brian Mckay",20250920,"TR").
+shift_data("29901","Brian Mckay",20250921,"WR").
+shift_data("29901","Brian Mckay",20250922,"TR").
+shift_data("29901","Brian Mckay",20250923,"TR").
+shift_data("29901","Brian Mckay",20250924,"WR").
+shift_data("29901","Brian Mckay",20250925,"TR").
+shift_data("29901","Brian Mckay",20250926,"TR").
+shift_data("29901","Brian Mckay",20250927,"TR").
+shift_data("29901","Brian Mckay",20250928,"SE").
+shift_data("29901","Brian Mckay",20250929,"SN").
+shift_data("29901","Brian Mckay",20250930,"WR").
+shift_data("29901","Brian Mckay",20251001,"WR").
+shift_data("29901","Brian Mckay",20251002,"D").
+shift_data("29901","Brian Mckay",20251003,"TR").
+shift_data("29901","Brian Mckay",20251004,"WR").
+shift_data("29901","Brian Mckay",20251005,"WR").
+shift_data("29901","Brian Mckay",20251006,"TR").
+shift_data("29901","Brian Mckay",20251007,"TR").
+shift_data("29901","Brian Mckay",20251008,"D").
+shift_data("29901","Brian Mckay",20251009,"D").
+shift_data("29901","Brian Mckay",20251010,"WR").
+shift_data("29901","Brian Mckay",20251011,"TR").
+shift_data("29901","Brian Mckay",20251012,"WR").
+shift_data("29901","Brian Mckay",20251013,"PH").
+shift_data("29901","Brian Mckay",20251014,"D").
+shift_data("29901","Brian Mckay",20251015,"D").
+shift_data("29901","Brian Mckay",20251016,"D").
+shift_data("29901","Brian Mckay",20251017,"TR").
+shift_data("29901","Brian Mckay",20251018,"WR").
+shift_data("29901","Brian Mckay",20251019,"WR").
+shift_data("29901","Brian Mckay",20251020,"AL").
+shift_data("29901","Brian Mckay",20251021,"TR").
+shift_data("29901","Brian Mckay",20251022,"D").
+shift_data("29901","Brian Mckay",20251023,"TR").
+shift_data("29901","Brian Mckay",20251024,"TR").
+shift_data("29901","Brian Mckay",20251025,"LM").
+shift_data("29901","Brian Mckay",20251026,"WR").
+shift_data("29901","Brian Mckay",20251027,"TR").
+shift_data("29901","Brian Mckay",20251028,"D").
+shift_data("29901","Brian Mckay",20251029,"D").
+shift_data("29901","Brian Mckay",20251030,"AL").
+shift_data("29901","Brian Mckay",20251031,"TR").
+shift_data("29901","Brian Mckay",20251101,"WR").
+shift_data("29901","Brian Mckay",20251102,"WR").
+shift_data("29901","Brian Mckay",20251103,"LD").
+shift_data("29901","Brian Mckay",20251104,"SE").
+shift_data("29901","Brian Mckay",20251105,"SN").
+shift_data("29901","Brian Mckay",20251106,"WR").
+shift_data("29901","Brian Mckay",20251107,"D").
+shift_data("29901","Brian Mckay",20251108,"WR").
+shift_data("29901","Brian Mckay",20251109,"WR").
+shift_data("29901","Brian Mckay",20251110,"D").
+shift_data("29901","Brian Mckay",20251111,"D").
+shift_data("29901","Brian Mckay",20251112,"TR").
+shift_data("29901","Brian Mckay",20251113,"WR").
+shift_data("29901","Brian Mckay",20251114,"TR").
+shift_data("29901","Brian Mckay",20251115,"TR").
+shift_data("29901","Brian Mckay",20251116,"WR").
+shift_data("29901","Brian Mckay",20251117,"TR").
+shift_data("29901","Brian Mckay",20251118,"D").
+shift_data("29901","Brian Mckay",20251119,"D").
+shift_data("29901","Brian Mckay",20251120,"D").
+shift_data("29901","Brian Mckay",20251121,"D").
+shift_data("29901","Brian Mckay",20251122,"WR").
+shift_data("29901","Brian Mckay",20251123,"WR").
+shift_data("29901","Brian Mckay",20251124,"PH").
+shift_data("29901","Brian Mckay",20251125,"D").
+shift_data("29901","Brian Mckay",20251126,"AL").
+shift_data("29901","Brian Mckay",20251127,"TR").
+shift_data("29901","Brian Mckay",20251128,"WR").
+shift_data("29901","Brian Mckay",20251129,"D").
+shift_data("29901","Brian Mckay",20251130,"LD").
+shift_data("29901","Brian Mckay",20251201,"SE").
+shift_data("29901","Brian Mckay",20251202,"SN").
+shift_data("29901","Brian Mckay",20251203,"WR").
+shift_data("29901","Brian Mckay",20251204,"D").
+shift_data("29901","Brian Mckay",20251205,"D").
+shift_data("29901","Brian Mckay",20251206,"WR").
+shift_data("29901","Brian Mckay",20251207,"WR").
+shift_data("29901","Brian Mckay",20251208,"D").
+shift_data("29901","Brian Mckay",20251209,"D").
+shift_data("29901","Brian Mckay",20251210,"LD").
+shift_data("29901","Brian Mckay",20251211,"SE").
+shift_data("29901","Brian Mckay",20251212,"SN").
+shift_data("29901","Brian Mckay",20251213,"WR").
+shift_data("29901","Brian Mckay",20251214,"WR").
+shift_data("29901","Brian Mckay",20251215,"D").
+shift_data("29901","Brian Mckay",20251216,"D").
+shift_data("29901","Brian Mckay",20251217,"D").
+shift_data("29901","Brian Mckay",20251218,"D").
+shift_data("29901","Brian Mckay",20251219,"D").
+shift_data("29901","Brian Mckay",20251220,"WR").
+shift_data("29901","Brian Mckay",20251221,"WR").
+shift_data("29901","Brian Mckay",20251222,"D").
+shift_data("29901","Brian Mckay",20251223,"D").
+shift_data("29901","Brian Mckay",20251224,"D").
+shift_data("29901","Brian Mckay",20251225,"D").
+shift_data("29901","Brian Mckay",20251226,"D").
+shift_data("29901","Brian Mckay",20251227,"WR").
+shift_data("29901","Brian Mckay",20251228,"WR").
+shift_data("29901","Brian Mckay",20251229,"PH").
+shift_data("29901","Brian Mckay",20251230,"PH").
+shift_data("29901","Brian Mckay",20251231,"PH").
+shift_data("78065","Dylan Clements MD",20250401,"D").
+shift_data("78065","Dylan Clements MD",20250402,"D").
+shift_data("78065","Dylan Clements MD",20250403,"D").
+shift_data("78065","Dylan Clements MD",20250404,"D").
+shift_data("78065","Dylan Clements MD",20250405,"WR").
+shift_data("78065","Dylan Clements MD",20250406,"WR").
+shift_data("78065","Dylan Clements MD",20250407,"D").
+shift_data("78065","Dylan Clements MD",20250408,"D").
+shift_data("78065","Dylan Clements MD",20250409,"D").
+shift_data("78065","Dylan Clements MD",20250410,"D").
+shift_data("78065","Dylan Clements MD",20250411,"D").
+shift_data("78065","Dylan Clements MD",20250412,"WR").
+shift_data("78065","Dylan Clements MD",20250413,"WR").
+shift_data("78065","Dylan Clements MD",20250414,"D").
+shift_data("78065","Dylan Clements MD",20250415,"D").
+shift_data("78065","Dylan Clements MD",20250416,"AL").
+shift_data("78065","Dylan Clements MD",20250417,"D").
+shift_data("78065","Dylan Clements MD",20250418,"D").
+shift_data("78065","Dylan Clements MD",20250419,"WR").
+shift_data("78065","Dylan Clements MD",20250420,"WR").
+shift_data("78065","Dylan Clements MD",20250421,"D").
+shift_data("78065","Dylan Clements MD",20250422,"D").
+shift_data("78065","Dylan Clements MD",20250423,"D").
+shift_data("78065","Dylan Clements MD",20250424,"D").
+shift_data("78065","Dylan Clements MD",20250425,"D").
+shift_data("78065","Dylan Clements MD",20250426,"WR").
+shift_data("78065","Dylan Clements MD",20250427,"WR").
+shift_data("78065","Dylan Clements MD",20250428,"D").
+shift_data("78065","Dylan Clements MD",20250429,"PH").
+shift_data("78065","Dylan Clements MD",20250430,"D").
+shift_data("78065","Dylan Clements MD",20250501,"D").
+shift_data("78065","Dylan Clements MD",20250502,"D").
+shift_data("78065","Dylan Clements MD",20250503,"WR").
+shift_data("78065","Dylan Clements MD",20250504,"WR").
+shift_data("78065","Dylan Clements MD",20250505,"PH").
+shift_data("78065","Dylan Clements MD",20250506,"PH").
+shift_data("78065","Dylan Clements MD",20250507,"D").
+shift_data("78065","Dylan Clements MD",20250508,"D").
+shift_data("78065","Dylan Clements MD",20250509,"D").
+shift_data("78065","Dylan Clements MD",20250510,"WR").
+shift_data("78065","Dylan Clements MD",20250511,"WR").
+shift_data("78065","Dylan Clements MD",20250512,"D").
+shift_data("78065","Dylan Clements MD",20250513,"D").
+shift_data("78065","Dylan Clements MD",20250514,"D").
+shift_data("78065","Dylan Clements MD",20250515,"D").
+shift_data("78065","Dylan Clements MD",20250516,"D").
+shift_data("78065","Dylan Clements MD",20250517,"WR").
+shift_data("78065","Dylan Clements MD",20250518,"WR").
+shift_data("78065","Dylan Clements MD",20250519,"D").
+shift_data("78065","Dylan Clements MD",20250520,"D").
+shift_data("78065","Dylan Clements MD",20250521,"D").
+shift_data("78065","Dylan Clements MD",20250522,"D").
+shift_data("78065","Dylan Clements MD",20250523,"D").
+shift_data("78065","Dylan Clements MD",20250524,"WR").
+shift_data("78065","Dylan Clements MD",20250525,"WR").
+shift_data("78065","Dylan Clements MD",20250526,"D").
+shift_data("78065","Dylan Clements MD",20250527,"D").
+shift_data("78065","Dylan Clements MD",20250528,"D").
+shift_data("78065","Dylan Clements MD",20250529,"D").
+shift_data("78065","Dylan Clements MD",20250530,"D").
+shift_data("78065","Dylan Clements MD",20250531,"WR").
+shift_data("78065","Dylan Clements MD",20250601,"D").
+shift_data("78065","Dylan Clements MD",20250602,"WR").
+shift_data("78065","Dylan Clements MD",20250603,"D").
+shift_data("78065","Dylan Clements MD",20250604,"D").
+shift_data("78065","Dylan Clements MD",20250605,"D").
+shift_data("78065","Dylan Clements MD",20250606,"D").
+shift_data("78065","Dylan Clements MD",20250607,"WR").
+shift_data("78065","Dylan Clements MD",20250608,"WR").
+shift_data("78065","Dylan Clements MD",20250609,"D").
+shift_data("78065","Dylan Clements MD",20250610,"D").
+shift_data("78065","Dylan Clements MD",20250611,"D").
+shift_data("78065","Dylan Clements MD",20250612,"WR").
+shift_data("78065","Dylan Clements MD",20250613,"D").
+shift_data("78065","Dylan Clements MD",20250614,"D").
+shift_data("78065","Dylan Clements MD",20250615,"WR").
+shift_data("78065","Dylan Clements MD",20250616,"D").
+shift_data("78065","Dylan Clements MD",20250617,"D").
+shift_data("78065","Dylan Clements MD",20250618,"D").
+shift_data("78065","Dylan Clements MD",20250619,"D").
+shift_data("78065","Dylan Clements MD",20250620,"D").
+shift_data("78065","Dylan Clements MD",20250621,"WR").
+shift_data("78065","Dylan Clements MD",20250622,"D").
+shift_data("78065","Dylan Clements MD",20250623,"WR").
+shift_data("78065","Dylan Clements MD",20250624,"WR").
+shift_data("78065","Dylan Clements MD",20250625,"D").
+shift_data("78065","Dylan Clements MD",20250626,"D").
+shift_data("78065","Dylan Clements MD",20250627,"D").
+shift_data("78065","Dylan Clements MD",20250628,"D").
+shift_data("78065","Dylan Clements MD",20250629,"WR").
+shift_data("78065","Dylan Clements MD",20250630,"D").
+shift_data("78065","Dylan Clements MD",20250701,"D").
+shift_data("78065","Dylan Clements MD",20250702,"D").
+shift_data("78065","Dylan Clements MD",20250703,"D").
+shift_data("78065","Dylan Clements MD",20250704,"D").
+shift_data("78065","Dylan Clements MD",20250705,"WR").
+shift_data("78065","Dylan Clements MD",20250706,"D").
+shift_data("78065","Dylan Clements MD",20250707,"D").
+shift_data("78065","Dylan Clements MD",20250708,"D").
+shift_data("78065","Dylan Clements MD",20250709,"D").
+shift_data("78065","Dylan Clements MD",20250710,"WR").
+shift_data("78065","Dylan Clements MD",20250711,"D").
+shift_data("78065","Dylan Clements MD",20250712,"WR").
+shift_data("78065","Dylan Clements MD",20250713,"WR").
+shift_data("78065","Dylan Clements MD",20250714,"D").
+shift_data("78065","Dylan Clements MD",20250715,"D").
+shift_data("78065","Dylan Clements MD",20250716,"D").
+shift_data("78065","Dylan Clements MD",20250717,"WR").
+shift_data("78065","Dylan Clements MD",20250718,"D").
+shift_data("78065","Dylan Clements MD",20250719,"D").
+shift_data("78065","Dylan Clements MD",20250720,"WR").
+shift_data("78065","Dylan Clements MD",20250721,"PH").
+shift_data("78065","Dylan Clements MD",20250722,"AL").
+shift_data("78065","Dylan Clements MD",20250723,"AL").
+shift_data("78065","Dylan Clements MD",20250724,"D").
+shift_data("78065","Dylan Clements MD",20250725,"D").
+shift_data("78065","Dylan Clements MD",20250726,"D").
+shift_data("78065","Dylan Clements MD",20250727,"WR").
+shift_data("78065","Dylan Clements MD",20250728,"D").
+shift_data("78065","Dylan Clements MD",20250729,"D").
+shift_data("78065","Dylan Clements MD",20250730,"D").
+shift_data("78065","Dylan Clements MD",20250731,"D").
+shift_data("78065","Dylan Clements MD",20250801,"D").
+shift_data("78065","Dylan Clements MD",20250802,"WR").
+shift_data("78065","Dylan Clements MD",20250803,"D").
+shift_data("78065","Dylan Clements MD",20250804,"WR").
+shift_data("78065","Dylan Clements MD",20250805,"D").
+shift_data("78065","Dylan Clements MD",20250806,"D").
+shift_data("78065","Dylan Clements MD",20250807,"WR").
+shift_data("78065","Dylan Clements MD",20250808,"D").
+shift_data("78065","Dylan Clements MD",20250809,"D").
+shift_data("78065","Dylan Clements MD",20250810,"WR").
+shift_data("78065","Dylan Clements MD",20250811,"PH").
+shift_data("78065","Dylan Clements MD",20250812,"D").
+shift_data("78065","Dylan Clements MD",20250813,"D").
+shift_data("78065","Dylan Clements MD",20250814,"D").
+shift_data("78065","Dylan Clements MD",20250815,"WR").
+shift_data("78065","Dylan Clements MD",20250816,"WR").
+shift_data("78065","Dylan Clements MD",20250817,"WR").
+shift_data("78065","Dylan Clements MD",20250818,"SL").
+shift_data("78065","Dylan Clements MD",20250819,"SL").
+shift_data("78065","Dylan Clements MD",20250820,"SL").
+shift_data("78065","Dylan Clements MD",20250821,"SL").
+shift_data("78065","Dylan Clements MD",20250822,"SL").
+shift_data("78065","Dylan Clements MD",20250823,"WR").
+shift_data("78065","Dylan Clements MD",20250824,"WR").
+shift_data("78065","Dylan Clements MD",20250825,"SP").
+shift_data("78065","Dylan Clements MD",20250826,"D").
+shift_data("78065","Dylan Clements MD",20250827,"D").
+shift_data("78065","Dylan Clements MD",20250828,"D").
+shift_data("78065","Dylan Clements MD",20250829,"D").
+shift_data("78065","Dylan Clements MD",20250830,"WR").
+shift_data("78065","Dylan Clements MD",20250831,"WR").
+shift_data("78065","Dylan Clements MD",20250901,"D").
+shift_data("78065","Dylan Clements MD",20250902,"D").
+shift_data("78065","Dylan Clements MD",20250903,"D").
+shift_data("78065","Dylan Clements MD",20250904,"WR").
+shift_data("78065","Dylan Clements MD",20250905,"D").
+shift_data("78065","Dylan Clements MD",20250906,"D").
+shift_data("78065","Dylan Clements MD",20250907,"WR").
+shift_data("78065","Dylan Clements MD",20250908,"D").
+shift_data("78065","Dylan Clements MD",20250909,"AL").
+shift_data("78065","Dylan Clements MD",20250910,"D").
+shift_data("78065","Dylan Clements MD",20250911,"HL").
+shift_data("78065","Dylan Clements MD",20250912,"HL").
+shift_data("78065","Dylan Clements MD",20250913,"WR").
+shift_data("78065","Dylan Clements MD",20250914,"WR").
+shift_data("78065","Dylan Clements MD",20250915,"PH").
+shift_data("78065","Dylan Clements MD",20250916,"AL").
+shift_data("78065","Dylan Clements MD",20250917,"D").
+shift_data("78065","Dylan Clements MD",20250918,"D").
+shift_data("78065","Dylan Clements MD",20250919,"D").
+shift_data("78065","Dylan Clements MD",20250920,"WR").
+shift_data("78065","Dylan Clements MD",20250921,"WR").
+shift_data("78065","Dylan Clements MD",20250922,"D").
+shift_data("78065","Dylan Clements MD",20250923,"D").
+shift_data("78065","Dylan Clements MD",20250924,"D").
+shift_data("78065","Dylan Clements MD",20250925,"D").
+shift_data("78065","Dylan Clements MD",20250926,"D").
+shift_data("78065","Dylan Clements MD",20250927,"WR").
+shift_data("78065","Dylan Clements MD",20250928,"WR").
+shift_data("78065","Dylan Clements MD",20250929,"LD").
+shift_data("78065","Dylan Clements MD",20250930,"SE").
+shift_data("78065","Dylan Clements MD",20251001,"SN").
+shift_data("78065","Dylan Clements MD",20251002,"WR").
+shift_data("78065","Dylan Clements MD",20251003,"AL").
+shift_data("78065","Dylan Clements MD",20251004,"D").
+shift_data("78065","Dylan Clements MD",20251005,"WR").
+shift_data("78065","Dylan Clements MD",20251006,"D").
+shift_data("78065","Dylan Clements MD",20251007,"D").
+shift_data("78065","Dylan Clements MD",20251008,"D").
+shift_data("78065","Dylan Clements MD",20251009,"D").
+shift_data("78065","Dylan Clements MD",20251010,"D").
+shift_data("78065","Dylan Clements MD",20251011,"WR").
+shift_data("78065","Dylan Clements MD",20251012,"LD").
+shift_data("78065","Dylan Clements MD",20251013,"PH").
+shift_data("78065","Dylan Clements MD",20251014,"WR").
+shift_data("78065","Dylan Clements MD",20251015,"D").
+shift_data("78065","Dylan Clements MD",20251016,"LD").
+shift_data("78065","Dylan Clements MD",20251017,"SE").
+shift_data("78065","Dylan Clements MD",20251018,"SN").
+shift_data("78065","Dylan Clements MD",20251019,"WR").
+shift_data("78065","Dylan Clements MD",20251020,"AL").
+shift_data("78065","Dylan Clements MD",20251021,"SP").
+shift_data("78065","Dylan Clements MD",20251022,"D").
+shift_data("78065","Dylan Clements MD",20251023,"D").
+shift_data("78065","Dylan Clements MD",20251024,"WR").
+shift_data("78065","Dylan Clements MD",20251025,"LM").
+shift_data("78065","Dylan Clements MD",20251026,"WR").
+shift_data("78065","Dylan Clements MD",20251027,"D").
+shift_data("78065","Dylan Clements MD",20251028,"WR").
+shift_data("78065","Dylan Clements MD",20251029,"D").
+shift_data("78065","Dylan Clements MD",20251030,"WR").
+shift_data("78065","Dylan Clements MD",20251031,"D").
+shift_data("78065","Dylan Clements MD",20251101,"SE").
+shift_data("78065","Dylan Clements MD",20251102,"SN").
+shift_data("78065","Dylan Clements MD",20251103,"PH").
+shift_data("78065","Dylan Clements MD",20251104,"D").
+shift_data("78065","Dylan Clements MD",20251105,"D").
+shift_data("78065","Dylan Clements MD",20251106,"D").
+shift_data("78065","Dylan Clements MD",20251107,"WR").
+shift_data("78065","Dylan Clements MD",20251108,"WR").
+shift_data("78065","Dylan Clements MD",20251109,"WR").
+shift_data("78065","Dylan Clements MD",20251110,"HL").
+shift_data("78065","Dylan Clements MD",20251111,"D").
+shift_data("78065","Dylan Clements MD",20251112,"D").
+shift_data("78065","Dylan Clements MD",20251113,"D").
+shift_data("78065","Dylan Clements MD",20251114,"WR").
+shift_data("78065","Dylan Clements MD",20251115,"SE").
+shift_data("78065","Dylan Clements MD",20251116,"SN").
+shift_data("78065","Dylan Clements MD",20251117,"WR").
+shift_data("78065","Dylan Clements MD",20251118,"WR").
+shift_data("78065","Dylan Clements MD",20251119,"D").
+shift_data("78065","Dylan Clements MD",20251120,"D").
+shift_data("78065","Dylan Clements MD",20251121,"LD").
+shift_data("78065","Dylan Clements MD",20251122,"SE").
+shift_data("78065","Dylan Clements MD",20251123,"SN").
+shift_data("78065","Dylan Clements MD",20251124,"PH").
+shift_data("78065","Dylan Clements MD",20251125,"D").
+shift_data("78065","Dylan Clements MD",20251126,"D").
+shift_data("78065","Dylan Clements MD",20251127,"D").
+shift_data("78065","Dylan Clements MD",20251128,"D").
+shift_data("78065","Dylan Clements MD",20251129,"LD").
+shift_data("78065","Dylan Clements MD",20251130,"WR").
+shift_data("78065","Dylan Clements MD",20251201,"D").
+shift_data("78065","Dylan Clements MD",20251202,"D").
+shift_data("78065","Dylan Clements MD",20251203,"WR").
+shift_data("78065","Dylan Clements MD",20251204,"D").
+shift_data("78065","Dylan Clements MD",20251205,"WR").
+shift_data("78065","Dylan Clements MD",20251206,"WR").
+shift_data("78065","Dylan Clements MD",20251207,"LD").
+shift_data("78065","Dylan Clements MD",20251208,"WR").
+shift_data("78065","Dylan Clements MD",20251209,"D").
+shift_data("78065","Dylan Clements MD",20251210,"D").
+shift_data("78065","Dylan Clements MD",20251211,"D").
+shift_data("78065","Dylan Clements MD",20251212,"D").
+shift_data("78065","Dylan Clements MD",20251213,"WR").
+shift_data("78065","Dylan Clements MD",20251214,"WR").
+shift_data("78065","Dylan Clements MD",20251215,"D").
+shift_data("78065","Dylan Clements MD",20251216,"LM").
+shift_data("78065","Dylan Clements MD",20251217,"WR").
+shift_data("78065","Dylan Clements MD",20251218,"D").
+shift_data("78065","Dylan Clements MD",20251219,"D").
+shift_data("78065","Dylan Clements MD",20251220,"SE").
+shift_data("78065","Dylan Clements MD",20251221,"SN").
+shift_data("78065","Dylan Clements MD",20251222,"WR").
+shift_data("78065","Dylan Clements MD",20251223,"D").
+shift_data("78065","Dylan Clements MD",20251224,"D").
+shift_data("78065","Dylan Clements MD",20251225,"HL").
+shift_data("78065","Dylan Clements MD",20251226,"WR").
+shift_data("78065","Dylan Clements MD",20251227,"D").
+shift_data("78065","Dylan Clements MD",20251228,"WR").
+shift_data("78065","Dylan Clements MD",20251229,"PH").
+shift_data("78065","Dylan Clements MD",20251230,"LD").
+shift_data("78065","Dylan Clements MD",20251231,"PH").
+shift_data("96699","Kenneth Miller",20250405,"WR").
+shift_data("96699","Kenneth Miller",20250406,"WR").
+shift_data("96699","Kenneth Miller",20250412,"WR").
+shift_data("96699","Kenneth Miller",20250413,"WR").
+shift_data("96699","Kenneth Miller",20250419,"WR").
+shift_data("96699","Kenneth Miller",20250420,"WR").
+shift_data("96699","Kenneth Miller",20250426,"WR").
+shift_data("96699","Kenneth Miller",20250427,"WR").
+shift_data("96699","Kenneth Miller",20250429,"PH").
+shift_data("96699","Kenneth Miller",20250503,"WR").
+shift_data("96699","Kenneth Miller",20250504,"WR").
+shift_data("96699","Kenneth Miller",20250505,"PH").
+shift_data("96699","Kenneth Miller",20250506,"PH").
+shift_data("96699","Kenneth Miller",20250510,"WR").
+shift_data("96699","Kenneth Miller",20250511,"WR").
+shift_data("96699","Kenneth Miller",20250517,"WR").
+shift_data("96699","Kenneth Miller",20250518,"WR").
+shift_data("96699","Kenneth Miller",20250524,"WR").
+shift_data("96699","Kenneth Miller",20250525,"WR").
+shift_data("96699","Kenneth Miller",20250531,"WR").
+shift_data("96699","Kenneth Miller",20250601,"WR").
+shift_data("96699","Kenneth Miller",20250607,"WR").
+shift_data("96699","Kenneth Miller",20250608,"WR").
+shift_data("96699","Kenneth Miller",20250614,"WR").
+shift_data("96699","Kenneth Miller",20250615,"WR").
+shift_data("96699","Kenneth Miller",20250621,"WR").
+shift_data("96699","Kenneth Miller",20250622,"WR").
+shift_data("96699","Kenneth Miller",20250628,"WR").
+shift_data("96699","Kenneth Miller",20250629,"WR").
+shift_data("96699","Kenneth Miller",20250705,"WR").
+shift_data("96699","Kenneth Miller",20250706,"WR").
+shift_data("96699","Kenneth Miller",20250712,"WR").
+shift_data("96699","Kenneth Miller",20250713,"WR").
+shift_data("96699","Kenneth Miller",20250719,"WR").
+shift_data("96699","Kenneth Miller",20250720,"WR").
+shift_data("96699","Kenneth Miller",20250721,"PH").
+shift_data("96699","Kenneth Miller",20250726,"WR").
+shift_data("96699","Kenneth Miller",20250727,"WR").
+shift_data("96699","Kenneth Miller",20250802,"WR").
+shift_data("96699","Kenneth Miller",20250803,"WR").
+shift_data("96699","Kenneth Miller",20250809,"WR").
+shift_data("96699","Kenneth Miller",20250810,"WR").
+shift_data("96699","Kenneth Miller",20250811,"PH").
+shift_data("96699","Kenneth Miller",20250816,"WR").
+shift_data("96699","Kenneth Miller",20250817,"WR").
+shift_data("96699","Kenneth Miller",20250823,"WR").
+shift_data("96699","Kenneth Miller",20250824,"WR").
+shift_data("96699","Kenneth Miller",20250830,"WR").
+shift_data("96699","Kenneth Miller",20250831,"WR").
+shift_data("96699","Kenneth Miller",20250906,"WR").
+shift_data("96699","Kenneth Miller",20250907,"WR").
+shift_data("96699","Kenneth Miller",20250913,"WR").
+shift_data("96699","Kenneth Miller",20250914,"WR").
+shift_data("96699","Kenneth Miller",20250915,"PH").
+shift_data("96699","Kenneth Miller",20250920,"WR").
+shift_data("96699","Kenneth Miller",20250921,"WR").
+shift_data("96699","Kenneth Miller",20250923,"PH").
+shift_data("96699","Kenneth Miller",20250927,"WR").
+shift_data("96699","Kenneth Miller",20250928,"WR").
+shift_data("96699","Kenneth Miller",20251004,"WR").
+shift_data("96699","Kenneth Miller",20251005,"WR").
+shift_data("96699","Kenneth Miller",20251011,"WR").
+shift_data("96699","Kenneth Miller",20251012,"WR").
+shift_data("96699","Kenneth Miller",20251013,"PH").
+shift_data("96699","Kenneth Miller",20251018,"WR").
+shift_data("96699","Kenneth Miller",20251019,"WR").
+shift_data("96699","Kenneth Miller",20251025,"WR").
+shift_data("96699","Kenneth Miller",20251026,"WR").
+shift_data("96699","Kenneth Miller",20251030,"AL").
+shift_data("96699","Kenneth Miller",20251101,"WR").
+shift_data("96699","Kenneth Miller",20251102,"WR").
+shift_data("96699","Kenneth Miller",20251103,"PH").
+shift_data("96699","Kenneth Miller",20251104,"AL").
+shift_data("96699","Kenneth Miller",20251108,"WR").
+shift_data("96699","Kenneth Miller",20251109,"WR").
+shift_data("96699","Kenneth Miller",20251115,"WR").
+shift_data("96699","Kenneth Miller",20251116,"WR").
+shift_data("96699","Kenneth Miller",20251122,"WR").
+shift_data("96699","Kenneth Miller",20251123,"WR").
+shift_data("96699","Kenneth Miller",20251124,"PH").
+shift_data("96699","Kenneth Miller",20251129,"WR").
+shift_data("96699","Kenneth Miller",20251130,"WR").
+shift_data("96699","Kenneth Miller",20251206,"WR").
+shift_data("96699","Kenneth Miller",20251207,"WR").
+shift_data("96699","Kenneth Miller",20251213,"WR").
+shift_data("96699","Kenneth Miller",20251214,"WR").
+shift_data("96699","Kenneth Miller",20251220,"WR").
+shift_data("96699","Kenneth Miller",20251221,"WR").
+shift_data("96699","Kenneth Miller",20251227,"WR").
+shift_data("96699","Kenneth Miller",20251228,"WR").
+shift_data("96699","Kenneth Miller",20251229,"PH").
+shift_data("96699","Kenneth Miller",20251230,"PH").
+shift_data("96699","Kenneth Miller",20251231,"PH").
+shift_data("189533","nan",20250405,"WR").
+shift_data("189533","nan",20250406,"WR").
+shift_data("189533","nan",20250412,"WR").
+shift_data("189533","nan",20250413,"WR").
+shift_data("189533","nan",20250419,"WR").
+shift_data("189533","nan",20250420,"WR").
+shift_data("189533","nan",20250426,"WR").
+shift_data("189533","nan",20250427,"WR").
+shift_data("189533","nan",20250429,"PH").
+shift_data("189533","nan",20250503,"WR").
+shift_data("189533","nan",20250504,"WR").
+shift_data("189533","nan",20250505,"PH").
+shift_data("189533","nan",20250506,"PH").
+shift_data("189533","nan",20250510,"WR").
+shift_data("189533","nan",20250511,"WR").
+shift_data("189533","nan",20250517,"WR").
+shift_data("189533","nan",20250518,"WR").
+shift_data("189533","nan",20250524,"WR").
+shift_data("189533","nan",20250525,"WR").
+shift_data("189533","nan",20250531,"WR").
+shift_data("189533","nan",20250601,"WR").
+shift_data("189533","nan",20250607,"WR").
+shift_data("189533","nan",20250608,"WR").
+shift_data("189533","nan",20250614,"WR").
+shift_data("189533","nan",20250615,"WR").
+shift_data("189533","nan",20250621,"WR").
+shift_data("189533","nan",20250622,"WR").
+shift_data("189533","nan",20250628,"WR").
+shift_data("189533","nan",20250629,"WR").
+shift_data("189533","nan",20250630,"AL").
+shift_data("72226","Lisa Curry",20250401,"SE").
+shift_data("72226","Lisa Curry",20250402,"SN").
+shift_data("72226","Lisa Curry",20250403,"SE").
+shift_data("72226","Lisa Curry",20250404,"SN").
+shift_data("72226","Lisa Curry",20250405,"WR").
+shift_data("72226","Lisa Curry",20250406,"WR").
+shift_data("72226","Lisa Curry",20250407,"D").
+shift_data("72226","Lisa Curry",20250408,"AL").
+shift_data("72226","Lisa Curry",20250409,"D").
+shift_data("72226","Lisa Curry",20250410,"D").
+shift_data("72226","Lisa Curry",20250411,"LD").
+shift_data("72226","Lisa Curry",20250412,"WR").
+shift_data("72226","Lisa Curry",20250413,"WR").
+shift_data("72226","Lisa Curry",20250414,"WR").
+shift_data("72226","Lisa Curry",20250415,"D").
+shift_data("72226","Lisa Curry",20250416,"D").
+shift_data("72226","Lisa Curry",20250417,"LD").
+shift_data("72226","Lisa Curry",20250418,"SE").
+shift_data("72226","Lisa Curry",20250419,"SN").
+shift_data("72226","Lisa Curry",20250420,"WR").
+shift_data("72226","Lisa Curry",20250421,"WR").
+shift_data("72226","Lisa Curry",20250422,"D").
+shift_data("72226","Lisa Curry",20250423,"D").
+shift_data("72226","Lisa Curry",20250424,"LD").
+shift_data("72226","Lisa Curry",20250425,"SE").
+shift_data("72226","Lisa Curry",20250426,"SN").
+shift_data("72226","Lisa Curry",20250427,"WR").
+shift_data("72226","Lisa Curry",20250428,"SE").
+shift_data("72226","Lisa Curry",20250429,"SN").
+shift_data("72226","Lisa Curry",20250430,"WR").
+shift_data("72226","Lisa Curry",20250501,"LD").
+shift_data("72226","Lisa Curry",20250502,"SE").
+shift_data("72226","Lisa Curry",20250503,"SN").
+shift_data("72226","Lisa Curry",20250504,"WR").
+shift_data("72226","Lisa Curry",20250505,"PH").
+shift_data("72226","Lisa Curry",20250506,"PH").
+shift_data("72226","Lisa Curry",20250507,"WR").
+shift_data("72226","Lisa Curry",20250508,"LD").
+shift_data("72226","Lisa Curry",20250509,"SE").
+shift_data("72226","Lisa Curry",20250510,"SN").
+shift_data("72226","Lisa Curry",20250511,"WR").
+shift_data("72226","Lisa Curry",20250512,"WR").
+shift_data("72226","Lisa Curry",20250513,"D").
+shift_data("72226","Lisa Curry",20250514,"D").
+shift_data("72226","Lisa Curry",20250515,"D").
+shift_data("72226","Lisa Curry",20250516,"D").
+shift_data("72226","Lisa Curry",20250517,"WR").
+shift_data("72226","Lisa Curry",20250518,"D").
+shift_data("72226","Lisa Curry",20250519,"D").
+shift_data("72226","Lisa Curry",20250520,"LD").
+shift_data("72226","Lisa Curry",20250521,"WR").
+shift_data("72226","Lisa Curry",20250522,"LD").
+shift_data("72226","Lisa Curry",20250523,"SE").
+shift_data("72226","Lisa Curry",20250524,"SN").
+shift_data("72226","Lisa Curry",20250525,"WR").
+shift_data("72226","Lisa Curry",20250526,"D").
+shift_data("72226","Lisa Curry",20250527,"D").
+shift_data("72226","Lisa Curry",20250528,"WR").
+shift_data("72226","Lisa Curry",20250529,"LD").
+shift_data("72226","Lisa Curry",20250530,"SE").
+shift_data("72226","Lisa Curry",20250531,"SN").
+shift_data("72226","Lisa Curry",20250601,"WR").
+shift_data("72226","Lisa Curry",20250602,"AL").
+shift_data("72226","Lisa Curry",20250603,"D").
+shift_data("72226","Lisa Curry",20250604,"D").
+shift_data("72226","Lisa Curry",20250605,"WR").
+shift_data("72226","Lisa Curry",20250606,"SE").
+shift_data("72226","Lisa Curry",20250607,"SN").
+shift_data("72226","Lisa Curry",20250608,"WR").
+shift_data("72226","Lisa Curry",20250609,"D").
+shift_data("72226","Lisa Curry",20250610,"D").
+shift_data("72226","Lisa Curry",20250611,"LD").
+shift_data("72226","Lisa Curry",20250612,"WR").
+shift_data("72226","Lisa Curry",20250613,"D").
+shift_data("72226","Lisa Curry",20250614,"AL").
+shift_data("72226","Lisa Curry",20250615,"WR").
+shift_data("72226","Lisa Curry",20250616,"WR").
+shift_data("72226","Lisa Curry",20250617,"D").
+shift_data("72226","Lisa Curry",20250618,"D").
+shift_data("72226","Lisa Curry",20250619,"LD").
+shift_data("72226","Lisa Curry",20250620,"SE").
+shift_data("72226","Lisa Curry",20250621,"SN").
+shift_data("72226","Lisa Curry",20250622,"WR").
+shift_data("72226","Lisa Curry",20250623,"D").
+shift_data("72226","Lisa Curry",20250624,"D").
+shift_data("72226","Lisa Curry",20250625,"LD").
+shift_data("72226","Lisa Curry",20250626,"WR").
+shift_data("72226","Lisa Curry",20250627,"SE").
+shift_data("72226","Lisa Curry",20250628,"SN").
+shift_data("72226","Lisa Curry",20250629,"WR").
+shift_data("72226","Lisa Curry",20250630,"LD").
+shift_data("72226","Lisa Curry",20250701,"WR").
+shift_data("72226","Lisa Curry",20250702,"D").
+shift_data("72226","Lisa Curry",20250703,"D").
+shift_data("72226","Lisa Curry",20250704,"SE").
+shift_data("72226","Lisa Curry",20250705,"SN").
+shift_data("72226","Lisa Curry",20250706,"WR").
+shift_data("72226","Lisa Curry",20250707,"WR").
+shift_data("72226","Lisa Curry",20250708,"D").
+shift_data("72226","Lisa Curry",20250709,"D").
+shift_data("72226","Lisa Curry",20250710,"LD").
+shift_data("72226","Lisa Curry",20250711,"SE").
+shift_data("72226","Lisa Curry",20250712,"SN").
+shift_data("72226","Lisa Curry",20250713,"WR").
+shift_data("72226","Lisa Curry",20250714,"LD").
+shift_data("72226","Lisa Curry",20250715,"WR").
+shift_data("72226","Lisa Curry",20250716,"D").
+shift_data("72226","Lisa Curry",20250717,"D").
+shift_data("72226","Lisa Curry",20250718,"SE").
+shift_data("72226","Lisa Curry",20250719,"SN").
+shift_data("72226","Lisa Curry",20250720,"WR").
+shift_data("72226","Lisa Curry",20250721,"PH").
+shift_data("72226","Lisa Curry",20250722,"D").
+shift_data("72226","Lisa Curry",20250723,"D").
+shift_data("72226","Lisa Curry",20250724,"LD").
+shift_data("72226","Lisa Curry",20250725,"SE").
+shift_data("72226","Lisa Curry",20250726,"SN").
+shift_data("72226","Lisa Curry",20250727,"WR").
+shift_data("72226","Lisa Curry",20250728,"WR").
+shift_data("72226","Lisa Curry",20250729,"LD").
+shift_data("72226","Lisa Curry",20250730,"SE").
+shift_data("72226","Lisa Curry",20250731,"SN").
+shift_data("72226","Lisa Curry",20250801,"SE").
+shift_data("72226","Lisa Curry",20250802,"SN").
+shift_data("72226","Lisa Curry",20250803,"WR").
+shift_data("72226","Lisa Curry",20250804,"WR").
+shift_data("72226","Lisa Curry",20250805,"WR").
+shift_data("72226","Lisa Curry",20250806,"HL").
+shift_data("72226","Lisa Curry",20250807,"HL").
+shift_data("72226","Lisa Curry",20250808,"HL").
+shift_data("72226","Lisa Curry",20250809,"LD").
+shift_data("72226","Lisa Curry",20250810,"SE").
+shift_data("72226","Lisa Curry",20250811,"SN").
+shift_data("72226","Lisa Curry",20250812,"WR").
+shift_data("72226","Lisa Curry",20250813,"LD").
+shift_data("72226","Lisa Curry",20250814,"WR").
+shift_data("72226","Lisa Curry",20250815,"D").
+shift_data("72226","Lisa Curry",20250816,"D").
+shift_data("72226","Lisa Curry",20250817,"WR").
+shift_data("72226","Lisa Curry",20250818,"LD").
+shift_data("72226","Lisa Curry",20250819,"SE").
+shift_data("72226","Lisa Curry",20250820,"SN").
+shift_data("72226","Lisa Curry",20250821,"SE").
+shift_data("72226","Lisa Curry",20250822,"SN").
+shift_data("72226","Lisa Curry",20250823,"WR").
+shift_data("72226","Lisa Curry",20250824,"WR").
+shift_data("72226","Lisa Curry",20250825,"WR").
+shift_data("72226","Lisa Curry",20250826,"D").
+shift_data("72226","Lisa Curry",20250827,"D").
+shift_data("72226","Lisa Curry",20250828,"LD").
+shift_data("72226","Lisa Curry",20250829,"SE").
+shift_data("72226","Lisa Curry",20250830,"SN").
+shift_data("72226","Lisa Curry",20250831,"WR").
+shift_data("72226","Lisa Curry",20250901,"D").
+shift_data("72226","Lisa Curry",20250902,"D").
+shift_data("72226","Lisa Curry",20250903,"D").
+shift_data("72226","Lisa Curry",20250904,"LD").
+shift_data("72226","Lisa Curry",20250905,"SE").
+shift_data("72226","Lisa Curry",20250906,"SN").
+shift_data("72226","Lisa Curry",20250907,"WR").
+shift_data("72226","Lisa Curry",20250908,"D").
+shift_data("72226","Lisa Curry",20250909,"D").
+shift_data("72226","Lisa Curry",20250910,"LD").
+shift_data("72226","Lisa Curry",20250911,"WR").
+shift_data("72226","Lisa Curry",20250912,"D").
+shift_data("72226","Lisa Curry",20250913,"WR").
+shift_data("72226","Lisa Curry",20250914,"WR").
+shift_data("72226","Lisa Curry",20250915,"PH").
+shift_data("72226","Lisa Curry",20250916,"LD").
+shift_data("72226","Lisa Curry",20250917,"WR").
+shift_data("72226","Lisa Curry",20250918,"D").
+shift_data("72226","Lisa Curry",20250919,"SE").
+shift_data("72226","Lisa Curry",20250920,"SN").
+shift_data("72226","Lisa Curry",20250921,"WR").
+shift_data("72226","Lisa Curry",20250922,"WR").
+shift_data("72226","Lisa Curry",20250923,"D").
+shift_data("72226","Lisa Curry",20250924,"D").
+shift_data("72226","Lisa Curry",20250925,"LD").
+shift_data("72226","Lisa Curry",20250926,"SE").
+shift_data("72226","Lisa Curry",20250927,"SN").
+shift_data("72226","Lisa Curry",20250928,"WR").
+shift_data("72226","Lisa Curry",20250929,"WR").
+shift_data("72226","Lisa Curry",20250930,"D").
+shift_data("72226","Lisa Curry",20251001,"D").
+shift_data("72226","Lisa Curry",20251002,"LD").
+shift_data("72226","Lisa Curry",20251003,"SE").
+shift_data("72226","Lisa Curry",20251004,"SN").
+shift_data("72226","Lisa Curry",20251005,"WR").
+shift_data("72226","Lisa Curry",20251006,"D").
+shift_data("72226","Lisa Curry",20251007,"AL").
+shift_data("72226","Lisa Curry",20251008,"D").
+shift_data("72226","Lisa Curry",20251009,"D").
+shift_data("72226","Lisa Curry",20251010,"D").
+shift_data("72226","Lisa Curry",20251011,"WR").
+shift_data("72226","Lisa Curry",20251012,"LD").
+shift_data("72226","Lisa Curry",20251013,"SE").
+shift_data("72226","Lisa Curry",20251014,"SN").
+shift_data("72226","Lisa Curry",20251015,"WR").
+shift_data("72226","Lisa Curry",20251016,"WR").
+shift_data("72226","Lisa Curry",20251017,"WR").
+shift_data("72226","Lisa Curry",20251018,"SE").
+shift_data("72226","Lisa Curry",20251019,"SN").
+shift_data("72226","Lisa Curry",20251020,"WR").
+shift_data("72226","Lisa Curry",20251021,"D").
+shift_data("72226","Lisa Curry",20251022,"D").
+shift_data("72226","Lisa Curry",20251023,"WR").
+shift_data("72226","Lisa Curry",20251024,"D").
+shift_data("72226","Lisa Curry",20251025,"LD").
+shift_data("72226","Lisa Curry",20251026,"WR").
+shift_data("72226","Lisa Curry",20251027,"D").
+shift_data("72226","Lisa Curry",20251028,"D").
+shift_data("72226","Lisa Curry",20251029,"LD").
+shift_data("72226","Lisa Curry",20251030,"SE").
+shift_data("72226","Lisa Curry",20251031,"SN").
+shift_data("72226","Lisa Curry",20251101,"WR").
+shift_data("72226","Lisa Curry",20251102,"WR").
+shift_data("72226","Lisa Curry",20251103,"PH").
+shift_data("72226","Lisa Curry",20251104,"AL").
+shift_data("72226","Lisa Curry",20251105,"D").
+shift_data("72226","Lisa Curry",20251106,"LD").
+shift_data("72226","Lisa Curry",20251107,"SE").
+shift_data("72226","Lisa Curry",20251108,"SN").
+shift_data("72226","Lisa Curry",20251109,"WR").
+shift_data("72226","Lisa Curry",20251110,"D").
+shift_data("72226","Lisa Curry",20251111,"LD").
+shift_data("72226","Lisa Curry",20251112,"WR").
+shift_data("72226","Lisa Curry",20251113,"D").
+shift_data("72226","Lisa Curry",20251114,"SE").
+shift_data("72226","Lisa Curry",20251115,"SN").
+shift_data("72226","Lisa Curry",20251116,"WR").
+shift_data("72226","Lisa Curry",20251117,"D").
+shift_data("72226","Lisa Curry",20251118,"D").
+shift_data("72226","Lisa Curry",20251119,"D").
+shift_data("72226","Lisa Curry",20251120,"SL").
+shift_data("72226","Lisa Curry",20251121,"SL").
+shift_data("72226","Lisa Curry",20251122,"SL").
+shift_data("72226","Lisa Curry",20251123,"WR").
+shift_data("72226","Lisa Curry",20251124,"PH").
+shift_data("72226","Lisa Curry",20251125,"SL").
+shift_data("72226","Lisa Curry",20251126,"SL").
+shift_data("72226","Lisa Curry",20251127,"SL").
+shift_data("72226","Lisa Curry",20251128,"SL").
+shift_data("72226","Lisa Curry",20251129,"WR").
+shift_data("72226","Lisa Curry",20251130,"SL").
+shift_data("72226","Lisa Curry",20251201,"WR").
+shift_data("72226","Lisa Curry",20251202,"SL").
+shift_data("72226","Lisa Curry",20251203,"SL").
+shift_data("72226","Lisa Curry",20251204,"SL").
+shift_data("72226","Lisa Curry",20251205,"WR").
+shift_data("72226","Lisa Curry",20251206,"WR").
+shift_data("72226","Lisa Curry",20251207,"SL").
+shift_data("72226","Lisa Curry",20251208,"SL").
+shift_data("72226","Lisa Curry",20251209,"SL").
+shift_data("72226","Lisa Curry",20251210,"SL").
+shift_data("72226","Lisa Curry",20251211,"SL").
+shift_data("72226","Lisa Curry",20251212,"SL").
+shift_data("72226","Lisa Curry",20251213,"WR").
+shift_data("72226","Lisa Curry",20251214,"WR").
+shift_data("72226","Lisa Curry",20251215,"SL").
+shift_data("72226","Lisa Curry",20251216,"SL").
+shift_data("72226","Lisa Curry",20251217,"WR").
+shift_data("72226","Lisa Curry",20251218,"WR").
+shift_data("72226","Lisa Curry",20251219,"SL").
+shift_data("72226","Lisa Curry",20251220,"SL").
+shift_data("72226","Lisa Curry",20251221,"WR").
+shift_data("72226","Lisa Curry",20251222,"SL").
+shift_data("72226","Lisa Curry",20251223,"SL").
+shift_data("72226","Lisa Curry",20251224,"SL").
+shift_data("72226","Lisa Curry",20251225,"SL").
+shift_data("72226","Lisa Curry",20251226,"SL").
+shift_data("72226","Lisa Curry",20251227,"WR").
+shift_data("72226","Lisa Curry",20251228,"WR").
+shift_data("72226","Lisa Curry",20251229,"PH").
+shift_data("32368","Kimberly Martinez",20250401,"D").
+shift_data("32368","Kimberly Martinez",20250402,"D").
+shift_data("32368","Kimberly Martinez",20250403,"WR").
+shift_data("32368","Kimberly Martinez",20250404,"SE").
+shift_data("32368","Kimberly Martinez",20250405,"SN").
+shift_data("32368","Kimberly Martinez",20250406,"WR").
+shift_data("32368","Kimberly Martinez",20250407,"D").
+shift_data("32368","Kimberly Martinez",20250408,"D").
+shift_data("32368","Kimberly Martinez",20250409,"D").
+shift_data("32368","Kimberly Martinez",20250410,"D").
+shift_data("32368","Kimberly Martinez",20250411,"LD").
+shift_data("32368","Kimberly Martinez",20250412,"WR").
+shift_data("32368","Kimberly Martinez",20250413,"WR").
+shift_data("32368","Kimberly Martinez",20250414,"D").
+shift_data("32368","Kimberly Martinez",20250415,"D").
+shift_data("32368","Kimberly Martinez",20250416,"D").
+shift_data("32368","Kimberly Martinez",20250417,"AL").
+shift_data("32368","Kimberly Martinez",20250418,"LD").
+shift_data("32368","Kimberly Martinez",20250419,"WR").
+shift_data("32368","Kimberly Martinez",20250420,"WR").
+shift_data("32368","Kimberly Martinez",20250421,"D").
+shift_data("32368","Kimberly Martinez",20250422,"D").
+shift_data("32368","Kimberly Martinez",20250423,"D").
+shift_data("32368","Kimberly Martinez",20250424,"SE").
+shift_data("32368","Kimberly Martinez",20250425,"SN").
+shift_data("32368","Kimberly Martinez",20250426,"WR").
+shift_data("32368","Kimberly Martinez",20250427,"WR").
+shift_data("32368","Kimberly Martinez",20250428,"D").
+shift_data("32368","Kimberly Martinez",20250429,"PH").
+shift_data("32368","Kimberly Martinez",20250430,"D").
+shift_data("32368","Kimberly Martinez",20250501,"WR").
+shift_data("32368","Kimberly Martinez",20250502,"SE").
+shift_data("32368","Kimberly Martinez",20250503,"SN").
+shift_data("32368","Kimberly Martinez",20250504,"WR").
+shift_data("32368","Kimberly Martinez",20250505,"PH").
+shift_data("32368","Kimberly Martinez",20250506,"PH").
+shift_data("32368","Kimberly Martinez",20250507,"WR").
+shift_data("32368","Kimberly Martinez",20250508,"D").
+shift_data("32368","Kimberly Martinez",20250509,"LD").
+shift_data("32368","Kimberly Martinez",20250510,"WR").
+shift_data("32368","Kimberly Martinez",20250511,"WR").
+shift_data("32368","Kimberly Martinez",20250512,"D").
+shift_data("32368","Kimberly Martinez",20250513,"D").
+shift_data("32368","Kimberly Martinez",20250514,"AL").
+shift_data("32368","Kimberly Martinez",20250515,"D").
+shift_data("32368","Kimberly Martinez",20250516,"SE").
+shift_data("32368","Kimberly Martinez",20250517,"SN").
+shift_data("32368","Kimberly Martinez",20250518,"WR").
+shift_data("32368","Kimberly Martinez",20250519,"D").
+shift_data("32368","Kimberly Martinez",20250520,"D").
+shift_data("32368","Kimberly Martinez",20250521,"D").
+shift_data("32368","Kimberly Martinez",20250522,"D").
+shift_data("32368","Kimberly Martinez",20250523,"LD").
+shift_data("32368","Kimberly Martinez",20250524,"WR").
+shift_data("32368","Kimberly Martinez",20250525,"WR").
+shift_data("32368","Kimberly Martinez",20250526,"D").
+shift_data("32368","Kimberly Martinez",20250527,"D").
+shift_data("32368","Kimberly Martinez",20250528,"D").
+shift_data("32368","Kimberly Martinez",20250529,"D").
+shift_data("32368","Kimberly Martinez",20250530,"D").
+shift_data("32368","Kimberly Martinez",20250531,"WR").
+shift_data("32368","Kimberly Martinez",20250601,"WR").
+shift_data("32368","Kimberly Martinez",20250602,"AL").
+shift_data("32368","Kimberly Martinez",20250603,"D").
+shift_data("32368","Kimberly Martinez",20250604,"D").
+shift_data("32368","Kimberly Martinez",20250605,"WR").
+shift_data("32368","Kimberly Martinez",20250606,"SE").
+shift_data("32368","Kimberly Martinez",20250607,"SN").
+shift_data("32368","Kimberly Martinez",20250608,"WR").
+shift_data("32368","Kimberly Martinez",20250609,"LD").
+shift_data("32368","Kimberly Martinez",20250610,"WR").
+shift_data("32368","Kimberly Martinez",20250611,"D").
+shift_data("32368","Kimberly Martinez",20250612,"D").
+shift_data("32368","Kimberly Martinez",20250613,"SE").
+shift_data("32368","Kimberly Martinez",20250614,"SN").
+shift_data("32368","Kimberly Martinez",20250615,"WR").
+shift_data("32368","Kimberly Martinez",20250616,"D").
+shift_data("32368","Kimberly Martinez",20250617,"D").
+shift_data("32368","Kimberly Martinez",20250618,"D").
+shift_data("32368","Kimberly Martinez",20250619,"D").
+shift_data("32368","Kimberly Martinez",20250620,"LD").
+shift_data("32368","Kimberly Martinez",20250621,"WR").
+shift_data("32368","Kimberly Martinez",20250622,"WR").
+shift_data("32368","Kimberly Martinez",20250623,"D").
+shift_data("32368","Kimberly Martinez",20250624,"D").
+shift_data("32368","Kimberly Martinez",20250625,"D").
+shift_data("32368","Kimberly Martinez",20250626,"SE").
+shift_data("32368","Kimberly Martinez",20250627,"SN").
+shift_data("32368","Kimberly Martinez",20250628,"WR").
+shift_data("32368","Kimberly Martinez",20250629,"WR").
+shift_data("32368","Kimberly Martinez",20250630,"D").
+shift_data("32368","Kimberly Martinez",20250701,"D").
+shift_data("32368","Kimberly Martinez",20250702,"D").
+shift_data("32368","Kimberly Martinez",20250703,"D").
+shift_data("32368","Kimberly Martinez",20250704,"LD").
+shift_data("32368","Kimberly Martinez",20250705,"WR").
+shift_data("32368","Kimberly Martinez",20250706,"WR").
+shift_data("32368","Kimberly Martinez",20250707,"AL").
+shift_data("32368","Kimberly Martinez",20250708,"D").
+shift_data("32368","Kimberly Martinez",20250709,"D").
+shift_data("32368","Kimberly Martinez",20250710,"D").
+shift_data("32368","Kimberly Martinez",20250711,"SE").
+shift_data("32368","Kimberly Martinez",20250712,"SN").
+shift_data("32368","Kimberly Martinez",20250713,"WR").
+shift_data("32368","Kimberly Martinez",20250714,"D").
+shift_data("32368","Kimberly Martinez",20250715,"D").
+shift_data("32368","Kimberly Martinez",20250716,"D").
+shift_data("32368","Kimberly Martinez",20250717,"LD").
+shift_data("32368","Kimberly Martinez",20250718,"WR").
+shift_data("32368","Kimberly Martinez",20250719,"WR").
+shift_data("32368","Kimberly Martinez",20250720,"WR").
+shift_data("32368","Kimberly Martinez",20250721,"PH").
+shift_data("32368","Kimberly Martinez",20250722,"D").
+shift_data("32368","Kimberly Martinez",20250723,"D").
+shift_data("32368","Kimberly Martinez",20250724,"D").
+shift_data("32368","Kimberly Martinez",20250725,"LD").
+shift_data("32368","Kimberly Martinez",20250726,"WR").
+shift_data("32368","Kimberly Martinez",20250727,"WR").
+shift_data("32368","Kimberly Martinez",20250728,"D").
+shift_data("32368","Kimberly Martinez",20250729,"HL").
+shift_data("32368","Kimberly Martinez",20250730,"AL").
+shift_data("32368","Kimberly Martinez",20250731,"D").
+shift_data("32368","Kimberly Martinez",20250801,"SE").
+shift_data("32368","Kimberly Martinez",20250802,"SN").
+shift_data("32368","Kimberly Martinez",20250803,"WR").
+shift_data("32368","Kimberly Martinez",20250804,"D").
+shift_data("32368","Kimberly Martinez",20250805,"D").
+shift_data("32368","Kimberly Martinez",20250806,"D").
+shift_data("32368","Kimberly Martinez",20250807,"WR").
+shift_data("32368","Kimberly Martinez",20250808,"SE").
+shift_data("32368","Kimberly Martinez",20250809,"SN").
+shift_data("32368","Kimberly Martinez",20250810,"WR").
+shift_data("32368","Kimberly Martinez",20250811,"PH").
+shift_data("32368","Kimberly Martinez",20250812,"WR").
+shift_data("32368","Kimberly Martinez",20250813,"D").
+shift_data("32368","Kimberly Martinez",20250814,"D").
+shift_data("32368","Kimberly Martinez",20250815,"LD").
+shift_data("32368","Kimberly Martinez",20250816,"WR").
+shift_data("32368","Kimberly Martinez",20250817,"WR").
+shift_data("32368","Kimberly Martinez",20250818,"WR").
+shift_data("32368","Kimberly Martinez",20250819,"HL").
+shift_data("32368","Kimberly Martinez",20250820,"D").
+shift_data("32368","Kimberly Martinez",20250821,"D").
+shift_data("32368","Kimberly Martinez",20250822,"LD").
+shift_data("32368","Kimberly Martinez",20250823,"WR").
+shift_data("32368","Kimberly Martinez",20250824,"WR").
+shift_data("32368","Kimberly Martinez",20250825,"D").
+shift_data("32368","Kimberly Martinez",20250826,"WR").
+shift_data("32368","Kimberly Martinez",20250827,"D").
+shift_data("32368","Kimberly Martinez",20250828,"D").
+shift_data("32368","Kimberly Martinez",20250829,"SE").
+shift_data("32368","Kimberly Martinez",20250830,"SN").
+shift_data("32368","Kimberly Martinez",20250831,"WR").
+shift_data("32368","Kimberly Martinez",20250901,"AL").
+shift_data("32368","Kimberly Martinez",20250902,"D").
+shift_data("32368","Kimberly Martinez",20250903,"AL").
+shift_data("32368","Kimberly Martinez",20250904,"AL").
+shift_data("32368","Kimberly Martinez",20250905,"LD").
+shift_data("32368","Kimberly Martinez",20250906,"WR").
+shift_data("32368","Kimberly Martinez",20250907,"WR").
+shift_data("32368","Kimberly Martinez",20250908,"D").
+shift_data("32368","Kimberly Martinez",20250909,"D").
+shift_data("32368","Kimberly Martinez",20250910,"D").
+shift_data("32368","Kimberly Martinez",20250911,"D").
+shift_data("32368","Kimberly Martinez",20250912,"SE").
+shift_data("32368","Kimberly Martinez",20250913,"SN").
+shift_data("32368","Kimberly Martinez",20250914,"WR").
+shift_data("32368","Kimberly Martinez",20250915,"PH").
+shift_data("32368","Kimberly Martinez",20250916,"D").
+shift_data("32368","Kimberly Martinez",20250917,"D").
+shift_data("32368","Kimberly Martinez",20250918,"D").
+shift_data("32368","Kimberly Martinez",20250919,"LD").
+shift_data("32368","Kimberly Martinez",20250920,"WR").
+shift_data("32368","Kimberly Martinez",20250921,"WR").
+shift_data("32368","Kimberly Martinez",20250922,"SE").
+shift_data("32368","Kimberly Martinez",20250923,"SN").
+shift_data("32368","Kimberly Martinez",20250924,"WR").
+shift_data("32368","Kimberly Martinez",20250925,"D").
+shift_data("32368","Kimberly Martinez",20250926,"SL").
+shift_data("32368","Kimberly Martinez",20250927,"SL").
+shift_data("32368","Kimberly Martinez",20250928,"WR").
+shift_data("32368","Kimberly Martinez",20250929,"SL").
+shift_data("32368","Kimberly Martinez",20250930,"SL").
+shift_data("32368","Kimberly Martinez",20251001,"SP").
+shift_data("32368","Kimberly Martinez",20251002,"D").
+shift_data("32368","Kimberly Martinez",20251003,"D").
+shift_data("32368","Kimberly Martinez",20251004,"WR").
+shift_data("32368","Kimberly Martinez",20251005,"WR").
+shift_data("32368","Kimberly Martinez",20251006,"D").
+shift_data("32368","Kimberly Martinez",20251007,"D").
+shift_data("32368","Kimberly Martinez",20251008,"D").
+shift_data("32368","Kimberly Martinez",20251009,"D").
+shift_data("32368","Kimberly Martinez",20251010,"AL").
+shift_data("32368","Kimberly Martinez",20251011,"WR").
+shift_data("32368","Kimberly Martinez",20251012,"WR").
+shift_data("32368","Kimberly Martinez",20251013,"PH").
+shift_data("32368","Kimberly Martinez",20251014,"D").
+shift_data("32368","Kimberly Martinez",20251015,"D").
+shift_data("32368","Kimberly Martinez",20251016,"D").
+shift_data("32368","Kimberly Martinez",20251017,"LD").
+shift_data("32368","Kimberly Martinez",20251018,"WR").
+shift_data("32368","Kimberly Martinez",20251019,"D").
+shift_data("32368","Kimberly Martinez",20251020,"D").
+shift_data("32368","Kimberly Martinez",20251021,"D").
+shift_data("32368","Kimberly Martinez",20251022,"D").
+shift_data("32368","Kimberly Martinez",20251023,"WR").
+shift_data("32368","Kimberly Martinez",20251024,"SE").
+shift_data("32368","Kimberly Martinez",20251025,"SN").
+shift_data("32368","Kimberly Martinez",20251026,"WR").
+shift_data("32368","Kimberly Martinez",20251027,"D").
+shift_data("32368","Kimberly Martinez",20251028,"WR").
+shift_data("32368","Kimberly Martinez",20251029,"WR").
+shift_data("32368","Kimberly Martinez",20251030,"D").
+shift_data("32368","Kimberly Martinez",20251031,"SE").
+shift_data("32368","Kimberly Martinez",20251101,"SN").
+shift_data("32368","Kimberly Martinez",20251102,"WR").
+shift_data("32368","Kimberly Martinez",20251103,"PH").
+shift_data("32368","Kimberly Martinez",20251104,"D").
+shift_data("32368","Kimberly Martinez",20251105,"D").
+shift_data("32368","Kimberly Martinez",20251106,"D").
+shift_data("32368","Kimberly Martinez",20251107,"LD").
+shift_data("32368","Kimberly Martinez",20251108,"WR").
+shift_data("32368","Kimberly Martinez",20251109,"D").
+shift_data("32368","Kimberly Martinez",20251110,"D").
+shift_data("32368","Kimberly Martinez",20251111,"D").
+shift_data("32368","Kimberly Martinez",20251112,"WR").
+shift_data("32368","Kimberly Martinez",20251113,"D").
+shift_data("32368","Kimberly Martinez",20251114,"SE").
+shift_data("32368","Kimberly Martinez",20251115,"SN").
+shift_data("32368","Kimberly Martinez",20251116,"WR").
+shift_data("32368","Kimberly Martinez",20251117,"D").
+shift_data("32368","Kimberly Martinez",20251118,"D").
+shift_data("32368","Kimberly Martinez",20251119,"WR").
+shift_data("32368","Kimberly Martinez",20251120,"SE").
+shift_data("32368","Kimberly Martinez",20251121,"SN").
+shift_data("32368","Kimberly Martinez",20251122,"WR").
+shift_data("32368","Kimberly Martinez",20251123,"D").
+shift_data("32368","Kimberly Martinez",20251124,"PH").
+shift_data("32368","Kimberly Martinez",20251125,"D").
+shift_data("32368","Kimberly Martinez",20251126,"D").
+shift_data("32368","Kimberly Martinez",20251127,"WR").
+shift_data("32368","Kimberly Martinez",20251128,"LD").
+shift_data("32368","Kimberly Martinez",20251129,"WR").
+shift_data("32368","Kimberly Martinez",20251130,"WR").
+shift_data("32368","Kimberly Martinez",20251201,"SP").
+shift_data("32368","Kimberly Martinez",20251202,"SP").
+shift_data("32368","Kimberly Martinez",20251203,"SP").
+shift_data("32368","Kimberly Martinez",20251204,"SP").
+shift_data("32368","Kimberly Martinez",20251205,"SP").
+shift_data("32368","Kimberly Martinez",20251206,"WR").
+shift_data("32368","Kimberly Martinez",20251207,"SL").
+shift_data("32368","Kimberly Martinez",20251208,"SL").
+shift_data("32368","Kimberly Martinez",20251209,"D").
+shift_data("32368","Kimberly Martinez",20251210,"WR").
+shift_data("32368","Kimberly Martinez",20251211,"D").
+shift_data("32368","Kimberly Martinez",20251212,"AL").
+shift_data("32368","Kimberly Martinez",20251213,"WR").
+shift_data("32368","Kimberly Martinez",20251214,"WR").
+shift_data("32368","Kimberly Martinez",20251215,"D").
+shift_data("32368","Kimberly Martinez",20251216,"D").
+shift_data("32368","Kimberly Martinez",20251217,"D").
+shift_data("32368","Kimberly Martinez",20251218,"LD").
+shift_data("32368","Kimberly Martinez",20251219,"WR").
+shift_data("32368","Kimberly Martinez",20251220,"WR").
+shift_data("32368","Kimberly Martinez",20251221,"WR").
+shift_data("32368","Kimberly Martinez",20251222,"LD").
+shift_data("32368","Kimberly Martinez",20251223,"WR").
+shift_data("32368","Kimberly Martinez",20251224,"D").
+shift_data("32368","Kimberly Martinez",20251225,"LD").
+shift_data("32368","Kimberly Martinez",20251226,"SE").
+shift_data("32368","Kimberly Martinez",20251227,"SN").
+shift_data("32368","Kimberly Martinez",20251228,"WR").
+shift_data("32368","Kimberly Martinez",20251229,"SE").
+shift_data("32368","Kimberly Martinez",20251230,"SN").
+shift_data("32368","Kimberly Martinez",20251231,"PH").
+shift_data("11322","Sean Davis",20250401,"LD").
+shift_data("11322","Sean Davis",20250402,"WR").
+shift_data("11322","Sean Davis",20250403,"D").
+shift_data("11322","Sean Davis",20250404,"LD").
+shift_data("11322","Sean Davis",20250405,"SE").
+shift_data("11322","Sean Davis",20250406,"SN").
+shift_data("11322","Sean Davis",20250407,"WR").
+shift_data("11322","Sean Davis",20250408,"D").
+shift_data("11322","Sean Davis",20250409,"SE").
+shift_data("11322","Sean Davis",20250410,"SN").
+shift_data("11322","Sean Davis",20250411,"WR").
+shift_data("11322","Sean Davis",20250412,"LD").
+shift_data("11322","Sean Davis",20250413,"WR").
+shift_data("11322","Sean Davis",20250414,"WR").
+shift_data("11322","Sean Davis",20250415,"AL").
+shift_data("11322","Sean Davis",20250416,"D").
+shift_data("11322","Sean Davis",20250417,"D").
+shift_data("11322","Sean Davis",20250418,"D").
+shift_data("11322","Sean Davis",20250419,"WR").
+shift_data("11322","Sean Davis",20250420,"SE").
+shift_data("11322","Sean Davis",20250421,"SN").
+shift_data("11322","Sean Davis",20250422,"WR").
+shift_data("11322","Sean Davis",20250423,"D").
+shift_data("11322","Sean Davis",20250424,"D").
+shift_data("11322","Sean Davis",20250425,"D").
+shift_data("11322","Sean Davis",20250426,"WR").
+shift_data("11322","Sean Davis",20250427,"SL").
+shift_data("11322","Sean Davis",20250428,"SL").
+shift_data("11322","Sean Davis",20250429,"LD").
+shift_data("11322","Sean Davis",20250430,"WR").
+shift_data("11322","Sean Davis",20250501,"WR").
+shift_data("11322","Sean Davis",20250502,"D").
+shift_data("11322","Sean Davis",20250503,"LD").
+shift_data("11322","Sean Davis",20250504,"SE").
+shift_data("11322","Sean Davis",20250505,"SN").
+shift_data("11322","Sean Davis",20250506,"PH").
+shift_data("11322","Sean Davis",20250507,"WR").
+shift_data("11322","Sean Davis",20250508,"SE").
+shift_data("11322","Sean Davis",20250509,"SN").
+shift_data("11322","Sean Davis",20250510,"WR").
+shift_data("11322","Sean Davis",20250511,"D").
+shift_data("11322","Sean Davis",20250512,"WR").
+shift_data("11322","Sean Davis",20250513,"D").
+shift_data("11322","Sean Davis",20250514,"D").
+shift_data("11322","Sean Davis",20250515,"WR").
+shift_data("11322","Sean Davis",20250516,"D").
+shift_data("11322","Sean Davis",20250517,"D").
+shift_data("11322","Sean Davis",20250518,"D").
+shift_data("11322","Sean Davis",20250519,"WR").
+shift_data("11322","Sean Davis",20250520,"D").
+shift_data("11322","Sean Davis",20250521,"D").
+shift_data("11322","Sean Davis",20250522,"WR").
+shift_data("11322","Sean Davis",20250523,"LD").
+shift_data("11322","Sean Davis",20250524,"SE").
+shift_data("11322","Sean Davis",20250525,"SN").
+shift_data("11322","Sean Davis",20250526,"WR").
+shift_data("11322","Sean Davis",20250527,"LD").
+shift_data("11322","Sean Davis",20250528,"SE").
+shift_data("11322","Sean Davis",20250529,"SN").
+shift_data("11322","Sean Davis",20250530,"WR").
+shift_data("11322","Sean Davis",20250531,"LD").
+shift_data("11322","Sean Davis",20250601,"WR").
+shift_data("11322","Sean Davis",20250602,"D").
+shift_data("11322","Sean Davis",20250603,"LD").
+shift_data("11322","Sean Davis",20250604,"SE").
+shift_data("11322","Sean Davis",20250605,"SN").
+shift_data("11322","Sean Davis",20250606,"WR").
+shift_data("11322","Sean Davis",20250607,"WR").
+shift_data("11322","Sean Davis",20250608,"D").
+shift_data("11322","Sean Davis",20250609,"D").
+shift_data("11322","Sean Davis",20250610,"D").
+shift_data("11322","Sean Davis",20250611,"SE").
+shift_data("11322","Sean Davis",20250612,"SN").
+shift_data("11322","Sean Davis",20250613,"WR").
+shift_data("11322","Sean Davis",20250614,"D").
+shift_data("11322","Sean Davis",20250615,"WR").
+shift_data("11322","Sean Davis",20250616,"WR").
+shift_data("11322","Sean Davis",20250617,"D").
+shift_data("11322","Sean Davis",20250618,"D").
+shift_data("11322","Sean Davis",20250619,"D").
+shift_data("11322","Sean Davis",20250620,"D").
+shift_data("11322","Sean Davis",20250621,"D").
+shift_data("11322","Sean Davis",20250622,"WR").
+shift_data("11322","Sean Davis",20250623,"D").
+shift_data("11322","Sean Davis",20250624,"D").
+shift_data("11322","Sean Davis",20250625,"D").
+shift_data("11322","Sean Davis",20250626,"LD").
+shift_data("11322","Sean Davis",20250627,"WR").
+shift_data("11322","Sean Davis",20250628,"WR").
+shift_data("11322","Sean Davis",20250629,"D").
+shift_data("11322","Sean Davis",20250630,"D").
+shift_data("11322","Sean Davis",20250701,"WR").
+shift_data("11322","Sean Davis",20250702,"LD").
+shift_data("11322","Sean Davis",20250703,"SE").
+shift_data("11322","Sean Davis",20250704,"SN").
+shift_data("11322","Sean Davis",20250705,"AL").
+shift_data("11322","Sean Davis",20250706,"TR").
+shift_data("11322","Sean Davis",20250707,"WR").
+shift_data("11322","Sean Davis",20250708,"D").
+shift_data("11322","Sean Davis",20250709,"LD").
+shift_data("11322","Sean Davis",20250710,"SE").
+shift_data("11322","Sean Davis",20250711,"SN").
+shift_data("11322","Sean Davis",20250712,"WR").
+shift_data("11322","Sean Davis",20250713,"SE").
+shift_data("11322","Sean Davis",20250714,"SN").
+shift_data("11322","Sean Davis",20250715,"WR").
+shift_data("11322","Sean Davis",20250716,"WR").
+shift_data("11322","Sean Davis",20250717,"D").
+shift_data("11322","Sean Davis",20250718,"D").
+shift_data("11322","Sean Davis",20250719,"D").
+shift_data("11322","Sean Davis",20250720,"LD").
+shift_data("11322","Sean Davis",20250721,"PH").
+shift_data("11322","Sean Davis",20250722,"D").
+shift_data("11322","Sean Davis",20250723,"D").
+shift_data("11322","Sean Davis",20250724,"SE").
+shift_data("11322","Sean Davis",20250725,"SN").
+shift_data("11322","Sean Davis",20250726,"WR").
+shift_data("11322","Sean Davis",20250727,"WR").
+shift_data("11322","Sean Davis",20250728,"D").
+shift_data("11322","Sean Davis",20250729,"WR").
+shift_data("11322","Sean Davis",20250730,"D").
+shift_data("11322","Sean Davis",20250731,"D").
+shift_data("11322","Sean Davis",20250801,"D").
+shift_data("11322","Sean Davis",20250802,"SE").
+shift_data("11322","Sean Davis",20250803,"SN").
+shift_data("11322","Sean Davis",20250804,"WR").
+shift_data("11322","Sean Davis",20250805,"LD").
+shift_data("11322","Sean Davis",20250806,"WR").
+shift_data("11322","Sean Davis",20250807,"LD").
+shift_data("11322","Sean Davis",20250808,"WR").
+shift_data("11322","Sean Davis",20250809,"D").
+shift_data("11322","Sean Davis",20250810,"D").
+shift_data("11322","Sean Davis",20250811,"PH").
+shift_data("11322","Sean Davis",20250812,"D").
+shift_data("11322","Sean Davis",20250813,"SE").
+shift_data("11322","Sean Davis",20250814,"SN").
+shift_data("11322","Sean Davis",20250815,"WR").
+shift_data("11322","Sean Davis",20250816,"WR").
+shift_data("11322","Sean Davis",20250817,"LD").
+shift_data("11322","Sean Davis",20250818,"WR").
+shift_data("11322","Sean Davis",20250819,"D").
+shift_data("11322","Sean Davis",20250820,"D").
+shift_data("11322","Sean Davis",20250821,"D").
+shift_data("11322","Sean Davis",20250822,"D").
+shift_data("11322","Sean Davis",20250823,"WR").
+shift_data("11322","Sean Davis",20250824,"LD").
+shift_data("11322","Sean Davis",20250825,"SE").
+shift_data("11322","Sean Davis",20250826,"SN").
+shift_data("11322","Sean Davis",20250827,"SE").
+shift_data("11322","Sean Davis",20250828,"SN").
+shift_data("11322","Sean Davis",20250829,"WR").
+shift_data("11322","Sean Davis",20250830,"LD").
+shift_data("11322","Sean Davis",20250831,"WR").
+shift_data("11322","Sean Davis",20250901,"D").
+shift_data("11322","Sean Davis",20250902,"SE").
+shift_data("11322","Sean Davis",20250903,"SN").
+shift_data("11322","Sean Davis",20250904,"WR").
+shift_data("11322","Sean Davis",20250905,"D").
+shift_data("11322","Sean Davis",20250906,"WR").
+shift_data("11322","Sean Davis",20250907,"WR").
+shift_data("11322","Sean Davis",20250908,"D").
+shift_data("11322","Sean Davis",20250909,"D").
+shift_data("11322","Sean Davis",20250910,"LD").
+shift_data("11322","Sean Davis",20250911,"SE").
+shift_data("11322","Sean Davis",20250912,"SN").
+shift_data("11322","Sean Davis",20250913,"WR").
+shift_data("11322","Sean Davis",20250914,"D").
+shift_data("11322","Sean Davis",20250915,"D").
+shift_data("11322","Sean Davis",20250916,"WR").
+shift_data("11322","Sean Davis",20250917,"D").
+shift_data("11322","Sean Davis",20250918,"D").
+shift_data("11322","Sean Davis",20250919,"D").
+shift_data("11322","Sean Davis",20250920,"LD").
+shift_data("11322","Sean Davis",20250921,"SE").
+shift_data("11322","Sean Davis",20250922,"SN").
+shift_data("11322","Sean Davis",20250923,"PH").
+shift_data("11322","Sean Davis",20250924,"D").
+shift_data("11322","Sean Davis",20250925,"D").
+shift_data("11322","Sean Davis",20250926,"SE").
+shift_data("11322","Sean Davis",20250927,"SN").
+shift_data("11322","Sean Davis",20250928,"WR").
+shift_data("11322","Sean Davis",20250929,"LD").
+shift_data("11322","Sean Davis",20250930,"SE").
+shift_data("11322","Sean Davis",20251001,"SN").
+shift_data("11322","Sean Davis",20251002,"WR").
+shift_data("11322","Sean Davis",20251003,"D").
+shift_data("11322","Sean Davis",20251004,"WR").
+shift_data("11322","Sean Davis",20251005,"WR").
+shift_data("11322","Sean Davis",20251006,"D").
+shift_data("11322","Sean Davis",20251007,"D").
+shift_data("11322","Sean Davis",20251008,"WR").
+shift_data("11322","Sean Davis",20251009,"WR").
+shift_data("11322","Sean Davis",20251010,"LD").
+shift_data("11322","Sean Davis",20251011,"WR").
+shift_data("11322","Sean Davis",20251012,"LD").
+shift_data("11322","Sean Davis",20251013,"PH").
+shift_data("11322","Sean Davis",20251014,"D").
+shift_data("11322","Sean Davis",20251015,"AL").
+shift_data("11322","Sean Davis",20251016,"LD").
+shift_data("11322","Sean Davis",20251017,"SE").
+shift_data("11322","Sean Davis",20251018,"SN").
+shift_data("11322","Sean Davis",20251019,"WR").
+shift_data("11322","Sean Davis",20251020,"D").
+shift_data("11322","Sean Davis",20251021,"D").
+shift_data("11322","Sean Davis",20251022,"D").
+shift_data("11322","Sean Davis",20251023,"WR").
+shift_data("11322","Sean Davis",20251024,"D").
+shift_data("11322","Sean Davis",20251025,"LM").
+shift_data("11322","Sean Davis",20251026,"SE").
+shift_data("11322","Sean Davis",20251027,"SN").
+shift_data("11322","Sean Davis",20251028,"WR").
+shift_data("11322","Sean Davis",20251029,"WR").
+shift_data("11322","Sean Davis",20251030,"D").
+shift_data("11322","Sean Davis",20251031,"LD").
+shift_data("11322","Sean Davis",20251101,"WR").
+shift_data("11322","Sean Davis",20251102,"WR").
+shift_data("11322","Sean Davis",20251103,"SE").
+shift_data("11322","Sean Davis",20251104,"SN").
+shift_data("11322","Sean Davis",20251105,"WR").
+shift_data("11322","Sean Davis",20251106,"D").
+shift_data("11322","Sean Davis",20251107,"WR").
+shift_data("11322","Sean Davis",20251108,"D").
+shift_data("11322","Sean Davis",20251109,"WR").
+shift_data("11322","Sean Davis",20251110,"AL").
+shift_data("11322","Sean Davis",20251111,"D").
+shift_data("11322","Sean Davis",20251112,"D").
+shift_data("11322","Sean Davis",20251113,"D").
+shift_data("11322","Sean Davis",20251114,"D").
+shift_data("11322","Sean Davis",20251115,"LD").
+shift_data("11322","Sean Davis",20251116,"WR").
+shift_data("11322","Sean Davis",20251117,"D").
+shift_data("11322","Sean Davis",20251118,"LD").
+shift_data("11322","Sean Davis",20251119,"WR").
+shift_data("11322","Sean Davis",20251120,"HL").
+shift_data("11322","Sean Davis",20251121,"WR").
+shift_data("11322","Sean Davis",20251122,"WR").
+shift_data("11322","Sean Davis",20251123,"D").
+shift_data("11322","Sean Davis",20251124,"D").
+shift_data("11322","Sean Davis",20251125,"D").
+shift_data("11322","Sean Davis",20251126,"WR").
+shift_data("11322","Sean Davis",20251127,"D").
+shift_data("11322","Sean Davis",20251128,"D").
+shift_data("11322","Sean Davis",20251129,"SE").
+shift_data("11322","Sean Davis",20251130,"SN").
+shift_data("11322","Sean Davis",20251201,"WR").
+shift_data("11322","Sean Davis",20251202,"D").
+shift_data("11322","Sean Davis",20251203,"D").
+shift_data("11322","Sean Davis",20251204,"WR").
+shift_data("11322","Sean Davis",20251205,"D").
+shift_data("11322","Sean Davis",20251206,"SE").
+shift_data("11322","Sean Davis",20251207,"SN").
+shift_data("11322","Sean Davis",20251208,"SE").
+shift_data("11322","Sean Davis",20251209,"SN").
+shift_data("11322","Sean Davis",20251210,"WR").
+shift_data("11322","Sean Davis",20251211,"WR").
+shift_data("11322","Sean Davis",20251212,"D").
+shift_data("11322","Sean Davis",20251213,"LD").
+shift_data("11322","Sean Davis",20251214,"SE").
+shift_data("11322","Sean Davis",20251215,"SN").
+shift_data("11322","Sean Davis",20251216,"WR").
+shift_data("11322","Sean Davis",20251217,"WR").
+shift_data("11322","Sean Davis",20251218,"LD").
+shift_data("11322","Sean Davis",20251219,"SE").
+shift_data("11322","Sean Davis",20251220,"SN").
+shift_data("11322","Sean Davis",20251221,"AL").
+shift_data("11322","Sean Davis",20251222,"WR").
+shift_data("11322","Sean Davis",20251223,"LD").
+shift_data("11322","Sean Davis",20251224,"WR").
+shift_data("11322","Sean Davis",20251225,"LD").
+shift_data("11322","Sean Davis",20251226,"WR").
+shift_data("11322","Sean Davis",20251227,"LD").
+shift_data("11322","Sean Davis",20251228,"SE").
+shift_data("11322","Sean Davis",20251229,"SN").
+shift_data("11322","Sean Davis",20251230,"SE").
+shift_data("11322","Sean Davis",20251231,"SN").
+shift_data("27412","Michael Vincent",20250401,"WR").
+shift_data("27412","Michael Vincent",20250402,"D").
+shift_data("27412","Michael Vincent",20250403,"LD").
+shift_data("27412","Michael Vincent",20250404,"WR").
+shift_data("27412","Michael Vincent",20250405,"D").
+shift_data("27412","Michael Vincent",20250406,"LD").
+shift_data("27412","Michael Vincent",20250407,"SE").
+shift_data("27412","Michael Vincent",20250408,"SN").
+shift_data("27412","Michael Vincent",20250409,"AL").
+shift_data("27412","Michael Vincent",20250410,"WR").
+shift_data("27412","Michael Vincent",20250411,"WR").
+shift_data("27412","Michael Vincent",20250412,"WR").
+shift_data("27412","Michael Vincent",20250413,"LD").
+shift_data("27412","Michael Vincent",20250414,"SE").
+shift_data("27412","Michael Vincent",20250415,"SN").
+shift_data("27412","Michael Vincent",20250416,"SE").
+shift_data("27412","Michael Vincent",20250417,"SN").
+shift_data("27412","Michael Vincent",20250418,"WR").
+shift_data("27412","Michael Vincent",20250419,"WR").
+shift_data("27412","Michael Vincent",20250420,"D").
+shift_data("27412","Michael Vincent",20250421,"D").
+shift_data("27412","Michael Vincent",20250422,"LD").
+shift_data("27412","Michael Vincent",20250423,"SE").
+shift_data("27412","Michael Vincent",20250424,"SN").
+shift_data("27412","Michael Vincent",20250425,"WR").
+shift_data("27412","Michael Vincent",20250426,"LD").
+shift_data("27412","Michael Vincent",20250427,"WR").
+shift_data("27412","Michael Vincent",20250428,"D").
+shift_data("27412","Michael Vincent",20250429,"SE").
+shift_data("27412","Michael Vincent",20250430,"SN").
+shift_data("27412","Michael Vincent",20250501,"WR").
+shift_data("27412","Michael Vincent",20250502,"LD").
+shift_data("27412","Michael Vincent",20250503,"WR").
+shift_data("27412","Michael Vincent",20250504,"LD").
+shift_data("27412","Michael Vincent",20250505,"PH").
+shift_data("27412","Michael Vincent",20250506,"LD").
+shift_data("27412","Michael Vincent",20250507,"SE").
+shift_data("27412","Michael Vincent",20250508,"SN").
+shift_data("27412","Michael Vincent",20250509,"WR").
+shift_data("27412","Michael Vincent",20250510,"LD").
+shift_data("27412","Michael Vincent",20250511,"SE").
+shift_data("27412","Michael Vincent",20250512,"SN").
+shift_data("27412","Michael Vincent",20250513,"WR").
+shift_data("27412","Michael Vincent",20250514,"LD").
+shift_data("27412","Michael Vincent",20250515,"SE").
+shift_data("27412","Michael Vincent",20250516,"SN").
+shift_data("27412","Michael Vincent",20250517,"SE").
+shift_data("27412","Michael Vincent",20250518,"SN").
+shift_data("27412","Michael Vincent",20250519,"WR").
+shift_data("27412","Michael Vincent",20250520,"LD").
+shift_data("27412","Michael Vincent",20250521,"WR").
+shift_data("27412","Michael Vincent",20250522,"WR").
+shift_data("27412","Michael Vincent",20250523,"SE").
+shift_data("27412","Michael Vincent",20250524,"SN").
+shift_data("27412","Michael Vincent",20250525,"WR").
+shift_data("27412","Michael Vincent",20250526,"D").
+shift_data("27412","Michael Vincent",20250527,"LD").
+shift_data("27412","Michael Vincent",20250528,"SE").
+shift_data("27412","Michael Vincent",20250529,"SN").
+shift_data("27412","Michael Vincent",20250530,"WR").
+shift_data("27412","Michael Vincent",20250531,"D").
+shift_data("27412","Michael Vincent",20250601,"LD").
+shift_data("27412","Michael Vincent",20250602,"SE").
+shift_data("27412","Michael Vincent",20250603,"SN").
+shift_data("27412","Michael Vincent",20250604,"WR").
+shift_data("27412","Michael Vincent",20250605,"LD").
+shift_data("27412","Michael Vincent",20250606,"WR").
+shift_data("27412","Michael Vincent",20250607,"D").
+shift_data("27412","Michael Vincent",20250608,"SE").
+shift_data("27412","Michael Vincent",20250609,"SN").
+shift_data("27412","Michael Vincent",20250610,"SE").
+shift_data("27412","Michael Vincent",20250611,"SN").
+shift_data("27412","Michael Vincent",20250612,"WR").
+shift_data("27412","Michael Vincent",20250613,"WR").
+shift_data("27412","Michael Vincent",20250614,"LD").
+shift_data("27412","Michael Vincent",20250615,"SE").
+shift_data("27412","Michael Vincent",20250616,"SN").
+shift_data("27412","Michael Vincent",20250617,"WR").
+shift_data("27412","Michael Vincent",20250618,"LD").
+shift_data("27412","Michael Vincent",20250619,"WR").
+shift_data("27412","Michael Vincent",20250620,"LD").
+shift_data("27412","Michael Vincent",20250621,"SE").
+shift_data("27412","Michael Vincent",20250622,"SN").
+shift_data("27412","Michael Vincent",20250623,"AL").
+shift_data("27412","Michael Vincent",20250624,"AL").
+shift_data("27412","Michael Vincent",20250625,"WR").
+shift_data("27412","Michael Vincent",20250626,"WR").
+shift_data("27412","Michael Vincent",20250627,"WR").
+shift_data("27412","Michael Vincent",20250628,"LD").
+shift_data("27412","Michael Vincent",20250629,"SE").
+shift_data("27412","Michael Vincent",20250630,"SN").
+shift_data("27412","Michael Vincent",20250701,"SE").
+shift_data("27412","Michael Vincent",20250702,"SN").
+shift_data("27412","Michael Vincent",20250703,"WR").
+shift_data("27412","Michael Vincent",20250704,"LD").
+shift_data("27412","Michael Vincent",20250705,"WR").
+shift_data("27412","Michael Vincent",20250706,"LD").
+shift_data("27412","Michael Vincent",20250707,"SE").
+shift_data("27412","Michael Vincent",20250708,"SN").
+shift_data("27412","Michael Vincent",20250709,"WR").
+shift_data("27412","Michael Vincent",20250710,"D").
+shift_data("27412","Michael Vincent",20250711,"LD").
+shift_data("27412","Michael Vincent",20250712,"WR").
+shift_data("27412","Michael Vincent",20250713,"D").
+shift_data("27412","Michael Vincent",20250714,"SE").
+shift_data("27412","Michael Vincent",20250715,"SN").
+shift_data("27412","Michael Vincent",20250716,"SE").
+shift_data("27412","Michael Vincent",20250717,"SN").
+shift_data("27412","Michael Vincent",20250718,"WR").
+shift_data("27412","Michael Vincent",20250719,"LD").
+shift_data("27412","Michael Vincent",20250720,"SE").
+shift_data("27412","Michael Vincent",20250721,"SN").
+shift_data("27412","Michael Vincent",20250722,"WR").
+shift_data("27412","Michael Vincent",20250723,"SE").
+shift_data("27412","Michael Vincent",20250724,"SN").
+shift_data("27412","Michael Vincent",20250725,"WR").
+shift_data("27412","Michael Vincent",20250726,"LD").
+shift_data("27412","Michael Vincent",20250727,"WR").
+shift_data("27412","Michael Vincent",20250728,"D").
+shift_data("27412","Michael Vincent",20250729,"LM").
+shift_data("27412","Michael Vincent",20250730,"SE").
+shift_data("27412","Michael Vincent",20250731,"SN").
+shift_data("27412","Michael Vincent",20250801,"AL").
+shift_data("27412","Michael Vincent",20250802,"WR").
+shift_data("27412","Michael Vincent",20250803,"WR").
+shift_data("27412","Michael Vincent",20250804,"LD").
+shift_data("27412","Michael Vincent",20250805,"WR").
+shift_data("27412","Michael Vincent",20250806,"LD").
+shift_data("27412","Michael Vincent",20250807,"SE").
+shift_data("27412","Michael Vincent",20250808,"SN").
+shift_data("27412","Michael Vincent",20250809,"WR").
+shift_data("27412","Michael Vincent",20250810,"D").
+shift_data("27412","Michael Vincent",20250811,"LD").
+shift_data("27412","Michael Vincent",20250812,"SE").
+shift_data("27412","Michael Vincent",20250813,"SN").
+shift_data("27412","Michael Vincent",20250814,"WR").
+shift_data("27412","Michael Vincent",20250815,"D").
+shift_data("27412","Michael Vincent",20250816,"LD").
+shift_data("27412","Michael Vincent",20250817,"WR").
+shift_data("27412","Michael Vincent",20250818,"D").
+shift_data("27412","Michael Vincent",20250819,"LD").
+shift_data("27412","Michael Vincent",20250820,"SE").
+shift_data("27412","Michael Vincent",20250821,"SN").
+shift_data("27412","Michael Vincent",20250822,"WR").
+shift_data("27412","Michael Vincent",20250823,"WR").
+shift_data("27412","Michael Vincent",20250824,"WR").
+shift_data("27412","Michael Vincent",20250825,"D").
+shift_data("27412","Michael Vincent",20250826,"D").
+shift_data("27412","Michael Vincent",20250827,"LD").
+shift_data("27412","Michael Vincent",20250828,"SE").
+shift_data("27412","Michael Vincent",20250829,"SN").
+shift_data("27412","Michael Vincent",20250830,"WR").
+shift_data("27412","Michael Vincent",20250831,"LD").
+shift_data("27412","Michael Vincent",20250901,"SE").
+shift_data("27412","Michael Vincent",20250902,"SN").
+shift_data("27412","Michael Vincent",20250903,"WR").
+shift_data("27412","Michael Vincent",20250904,"D").
+shift_data("27412","Michael Vincent",20250905,"D").
+shift_data("27412","Michael Vincent",20250906,"WR").
+shift_data("27412","Michael Vincent",20250907,"LD").
+shift_data("27412","Michael Vincent",20250908,"SE").
+shift_data("27412","Michael Vincent",20250909,"SN").
+shift_data("27412","Michael Vincent",20250910,"WR").
+shift_data("27412","Michael Vincent",20250911,"LD").
+shift_data("27412","Michael Vincent",20250912,"SE").
+shift_data("27412","Michael Vincent",20250913,"SN").
+shift_data("27412","Michael Vincent",20250914,"WR").
+shift_data("27412","Michael Vincent",20250915,"PH").
+shift_data("27412","Michael Vincent",20250916,"WR").
+shift_data("27412","Michael Vincent",20250917,"AL").
+shift_data("27412","Michael Vincent",20250918,"HL").
+shift_data("27412","Michael Vincent",20250919,"SE").
+shift_data("27412","Michael Vincent",20250920,"SN").
+shift_data("27412","Michael Vincent",20250921,"WR").
+shift_data("27412","Michael Vincent",20250922,"D").
+shift_data("27412","Michael Vincent",20250923,"SE").
+shift_data("27412","Michael Vincent",20250924,"SN").
+shift_data("27412","Michael Vincent",20250925,"WR").
+shift_data("27412","Michael Vincent",20250926,"LD").
+shift_data("27412","Michael Vincent",20250927,"SE").
+shift_data("27412","Michael Vincent",20250928,"SN").
+shift_data("27412","Michael Vincent",20250929,"WR").
+shift_data("27412","Michael Vincent",20250930,"LD").
+shift_data("27412","Michael Vincent",20251001,"SE").
+shift_data("27412","Michael Vincent",20251002,"SN").
+shift_data("27412","Michael Vincent",20251003,"WR").
+shift_data("27412","Michael Vincent",20251004,"LD").
+shift_data("27412","Michael Vincent",20251005,"WR").
+shift_data("27412","Michael Vincent",20251006,"D").
+shift_data("27412","Michael Vincent",20251007,"LD").
+shift_data("27412","Michael Vincent",20251008,"SE").
+shift_data("27412","Michael Vincent",20251009,"SN").
+shift_data("27412","Michael Vincent",20251010,"WR").
+shift_data("27412","Michael Vincent",20251011,"LD").
+shift_data("27412","Michael Vincent",20251012,"SE").
+shift_data("27412","Michael Vincent",20251013,"SN").
+shift_data("27412","Michael Vincent",20251014,"WR").
+shift_data("27412","Michael Vincent",20251015,"WR").
+shift_data("27412","Michael Vincent",20251016,"WR").
+shift_data("27412","Michael Vincent",20251017,"D").
+shift_data("27412","Michael Vincent",20251018,"LD").
+shift_data("27412","Michael Vincent",20251019,"SE").
+shift_data("27412","Michael Vincent",20251020,"SN").
+shift_data("27412","Michael Vincent",20251021,"WR").
+shift_data("27412","Michael Vincent",20251022,"LD").
+shift_data("27412","Michael Vincent",20251023,"SE").
+shift_data("27412","Michael Vincent",20251024,"SN").
+shift_data("27412","Michael Vincent",20251025,"WR").
+shift_data("27412","Michael Vincent",20251026,"D").
+shift_data("27412","Michael Vincent",20251027,"D").
+shift_data("27412","Michael Vincent",20251028,"LD").
+shift_data("27412","Michael Vincent",20251029,"SE").
+shift_data("27412","Michael Vincent",20251030,"SN").
+shift_data("27412","Michael Vincent",20251031,"WR").
+shift_data("27412","Michael Vincent",20251101,"WR").
+shift_data("27412","Michael Vincent",20251102,"LD").
+shift_data("27412","Michael Vincent",20251103,"PH").
+shift_data("27412","Michael Vincent",20251104,"D").
+shift_data("27412","Michael Vincent",20251105,"LD").
+shift_data("27412","Michael Vincent",20251106,"SE").
+shift_data("27412","Michael Vincent",20251107,"SN").
+shift_data("27412","Michael Vincent",20251108,"WR").
+shift_data("27412","Michael Vincent",20251109,"LD").
+shift_data("27412","Michael Vincent",20251110,"SE").
+shift_data("27412","Michael Vincent",20251111,"SN").
+shift_data("27412","Michael Vincent",20251112,"WR").
+shift_data("27412","Michael Vincent",20251113,"LD").
+shift_data("27412","Michael Vincent",20251114,"WR").
+shift_data("27412","Michael Vincent",20251115,"WR").
+shift_data("27412","Michael Vincent",20251116,"D").
+shift_data("27412","Michael Vincent",20251117,"D").
+shift_data("27412","Michael Vincent",20251118,"LD").
+shift_data("27412","Michael Vincent",20251119,"SE").
+shift_data("27412","Michael Vincent",20251120,"SN").
+shift_data("27412","Michael Vincent",20251121,"AL").
+shift_data("27412","Michael Vincent",20251122,"HL").
+shift_data("27412","Michael Vincent",20251123,"WR").
+shift_data("27412","Michael Vincent",20251124,"PH").
+shift_data("27412","Michael Vincent",20251125,"D").
+shift_data("27412","Michael Vincent",20251126,"D").
+shift_data("27412","Michael Vincent",20251127,"LD").
+shift_data("27412","Michael Vincent",20251128,"WR").
+shift_data("27412","Michael Vincent",20251129,"SE").
+shift_data("27412","Michael Vincent",20251130,"SN").
+shift_data("27412","Michael Vincent",20251201,"WR").
+shift_data("27412","Michael Vincent",20251202,"SE").
+shift_data("27412","Michael Vincent",20251203,"SN").
+shift_data("27412","Michael Vincent",20251204,"WR").
+shift_data("27412","Michael Vincent",20251205,"D").
+shift_data("27412","Michael Vincent",20251206,"WR").
+shift_data("27412","Michael Vincent",20251207,"WR").
+shift_data("27412","Michael Vincent",20251208,"WR").
+shift_data("27412","Michael Vincent",20251209,"WR").
+shift_data("27412","Michael Vincent",20251210,"D").
+shift_data("27412","Michael Vincent",20251211,"D").
+shift_data("27412","Michael Vincent",20251212,"LD").
+shift_data("27412","Michael Vincent",20251213,"SE").
+shift_data("27412","Michael Vincent",20251214,"SN").
+shift_data("27412","Michael Vincent",20251215,"WR").
+shift_data("27412","Michael Vincent",20251216,"D").
+shift_data("27412","Michael Vincent",20251217,"LD").
+shift_data("27412","Michael Vincent",20251218,"SE").
+shift_data("27412","Michael Vincent",20251219,"SN").
+shift_data("27412","Michael Vincent",20251220,"WR").
+shift_data("27412","Michael Vincent",20251221,"WR").
+shift_data("27412","Michael Vincent",20251222,"D").
+shift_data("27412","Michael Vincent",20251223,"WR").
+shift_data("27412","Michael Vincent",20251224,"SE").
+shift_data("27412","Michael Vincent",20251225,"SN").
+shift_data("27412","Michael Vincent",20251226,"SE").
+shift_data("27412","Michael Vincent",20251227,"SN").
+shift_data("27412","Michael Vincent",20251228,"WR").
+shift_data("27412","Michael Vincent",20251229,"PH").
+shift_data("27412","Michael Vincent",20251230,"PH").
+shift_data("27412","Michael Vincent",20251231,"PH").
+shift_data("77355","William Stevens",20251006,"D").
+shift_data("77355","William Stevens",20251007,"AL").
+shift_data("77355","William Stevens",20251008,"D").
+shift_data("77355","William Stevens",20251009,"D").
+shift_data("77355","William Stevens",20251010,"D").
+shift_data("77355","William Stevens",20251011,"WR").
+shift_data("77355","William Stevens",20251012,"WR").
+shift_data("77355","William Stevens",20251013,"PH").
+shift_data("77355","William Stevens",20251014,"D").
+shift_data("77355","William Stevens",20251015,"D").
+shift_data("77355","William Stevens",20251016,"D").
+shift_data("77355","William Stevens",20251017,"D").
+shift_data("77355","William Stevens",20251018,"WR").
+shift_data("77355","William Stevens",20251019,"WR").
+shift_data("77355","William Stevens",20251020,"D").
+shift_data("77355","William Stevens",20251021,"D").
+shift_data("77355","William Stevens",20251022,"D").
+shift_data("77355","William Stevens",20251023,"D").
+shift_data("77355","William Stevens",20251024,"D").
+shift_data("77355","William Stevens",20251025,"WR").
+shift_data("77355","William Stevens",20251026,"WR").
+shift_data("77355","William Stevens",20251027,"D").
+shift_data("77355","William Stevens",20251028,"D").
+shift_data("77355","William Stevens",20251029,"D").
+shift_data("77355","William Stevens",20251030,"D").
+shift_data("77355","William Stevens",20251031,"D").
+shift_data("77355","William Stevens",20251101,"WR").
+shift_data("77355","William Stevens",20251102,"WR").
+shift_data("77355","William Stevens",20251103,"PH").
+shift_data("77355","William Stevens",20251104,"HL").
+shift_data("77355","William Stevens",20251105,"D").
+shift_data("77355","William Stevens",20251106,"AL").
+shift_data("77355","William Stevens",20251107,"D").
+shift_data("77355","William Stevens",20251108,"WR").
+shift_data("77355","William Stevens",20251109,"WR").
+shift_data("77355","William Stevens",20251110,"D").
+shift_data("77355","William Stevens",20251111,"D").
+shift_data("77355","William Stevens",20251112,"AL").
+shift_data("77355","William Stevens",20251113,"AL").
+shift_data("77355","William Stevens",20251114,"D").
+shift_data("77355","William Stevens",20251115,"WR").
+shift_data("77355","William Stevens",20251116,"WR").
+shift_data("77355","William Stevens",20251117,"D").
+shift_data("77355","William Stevens",20251118,"D").
+shift_data("77355","William Stevens",20251119,"D").
+shift_data("77355","William Stevens",20251120,"D").
+shift_data("77355","William Stevens",20251121,"D").
+shift_data("77355","William Stevens",20251122,"WR").
+shift_data("77355","William Stevens",20251123,"WR").
+shift_data("77355","William Stevens",20251124,"PH").
+shift_data("77355","William Stevens",20251125,"D").
+shift_data("77355","William Stevens",20251126,"AL").
+shift_data("77355","William Stevens",20251127,"D").
+shift_data("77355","William Stevens",20251128,"AL").
+shift_data("77355","William Stevens",20251129,"WR").
+shift_data("77355","William Stevens",20251130,"WR").
+shift_data("77355","William Stevens",20251201,"AL").
+shift_data("77355","William Stevens",20251202,"AL").
+shift_data("77355","William Stevens",20251203,"D").
+shift_data("77355","William Stevens",20251204,"AL").
+shift_data("77355","William Stevens",20251205,"AL").
+shift_data("77355","William Stevens",20251206,"WR").
+shift_data("77355","William Stevens",20251207,"WR").
+shift_data("77355","William Stevens",20251208,"D").
+shift_data("77355","William Stevens",20251209,"D").
+shift_data("77355","William Stevens",20251210,"D").
+shift_data("77355","William Stevens",20251211,"D").
+shift_data("77355","William Stevens",20251212,"AL").
+shift_data("77355","William Stevens",20251213,"WR").
+shift_data("77355","William Stevens",20251214,"WR").
+shift_data("77355","William Stevens",20251215,"D").
+shift_data("77355","William Stevens",20251216,"D").
+shift_data("77355","William Stevens",20251217,"D").
+shift_data("77355","William Stevens",20251218,"D").
+shift_data("77355","William Stevens",20251219,"D").
+shift_data("77355","William Stevens",20251220,"WR").
+shift_data("77355","William Stevens",20251221,"WR").
+shift_data("77355","William Stevens",20251222,"D").
+shift_data("77355","William Stevens",20251223,"D").
+shift_data("77355","William Stevens",20251224,"D").
+shift_data("77355","William Stevens",20251225,"D").
+shift_data("77355","William Stevens",20251226,"D").
+shift_data("77355","William Stevens",20251227,"WR").
+shift_data("77355","William Stevens",20251228,"WR").
+shift_data("77355","William Stevens",20251229,"PH").
+shift_data("77355","William Stevens",20251230,"PH").
+shift_data("77355","William Stevens",20251231,"PH").
+shift_data("82404","Steven Vance",20250401,"SN").
+shift_data("82404","Steven Vance",20250402,"WR").
+shift_data("82404","Steven Vance",20250403,"LD").
+shift_data("82404","Steven Vance",20250404,"SE").
+shift_data("82404","Steven Vance",20250405,"SN").
+shift_data("82404","Steven Vance",20250406,"WR").
+shift_data("82404","Steven Vance",20250407,"LD").
+shift_data("82404","Steven Vance",20250408,"SE").
+shift_data("82404","Steven Vance",20250409,"SN").
+shift_data("82404","Steven Vance",20250410,"SE").
+shift_data("82404","Steven Vance",20250411,"SN").
+shift_data("82404","Steven Vance",20250412,"WR").
+shift_data("82404","Steven Vance",20250413,"WR").
+shift_data("82404","Steven Vance",20250414,"LD").
+shift_data("82404","Steven Vance",20250415,"SE").
+shift_data("82404","Steven Vance",20250416,"SN").
+shift_data("82404","Steven Vance",20250417,"WR").
+shift_data("82404","Steven Vance",20250418,"D").
+shift_data("82404","Steven Vance",20250419,"LD").
+shift_data("82404","Steven Vance",20250420,"WR").
+shift_data("82404","Steven Vance",20250421,"LD").
+shift_data("82404","Steven Vance",20250422,"SE").
+shift_data("82404","Steven Vance",20250423,"SN").
+shift_data("82404","Steven Vance",20250424,"WR").
+shift_data("82404","Steven Vance",20250425,"D").
+shift_data("82404","Steven Vance",20250426,"WR").
+shift_data("82404","Steven Vance",20250427,"D").
+shift_data("82404","Steven Vance",20250428,"LD").
+shift_data("82404","Steven Vance",20250429,"PH").
+shift_data("82404","Steven Vance",20250430,"LD").
+shift_data("82404","Steven Vance",20250501,"SE").
+shift_data("82404","Steven Vance",20250502,"SN").
+shift_data("82404","Steven Vance",20250503,"WR").
+shift_data("82404","Steven Vance",20250504,"WR").
+shift_data("82404","Steven Vance",20250505,"SE").
+shift_data("82404","Steven Vance",20250506,"SN").
+shift_data("82404","Steven Vance",20250507,"WR").
+shift_data("82404","Steven Vance",20250508,"D").
+shift_data("82404","Steven Vance",20250509,"LD").
+shift_data("82404","Steven Vance",20250510,"WR").
+shift_data("82404","Steven Vance",20250511,"WR").
+shift_data("82404","Steven Vance",20250512,"LD").
+shift_data("82404","Steven Vance",20250513,"SE").
+shift_data("82404","Steven Vance",20250514,"SN").
+shift_data("82404","Steven Vance",20250515,"WR").
+shift_data("82404","Steven Vance",20250516,"D").
+shift_data("82404","Steven Vance",20250517,"WR").
+shift_data("82404","Steven Vance",20250518,"LD").
+shift_data("82404","Steven Vance",20250519,"WR").
+shift_data("82404","Steven Vance",20250520,"AL").
+shift_data("82404","Steven Vance",20250521,"SE").
+shift_data("82404","Steven Vance",20250522,"SN").
+shift_data("82404","Steven Vance",20250523,"SE").
+shift_data("82404","Steven Vance",20250524,"SN").
+shift_data("82404","Steven Vance",20250525,"WR").
+shift_data("82404","Steven Vance",20250526,"LD").
+shift_data("82404","Steven Vance",20250527,"SE").
+shift_data("82404","Steven Vance",20250528,"SN").
+shift_data("82404","Steven Vance",20250529,"SE").
+shift_data("82404","Steven Vance",20250530,"SN").
+shift_data("82404","Steven Vance",20250531,"WR").
+shift_data("82404","Steven Vance",20250601,"WR").
+shift_data("82404","Steven Vance",20250602,"LD").
+shift_data("82404","Steven Vance",20250603,"SE").
+shift_data("82404","Steven Vance",20250604,"SN").
+shift_data("82404","Steven Vance",20250605,"WR").
+shift_data("82404","Steven Vance",20250606,"D").
+shift_data("82404","Steven Vance",20250607,"WR").
+shift_data("82404","Steven Vance",20250608,"D").
+shift_data("82404","Steven Vance",20250609,"LD").
+shift_data("82404","Steven Vance",20250610,"SE").
+shift_data("82404","Steven Vance",20250611,"SN").
+shift_data("82404","Steven Vance",20250612,"WR").
+shift_data("82404","Steven Vance",20250613,"LD").
+shift_data("82404","Steven Vance",20250614,"SE").
+shift_data("82404","Steven Vance",20250615,"SN").
+shift_data("82404","Steven Vance",20250616,"WR").
+shift_data("82404","Steven Vance",20250617,"LD").
+shift_data("82404","Steven Vance",20250618,"WR").
+shift_data("82404","Steven Vance",20250619,"D").
+shift_data("82404","Steven Vance",20250620,"D").
+shift_data("82404","Steven Vance",20250621,"D").
+shift_data("82404","Steven Vance",20250622,"LD").
+shift_data("82404","Steven Vance",20250623,"WR").
+shift_data("82404","Steven Vance",20250624,"LD").
+shift_data("82404","Steven Vance",20250625,"SE").
+shift_data("82404","Steven Vance",20250626,"SN").
+shift_data("82404","Steven Vance",20250627,"WR").
+shift_data("82404","Steven Vance",20250628,"WR").
+shift_data("82404","Steven Vance",20250629,"D").
+shift_data("82404","Steven Vance",20250630,"D").
+shift_data("82404","Steven Vance",20250701,"LD").
+shift_data("82404","Steven Vance",20250702,"SE").
+shift_data("82404","Steven Vance",20250703,"SN").
+shift_data("82404","Steven Vance",20250704,"WR").
+shift_data("82404","Steven Vance",20250705,"LD").
+shift_data("82404","Steven Vance",20250706,"WR").
+shift_data("82404","Steven Vance",20250707,"D").
+shift_data("82404","Steven Vance",20250708,"SE").
+shift_data("82404","Steven Vance",20250709,"SN").
+shift_data("82404","Steven Vance",20250710,"WR").
+shift_data("82404","Steven Vance",20250711,"D").
+shift_data("82404","Steven Vance",20250712,"D").
+shift_data("82404","Steven Vance",20250713,"LD").
+shift_data("82404","Steven Vance",20250714,"SE").
+shift_data("82404","Steven Vance",20250715,"SN").
+shift_data("82404","Steven Vance",20250716,"WR").
+shift_data("82404","Steven Vance",20250717,"SE").
+shift_data("82404","Steven Vance",20250718,"SN").
+shift_data("82404","Steven Vance",20250719,"WR").
+shift_data("82404","Steven Vance",20250720,"WR").
+shift_data("82404","Steven Vance",20250721,"LD").
+shift_data("82404","Steven Vance",20250722,"SE").
+shift_data("82404","Steven Vance",20250723,"SN").
+shift_data("82404","Steven Vance",20250724,"WR").
+shift_data("82404","Steven Vance",20250725,"WR").
+shift_data("82404","Steven Vance",20250726,"WR").
+shift_data("82404","Steven Vance",20250727,"LD").
+shift_data("82404","Steven Vance",20250728,"SE").
+shift_data("82404","Steven Vance",20250729,"SN").
+shift_data("82404","Steven Vance",20250730,"WR").
+shift_data("82404","Steven Vance",20250731,"SE").
+shift_data("82404","Steven Vance",20250801,"SN").
+shift_data("82404","Steven Vance",20250802,"WR").
+shift_data("82404","Steven Vance",20250803,"LD").
+shift_data("82404","Steven Vance",20250804,"SE").
+shift_data("82404","Steven Vance",20250805,"SN").
+shift_data("82404","Steven Vance",20250806,"WR").
+shift_data("82404","Steven Vance",20250807,"D").
+shift_data("82404","Steven Vance",20250808,"LD").
+shift_data("82404","Steven Vance",20250809,"SE").
+shift_data("82404","Steven Vance",20250810,"SN").
+shift_data("82404","Steven Vance",20250811,"PH").
+shift_data("82404","Steven Vance",20250812,"AL").
+shift_data("82404","Steven Vance",20250813,"HL").
+shift_data("82404","Steven Vance",20250814,"WR").
+shift_data("82404","Steven Vance",20250815,"D").
+shift_data("82404","Steven Vance",20250816,"LD").
+shift_data("82404","Steven Vance",20250817,"SE").
+shift_data("82404","Steven Vance",20250818,"SN").
+shift_data("82404","Steven Vance",20250819,"WR").
+shift_data("82404","Steven Vance",20250820,"D").
+shift_data("82404","Steven Vance",20250821,"LD").
+shift_data("82404","Steven Vance",20250822,"SE").
+shift_data("82404","Steven Vance",20250823,"SN").
+shift_data("82404","Steven Vance",20250824,"WR").
+shift_data("82404","Steven Vance",20250825,"LD").
+shift_data("82404","Steven Vance",20250826,"SE").
+shift_data("82404","Steven Vance",20250827,"SN").
+shift_data("82404","Steven Vance",20250828,"WR").
+shift_data("82404","Steven Vance",20250829,"D").
+shift_data("82404","Steven Vance",20250830,"LD").
+shift_data("82404","Steven Vance",20250831,"SE").
+shift_data("82404","Steven Vance",20250901,"SN").
+shift_data("82404","Steven Vance",20250902,"WR").
+shift_data("82404","Steven Vance",20250903,"LD").
+shift_data("82404","Steven Vance",20250904,"WR").
+shift_data("82404","Steven Vance",20250905,"D").
+shift_data("82404","Steven Vance",20250906,"WR").
+shift_data("82404","Steven Vance",20250907,"WR").
+shift_data("82404","Steven Vance",20250908,"LD").
+shift_data("82404","Steven Vance",20250909,"SE").
+shift_data("82404","Steven Vance",20250910,"SN").
+shift_data("82404","Steven Vance",20250911,"WR").
+shift_data("82404","Steven Vance",20250912,"LD").
+shift_data("82404","Steven Vance",20250913,"SE").
+shift_data("82404","Steven Vance",20250914,"SN").
+shift_data("82404","Steven Vance",20250915,"PH").
+shift_data("82404","Steven Vance",20250916,"LD").
+shift_data("82404","Steven Vance",20250917,"SE").
+shift_data("82404","Steven Vance",20250918,"SN").
+shift_data("82404","Steven Vance",20250919,"WR").
+shift_data("82404","Steven Vance",20250920,"WR").
+shift_data("82404","Steven Vance",20250921,"LD").
+shift_data("82404","Steven Vance",20250922,"SE").
+shift_data("82404","Steven Vance",20250923,"SN").
+shift_data("82404","Steven Vance",20250924,"WR").
+shift_data("82404","Steven Vance",20250925,"D").
+shift_data("82404","Steven Vance",20250926,"LD").
+shift_data("82404","Steven Vance",20250927,"SE").
+shift_data("82404","Steven Vance",20250928,"SN").
+shift_data("82404","Steven Vance",20250929,"WR").
+shift_data("82404","Steven Vance",20250930,"D").
+shift_data("82404","Steven Vance",20251001,"LD").
+shift_data("82404","Steven Vance",20251002,"SE").
+shift_data("82404","Steven Vance",20251003,"SN").
+shift_data("82404","Steven Vance",20251004,"WR").
+shift_data("82404","Steven Vance",20251005,"D").
+shift_data("82404","Steven Vance",20251006,"LD").
+shift_data("82404","Steven Vance",20251007,"SE").
+shift_data("82404","Steven Vance",20251008,"SN").
+shift_data("82404","Steven Vance",20251009,"WR").
+shift_data("82404","Steven Vance",20251010,"WR").
+shift_data("82404","Steven Vance",20251011,"WR").
+shift_data("82404","Steven Vance",20251012,"WR").
+shift_data("82404","Steven Vance",20251013,"D").
+shift_data("82404","Steven Vance",20251014,"SE").
+shift_data("82404","Steven Vance",20251015,"SN").
+shift_data("82404","Steven Vance",20251016,"WR").
+shift_data("82404","Steven Vance",20251017,"D").
+shift_data("82404","Steven Vance",20251018,"WR").
+shift_data("82404","Steven Vance",20251019,"AL").
+shift_data("82404","Steven Vance",20251020,"HL").
+shift_data("82404","Steven Vance",20251021,"HL").
+shift_data("82404","Steven Vance",20251022,"D").
+shift_data("82404","Steven Vance",20251023,"LD").
+shift_data("82404","Steven Vance",20251024,"SE").
+shift_data("82404","Steven Vance",20251025,"SN").
+shift_data("82404","Steven Vance",20251026,"WR").
+shift_data("82404","Steven Vance",20251027,"LD").
+shift_data("82404","Steven Vance",20251028,"WR").
+shift_data("82404","Steven Vance",20251029,"WR").
+shift_data("82404","Steven Vance",20251030,"LD").
+shift_data("82404","Steven Vance",20251031,"WR").
+shift_data("82404","Steven Vance",20251101,"LD").
+shift_data("82404","Steven Vance",20251102,"SE").
+shift_data("82404","Steven Vance",20251103,"SN").
+shift_data("82404","Steven Vance",20251104,"WR").
+shift_data("82404","Steven Vance",20251105,"LD").
+shift_data("82404","Steven Vance",20251106,"SE").
+shift_data("82404","Steven Vance",20251107,"SN").
+shift_data("82404","Steven Vance",20251108,"SE").
+shift_data("82404","Steven Vance",20251109,"SN").
+shift_data("82404","Steven Vance",20251110,"WR").
+shift_data("82404","Steven Vance",20251111,"D").
+shift_data("82404","Steven Vance",20251112,"LD").
+shift_data("82404","Steven Vance",20251113,"SE").
+shift_data("82404","Steven Vance",20251114,"SN").
+shift_data("82404","Steven Vance",20251115,"HL").
+shift_data("82404","Steven Vance",20251116,"AL").
+shift_data("82404","Steven Vance",20251117,"WR").
+shift_data("82404","Steven Vance",20251118,"WR").
+shift_data("82404","Steven Vance",20251119,"LD").
+shift_data("82404","Steven Vance",20251120,"SE").
+shift_data("82404","Steven Vance",20251121,"SN").
+shift_data("82404","Steven Vance",20251122,"WR").
+shift_data("82404","Steven Vance",20251123,"LD").
+shift_data("82404","Steven Vance",20251124,"SE").
+shift_data("82404","Steven Vance",20251125,"SN").
+shift_data("82404","Steven Vance",20251126,"WR").
+shift_data("82404","Steven Vance",20251127,"WR").
+shift_data("82404","Steven Vance",20251128,"D").
+shift_data("82404","Steven Vance",20251129,"AL").
+shift_data("82404","Steven Vance",20251130,"WR").
+shift_data("82404","Steven Vance",20251201,"LD").
+shift_data("82404","Steven Vance",20251202,"SE").
+shift_data("82404","Steven Vance",20251203,"SN").
+shift_data("82404","Steven Vance",20251204,"WR").
+shift_data("82404","Steven Vance",20251205,"LD").
+shift_data("82404","Steven Vance",20251206,"SE").
+shift_data("82404","Steven Vance",20251207,"SN").
+shift_data("82404","Steven Vance",20251208,"WR").
+shift_data("82404","Steven Vance",20251209,"D").
+shift_data("82404","Steven Vance",20251210,"D").
+shift_data("82404","Steven Vance",20251211,"LD").
+shift_data("82404","Steven Vance",20251212,"SE").
+shift_data("82404","Steven Vance",20251213,"SN").
+shift_data("82404","Steven Vance",20251214,"AL").
+shift_data("82404","Steven Vance",20251215,"LD").
+shift_data("82404","Steven Vance",20251216,"SE").
+shift_data("82404","Steven Vance",20251217,"SN").
+shift_data("82404","Steven Vance",20251218,"WR").
+shift_data("82404","Steven Vance",20251219,"D").
+shift_data("82404","Steven Vance",20251220,"WR").
+shift_data("82404","Steven Vance",20251221,"LD").
+shift_data("82404","Steven Vance",20251222,"SE").
+shift_data("82404","Steven Vance",20251223,"SN").
+shift_data("82404","Steven Vance",20251224,"WR").
+shift_data("82404","Steven Vance",20251225,"WR").
+shift_data("82404","Steven Vance",20251226,"D").
+shift_data("82404","Steven Vance",20251227,"WR").
+shift_data("82404","Steven Vance",20251228,"WR").
+shift_data("82404","Steven Vance",20251229,"PH").
+shift_data("82404","Steven Vance",20251230,"LD").
+shift_data("82404","Steven Vance",20251231,"SE").
+shift_data("16465","Karen Fry",20250401,"LD").
+shift_data("16465","Karen Fry",20250402,"SE").
+shift_data("16465","Karen Fry",20250403,"SN").
+shift_data("16465","Karen Fry",20250404,"WR").
+shift_data("16465","Karen Fry",20250405,"WR").
+shift_data("16465","Karen Fry",20250406,"D").
+shift_data("16465","Karen Fry",20250407,"D").
+shift_data("16465","Karen Fry",20250408,"LD").
+shift_data("16465","Karen Fry",20250409,"LD").
+shift_data("16465","Karen Fry",20250410,"WR").
+shift_data("16465","Karen Fry",20250411,"SE").
+shift_data("16465","Karen Fry",20250412,"SN").
+shift_data("16465","Karen Fry",20250413,"SE").
+shift_data("16465","Karen Fry",20250414,"SN").
+shift_data("16465","Karen Fry",20250415,"WR").
+shift_data("16465","Karen Fry",20250416,"LD").
+shift_data("16465","Karen Fry",20250417,"WR").
+shift_data("16465","Karen Fry",20250418,"LD").
+shift_data("16465","Karen Fry",20250419,"SE").
+shift_data("16465","Karen Fry",20250420,"SN").
+shift_data("16465","Karen Fry",20250421,"WR").
+shift_data("16465","Karen Fry",20250422,"SL").
+shift_data("16465","Karen Fry",20250423,"SL").
+shift_data("16465","Karen Fry",20250424,"SE").
+shift_data("16465","Karen Fry",20250425,"SN").
+shift_data("16465","Karen Fry",20250426,"WR").
+shift_data("16465","Karen Fry",20250427,"LD").
+shift_data("16465","Karen Fry",20250428,"WR").
+shift_data("16465","Karen Fry",20250429,"LD").
+shift_data("16465","Karen Fry",20250430,"SE").
+shift_data("16465","Karen Fry",20250501,"SN").
+shift_data("16465","Karen Fry",20250502,"WR").
+shift_data("16465","Karen Fry",20250503,"WR").
+shift_data("16465","Karen Fry",20250504,"WR").
+shift_data("16465","Karen Fry",20250505,"D").
+shift_data("16465","Karen Fry",20250506,"D").
+shift_data("16465","Karen Fry",20250507,"LD").
+shift_data("16465","Karen Fry",20250508,"SE").
+shift_data("16465","Karen Fry",20250509,"SN").
+shift_data("16465","Karen Fry",20250510,"AL").
+shift_data("16465","Karen Fry",20250511,"AL").
+shift_data("16465","Karen Fry",20250512,"WR").
+shift_data("16465","Karen Fry",20250513,"LD").
+shift_data("16465","Karen Fry",20250514,"SE").
+shift_data("16465","Karen Fry",20250515,"SN").
+shift_data("16465","Karen Fry",20250516,"WR").
+shift_data("16465","Karen Fry",20250517,"LD").
+shift_data("16465","Karen Fry",20250518,"SE").
+shift_data("16465","Karen Fry",20250519,"SN").
+shift_data("16465","Karen Fry",20250520,"SE").
+shift_data("16465","Karen Fry",20250521,"SN").
+shift_data("16465","Karen Fry",20250522,"WR").
+shift_data("16465","Karen Fry",20250523,"D").
+shift_data("16465","Karen Fry",20250524,"WR").
+shift_data("16465","Karen Fry",20250525,"LD").
+shift_data("16465","Karen Fry",20250526,"SE").
+shift_data("16465","Karen Fry",20250527,"SN").
+shift_data("16465","Karen Fry",20250528,"WR").
+shift_data("16465","Karen Fry",20250529,"WR").
+shift_data("16465","Karen Fry",20250530,"LD").
+shift_data("16465","Karen Fry",20250531,"SE").
+shift_data("16465","Karen Fry",20250601,"SN").
+shift_data("16465","Karen Fry",20250602,"WR").
+shift_data("16465","Karen Fry",20250603,"LD").
+shift_data("16465","Karen Fry",20250604,"WR").
+shift_data("16465","Karen Fry",20250605,"WR").
+shift_data("16465","Karen Fry",20250606,"LD").
+shift_data("16465","Karen Fry",20250607,"SE").
+shift_data("16465","Karen Fry",20250608,"SN").
+shift_data("16465","Karen Fry",20250609,"SE").
+shift_data("16465","Karen Fry",20250610,"SN").
+shift_data("16465","Karen Fry",20250611,"WR").
+shift_data("16465","Karen Fry",20250612,"D").
+shift_data("16465","Karen Fry",20250613,"SE").
+shift_data("16465","Karen Fry",20250614,"SN").
+shift_data("16465","Karen Fry",20250615,"WR").
+shift_data("16465","Karen Fry",20250616,"LD").
+shift_data("16465","Karen Fry",20250617,"SE").
+shift_data("16465","Karen Fry",20250618,"SN").
+shift_data("16465","Karen Fry",20250619,"WR").
+shift_data("16465","Karen Fry",20250620,"D").
+shift_data("16465","Karen Fry",20250621,"LD").
+shift_data("16465","Karen Fry",20250622,"SE").
+shift_data("16465","Karen Fry",20250623,"SN").
+shift_data("16465","Karen Fry",20250624,"WR").
+shift_data("16465","Karen Fry",20250625,"LD").
+shift_data("16465","Karen Fry",20250626,"SE").
+shift_data("16465","Karen Fry",20250627,"SN").
+shift_data("16465","Karen Fry",20250628,"WR").
+shift_data("16465","Karen Fry",20250629,"LD").
+shift_data("16465","Karen Fry",20250630,"WR").
+shift_data("16465","Karen Fry",20250701,"D").
+shift_data("16465","Karen Fry",20250702,"LD").
+shift_data("16465","Karen Fry",20250703,"WR").
+shift_data("16465","Karen Fry",20250704,"SE").
+shift_data("16465","Karen Fry",20250705,"SN").
+shift_data("16465","Karen Fry",20250706,"SE").
+shift_data("16465","Karen Fry",20250707,"SN").
+shift_data("16465","Karen Fry",20250708,"WR").
+shift_data("16465","Karen Fry",20250709,"D").
+shift_data("16465","Karen Fry",20250710,"D").
+shift_data("16465","Karen Fry",20250711,"SE").
+shift_data("16465","Karen Fry",20250712,"SN").
+shift_data("16465","Karen Fry",20250713,"WR").
+shift_data("16465","Karen Fry",20250714,"D").
+shift_data("16465","Karen Fry",20250715,"LD").
+shift_data("16465","Karen Fry",20250716,"WR").
+shift_data("16465","Karen Fry",20250717,"D").
+shift_data("16465","Karen Fry",20250718,"LD").
+shift_data("16465","Karen Fry",20250719,"WR").
+shift_data("16465","Karen Fry",20250720,"D").
+shift_data("16465","Karen Fry",20250721,"LD").
+shift_data("16465","Karen Fry",20250722,"WR").
+shift_data("16465","Karen Fry",20250723,"LD").
+shift_data("16465","Karen Fry",20250724,"SE").
+shift_data("16465","Karen Fry",20250725,"SN").
+shift_data("16465","Karen Fry",20250726,"WR").
+shift_data("16465","Karen Fry",20250727,"SE").
+shift_data("16465","Karen Fry",20250728,"SN").
+shift_data("16465","Karen Fry",20250729,"SE").
+shift_data("16465","Karen Fry",20250730,"SN").
+shift_data("16465","Karen Fry",20250731,"WR").
+shift_data("16465","Karen Fry",20250801,"D").
+shift_data("16465","Karen Fry",20250802,"WR").
+shift_data("16465","Karen Fry",20250803,"WR").
+shift_data("16465","Karen Fry",20250804,"D").
+shift_data("16465","Karen Fry",20250805,"LD").
+shift_data("16465","Karen Fry",20250806,"SE").
+shift_data("16465","Karen Fry",20250807,"SN").
+shift_data("16465","Karen Fry",20250808,"WR").
+shift_data("16465","Karen Fry",20250809,"D").
+shift_data("16465","Karen Fry",20250810,"LD").
+shift_data("16465","Karen Fry",20250811,"SE").
+shift_data("16465","Karen Fry",20250812,"SN").
+shift_data("16465","Karen Fry",20250813,"WR").
+shift_data("16465","Karen Fry",20250814,"LD").
+shift_data("16465","Karen Fry",20250815,"WR").
+shift_data("16465","Karen Fry",20250816,"D").
+shift_data("16465","Karen Fry",20250817,"WR").
+shift_data("16465","Karen Fry",20250818,"D").
+shift_data("16465","Karen Fry",20250819,"D").
+shift_data("16465","Karen Fry",20250820,"D").
+shift_data("16465","Karen Fry",20250821,"WR").
+shift_data("16465","Karen Fry",20250822,"LD").
+shift_data("16465","Karen Fry",20250823,"SE").
+shift_data("16465","Karen Fry",20250824,"SN").
+shift_data("16465","Karen Fry",20250825,"WR").
+shift_data("16465","Karen Fry",20250826,"LD").
+shift_data("16465","Karen Fry",20250827,"WR").
+shift_data("16465","Karen Fry",20250828,"D").
+shift_data("16465","Karen Fry",20250829,"LM").
+shift_data("16465","Karen Fry",20250830,"SE").
+shift_data("16465","Karen Fry",20250831,"SN").
+shift_data("16465","Karen Fry",20250901,"WR").
+shift_data("16465","Karen Fry",20250902,"LD").
+shift_data("16465","Karen Fry",20250903,"SE").
+shift_data("16465","Karen Fry",20250904,"SN").
+shift_data("16465","Karen Fry",20250905,"HL").
+shift_data("16465","Karen Fry",20250906,"HL").
+shift_data("16465","Karen Fry",20250907,"HL").
+shift_data("16465","Karen Fry",20250908,"HL").
+shift_data("16465","Karen Fry",20250909,"WR").
+shift_data("16465","Karen Fry",20250910,"WR").
+shift_data("16465","Karen Fry",20250911,"WR").
+shift_data("16465","Karen Fry",20250912,"D").
+shift_data("16465","Karen Fry",20250913,"D").
+shift_data("16465","Karen Fry",20250914,"WR").
+shift_data("16465","Karen Fry",20250915,"PH").
+shift_data("16465","Karen Fry",20250916,"D").
+shift_data("16465","Karen Fry",20250917,"LD").
+shift_data("16465","Karen Fry",20250918,"SE").
+shift_data("16465","Karen Fry",20250919,"SN").
+shift_data("16465","Karen Fry",20250920,"AL").
+shift_data("16465","Karen Fry",20250921,"WR").
+shift_data("16465","Karen Fry",20250922,"LD").
+shift_data("16465","Karen Fry",20250923,"PH").
+shift_data("16465","Karen Fry",20250924,"SE").
+shift_data("16465","Karen Fry",20250925,"SN").
+shift_data("16465","Karen Fry",20250926,"WR").
+shift_data("16465","Karen Fry",20250927,"LD").
+shift_data("16465","Karen Fry",20250928,"SE").
+shift_data("16465","Karen Fry",20250929,"SN").
+shift_data("16465","Karen Fry",20250930,"WR").
+shift_data("16465","Karen Fry",20251001,"WR").
+shift_data("16465","Karen Fry",20251002,"LD").
+shift_data("16465","Karen Fry",20251003,"SE").
+shift_data("16465","Karen Fry",20251004,"SN").
+shift_data("16465","Karen Fry",20251005,"WR").
+shift_data("16465","Karen Fry",20251006,"WR").
+shift_data("16465","Karen Fry",20251007,"D").
+shift_data("16465","Karen Fry",20251008,"WR").
+shift_data("16465","Karen Fry",20251009,"AL").
+shift_data("16465","Karen Fry",20251010,"LD").
+shift_data("16465","Karen Fry",20251011,"SE").
+shift_data("16465","Karen Fry",20251012,"SN").
+shift_data("16465","Karen Fry",20251013,"PH").
+shift_data("16465","Karen Fry",20251014,"WR").
+shift_data("16465","Karen Fry",20251015,"LD").
+shift_data("16465","Karen Fry",20251016,"SE").
+shift_data("16465","Karen Fry",20251017,"SN").
+shift_data("16465","Karen Fry",20251018,"WR").
+shift_data("16465","Karen Fry",20251019,"LD").
+shift_data("16465","Karen Fry",20251020,"SE").
+shift_data("16465","Karen Fry",20251021,"SN").
+shift_data("16465","Karen Fry",20251022,"WR").
+shift_data("16465","Karen Fry",20251023,"LD").
+shift_data("16465","Karen Fry",20251024,"WR").
+shift_data("16465","Karen Fry",20251025,"WR").
+shift_data("16465","Karen Fry",20251026,"SE").
+shift_data("16465","Karen Fry",20251027,"SN").
+shift_data("16465","Karen Fry",20251028,"WR").
+shift_data("16465","Karen Fry",20251029,"LD").
+shift_data("16465","Karen Fry",20251030,"SE").
+shift_data("16465","Karen Fry",20251031,"SN").
+shift_data("16465","Karen Fry",20251101,"AL").
+shift_data("16465","Karen Fry",20251102,"WR").
+shift_data("16465","Karen Fry",20251103,"PH").
+shift_data("16465","Karen Fry",20251104,"LD").
+shift_data("16465","Karen Fry",20251105,"SE").
+shift_data("16465","Karen Fry",20251106,"SN").
+shift_data("16465","Karen Fry",20251107,"WR").
+shift_data("16465","Karen Fry",20251108,"D").
+shift_data("16465","Karen Fry",20251109,"WR").
+shift_data("16465","Karen Fry",20251110,"LD").
+shift_data("16465","Karen Fry",20251111,"SE").
+shift_data("16465","Karen Fry",20251112,"SN").
+shift_data("16465","Karen Fry",20251113,"WR").
+shift_data("16465","Karen Fry",20251114,"LD").
+shift_data("16465","Karen Fry",20251115,"SE").
+shift_data("16465","Karen Fry",20251116,"SN").
+shift_data("16465","Karen Fry",20251117,"WR").
+shift_data("16465","Karen Fry",20251118,"WR").
+shift_data("16465","Karen Fry",20251119,"SL").
+shift_data("16465","Karen Fry",20251120,"WR").
+shift_data("16465","Karen Fry",20251121,"D").
+shift_data("16465","Karen Fry",20251122,"LD").
+shift_data("16465","Karen Fry",20251123,"SE").
+shift_data("16465","Karen Fry",20251124,"SN").
+shift_data("16465","Karen Fry",20251125,"WR").
+shift_data("16465","Karen Fry",20251126,"LD").
+shift_data("16465","Karen Fry",20251127,"SE").
+shift_data("16465","Karen Fry",20251128,"SN").
+shift_data("16465","Karen Fry",20251129,"WR").
+shift_data("16465","Karen Fry",20251130,"LD").
+shift_data("16465","Karen Fry",20251201,"SE").
+shift_data("16465","Karen Fry",20251202,"SN").
+shift_data("16465","Karen Fry",20251203,"WR").
+shift_data("16465","Karen Fry",20251204,"EM").
+shift_data("16465","Karen Fry",20251205,"D").
+shift_data("16465","Karen Fry",20251206,"D").
+shift_data("16465","Karen Fry",20251207,"D").
+shift_data("16465","Karen Fry",20251208,"WR").
+shift_data("16465","Karen Fry",20251209,"LD").
+shift_data("16465","Karen Fry",20251210,"SE").
+shift_data("16465","Karen Fry",20251211,"SN").
+shift_data("16465","Karen Fry",20251212,"WR").
+shift_data("16465","Karen Fry",20251213,"WR").
+shift_data("16465","Karen Fry",20251214,"WR").
+shift_data("16465","Karen Fry",20251215,"WR").
+shift_data("16465","Karen Fry",20251216,"D").
+shift_data("16465","Karen Fry",20251217,"LD").
+shift_data("16465","Karen Fry",20251218,"AL").
+shift_data("16465","Karen Fry",20251219,"SE").
+shift_data("16465","Karen Fry",20251220,"SN").
+shift_data("16465","Karen Fry",20251221,"WR").
+shift_data("16465","Karen Fry",20251222,"D").
+shift_data("16465","Karen Fry",20251223,"SE").
+shift_data("16465","Karen Fry",20251224,"SN").
+shift_data("16465","Karen Fry",20251225,"WR").
+shift_data("16465","Karen Fry",20251226,"LD").
+shift_data("16465","Karen Fry",20251227,"SE").
+shift_data("16465","Karen Fry",20251228,"SN").
+shift_data("16465","Karen Fry",20251229,"PH").
+shift_data("16465","Karen Fry",20251230,"D").
+shift_data("16465","Karen Fry",20251231,"LD").
+shift_data("324321","nan",20250405,"WR").
+shift_data("324321","nan",20250406,"WR").
+shift_data("324321","nan",20250412,"WR").
+shift_data("324321","nan",20250413,"WR").
+shift_data("324321","nan",20250419,"WR").
+shift_data("324321","nan",20250420,"WR").
+shift_data("324321","nan",20250426,"WR").
+shift_data("324321","nan",20250427,"WR").
+shift_data("324321","nan",20250429,"PH").
+shift_data("324321","nan",20250503,"WR").
+shift_data("324321","nan",20250504,"WR").
+shift_data("324321","nan",20250505,"PH").
+shift_data("324321","nan",20250506,"PH").
+shift_data("324321","nan",20250507,"AL").
+shift_data("324321","nan",20250508,"AL").
+shift_data("324321","nan",20250509,"AL").
+shift_data("324321","nan",20250510,"WR").
+shift_data("324321","nan",20250511,"WR").
+shift_data("324321","nan",20250512,"AL").
+shift_data("324321","nan",20250513,"AL").
+shift_data("324321","nan",20250516,"HL").
+shift_data("324321","nan",20250517,"WR").
+shift_data("324321","nan",20250518,"WR").
+shift_data("324321","nan",20250520,"AL").
+shift_data("324321","nan",20250524,"WR").
+shift_data("324321","nan",20250525,"WR").
+shift_data("324321","nan",20250531,"WR").
+shift_data("324321","nan",20250601,"WR").
+shift_data("324321","nan",20250606,"HL").
+shift_data("324321","nan",20250607,"WR").
+shift_data("324321","nan",20250608,"WR").
+shift_data("324321","nan",20250614,"WR").
+shift_data("324321","nan",20250615,"WR").
+shift_data("324321","nan",20250621,"WR").
+shift_data("324321","nan",20250622,"WR").
+shift_data("324321","nan",20250628,"WR").
+shift_data("324321","nan",20250629,"WR").
+shift_data("324321","nan",20250705,"WR").
+shift_data("324321","nan",20250706,"WR").
+shift_data("324321","nan",20250712,"WR").
+shift_data("324321","nan",20250713,"WR").
+shift_data("324321","nan",20250719,"WR").
+shift_data("324321","nan",20250720,"WR").
+shift_data("324321","nan",20250721,"PH").
+shift_data("324321","nan",20250725,"AL").
+shift_data("324321","nan",20250726,"WR").
+shift_data("324321","nan",20250727,"WR").
+shift_data("324321","nan",20250731,"AL").
+shift_data("324321","nan",20250802,"WR").
+shift_data("324321","nan",20250803,"WR").
+shift_data("324321","nan",20250809,"WR").
+shift_data("324321","nan",20250810,"WR").
+shift_data("324321","nan",20250811,"PH").
+shift_data("324321","nan",20250814,"HL").
+shift_data("324321","nan",20250815,"HL").
+shift_data("324321","nan",20250816,"WR").
+shift_data("324321","nan",20250817,"WR").
+shift_data("324321","nan",20250823,"WR").
+shift_data("324321","nan",20250824,"WR").
+shift_data("324321","nan",20250830,"WR").
+shift_data("324321","nan",20250831,"WR").
+shift_data("324321","nan",20250906,"WR").
+shift_data("324321","nan",20250907,"WR").
+shift_data("324321","nan",20250913,"WR").
+shift_data("324321","nan",20250914,"WR").
+shift_data("324321","nan",20250915,"PH").
+shift_data("324321","nan",20250919,"AL").
+shift_data("324321","nan",20250920,"WR").
+shift_data("324321","nan",20250921,"WR").
+shift_data("324321","nan",20250923,"PH").
+shift_data("324321","nan",20250927,"WR").
+shift_data("324321","nan",20250928,"WR").
+shift_data("324321","nan",20251004,"WR").
+shift_data("324321","nan",20251005,"WR").
+shift_data("324321","nan",20251007,"AL").
+shift_data("324321","nan",20251008,"AL").
+shift_data("324321","nan",20251011,"WR").
+shift_data("324321","nan",20251012,"WR").
+shift_data("324321","nan",20251013,"PH").
+shift_data("324321","nan",20251018,"WR").
+shift_data("324321","nan",20251019,"WR").
+shift_data("324321","nan",20251024,"AL").
+shift_data("324321","nan",20251025,"WR").
+shift_data("324321","nan",20251026,"WR").
+shift_data("324321","nan",20251029,"AL").
+shift_data("324321","nan",20251101,"WR").
+shift_data("324321","nan",20251102,"WR").
+shift_data("324321","nan",20251103,"PH").
+shift_data("324321","nan",20251106,"AL").
+shift_data("324321","nan",20251107,"AL").
+shift_data("324321","nan",20251108,"WR").
+shift_data("324321","nan",20251109,"WR").
+shift_data("324321","nan",20251115,"WR").
+shift_data("324321","nan",20251116,"WR").
+shift_data("324321","nan",20251122,"WR").
+shift_data("324321","nan",20251123,"WR").
+shift_data("324321","nan",20251124,"PH").
+shift_data("324321","nan",20251128,"AL").
+shift_data("324321","nan",20251129,"WR").
+shift_data("324321","nan",20251130,"WR").
+shift_data("324321","nan",20251206,"WR").
+shift_data("324321","nan",20251207,"WR").
+shift_data("324321","nan",20251213,"WR").
+shift_data("324321","nan",20251214,"WR").
+shift_data("324321","nan",20251220,"WR").
+shift_data("324321","nan",20251221,"WR").
+shift_data("324321","nan",20251227,"WR").
+shift_data("324321","nan",20251228,"WR").
+shift_data("324321","nan",20251229,"PH").
+shift_data("324321","nan",20251230,"PH").
+shift_data("324321","nan",20251231,"PH").
+shift_data("95789","Brenda Taylor",20250401,"LD").
+shift_data("95789","Brenda Taylor",20250402,"WR").
+shift_data("95789","Brenda Taylor",20250403,"D").
+shift_data("95789","Brenda Taylor",20250404,"LD").
+shift_data("95789","Brenda Taylor",20250405,"WR").
+shift_data("95789","Brenda Taylor",20250406,"WR").
+shift_data("95789","Brenda Taylor",20250407,"LD").
+shift_data("95789","Brenda Taylor",20250408,"SE").
+shift_data("95789","Brenda Taylor",20250409,"SN").
+shift_data("95789","Brenda Taylor",20250410,"SE").
+shift_data("95789","Brenda Taylor",20250411,"SN").
+shift_data("95789","Brenda Taylor",20250412,"WR").
+shift_data("95789","Brenda Taylor",20250413,"LD").
+shift_data("95789","Brenda Taylor",20250414,"WR").
+shift_data("95789","Brenda Taylor",20250415,"LD").
+shift_data("95789","Brenda Taylor",20250416,"SE").
+shift_data("95789","Brenda Taylor",20250417,"SN").
+shift_data("95789","Brenda Taylor",20250418,"WR").
+shift_data("95789","Brenda Taylor",20250419,"SE").
+shift_data("95789","Brenda Taylor",20250420,"SN").
+shift_data("95789","Brenda Taylor",20250421,"SE").
+shift_data("95789","Brenda Taylor",20250422,"SN").
+shift_data("95789","Brenda Taylor",20250423,"WR").
+shift_data("95789","Brenda Taylor",20250424,"D").
+shift_data("95789","Brenda Taylor",20250425,"LD").
+shift_data("95789","Brenda Taylor",20250426,"SE").
+shift_data("95789","Brenda Taylor",20250427,"SN").
+shift_data("95789","Brenda Taylor",20250428,"WR").
+shift_data("95789","Brenda Taylor",20250429,"LD").
+shift_data("95789","Brenda Taylor",20250430,"WR").
+shift_data("95789","Brenda Taylor",20250501,"D").
+shift_data("95789","Brenda Taylor",20250502,"LD").
+shift_data("95789","Brenda Taylor",20250503,"AL").
+shift_data("95789","Brenda Taylor",20250504,"WR").
+shift_data("95789","Brenda Taylor",20250505,"D").
+shift_data("95789","Brenda Taylor",20250506,"SE").
+shift_data("95789","Brenda Taylor",20250507,"SN").
+shift_data("95789","Brenda Taylor",20250508,"WR").
+shift_data("95789","Brenda Taylor",20250509,"D").
+shift_data("95789","Brenda Taylor",20250510,"SE").
+shift_data("95789","Brenda Taylor",20250511,"SN").
+shift_data("95789","Brenda Taylor",20250512,"SE").
+shift_data("95789","Brenda Taylor",20250513,"SN").
+shift_data("95789","Brenda Taylor",20250514,"WR").
+shift_data("95789","Brenda Taylor",20250515,"D").
+shift_data("95789","Brenda Taylor",20250516,"LD").
+shift_data("95789","Brenda Taylor",20250517,"WR").
+shift_data("95789","Brenda Taylor",20250518,"LD").
+shift_data("95789","Brenda Taylor",20250519,"WR").
+shift_data("95789","Brenda Taylor",20250520,"WR").
+shift_data("95789","Brenda Taylor",20250521,"LD").
+shift_data("95789","Brenda Taylor",20250522,"SE").
+shift_data("95789","Brenda Taylor",20250523,"SN").
+shift_data("95789","Brenda Taylor",20250524,"SE").
+shift_data("95789","Brenda Taylor",20250525,"SN").
+shift_data("95789","Brenda Taylor",20250526,"WR").
+shift_data("95789","Brenda Taylor",20250527,"LD").
+shift_data("95789","Brenda Taylor",20250528,"SE").
+shift_data("95789","Brenda Taylor",20250529,"SN").
+shift_data("95789","Brenda Taylor",20250530,"WR").
+shift_data("95789","Brenda Taylor",20250531,"LD").
+shift_data("95789","Brenda Taylor",20250601,"SE").
+shift_data("95789","Brenda Taylor",20250602,"SN").
+shift_data("95789","Brenda Taylor",20250603,"WR").
+shift_data("95789","Brenda Taylor",20250604,"LD").
+shift_data("95789","Brenda Taylor",20250605,"SE").
+shift_data("95789","Brenda Taylor",20250606,"SN").
+shift_data("95789","Brenda Taylor",20250607,"WR").
+shift_data("95789","Brenda Taylor",20250608,"LD").
+shift_data("95789","Brenda Taylor",20250609,"WR").
+shift_data("95789","Brenda Taylor",20250610,"WR").
+shift_data("95789","Brenda Taylor",20250611,"LD").
+shift_data("95789","Brenda Taylor",20250612,"SE").
+shift_data("95789","Brenda Taylor",20250613,"SN").
+shift_data("95789","Brenda Taylor",20250614,"WR").
+shift_data("95789","Brenda Taylor",20250615,"D").
+shift_data("95789","Brenda Taylor",20250616,"LD").
+shift_data("95789","Brenda Taylor",20250617,"WR").
+shift_data("95789","Brenda Taylor",20250618,"SE").
+shift_data("95789","Brenda Taylor",20250619,"SN").
+shift_data("95789","Brenda Taylor",20250620,"SE").
+shift_data("95789","Brenda Taylor",20250621,"SN").
+shift_data("95789","Brenda Taylor",20250622,"WR").
+shift_data("95789","Brenda Taylor",20250623,"LD").
+shift_data("95789","Brenda Taylor",20250624,"SE").
+shift_data("95789","Brenda Taylor",20250625,"SN").
+shift_data("95789","Brenda Taylor",20250626,"WR").
+shift_data("95789","Brenda Taylor",20250627,"LD").
+shift_data("95789","Brenda Taylor",20250628,"SE").
+shift_data("95789","Brenda Taylor",20250629,"SN").
+shift_data("95789","Brenda Taylor",20250630,"WR").
+shift_data("95789","Brenda Taylor",20250701,"WR").
+shift_data("95789","Brenda Taylor",20250702,"D").
+shift_data("95789","Brenda Taylor",20250703,"D").
+shift_data("95789","Brenda Taylor",20250704,"D").
+shift_data("95789","Brenda Taylor",20250705,"SE").
+shift_data("95789","Brenda Taylor",20250706,"SN").
+shift_data("95789","Brenda Taylor",20250707,"WR").
+shift_data("95789","Brenda Taylor",20250708,"LD").
+shift_data("95789","Brenda Taylor",20250709,"SE").
+shift_data("95789","Brenda Taylor",20250710,"SN").
+shift_data("95789","Brenda Taylor",20250711,"WR").
+shift_data("95789","Brenda Taylor",20250712,"LD").
+shift_data("95789","Brenda Taylor",20250713,"WR").
+shift_data("95789","Brenda Taylor",20250714,"LD").
+shift_data("95789","Brenda Taylor",20250715,"SE").
+shift_data("95789","Brenda Taylor",20250716,"SN").
+shift_data("95789","Brenda Taylor",20250717,"WR").
+shift_data("95789","Brenda Taylor",20250718,"LD").
+shift_data("95789","Brenda Taylor",20250719,"SE").
+shift_data("95789","Brenda Taylor",20250720,"SN").
+shift_data("95789","Brenda Taylor",20250721,"PH").
+shift_data("95789","Brenda Taylor",20250722,"LD").
+shift_data("95789","Brenda Taylor",20250723,"WR").
+shift_data("95789","Brenda Taylor",20250724,"LD").
+shift_data("95789","Brenda Taylor",20250725,"SE").
+shift_data("95789","Brenda Taylor",20250726,"SN").
+shift_data("95789","Brenda Taylor",20250727,"WR").
+shift_data("95789","Brenda Taylor",20250728,"LD").
+shift_data("95789","Brenda Taylor",20250729,"WR").
+shift_data("95789","Brenda Taylor",20250730,"LD").
+shift_data("95789","Brenda Taylor",20250731,"WR").
+shift_data("95789","Brenda Taylor",20250801,"WR").
+shift_data("95789","Brenda Taylor",20250802,"D").
+shift_data("95789","Brenda Taylor",20250803,"HL").
+shift_data("95789","Brenda Taylor",20250804,"WR").
+shift_data("95789","Brenda Taylor",20250805,"SE").
+shift_data("95789","Brenda Taylor",20250806,"SN").
+shift_data("95789","Brenda Taylor",20250807,"AL").
+shift_data("95789","Brenda Taylor",20250808,"SE").
+shift_data("95789","Brenda Taylor",20250809,"SN").
+shift_data("95789","Brenda Taylor",20250810,"SE").
+shift_data("95789","Brenda Taylor",20250811,"SN").
+shift_data("95789","Brenda Taylor",20250812,"WR").
+shift_data("95789","Brenda Taylor",20250813,"LD").
+shift_data("95789","Brenda Taylor",20250814,"SE").
+shift_data("95789","Brenda Taylor",20250815,"SN").
+shift_data("95789","Brenda Taylor",20250816,"WR").
+shift_data("95789","Brenda Taylor",20250817,"WR").
+shift_data("95789","Brenda Taylor",20250818,"LD").
+shift_data("95789","Brenda Taylor",20250819,"SE").
+shift_data("95789","Brenda Taylor",20250820,"SN").
+shift_data("95789","Brenda Taylor",20250821,"WR").
+shift_data("95789","Brenda Taylor",20250822,"D").
+shift_data("95789","Brenda Taylor",20250823,"LD").
+shift_data("95789","Brenda Taylor",20250824,"SE").
+shift_data("95789","Brenda Taylor",20250825,"SN").
+shift_data("95789","Brenda Taylor",20250826,"WR").
+shift_data("95789","Brenda Taylor",20250827,"LD").
+shift_data("95789","Brenda Taylor",20250828,"SE").
+shift_data("95789","Brenda Taylor",20250829,"SN").
+shift_data("95789","Brenda Taylor",20250830,"WR").
+shift_data("95789","Brenda Taylor",20250831,"WR").
+shift_data("95789","Brenda Taylor",20250901,"LD").
+shift_data("95789","Brenda Taylor",20250902,"WR").
+shift_data("95789","Brenda Taylor",20250903,"D").
+shift_data("95789","Brenda Taylor",20250904,"D").
+shift_data("95789","Brenda Taylor",20250905,"LD").
+shift_data("95789","Brenda Taylor",20250906,"SE").
+shift_data("95789","Brenda Taylor",20250907,"SN").
+shift_data("95789","Brenda Taylor",20250908,"AL").
+shift_data("95789","Brenda Taylor",20250909,"HL").
+shift_data("95789","Brenda Taylor",20250910,"WR").
+shift_data("95789","Brenda Taylor",20250911,"WR").
+shift_data("95789","Brenda Taylor",20250912,"SE").
+shift_data("95789","Brenda Taylor",20250913,"SN").
+shift_data("95789","Brenda Taylor",20250914,"WR").
+shift_data("95789","Brenda Taylor",20250915,"LD").
+shift_data("95789","Brenda Taylor",20250916,"SE").
+shift_data("95789","Brenda Taylor",20250917,"SN").
+shift_data("95789","Brenda Taylor",20250918,"WR").
+shift_data("95789","Brenda Taylor",20250919,"LD").
+shift_data("95789","Brenda Taylor",20250920,"SE").
+shift_data("95789","Brenda Taylor",20250921,"SN").
+shift_data("95789","Brenda Taylor",20250922,"WR").
+shift_data("95789","Brenda Taylor",20250923,"PH").
+shift_data("95789","Brenda Taylor",20250924,"LD").
+shift_data("95789","Brenda Taylor",20250925,"SE").
+shift_data("95789","Brenda Taylor",20250926,"SN").
+shift_data("95789","Brenda Taylor",20250927,"WR").
+shift_data("95789","Brenda Taylor",20250928,"LD").
+shift_data("95789","Brenda Taylor",20250929,"SE").
+shift_data("95789","Brenda Taylor",20250930,"SN").
+shift_data("95789","Brenda Taylor",20251001,"WR").
+shift_data("95789","Brenda Taylor",20251002,"D").
+shift_data("95789","Brenda Taylor",20251003,"WR").
+shift_data("95789","Brenda Taylor",20251004,"LD").
+shift_data("95789","Brenda Taylor",20251005,"SE").
+shift_data("95789","Brenda Taylor",20251006,"SN").
+shift_data("95789","Brenda Taylor",20251007,"WR").
+shift_data("95789","Brenda Taylor",20251008,"LD").
+shift_data("95789","Brenda Taylor",20251009,"SE").
+shift_data("95789","Brenda Taylor",20251010,"SN").
+shift_data("95789","Brenda Taylor",20251011,"WR").
+shift_data("95789","Brenda Taylor",20251012,"D").
+shift_data("95789","Brenda Taylor",20251013,"SE").
+shift_data("95789","Brenda Taylor",20251014,"SN").
+shift_data("95789","Brenda Taylor",20251015,"WR").
+shift_data("95789","Brenda Taylor",20251016,"TR").
+shift_data("95789","Brenda Taylor",20251017,"LD").
+shift_data("95789","Brenda Taylor",20251018,"SE").
+shift_data("95789","Brenda Taylor",20251019,"SN").
+shift_data("95789","Brenda Taylor",20251020,"WR").
+shift_data("95789","Brenda Taylor",20251021,"WR").
+shift_data("95789","Brenda Taylor",20251022,"LD").
+shift_data("95789","Brenda Taylor",20251023,"SE").
+shift_data("95789","Brenda Taylor",20251024,"SN").
+shift_data("95789","Brenda Taylor",20251025,"WR").
+shift_data("95789","Brenda Taylor",20251026,"LD").
+shift_data("95789","Brenda Taylor",20251027,"SE").
+shift_data("95789","Brenda Taylor",20251028,"SN").
+shift_data("95789","Brenda Taylor",20251029,"WR").
+shift_data("95789","Brenda Taylor",20251030,"LD").
+shift_data("95789","Brenda Taylor",20251031,"SE").
+shift_data("95789","Brenda Taylor",20251101,"SN").
+shift_data("95789","Brenda Taylor",20251102,"WR").
+shift_data("95789","Brenda Taylor",20251103,"D").
+shift_data("95789","Brenda Taylor",20251104,"LD").
+shift_data("95789","Brenda Taylor",20251105,"WR").
+shift_data("95789","Brenda Taylor",20251106,"D").
+shift_data("95789","Brenda Taylor",20251107,"D").
+shift_data("95789","Brenda Taylor",20251108,"WR").
+shift_data("95789","Brenda Taylor",20251109,"WR").
+shift_data("95789","Brenda Taylor",20251110,"LD").
+shift_data("95789","Brenda Taylor",20251111,"WR").
+shift_data("95789","Brenda Taylor",20251112,"SE").
+shift_data("95789","Brenda Taylor",20251113,"SN").
+shift_data("95789","Brenda Taylor",20251114,"WR").
+shift_data("95789","Brenda Taylor",20251115,"LD").
+shift_data("95789","Brenda Taylor",20251116,"SE").
+shift_data("95789","Brenda Taylor",20251117,"SN").
+shift_data("95789","Brenda Taylor",20251118,"HL").
+shift_data("95789","Brenda Taylor",20251119,"HL").
+shift_data("95789","Brenda Taylor",20251120,"AL").
+shift_data("95789","Brenda Taylor",20251121,"WR").
+shift_data("95789","Brenda Taylor",20251122,"D").
+shift_data("95789","Brenda Taylor",20251123,"WR").
+shift_data("95789","Brenda Taylor",20251124,"PH").
+shift_data("95789","Brenda Taylor",20251125,"LD").
+shift_data("95789","Brenda Taylor",20251126,"SE").
+shift_data("95789","Brenda Taylor",20251127,"SN").
+shift_data("95789","Brenda Taylor",20251128,"WR").
+shift_data("95789","Brenda Taylor",20251129,"WR").
+shift_data("95789","Brenda Taylor",20251130,"LD").
+shift_data("95789","Brenda Taylor",20251201,"SE").
+shift_data("95789","Brenda Taylor",20251202,"SN").
+shift_data("95789","Brenda Taylor",20251203,"WR").
+shift_data("95789","Brenda Taylor",20251204,"LD").
+shift_data("95789","Brenda Taylor",20251205,"SE").
+shift_data("95789","Brenda Taylor",20251206,"SN").
+shift_data("95789","Brenda Taylor",20251207,"WR").
+shift_data("95789","Brenda Taylor",20251208,"LD").
+shift_data("95789","Brenda Taylor",20251209,"SE").
+shift_data("95789","Brenda Taylor",20251210,"SN").
+shift_data("95789","Brenda Taylor",20251211,"SE").
+shift_data("95789","Brenda Taylor",20251212,"SN").
+shift_data("95789","Brenda Taylor",20251213,"WR").
+shift_data("95789","Brenda Taylor",20251214,"LD").
+shift_data("95789","Brenda Taylor",20251215,"SE").
+shift_data("95789","Brenda Taylor",20251216,"SN").
+shift_data("95789","Brenda Taylor",20251217,"WR").
+shift_data("95789","Brenda Taylor",20251218,"WR").
+shift_data("95789","Brenda Taylor",20251219,"LD").
+shift_data("95789","Brenda Taylor",20251220,"SE").
+shift_data("95789","Brenda Taylor",20251221,"SN").
+shift_data("95789","Brenda Taylor",20251222,"WR").
+shift_data("95789","Brenda Taylor",20251223,"WR").
+shift_data("95789","Brenda Taylor",20251224,"LD").
+shift_data("95789","Brenda Taylor",20251225,"SE").
+shift_data("95789","Brenda Taylor",20251226,"SN").
+shift_data("95789","Brenda Taylor",20251227,"WR").
+shift_data("95789","Brenda Taylor",20251228,"WR").
+shift_data("95789","Brenda Taylor",20251229,"LD").
+shift_data("95789","Brenda Taylor",20251230,"PH").
+shift_data("95789","Brenda Taylor",20251231,"LD").
+shift_data("68154","Amanda Jacobs",20250401,"D").
+shift_data("68154","Amanda Jacobs",20250402,"D").
+shift_data("68154","Amanda Jacobs",20250403,"D").
+shift_data("68154","Amanda Jacobs",20250404,"D").
+shift_data("68154","Amanda Jacobs",20250405,"WR").
+shift_data("68154","Amanda Jacobs",20250406,"WR").
+shift_data("68154","Amanda Jacobs",20250407,"D").
+shift_data("68154","Amanda Jacobs",20250408,"D").
+shift_data("68154","Amanda Jacobs",20250409,"D").
+shift_data("68154","Amanda Jacobs",20250410,"D").
+shift_data("68154","Amanda Jacobs",20250411,"D").
+shift_data("68154","Amanda Jacobs",20250412,"WR").
+shift_data("68154","Amanda Jacobs",20250413,"D").
+shift_data("68154","Amanda Jacobs",20250414,"D").
+shift_data("68154","Amanda Jacobs",20250415,"WR").
+shift_data("68154","Amanda Jacobs",20250416,"D").
+shift_data("68154","Amanda Jacobs",20250417,"D").
+shift_data("68154","Amanda Jacobs",20250418,"D").
+shift_data("68154","Amanda Jacobs",20250419,"WR").
+shift_data("68154","Amanda Jacobs",20250420,"WR").
+shift_data("68154","Amanda Jacobs",20250421,"D").
+shift_data("68154","Amanda Jacobs",20250422,"D").
+shift_data("68154","Amanda Jacobs",20250423,"D").
+shift_data("68154","Amanda Jacobs",20250424,"D").
+shift_data("68154","Amanda Jacobs",20250425,"D").
+shift_data("68154","Amanda Jacobs",20250426,"WR").
+shift_data("68154","Amanda Jacobs",20250427,"AL").
+shift_data("68154","Amanda Jacobs",20250428,"WR").
+shift_data("68154","Amanda Jacobs",20250429,"PH").
+shift_data("68154","Amanda Jacobs",20250430,"D").
+shift_data("68154","Amanda Jacobs",20250501,"WR").
+shift_data("68154","Amanda Jacobs",20250502,"D").
+shift_data("68154","Amanda Jacobs",20250503,"AL").
+shift_data("68154","Amanda Jacobs",20250504,"AL").
+shift_data("68154","Amanda Jacobs",20250505,"PH").
+shift_data("68154","Amanda Jacobs",20250506,"PH").
+shift_data("68154","Amanda Jacobs",20250507,"D").
+shift_data("68154","Amanda Jacobs",20250508,"WR").
+shift_data("68154","Amanda Jacobs",20250509,"WR").
+shift_data("68154","Amanda Jacobs",20250510,"D").
+shift_data("68154","Amanda Jacobs",20250511,"D").
+shift_data("68154","Amanda Jacobs",20250512,"D").
+shift_data("68154","Amanda Jacobs",20250513,"WR").
+shift_data("68154","Amanda Jacobs",20250514,"WR").
+shift_data("68154","Amanda Jacobs",20250515,"LD").
+shift_data("68154","Amanda Jacobs",20250516,"SE").
+shift_data("68154","Amanda Jacobs",20250517,"SN").
+shift_data("68154","Amanda Jacobs",20250518,"WR").
+shift_data("68154","Amanda Jacobs",20250519,"D").
+shift_data("68154","Amanda Jacobs",20250520,"D").
+shift_data("68154","Amanda Jacobs",20250521,"WR").
+shift_data("68154","Amanda Jacobs",20250522,"D").
+shift_data("68154","Amanda Jacobs",20250523,"LD").
+shift_data("68154","Amanda Jacobs",20250524,"SE").
+shift_data("68154","Amanda Jacobs",20250525,"SN").
+shift_data("68154","Amanda Jacobs",20250526,"WR").
+shift_data("68154","Amanda Jacobs",20250527,"WR").
+shift_data("68154","Amanda Jacobs",20250528,"D").
+shift_data("68154","Amanda Jacobs",20250529,"D").
+shift_data("68154","Amanda Jacobs",20250530,"LD").
+shift_data("68154","Amanda Jacobs",20250531,"SE").
+shift_data("68154","Amanda Jacobs",20250601,"SN").
+shift_data("68154","Amanda Jacobs",20250602,"WR").
+shift_data("68154","Amanda Jacobs",20250603,"D").
+shift_data("68154","Amanda Jacobs",20250604,"WR").
+shift_data("68154","Amanda Jacobs",20250605,"D").
+shift_data("68154","Amanda Jacobs",20250606,"D").
+shift_data("68154","Amanda Jacobs",20250607,"LD").
+shift_data("68154","Amanda Jacobs",20250608,"SE").
+shift_data("68154","Amanda Jacobs",20250609,"SN").
+shift_data("68154","Amanda Jacobs",20250610,"WR").
+shift_data("68154","Amanda Jacobs",20250611,"LD").
+shift_data("68154","Amanda Jacobs",20250612,"SE").
+shift_data("68154","Amanda Jacobs",20250613,"SN").
+shift_data("68154","Amanda Jacobs",20250614,"WR").
+shift_data("68154","Amanda Jacobs",20250615,"LD").
+shift_data("68154","Amanda Jacobs",20250616,"SE").
+shift_data("68154","Amanda Jacobs",20250617,"SN").
+shift_data("68154","Amanda Jacobs",20250618,"WR").
+shift_data("68154","Amanda Jacobs",20250619,"D").
+shift_data("68154","Amanda Jacobs",20250620,"D").
+shift_data("68154","Amanda Jacobs",20250621,"WR").
+shift_data("68154","Amanda Jacobs",20250622,"WR").
+shift_data("68154","Amanda Jacobs",20250623,"LD").
+shift_data("68154","Amanda Jacobs",20250624,"SE").
+shift_data("68154","Amanda Jacobs",20250625,"SN").
+shift_data("68154","Amanda Jacobs",20250626,"WR").
+shift_data("68154","Amanda Jacobs",20250627,"LD").
+shift_data("68154","Amanda Jacobs",20250628,"SE").
+shift_data("68154","Amanda Jacobs",20250629,"SN").
+shift_data("68154","Amanda Jacobs",20250630,"WR").
+shift_data("68154","Amanda Jacobs",20250701,"D").
+shift_data("68154","Amanda Jacobs",20250702,"LD").
+shift_data("68154","Amanda Jacobs",20250703,"SE").
+shift_data("68154","Amanda Jacobs",20250704,"SN").
+shift_data("68154","Amanda Jacobs",20250705,"WR").
+shift_data("68154","Amanda Jacobs",20250706,"WR").
+shift_data("68154","Amanda Jacobs",20250707,"D").
+shift_data("68154","Amanda Jacobs",20250708,"D").
+shift_data("68154","Amanda Jacobs",20250709,"WR").
+shift_data("68154","Amanda Jacobs",20250710,"LD").
+shift_data("68154","Amanda Jacobs",20250711,"SE").
+shift_data("68154","Amanda Jacobs",20250712,"SN").
+shift_data("68154","Amanda Jacobs",20250713,"WR").
+shift_data("68154","Amanda Jacobs",20250714,"LD").
+shift_data("68154","Amanda Jacobs",20250715,"SE").
+shift_data("68154","Amanda Jacobs",20250716,"SN").
+shift_data("68154","Amanda Jacobs",20250717,"WR").
+shift_data("68154","Amanda Jacobs",20250718,"D").
+shift_data("68154","Amanda Jacobs",20250719,"D").
+shift_data("68154","Amanda Jacobs",20250720,"LD").
+shift_data("68154","Amanda Jacobs",20250721,"SE").
+shift_data("68154","Amanda Jacobs",20250722,"SN").
+shift_data("68154","Amanda Jacobs",20250723,"WR").
+shift_data("68154","Amanda Jacobs",20250724,"LD").
+shift_data("68154","Amanda Jacobs",20250725,"SE").
+shift_data("68154","Amanda Jacobs",20250726,"SN").
+shift_data("68154","Amanda Jacobs",20250727,"WR").
+shift_data("68154","Amanda Jacobs",20250728,"WR").
+shift_data("68154","Amanda Jacobs",20250729,"D").
+shift_data("68154","Amanda Jacobs",20250730,"D").
+shift_data("68154","Amanda Jacobs",20250731,"SE").
+shift_data("68154","Amanda Jacobs",20250801,"SN").
+shift_data("68154","Amanda Jacobs",20250802,"WR").
+shift_data("68154","Amanda Jacobs",20250803,"LD").
+shift_data("68154","Amanda Jacobs",20250804,"WR").
+shift_data("68154","Amanda Jacobs",20250805,"SL").
+shift_data("68154","Amanda Jacobs",20250806,"SL").
+shift_data("68154","Amanda Jacobs",20250807,"SL").
+shift_data("68154","Amanda Jacobs",20250808,"SL").
+shift_data("68154","Amanda Jacobs",20250809,"WR").
+shift_data("68154","Amanda Jacobs",20250810,"WR").
+shift_data("68154","Amanda Jacobs",20250811,"PH").
+shift_data("68154","Amanda Jacobs",20250812,"SP").
+shift_data("68154","Amanda Jacobs",20250813,"D").
+shift_data("68154","Amanda Jacobs",20250814,"WR").
+shift_data("68154","Amanda Jacobs",20250815,"LD").
+shift_data("68154","Amanda Jacobs",20250816,"SE").
+shift_data("68154","Amanda Jacobs",20250817,"SN").
+shift_data("68154","Amanda Jacobs",20250818,"WR").
+shift_data("68154","Amanda Jacobs",20250819,"LD").
+shift_data("68154","Amanda Jacobs",20250820,"SE").
+shift_data("68154","Amanda Jacobs",20250821,"SN").
+shift_data("68154","Amanda Jacobs",20250822,"WR").
+shift_data("68154","Amanda Jacobs",20250823,"LD").
+shift_data("68154","Amanda Jacobs",20250824,"LM").
+shift_data("68154","Amanda Jacobs",20250825,"AL").
+shift_data("68154","Amanda Jacobs",20250826,"WR").
+shift_data("68154","Amanda Jacobs",20250827,"WR").
+shift_data("68154","Amanda Jacobs",20250828,"SE").
+shift_data("68154","Amanda Jacobs",20250829,"SN").
+shift_data("68154","Amanda Jacobs",20250830,"WR").
+shift_data("68154","Amanda Jacobs",20250831,"SE").
+shift_data("68154","Amanda Jacobs",20250901,"SN").
+shift_data("68154","Amanda Jacobs",20250902,"WR").
+shift_data("68154","Amanda Jacobs",20250903,"LD").
+shift_data("68154","Amanda Jacobs",20250904,"LD").
+shift_data("68154","Amanda Jacobs",20250905,"LM").
+shift_data("68154","Amanda Jacobs",20250906,"SE").
+shift_data("68154","Amanda Jacobs",20250907,"SN").
+shift_data("68154","Amanda Jacobs",20250908,"WR").
+shift_data("68154","Amanda Jacobs",20250909,"D").
+shift_data("68154","Amanda Jacobs",20250910,"LD").
+shift_data("68154","Amanda Jacobs",20250911,"SE").
+shift_data("68154","Amanda Jacobs",20250912,"SN").
+shift_data("68154","Amanda Jacobs",20250913,"WR").
+shift_data("68154","Amanda Jacobs",20250914,"D").
+shift_data("68154","Amanda Jacobs",20250915,"LD").
+shift_data("68154","Amanda Jacobs",20250916,"HL").
+shift_data("68154","Amanda Jacobs",20250917,"HL").
+shift_data("68154","Amanda Jacobs",20250918,"WR").
+shift_data("68154","Amanda Jacobs",20250919,"WR").
+shift_data("68154","Amanda Jacobs",20250920,"AL").
+shift_data("68154","Amanda Jacobs",20250921,"LD").
+shift_data("68154","Amanda Jacobs",20250922,"SE").
+shift_data("68154","Amanda Jacobs",20250923,"SN").
+shift_data("68154","Amanda Jacobs",20250924,"WR").
+shift_data("68154","Amanda Jacobs",20250925,"LD").
+shift_data("68154","Amanda Jacobs",20250926,"SE").
+shift_data("68154","Amanda Jacobs",20250927,"SN").
+shift_data("68154","Amanda Jacobs",20250928,"WR").
+shift_data("68154","Amanda Jacobs",20250929,"D").
+shift_data("68154","Amanda Jacobs",20250930,"WR").
+shift_data("68154","Amanda Jacobs",20251001,"LD").
+shift_data("68154","Amanda Jacobs",20251002,"SE").
+shift_data("68154","Amanda Jacobs",20251003,"SN").
+shift_data("68154","Amanda Jacobs",20251004,"WR").
+shift_data("68154","Amanda Jacobs",20251005,"WR").
+shift_data("68154","Amanda Jacobs",20251006,"LD").
+shift_data("68154","Amanda Jacobs",20251007,"SE").
+shift_data("68154","Amanda Jacobs",20251008,"SN").
+shift_data("68154","Amanda Jacobs",20251009,"SE").
+shift_data("68154","Amanda Jacobs",20251010,"SN").
+shift_data("68154","Amanda Jacobs",20251011,"WR").
+shift_data("68154","Amanda Jacobs",20251012,"SE").
+shift_data("68154","Amanda Jacobs",20251013,"SN").
+shift_data("68154","Amanda Jacobs",20251014,"WR").
+shift_data("68154","Amanda Jacobs",20251015,"WR").
+shift_data("68154","Amanda Jacobs",20251016,"SE").
+shift_data("68154","Amanda Jacobs",20251017,"SN").
+shift_data("68154","Amanda Jacobs",20251018,"WR").
+shift_data("68154","Amanda Jacobs",20251019,"AL").
+shift_data("68154","Amanda Jacobs",20251020,"LD").
+shift_data("68154","Amanda Jacobs",20251021,"WR").
+shift_data("68154","Amanda Jacobs",20251022,"LD").
+shift_data("68154","Amanda Jacobs",20251023,"SE").
+shift_data("68154","Amanda Jacobs",20251024,"SN").
+shift_data("68154","Amanda Jacobs",20251025,"WR").
+shift_data("68154","Amanda Jacobs",20251026,"D").
+shift_data("68154","Amanda Jacobs",20251027,"LD").
+shift_data("68154","Amanda Jacobs",20251028,"SE").
+shift_data("68154","Amanda Jacobs",20251029,"SN").
+shift_data("68154","Amanda Jacobs",20251030,"WR").
+shift_data("68154","Amanda Jacobs",20251031,"D").
+shift_data("68154","Amanda Jacobs",20251101,"WR").
+shift_data("68154","Amanda Jacobs",20251102,"LD").
+shift_data("68154","Amanda Jacobs",20251103,"PH").
+shift_data("68154","Amanda Jacobs",20251104,"SE").
+shift_data("68154","Amanda Jacobs",20251105,"SN").
+shift_data("68154","Amanda Jacobs",20251106,"WR").
+shift_data("68154","Amanda Jacobs",20251107,"AL").
+shift_data("68154","Amanda Jacobs",20251108,"LD").
+shift_data("68154","Amanda Jacobs",20251109,"WR").
+shift_data("68154","Amanda Jacobs",20251110,"D").
+shift_data("68154","Amanda Jacobs",20251111,"LD").
+shift_data("68154","Amanda Jacobs",20251112,"SE").
+shift_data("68154","Amanda Jacobs",20251113,"SN").
+shift_data("68154","Amanda Jacobs",20251114,"HL").
+shift_data("68154","Amanda Jacobs",20251115,"HL").
+shift_data("68154","Amanda Jacobs",20251116,"WR").
+shift_data("68154","Amanda Jacobs",20251117,"AL").
+shift_data("68154","Amanda Jacobs",20251118,"LD").
+shift_data("68154","Amanda Jacobs",20251119,"SE").
+shift_data("68154","Amanda Jacobs",20251120,"SN").
+shift_data("68154","Amanda Jacobs",20251121,"WR").
+shift_data("68154","Amanda Jacobs",20251122,"LD").
+shift_data("68154","Amanda Jacobs",20251123,"SE").
+shift_data("68154","Amanda Jacobs",20251124,"SN").
+shift_data("68154","Amanda Jacobs",20251125,"WR").
+shift_data("68154","Amanda Jacobs",20251126,"D").
+shift_data("68154","Amanda Jacobs",20251127,"LD").
+shift_data("68154","Amanda Jacobs",20251128,"SE").
+shift_data("68154","Amanda Jacobs",20251129,"SN").
+shift_data("68154","Amanda Jacobs",20251130,"WR").
+shift_data("68154","Amanda Jacobs",20251201,"WR").
+shift_data("68154","Amanda Jacobs",20251202,"LD").
+shift_data("68154","Amanda Jacobs",20251203,"WR").
+shift_data("68154","Amanda Jacobs",20251204,"SE").
+shift_data("68154","Amanda Jacobs",20251205,"SN").
+shift_data("68154","Amanda Jacobs",20251206,"WR").
+shift_data("68154","Amanda Jacobs",20251207,"D").
+shift_data("68154","Amanda Jacobs",20251208,"LD").
+shift_data("68154","Amanda Jacobs",20251209,"WR").
+shift_data("68154","Amanda Jacobs",20251210,"SE").
+shift_data("68154","Amanda Jacobs",20251211,"SN").
+shift_data("68154","Amanda Jacobs",20251212,"WR").
+shift_data("68154","Amanda Jacobs",20251213,"SE").
+shift_data("68154","Amanda Jacobs",20251214,"SN").
+shift_data("68154","Amanda Jacobs",20251215,"SE").
+shift_data("68154","Amanda Jacobs",20251216,"SN").
+shift_data("68154","Amanda Jacobs",20251217,"WR").
+shift_data("68154","Amanda Jacobs",20251218,"D").
+shift_data("68154","Amanda Jacobs",20251219,"WR").
+shift_data("68154","Amanda Jacobs",20251220,"LD").
+shift_data("68154","Amanda Jacobs",20251221,"WR").
+shift_data("68154","Amanda Jacobs",20251222,"WR").
+shift_data("68154","Amanda Jacobs",20251223,"LD").
+shift_data("68154","Amanda Jacobs",20251224,"SE").
+shift_data("68154","Amanda Jacobs",20251225,"SN").
+shift_data("68154","Amanda Jacobs",20251226,"WR").
+shift_data("68154","Amanda Jacobs",20251227,"LD").
+shift_data("68154","Amanda Jacobs",20251228,"SE").
+shift_data("68154","Amanda Jacobs",20251229,"SN").
+shift_data("68154","Amanda Jacobs",20251230,"PH").
+shift_data("68154","Amanda Jacobs",20251231,"LD").
+shift_data("30900","Brittany Jones",20250401,"SE").
+shift_data("30900","Brittany Jones",20250402,"SN").
+shift_data("30900","Brittany Jones",20250403,"WR").
+shift_data("30900","Brittany Jones",20250404,"WR").
+shift_data("30900","Brittany Jones",20250405,"LD").
+shift_data("30900","Brittany Jones",20250406,"SE").
+shift_data("30900","Brittany Jones",20250407,"SN").
+shift_data("30900","Brittany Jones",20250408,"SE").
+shift_data("30900","Brittany Jones",20250409,"SN").
+shift_data("30900","Brittany Jones",20250410,"WR").
+shift_data("30900","Brittany Jones",20250411,"D").
+shift_data("30900","Brittany Jones",20250412,"SE").
+shift_data("30900","Brittany Jones",20250413,"SN").
+shift_data("30900","Brittany Jones",20250414,"WR").
+shift_data("30900","Brittany Jones",20250415,"LD").
+shift_data("30900","Brittany Jones",20250416,"WR").
+shift_data("30900","Brittany Jones",20250417,"D").
+shift_data("30900","Brittany Jones",20250418,"D").
+shift_data("30900","Brittany Jones",20250419,"D").
+shift_data("30900","Brittany Jones",20250420,"LD").
+shift_data("30900","Brittany Jones",20250421,"WR").
+shift_data("30900","Brittany Jones",20250422,"LD").
+shift_data("30900","Brittany Jones",20250423,"LM").
+shift_data("30900","Brittany Jones",20250424,"WR").
+shift_data("30900","Brittany Jones",20250425,"LD").
+shift_data("30900","Brittany Jones",20250426,"WR").
+shift_data("30900","Brittany Jones",20250427,"LD").
+shift_data("30900","Brittany Jones",20250428,"SE").
+shift_data("30900","Brittany Jones",20250429,"SN").
+shift_data("30900","Brittany Jones",20250430,"WR").
+shift_data("30900","Brittany Jones",20250501,"LD").
+shift_data("30900","Brittany Jones",20250502,"SE").
+shift_data("30900","Brittany Jones",20250503,"SN").
+shift_data("30900","Brittany Jones",20250504,"WR").
+shift_data("30900","Brittany Jones",20250505,"LD").
+shift_data("30900","Brittany Jones",20250506,"SE").
+shift_data("30900","Brittany Jones",20250507,"SN").
+shift_data("30900","Brittany Jones",20250508,"SE").
+shift_data("30900","Brittany Jones",20250509,"SN").
+shift_data("30900","Brittany Jones",20250510,"WR").
+shift_data("30900","Brittany Jones",20250511,"WR").
+shift_data("30900","Brittany Jones",20250512,"LD").
+shift_data("30900","Brittany Jones",20250513,"WR").
+shift_data("30900","Brittany Jones",20250514,"LD").
+shift_data("30900","Brittany Jones",20250515,"SE").
+shift_data("30900","Brittany Jones",20250516,"SN").
+shift_data("30900","Brittany Jones",20250517,"WL").
+shift_data("30900","Brittany Jones",20250518,"WL").
+shift_data("30900","Brittany Jones",20250519,"WL").
+shift_data("30900","Brittany Jones",20250520,"WL").
+shift_data("30900","Brittany Jones",20250521,"WL").
+shift_data("30900","Brittany Jones",20250522,"WR").
+shift_data("30900","Brittany Jones",20250523,"WR").
+shift_data("30900","Brittany Jones",20250524,"WR").
+shift_data("30900","Brittany Jones",20250525,"WR").
+shift_data("30900","Brittany Jones",20250526,"LD").
+shift_data("30900","Brittany Jones",20250527,"SE").
+shift_data("30900","Brittany Jones",20250528,"SN").
+shift_data("30900","Brittany Jones",20250529,"SE").
+shift_data("30900","Brittany Jones",20250530,"SN").
+shift_data("30900","Brittany Jones",20250531,"WR").
+shift_data("30900","Brittany Jones",20250601,"WR").
+shift_data("30900","Brittany Jones",20250602,"LD").
+shift_data("30900","Brittany Jones",20250603,"SE").
+shift_data("30900","Brittany Jones",20250604,"SN").
+shift_data("30900","Brittany Jones",20250605,"AL").
+shift_data("30900","Brittany Jones",20250606,"WR").
+shift_data("30900","Brittany Jones",20250607,"LD").
+shift_data("30900","Brittany Jones",20250608,"SE").
+shift_data("30900","Brittany Jones",20250609,"SN").
+shift_data("30900","Brittany Jones",20250610,"WR").
+shift_data("30900","Brittany Jones",20250611,"LD").
+shift_data("30900","Brittany Jones",20250612,"SE").
+shift_data("30900","Brittany Jones",20250613,"SN").
+shift_data("30900","Brittany Jones",20250614,"WR").
+shift_data("30900","Brittany Jones",20250615,"LD").
+shift_data("30900","Brittany Jones",20250616,"WR").
+shift_data("30900","Brittany Jones",20250617,"D").
+shift_data("30900","Brittany Jones",20250618,"LD").
+shift_data("30900","Brittany Jones",20250619,"SE").
+shift_data("30900","Brittany Jones",20250620,"SN").
+shift_data("30900","Brittany Jones",20250621,"WR").
+shift_data("30900","Brittany Jones",20250622,"WR").
+shift_data("30900","Brittany Jones",20250623,"WR").
+shift_data("30900","Brittany Jones",20250624,"D").
+shift_data("30900","Brittany Jones",20250625,"LD").
+shift_data("30900","Brittany Jones",20250626,"SE").
+shift_data("30900","Brittany Jones",20250627,"SN").
+shift_data("30900","Brittany Jones",20250628,"WR").
+shift_data("30900","Brittany Jones",20250629,"LD").
+shift_data("30900","Brittany Jones",20250630,"SE").
+shift_data("30900","Brittany Jones",20250701,"SN").
+shift_data("30900","Brittany Jones",20250702,"WR").
+shift_data("30900","Brittany Jones",20250703,"LD").
+shift_data("30900","Brittany Jones",20250704,"SE").
+shift_data("30900","Brittany Jones",20250705,"SN").
+shift_data("30900","Brittany Jones",20250706,"WR").
+shift_data("30900","Brittany Jones",20250707,"LD").
+shift_data("30900","Brittany Jones",20250708,"SE").
+shift_data("30900","Brittany Jones",20250709,"SN").
+shift_data("30900","Brittany Jones",20250710,"WR").
+shift_data("30900","Brittany Jones",20250711,"LD").
+shift_data("30900","Brittany Jones",20250712,"SE").
+shift_data("30900","Brittany Jones",20250713,"SN").
+shift_data("30900","Brittany Jones",20250714,"WR").
+shift_data("30900","Brittany Jones",20250715,"D").
+shift_data("30900","Brittany Jones",20250716,"LD").
+shift_data("30900","Brittany Jones",20250717,"SE").
+shift_data("30900","Brittany Jones",20250718,"SN").
+shift_data("30900","Brittany Jones",20250719,"WR").
+shift_data("30900","Brittany Jones",20250720,"LD").
+shift_data("30900","Brittany Jones",20250721,"SE").
+shift_data("30900","Brittany Jones",20250722,"SN").
+shift_data("30900","Brittany Jones",20250723,"WR").
+shift_data("30900","Brittany Jones",20250724,"WR").
+shift_data("30900","Brittany Jones",20250725,"LD").
+shift_data("30900","Brittany Jones",20250726,"SE").
+shift_data("30900","Brittany Jones",20250727,"SN").
+shift_data("30900","Brittany Jones",20250728,"WR").
+shift_data("30900","Brittany Jones",20250729,"LD").
+shift_data("30900","Brittany Jones",20250730,"WR").
+shift_data("30900","Brittany Jones",20250731,"LD").
+shift_data("30900","Brittany Jones",20250801,"SE").
+shift_data("30900","Brittany Jones",20250802,"SN").
+shift_data("30900","Brittany Jones",20250803,"WR").
+shift_data("30900","Brittany Jones",20250804,"D").
+shift_data("30900","Brittany Jones",20250805,"D").
+shift_data("30900","Brittany Jones",20250806,"WR").
+shift_data("30900","Brittany Jones",20250807,"LD").
+shift_data("30900","Brittany Jones",20250808,"WR").
+shift_data("30900","Brittany Jones",20250809,"SE").
+shift_data("30900","Brittany Jones",20250810,"SN").
+shift_data("30900","Brittany Jones",20250811,"PH").
+shift_data("30900","Brittany Jones",20250812,"LD").
+shift_data("30900","Brittany Jones",20250813,"SE").
+shift_data("30900","Brittany Jones",20250814,"SN").
+shift_data("30900","Brittany Jones",20250815,"WR").
+shift_data("30900","Brittany Jones",20250816,"SE").
+shift_data("30900","Brittany Jones",20250817,"SN").
+shift_data("30900","Brittany Jones",20250818,"WR").
+shift_data("30900","Brittany Jones",20250819,"D").
+shift_data("30900","Brittany Jones",20250820,"LD").
+shift_data("30900","Brittany Jones",20250821,"WR").
+shift_data("30900","Brittany Jones",20250822,"D").
+shift_data("30900","Brittany Jones",20250823,"SE").
+shift_data("30900","Brittany Jones",20250824,"SN").
+shift_data("30900","Brittany Jones",20250825,"WR").
+shift_data("30900","Brittany Jones",20250826,"LD").
+shift_data("30900","Brittany Jones",20250827,"SE").
+shift_data("30900","Brittany Jones",20250828,"SN").
+shift_data("30900","Brittany Jones",20250829,"WR").
+shift_data("30900","Brittany Jones",20250830,"D").
+shift_data("30900","Brittany Jones",20250831,"LD").
+shift_data("30900","Brittany Jones",20250901,"SE").
+shift_data("30900","Brittany Jones",20250902,"SN").
+shift_data("30900","Brittany Jones",20250903,"WR").
+shift_data("30900","Brittany Jones",20250904,"D").
+shift_data("30900","Brittany Jones",20250905,"LD").
+shift_data("30900","Brittany Jones",20250906,"SE").
+shift_data("30900","Brittany Jones",20250907,"SN").
+shift_data("30900","Brittany Jones",20250908,"WR").
+shift_data("30900","Brittany Jones",20250909,"LD").
+shift_data("30900","Brittany Jones",20250910,"SE").
+shift_data("30900","Brittany Jones",20250911,"SN").
+shift_data("30900","Brittany Jones",20250912,"WR").
+shift_data("30900","Brittany Jones",20250913,"WR").
+shift_data("30900","Brittany Jones",20250914,"LD").
+shift_data("30900","Brittany Jones",20250915,"SE").
+shift_data("30900","Brittany Jones",20250916,"SN").
+shift_data("30900","Brittany Jones",20250917,"WR").
+shift_data("30900","Brittany Jones",20250918,"LD").
+shift_data("30900","Brittany Jones",20250919,"WR").
+shift_data("30900","Brittany Jones",20250920,"D").
+shift_data("30900","Brittany Jones",20250921,"WR").
+shift_data("30900","Brittany Jones",20250922,"WR").
+shift_data("30900","Brittany Jones",20250923,"PH").
+shift_data("30900","Brittany Jones",20250924,"LD").
+shift_data("30900","Brittany Jones",20250925,"SE").
+shift_data("30900","Brittany Jones",20250926,"SN").
+shift_data("30900","Brittany Jones",20250927,"WR").
+shift_data("30900","Brittany Jones",20250928,"LD").
+shift_data("30900","Brittany Jones",20250929,"LM").
+shift_data("30900","Brittany Jones",20250930,"SE").
+shift_data("30900","Brittany Jones",20251001,"SN").
+shift_data("30900","Brittany Jones",20251002,"WR").
+shift_data("30900","Brittany Jones",20251003,"D").
+shift_data("30900","Brittany Jones",20251004,"SE").
+shift_data("30900","Brittany Jones",20251005,"SN").
+shift_data("30900","Brittany Jones",20251006,"WR").
+shift_data("30900","Brittany Jones",20251007,"LD").
+shift_data("30900","Brittany Jones",20251008,"SE").
+shift_data("30900","Brittany Jones",20251009,"SN").
+shift_data("30900","Brittany Jones",20251010,"WR").
+shift_data("30900","Brittany Jones",20251011,"D").
+shift_data("30900","Brittany Jones",20251012,"WR").
+shift_data("30900","Brittany Jones",20251013,"LD").
+shift_data("30900","Brittany Jones",20251014,"SE").
+shift_data("30900","Brittany Jones",20251015,"SN").
+shift_data("30900","Brittany Jones",20251016,"AL").
+shift_data("30900","Brittany Jones",20251017,"WR").
+shift_data("30900","Brittany Jones",20251018,"AL").
+shift_data("30900","Brittany Jones",20251019,"AL").
+shift_data("30900","Brittany Jones",20251020,"WR").
+shift_data("30900","Brittany Jones",20251021,"LD").
+shift_data("30900","Brittany Jones",20251022,"SE").
+shift_data("30900","Brittany Jones",20251023,"SN").
+shift_data("30900","Brittany Jones",20251024,"WR").
+shift_data("30900","Brittany Jones",20251025,"SE").
+shift_data("30900","Brittany Jones",20251026,"SN").
+shift_data("30900","Brittany Jones",20251027,"SE").
+shift_data("30900","Brittany Jones",20251028,"SN").
+shift_data("30900","Brittany Jones",20251029,"WR").
+shift_data("30900","Brittany Jones",20251030,"LD").
+shift_data("30900","Brittany Jones",20251031,"WR").
+shift_data("30900","Brittany Jones",20251101,"LD").
+shift_data("30900","Brittany Jones",20251102,"WR").
+shift_data("30900","Brittany Jones",20251103,"PH").
+shift_data("30900","Brittany Jones",20251104,"SE").
+shift_data("30900","Brittany Jones",20251105,"SN").
+shift_data("30900","Brittany Jones",20251106,"WR").
+shift_data("30900","Brittany Jones",20251107,"D").
+shift_data("30900","Brittany Jones",20251108,"LD").
+shift_data("30900","Brittany Jones",20251109,"SE").
+shift_data("30900","Brittany Jones",20251110,"SN").
+shift_data("30900","Brittany Jones",20251111,"WR").
+shift_data("30900","Brittany Jones",20251112,"D").
+shift_data("30900","Brittany Jones",20251113,"LD").
+shift_data("30900","Brittany Jones",20251114,"WR").
+shift_data("30900","Brittany Jones",20251115,"D").
+shift_data("30900","Brittany Jones",20251116,"D").
+shift_data("30900","Brittany Jones",20251117,"LD").
+shift_data("30900","Brittany Jones",20251118,"SE").
+shift_data("30900","Brittany Jones",20251119,"SN").
+shift_data("30900","Brittany Jones",20251120,"WR").
+shift_data("30900","Brittany Jones",20251121,"LD").
+shift_data("30900","Brittany Jones",20251122,"SE").
+shift_data("30900","Brittany Jones",20251123,"SN").
+shift_data("30900","Brittany Jones",20251124,"SE").
+shift_data("30900","Brittany Jones",20251125,"SN").
+shift_data("30900","Brittany Jones",20251126,"WR").
+shift_data("30900","Brittany Jones",20251127,"LD").
+shift_data("30900","Brittany Jones",20251128,"HL").
+shift_data("30900","Brittany Jones",20251129,"WR").
+shift_data("30900","Brittany Jones",20251130,"LM").
+shift_data("30900","Brittany Jones",20251201,"LD").
+shift_data("30900","Brittany Jones",20251202,"WR").
+shift_data("30900","Brittany Jones",20251203,"WR").
+shift_data("30900","Brittany Jones",20251204,"SE").
+shift_data("30900","Brittany Jones",20251205,"SN").
+shift_data("30900","Brittany Jones",20251206,"WR").
+shift_data("30900","Brittany Jones",20251207,"LD").
+shift_data("30900","Brittany Jones",20251208,"WR").
+shift_data("30900","Brittany Jones",20251209,"LD").
+shift_data("30900","Brittany Jones",20251210,"AL").
+shift_data("30900","Brittany Jones",20251211,"AL").
+shift_data("30900","Brittany Jones",20251212,"HL").
+shift_data("30900","Brittany Jones",20251213,"WR").
+shift_data("30900","Brittany Jones",20251214,"SE").
+shift_data("30900","Brittany Jones",20251215,"SN").
+shift_data("30900","Brittany Jones",20251216,"SE").
+shift_data("30900","Brittany Jones",20251217,"SN").
+shift_data("30900","Brittany Jones",20251218,"WR").
+shift_data("30900","Brittany Jones",20251219,"WR").
+shift_data("30900","Brittany Jones",20251220,"LD").
+shift_data("30900","Brittany Jones",20251221,"SE").
+shift_data("30900","Brittany Jones",20251222,"SN").
+shift_data("30900","Brittany Jones",20251223,"WR").
+shift_data("30900","Brittany Jones",20251224,"WR").
+shift_data("30900","Brittany Jones",20251225,"WR").
+shift_data("30900","Brittany Jones",20251226,"LD").
+shift_data("30900","Brittany Jones",20251227,"SE").
+shift_data("30900","Brittany Jones",20251228,"SN").
+shift_data("30900","Brittany Jones",20251229,"PH").
+shift_data("30900","Brittany Jones",20251230,"D").
+shift_data("30900","Brittany Jones",20251231,"LD").
+shift_data("372284","nan",20250401,"D").
+shift_data("372284","nan",20250402,"D").
+shift_data("372284","nan",20250403,"D").
+shift_data("372284","nan",20250404,"D").
+shift_data("372284","nan",20250405,"WR").
+shift_data("372284","nan",20250406,"WR").
+shift_data("372284","nan",20250407,"D").
+shift_data("372284","nan",20250408,"D").
+shift_data("372284","nan",20250409,"D").
+shift_data("372284","nan",20250410,"D").
+shift_data("372284","nan",20250411,"D").
+shift_data("372284","nan",20250412,"WR").
+shift_data("372284","nan",20250413,"WR").
+shift_data("372284","nan",20250414,"D").
+shift_data("372284","nan",20250415,"D").
+shift_data("372284","nan",20250416,"D").
+shift_data("372284","nan",20250417,"D").
+shift_data("372284","nan",20250418,"D").
+shift_data("372284","nan",20250419,"WR").
+shift_data("372284","nan",20250420,"WR").
+shift_data("372284","nan",20250421,"D").
+shift_data("372284","nan",20250422,"D").
+shift_data("372284","nan",20250423,"D").
+shift_data("372284","nan",20250424,"D").
+shift_data("372284","nan",20250425,"D").
+shift_data("372284","nan",20250426,"WR").
+shift_data("372284","nan",20250427,"WR").
+shift_data("372284","nan",20250428,"D").
+shift_data("372284","nan",20250429,"PH").
+shift_data("372284","nan",20250430,"D").
+shift_data("372284","nan",20250501,"LD").
+shift_data("372284","nan",20250502,"SE").
+shift_data("372284","nan",20250503,"SN").
+shift_data("372284","nan",20250504,"WR").
+shift_data("372284","nan",20250505,"PH").
+shift_data("372284","nan",20250506,"PH").
+shift_data("372284","nan",20250507,"WR").
+shift_data("372284","nan",20250508,"D").
+shift_data("372284","nan",20250509,"D").
+shift_data("372284","nan",20250510,"WR").
+shift_data("372284","nan",20250511,"WR").
+shift_data("372284","nan",20250512,"D").
+shift_data("372284","nan",20250513,"D").
+shift_data("372284","nan",20250514,"D").
+shift_data("372284","nan",20250515,"WR").
+shift_data("372284","nan",20250516,"D").
+shift_data("372284","nan",20250517,"D").
+shift_data("372284","nan",20250518,"WR").
+shift_data("372284","nan",20250519,"D").
+shift_data("372284","nan",20250520,"D").
+shift_data("372284","nan",20250521,"D").
+shift_data("372284","nan",20250522,"D").
+shift_data("372284","nan",20250523,"D").
+shift_data("372284","nan",20250524,"WR").
+shift_data("372284","nan",20250525,"WR").
+shift_data("372284","nan",20250526,"LD").
+shift_data("372284","nan",20250527,"SE").
+shift_data("372284","nan",20250528,"SN").
+shift_data("372284","nan",20250529,"WR").
+shift_data("372284","nan",20250530,"D").
+shift_data("372284","nan",20250531,"D").
+shift_data("372284","nan",20250601,"WR").
+shift_data("372284","nan",20250602,"D").
+shift_data("372284","nan",20250603,"D").
+shift_data("372284","nan",20250604,"D").
+shift_data("372284","nan",20250605,"D").
+shift_data("372284","nan",20250606,"D").
+shift_data("372284","nan",20250607,"WR").
+shift_data("372284","nan",20250608,"WR").
+shift_data("372284","nan",20250609,"D").
+shift_data("372284","nan",20250610,"D").
+shift_data("372284","nan",20250611,"LD").
+shift_data("372284","nan",20250612,"SE").
+shift_data("372284","nan",20250613,"SN").
+shift_data("372284","nan",20250614,"WR").
+shift_data("372284","nan",20250615,"D").
+shift_data("372284","nan",20250616,"D").
+shift_data("372284","nan",20250617,"D").
+shift_data("372284","nan",20250618,"WR").
+shift_data("372284","nan",20250619,"D").
+shift_data("372284","nan",20250620,"D").
+shift_data("372284","nan",20250621,"WR").
+shift_data("372284","nan",20250622,"WR").
+shift_data("372284","nan",20250623,"D").
+shift_data("372284","nan",20250624,"D").
+shift_data("372284","nan",20250625,"LD").
+shift_data("372284","nan",20250626,"SE").
+shift_data("372284","nan",20250627,"SN").
+shift_data("372284","nan",20250628,"WR").
+shift_data("372284","nan",20250629,"D").
+shift_data("372284","nan",20250630,"D").
+shift_data("372284","nan",20250701,"D").
+shift_data("372284","nan",20250702,"WR").
+shift_data("372284","nan",20250703,"LD").
+shift_data("372284","nan",20250704,"SE").
+shift_data("372284","nan",20250705,"SN").
+shift_data("372284","nan",20250706,"WR").
+shift_data("372284","nan",20250707,"D").
+shift_data("372284","nan",20250708,"D").
+shift_data("372284","nan",20250709,"D").
+shift_data("372284","nan",20250710,"WR").
+shift_data("372284","nan",20250711,"D").
+shift_data("372284","nan",20250712,"D").
+shift_data("372284","nan",20250713,"WR").
+shift_data("372284","nan",20250714,"D").
+shift_data("372284","nan",20250715,"D").
+shift_data("372284","nan",20250716,"D").
+shift_data("372284","nan",20250717,"D").
+shift_data("372284","nan",20250718,"WR").
+shift_data("372284","nan",20250719,"WR").
+shift_data("372284","nan",20250720,"WR").
+shift_data("372284","nan",20250721,"D").
+shift_data("372284","nan",20250722,"D").
+shift_data("372284","nan",20250723,"D").
+shift_data("372284","nan",20250724,"WR").
+shift_data("372284","nan",20250725,"D").
+shift_data("372284","nan",20250726,"WR").
+shift_data("372284","nan",20250727,"LD").
+shift_data("372284","nan",20250728,"SE").
+shift_data("372284","nan",20250729,"SN").
+shift_data("372284","nan",20250730,"WR").
+shift_data("372284","nan",20250731,"D").
+shift_data("372284","nan",20250801,"LD").
+shift_data("372284","nan",20250802,"LD").
+shift_data("372284","nan",20250803,"SE").
+shift_data("372284","nan",20250804,"SN").
+shift_data("372284","nan",20250805,"WR").
+shift_data("372284","nan",20250806,"D").
+shift_data("372284","nan",20250807,"SE").
+shift_data("372284","nan",20250808,"SN").
+shift_data("372284","nan",20250809,"WR").
+shift_data("372284","nan",20250810,"WR").
+shift_data("372284","nan",20250811,"D").
+shift_data("372284","nan",20250812,"LD").
+shift_data("372284","nan",20250813,"SE").
+shift_data("372284","nan",20250814,"SN").
+shift_data("372284","nan",20250815,"WR").
+shift_data("372284","nan",20250816,"HL").
+shift_data("372284","nan",20250817,"WR").
+shift_data("372284","nan",20250818,"LD").
+shift_data("372284","nan",20250819,"SE").
+shift_data("372284","nan",20250820,"SN").
+shift_data("372284","nan",20250821,"WR").
+shift_data("372284","nan",20250822,"D").
+shift_data("372284","nan",20250823,"SE").
+shift_data("372284","nan",20250824,"SN").
+shift_data("372284","nan",20250825,"WR").
+shift_data("372284","nan",20250826,"LD").
+shift_data("372284","nan",20250827,"WR").
+shift_data("372284","nan",20250828,"WR").
+shift_data("372284","nan",20250829,"D").
+shift_data("372284","nan",20250830,"D").
+shift_data("372284","nan",20250831,"LD").
+shift_data("372284","nan",20250901,"SE").
+shift_data("372284","nan",20250902,"SN").
+shift_data("372284","nan",20250903,"WR").
+shift_data("372284","nan",20250904,"D").
+shift_data("372284","nan",20250905,"D").
+shift_data("372284","nan",20250906,"D").
+shift_data("372284","nan",20250907,"SE").
+shift_data("372284","nan",20250908,"SN").
+shift_data("372284","nan",20250909,"WR").
+shift_data("372284","nan",20250910,"D").
+shift_data("372284","nan",20250911,"LD").
+shift_data("372284","nan",20250912,"WR").
+shift_data("372284","nan",20250913,"HL").
+shift_data("372284","nan",20250914,"AL").
+shift_data("372284","nan",20250915,"PH").
+shift_data("372284","nan",20250916,"LD").
+shift_data("372284","nan",20250917,"SE").
+shift_data("372284","nan",20250918,"SN").
+shift_data("372284","nan",20250919,"WR").
+shift_data("372284","nan",20250920,"WR").
+shift_data("372284","nan",20250921,"LD").
+shift_data("372284","nan",20250922,"SE").
+shift_data("372284","nan",20250923,"SN").
+shift_data("372284","nan",20250924,"WR").
+shift_data("372284","nan",20250925,"WR").
+shift_data("372284","nan",20250926,"D").
+shift_data("372284","nan",20250927,"WR").
+shift_data("372284","nan",20250928,"LD").
+shift_data("372284","nan",20250929,"SE").
+shift_data("372284","nan",20250930,"SN").
+shift_data("372284","nan",20251001,"WR").
+shift_data("372284","nan",20251002,"D").
+shift_data("372284","nan",20251003,"WR").
+shift_data("372284","nan",20251004,"D").
+shift_data("372284","nan",20251005,"D").
+shift_data("372284","nan",20251006,"D").
+shift_data("372284","nan",20251007,"WR").
+shift_data("372284","nan",20251008,"AL").
+shift_data("372284","nan",20251009,"LD").
+shift_data("372284","nan",20251010,"SE").
+shift_data("372284","nan",20251011,"SN").
+shift_data("372284","nan",20251012,"WR").
+shift_data("372284","nan",20251013,"PH").
+shift_data("372284","nan",20251014,"LD").
+shift_data("372284","nan",20251015,"SE").
+shift_data("372284","nan",20251016,"SN").
+shift_data("372284","nan",20251017,"AL").
+shift_data("372284","nan",20251018,"D").
+shift_data("372284","nan",20251019,"WR").
+shift_data("372284","nan",20251020,"D").
+shift_data("372284","nan",20251021,"LD").
+shift_data("372284","nan",20251022,"SE").
+shift_data("372284","nan",20251023,"SN").
+shift_data("372284","nan",20251024,"HL").
+shift_data("372284","nan",20251025,"AL").
+shift_data("372284","nan",20251026,"WR").
+shift_data("372284","nan",20251027,"WR").
+shift_data("372284","nan",20251028,"D").
+shift_data("372284","nan",20251029,"WR").
+shift_data("372284","nan",20251030,"D").
+shift_data("372284","nan",20251031,"D").
+shift_data("372284","nan",20251101,"LD").
+shift_data("372284","nan",20251102,"SE").
+shift_data("372284","nan",20251103,"SN").
+shift_data("372284","nan",20251104,"HL").
+shift_data("372284","nan",20251105,"WR").
+shift_data("372284","nan",20251106,"WR").
+shift_data("372284","nan",20251107,"WR").
+shift_data("372284","nan",20251108,"D").
+shift_data("372284","nan",20251109,"AL").
+shift_data("372284","nan",20251110,"WR").
+shift_data("372284","nan",20251111,"D").
+shift_data("372284","nan",20251112,"D").
+shift_data("372284","nan",20251113,"LD").
+shift_data("372284","nan",20251114,"SE").
+shift_data("372284","nan",20251115,"SN").
+shift_data("372284","nan",20251116,"WR").
+shift_data("372284","nan",20251117,"D").
+shift_data("372284","nan",20251118,"D").
+shift_data("372284","nan",20251119,"WR").
+shift_data("372284","nan",20251120,"LD").
+shift_data("372284","nan",20251121,"SE").
+shift_data("372284","nan",20251122,"SN").
+shift_data("372284","nan",20251123,"WR").
+shift_data("372284","nan",20251124,"SE").
+shift_data("372284","nan",20251125,"SN").
+shift_data("372284","nan",20251126,"WR").
+shift_data("372284","nan",20251127,"LD").
+shift_data("372284","nan",20251128,"SE").
+shift_data("372284","nan",20251129,"SN").
+shift_data("372284","nan",20251130,"WR").
+shift_data("372284","nan",20251201,"D").
+shift_data("372284","nan",20251202,"D").
+shift_data("372284","nan",20251203,"LD").
+shift_data("372284","nan",20251204,"WR").
+shift_data("372284","nan",20251205,"D").
+shift_data("372284","nan",20251206,"WR").
+shift_data("372284","nan",20251207,"LD").
+shift_data("372284","nan",20251208,"SE").
+shift_data("372284","nan",20251209,"SN").
+shift_data("372284","nan",20251210,"WR").
+shift_data("372284","nan",20251211,"D").
+shift_data("372284","nan",20251212,"D").
+shift_data("372284","nan",20251213,"D").
+shift_data("372284","nan",20251214,"D").
+shift_data("372284","nan",20251215,"LD").
+shift_data("372284","nan",20251216,"WR").
+shift_data("372284","nan",20251217,"EM").
+shift_data("372284","nan",20251218,"SE").
+shift_data("372284","nan",20251219,"SN").
+shift_data("372284","nan",20251220,"WR").
+shift_data("372284","nan",20251221,"WR").
+shift_data("372284","nan",20251222,"LD").
+shift_data("372284","nan",20251223,"SE").
+shift_data("372284","nan",20251224,"SN").
+shift_data("372284","nan",20251225,"WR").
+shift_data("372284","nan",20251226,"D").
+shift_data("372284","nan",20251227,"WR").
+shift_data("372284","nan",20251228,"WR").
+shift_data("372284","nan",20251229,"D").
+shift_data("372284","nan",20251230,"PH").
+shift_data("372284","nan",20251231,"PH").
+shift_data("33231","Katie Perkins",20250401,"WR").
+shift_data("33231","Katie Perkins",20250402,"WR").
+shift_data("33231","Katie Perkins",20250403,"LD").
+shift_data("33231","Katie Perkins",20250404,"SE").
+shift_data("33231","Katie Perkins",20250405,"SN").
+shift_data("33231","Katie Perkins",20250406,"SE").
+shift_data("33231","Katie Perkins",20250407,"SN").
+shift_data("33231","Katie Perkins",20250408,"WR").
+shift_data("33231","Katie Perkins",20250409,"LD").
+shift_data("33231","Katie Perkins",20250410,"WR").
+shift_data("33231","Katie Perkins",20250411,"SE").
+shift_data("33231","Katie Perkins",20250412,"SN").
+shift_data("33231","Katie Perkins",20250413,"SE").
+shift_data("33231","Katie Perkins",20250414,"SN").
+shift_data("33231","Katie Perkins",20250415,"WR").
+shift_data("33231","Katie Perkins",20250416,"SE").
+shift_data("33231","Katie Perkins",20250417,"SN").
+shift_data("33231","Katie Perkins",20250418,"WR").
+shift_data("33231","Katie Perkins",20250419,"LD").
+shift_data("33231","Katie Perkins",20250420,"WR").
+shift_data("33231","Katie Perkins",20250421,"LD").
+shift_data("33231","Katie Perkins",20250422,"SE").
+shift_data("33231","Katie Perkins",20250423,"SN").
+shift_data("33231","Katie Perkins",20250424,"WR").
+shift_data("33231","Katie Perkins",20250425,"D").
+shift_data("33231","Katie Perkins",20250426,"LD").
+shift_data("33231","Katie Perkins",20250427,"SE").
+shift_data("33231","Katie Perkins",20250428,"SN").
+shift_data("33231","Katie Perkins",20250429,"SE").
+shift_data("33231","Katie Perkins",20250430,"SN").
+shift_data("33231","Katie Perkins",20250501,"WR").
+shift_data("33231","Katie Perkins",20250502,"WR").
+shift_data("33231","Katie Perkins",20250503,"WR").
+shift_data("33231","Katie Perkins",20250504,"LD").
+shift_data("33231","Katie Perkins",20250505,"PH").
+shift_data("33231","Katie Perkins",20250506,"D").
+shift_data("33231","Katie Perkins",20250507,"LD").
+shift_data("33231","Katie Perkins",20250508,"SE").
+shift_data("33231","Katie Perkins",20250509,"SN").
+shift_data("33231","Katie Perkins",20250510,"WR").
+shift_data("33231","Katie Perkins",20250511,"SE").
+shift_data("33231","Katie Perkins",20250512,"SN").
+shift_data("33231","Katie Perkins",20250513,"WR").
+shift_data("33231","Katie Perkins",20250514,"LD").
+shift_data("33231","Katie Perkins",20250515,"SE").
+shift_data("33231","Katie Perkins",20250516,"SN").
+shift_data("33231","Katie Perkins",20250517,"WR").
+shift_data("33231","Katie Perkins",20250518,"LD").
+shift_data("33231","Katie Perkins",20250519,"WR").
+shift_data("33231","Katie Perkins",20250520,"LD").
+shift_data("33231","Katie Perkins",20250521,"SE").
+shift_data("33231","Katie Perkins",20250522,"SN").
+shift_data("33231","Katie Perkins",20250523,"WR").
+shift_data("33231","Katie Perkins",20250524,"LD").
+shift_data("33231","Katie Perkins",20250525,"SE").
+shift_data("33231","Katie Perkins",20250526,"SN").
+shift_data("33231","Katie Perkins",20250527,"SE").
+shift_data("33231","Katie Perkins",20250528,"SN").
+shift_data("33231","Katie Perkins",20250529,"WR").
+shift_data("33231","Katie Perkins",20250530,"LD").
+shift_data("33231","Katie Perkins",20250531,"WR").
+shift_data("33231","Katie Perkins",20250601,"D").
+shift_data("33231","Katie Perkins",20250602,"LD").
+shift_data("33231","Katie Perkins",20250603,"WR").
+shift_data("33231","Katie Perkins",20250604,"LD").
+shift_data("33231","Katie Perkins",20250605,"SE").
+shift_data("33231","Katie Perkins",20250606,"SN").
+shift_data("33231","Katie Perkins",20250607,"WR").
+shift_data("33231","Katie Perkins",20250608,"WR").
+shift_data("33231","Katie Perkins",20250609,"LD").
+shift_data("33231","Katie Perkins",20250610,"SE").
+shift_data("33231","Katie Perkins",20250611,"SN").
+shift_data("33231","Katie Perkins",20250612,"SE").
+shift_data("33231","Katie Perkins",20250613,"SN").
+shift_data("33231","Katie Perkins",20250614,"WR").
+shift_data("33231","Katie Perkins",20250615,"WR").
+shift_data("33231","Katie Perkins",20250616,"D").
+shift_data("33231","Katie Perkins",20250617,"LD").
+shift_data("33231","Katie Perkins",20250618,"SE").
+shift_data("33231","Katie Perkins",20250619,"SN").
+shift_data("33231","Katie Perkins",20250620,"WR").
+shift_data("33231","Katie Perkins",20250621,"LD").
+shift_data("33231","Katie Perkins",20250622,"SE").
+shift_data("33231","Katie Perkins",20250623,"SN").
+shift_data("33231","Katie Perkins",20250624,"WR").
+shift_data("33231","Katie Perkins",20250625,"SE").
+shift_data("33231","Katie Perkins",20250626,"SN").
+shift_data("33231","Katie Perkins",20250627,"WR").
+shift_data("33231","Katie Perkins",20250628,"WR").
+shift_data("33231","Katie Perkins",20250629,"LD").
+shift_data("33231","Katie Perkins",20250630,"SE").
+shift_data("33231","Katie Perkins",20250701,"SN").
+shift_data("33231","Katie Perkins",20250702,"WR").
+shift_data("33231","Katie Perkins",20250703,"LD").
+shift_data("33231","Katie Perkins",20250704,"SE").
+shift_data("33231","Katie Perkins",20250705,"SN").
+shift_data("33231","Katie Perkins",20250706,"WR").
+shift_data("33231","Katie Perkins",20250707,"D").
+shift_data("33231","Katie Perkins",20250708,"LD").
+shift_data("33231","Katie Perkins",20250709,"WR").
+shift_data("33231","Katie Perkins",20250710,"LD").
+shift_data("33231","Katie Perkins",20250711,"WR").
+shift_data("33231","Katie Perkins",20250712,"D").
+shift_data("33231","Katie Perkins",20250713,"LD").
+shift_data("33231","Katie Perkins",20250714,"SE").
+shift_data("33231","Katie Perkins",20250715,"SN").
+shift_data("33231","Katie Perkins",20250716,"WR").
+shift_data("33231","Katie Perkins",20250717,"AL").
+shift_data("33231","Katie Perkins",20250718,"LD").
+shift_data("33231","Katie Perkins",20250719,"SE").
+shift_data("33231","Katie Perkins",20250720,"SN").
+shift_data("33231","Katie Perkins",20250721,"PH").
+shift_data("33231","Katie Perkins",20250722,"LD").
+shift_data("33231","Katie Perkins",20250723,"WR").
+shift_data("33231","Katie Perkins",20250724,"D").
+shift_data("33231","Katie Perkins",20250725,"WR").
+shift_data("33231","Katie Perkins",20250726,"SE").
+shift_data("33231","Katie Perkins",20250727,"SN").
+shift_data("33231","Katie Perkins",20250728,"WR").
+shift_data("33231","Katie Perkins",20250729,"D").
+shift_data("33231","Katie Perkins",20250730,"LD").
+shift_data("33231","Katie Perkins",20250731,"WR").
+shift_data("33231","Katie Perkins",20250801,"LD").
+shift_data("33231","Katie Perkins",20250802,"SE").
+shift_data("33231","Katie Perkins",20250803,"SN").
+shift_data("33231","Katie Perkins",20250804,"WR").
+shift_data("33231","Katie Perkins",20250805,"LD").
+shift_data("33231","Katie Perkins",20250806,"SE").
+shift_data("33231","Katie Perkins",20250807,"SN").
+shift_data("33231","Katie Perkins",20250808,"WR").
+shift_data("33231","Katie Perkins",20250809,"WR").
+shift_data("33231","Katie Perkins",20250810,"AL").
+shift_data("33231","Katie Perkins",20250811,"SE").
+shift_data("33231","Katie Perkins",20250812,"SN").
+shift_data("33231","Katie Perkins",20250813,"WR").
+shift_data("33231","Katie Perkins",20250814,"LD").
+shift_data("33231","Katie Perkins",20250815,"SE").
+shift_data("33231","Katie Perkins",20250816,"SN").
+shift_data("33231","Katie Perkins",20250817,"SE").
+shift_data("33231","Katie Perkins",20250818,"SN").
+shift_data("33231","Katie Perkins",20250819,"WR").
+shift_data("33231","Katie Perkins",20250820,"LD").
+shift_data("33231","Katie Perkins",20250821,"WR").
+shift_data("33231","Katie Perkins",20250822,"LD").
+shift_data("33231","Katie Perkins",20250823,"WR").
+shift_data("33231","Katie Perkins",20250824,"WR").
+shift_data("33231","Katie Perkins",20250825,"LD").
+shift_data("33231","Katie Perkins",20250826,"LM").
+shift_data("33231","Katie Perkins",20250827,"SE").
+shift_data("33231","Katie Perkins",20250828,"SN").
+shift_data("33231","Katie Perkins",20250829,"HL").
+shift_data("33231","Katie Perkins",20250830,"WR").
+shift_data("33231","Katie Perkins",20250831,"D").
+shift_data("33231","Katie Perkins",20250901,"LD").
+shift_data("33231","Katie Perkins",20250902,"SE").
+shift_data("33231","Katie Perkins",20250903,"SN").
+shift_data("33231","Katie Perkins",20250904,"WR").
+shift_data("33231","Katie Perkins",20250905,"D").
+shift_data("33231","Katie Perkins",20250906,"LD").
+shift_data("33231","Katie Perkins",20250907,"SE").
+shift_data("33231","Katie Perkins",20250908,"SN").
+shift_data("33231","Katie Perkins",20250909,"WR").
+shift_data("33231","Katie Perkins",20250910,"SE").
+shift_data("33231","Katie Perkins",20250911,"SN").
+shift_data("33231","Katie Perkins",20250912,"HL").
+shift_data("33231","Katie Perkins",20250913,"WR").
+shift_data("33231","Katie Perkins",20250914,"WR").
+shift_data("33231","Katie Perkins",20250915,"LD").
+shift_data("33231","Katie Perkins",20250916,"SE").
+shift_data("33231","Katie Perkins",20250917,"SN").
+shift_data("33231","Katie Perkins",20250918,"WR").
+shift_data("33231","Katie Perkins",20250919,"D").
+shift_data("33231","Katie Perkins",20250920,"D").
+shift_data("33231","Katie Perkins",20250921,"LD").
+shift_data("33231","Katie Perkins",20250922,"AL").
+shift_data("33231","Katie Perkins",20250923,"PH").
+shift_data("33231","Katie Perkins",20250924,"LD").
+shift_data("33231","Katie Perkins",20250925,"SE").
+shift_data("33231","Katie Perkins",20250926,"SN").
+shift_data("33231","Katie Perkins",20250927,"WR").
+shift_data("33231","Katie Perkins",20250928,"WR").
+shift_data("33231","Katie Perkins",20250929,"SE").
+shift_data("33231","Katie Perkins",20250930,"SN").
+shift_data("33231","Katie Perkins",20251001,"WR").
+shift_data("33231","Katie Perkins",20251002,"WR").
+shift_data("33231","Katie Perkins",20251003,"LD").
+shift_data("33231","Katie Perkins",20251004,"SE").
+shift_data("33231","Katie Perkins",20251005,"SN").
+shift_data("33231","Katie Perkins",20251006,"HL").
+shift_data("33231","Katie Perkins",20251007,"WR").
+shift_data("33231","Katie Perkins",20251008,"LD").
+shift_data("33231","Katie Perkins",20251009,"WR").
+shift_data("33231","Katie Perkins",20251010,"SE").
+shift_data("33231","Katie Perkins",20251011,"SN").
+shift_data("33231","Katie Perkins",20251012,"SE").
+shift_data("33231","Katie Perkins",20251013,"SN").
+shift_data("33231","Katie Perkins",20251014,"AL").
+shift_data("33231","Katie Perkins",20251015,"WR").
+shift_data("33231","Katie Perkins",20251016,"LD").
+shift_data("33231","Katie Perkins",20251017,"SE").
+shift_data("33231","Katie Perkins",20251018,"SN").
+shift_data("33231","Katie Perkins",20251019,"SE").
+shift_data("33231","Katie Perkins",20251020,"SN").
+shift_data("33231","Katie Perkins",20251021,"WR").
+shift_data("33231","Katie Perkins",20251022,"LD").
+shift_data("33231","Katie Perkins",20251023,"WR").
+shift_data("33231","Katie Perkins",20251024,"LD").
+shift_data("33231","Katie Perkins",20251025,"WR").
+shift_data("33231","Katie Perkins",20251026,"HL").
+shift_data("33231","Katie Perkins",20251027,"WR").
+shift_data("33231","Katie Perkins",20251028,"D").
+shift_data("33231","Katie Perkins",20251029,"LD").
+shift_data("33231","Katie Perkins",20251030,"SE").
+shift_data("33231","Katie Perkins",20251031,"SN").
+shift_data("33231","Katie Perkins",20251101,"WR").
+shift_data("33231","Katie Perkins",20251102,"SE").
+shift_data("33231","Katie Perkins",20251103,"SN").
+shift_data("33231","Katie Perkins",20251104,"WR").
+shift_data("33231","Katie Perkins",20251105,"AL").
+shift_data("33231","Katie Perkins",20251106,"D").
+shift_data("33231","Katie Perkins",20251107,"LD").
+shift_data("33231","Katie Perkins",20251108,"WR").
+shift_data("33231","Katie Perkins",20251109,"WR").
+shift_data("33231","Katie Perkins",20251110,"D").
+shift_data("33231","Katie Perkins",20251111,"LD").
+shift_data("33231","Katie Perkins",20251112,"SE").
+shift_data("33231","Katie Perkins",20251113,"SN").
+shift_data("33231","Katie Perkins",20251114,"AL").
+shift_data("33231","Katie Perkins",20251115,"WR").
+shift_data("33231","Katie Perkins",20251116,"D").
+shift_data("33231","Katie Perkins",20251117,"LD").
+shift_data("33231","Katie Perkins",20251118,"SE").
+shift_data("33231","Katie Perkins",20251119,"SN").
+shift_data("33231","Katie Perkins",20251120,"WR").
+shift_data("33231","Katie Perkins",20251121,"WR").
+shift_data("33231","Katie Perkins",20251122,"WR").
+shift_data("33231","Katie Perkins",20251123,"D").
+shift_data("33231","Katie Perkins",20251124,"LD").
+shift_data("33231","Katie Perkins",20251125,"SE").
+shift_data("33231","Katie Perkins",20251126,"SN").
+shift_data("33231","Katie Perkins",20251127,"WR").
+shift_data("33231","Katie Perkins",20251128,"WR").
+shift_data("33231","Katie Perkins",20251129,"LD").
+shift_data("33231","Katie Perkins",20251130,"SE").
+shift_data("33231","Katie Perkins",20251201,"SN").
+shift_data("33231","Katie Perkins",20251202,"WR").
+shift_data("33231","Katie Perkins",20251203,"D").
+shift_data("33231","Katie Perkins",20251204,"LD").
+shift_data("33231","Katie Perkins",20251205,"SE").
+shift_data("33231","Katie Perkins",20251206,"SN").
+shift_data("33231","Katie Perkins",20251207,"WR").
+shift_data("33231","Katie Perkins",20251208,"LD").
+shift_data("33231","Katie Perkins",20251209,"SE").
+shift_data("33231","Katie Perkins",20251210,"SN").
+shift_data("33231","Katie Perkins",20251211,"WR").
+shift_data("33231","Katie Perkins",20251212,"LD").
+shift_data("33231","Katie Perkins",20251213,"SE").
+shift_data("33231","Katie Perkins",20251214,"SN").
+shift_data("33231","Katie Perkins",20251215,"WR").
+shift_data("33231","Katie Perkins",20251216,"LD").
+shift_data("33231","Katie Perkins",20251217,"SE").
+shift_data("33231","Katie Perkins",20251218,"SN").
+shift_data("33231","Katie Perkins",20251219,"WR").
+shift_data("33231","Katie Perkins",20251220,"WR").
+shift_data("33231","Katie Perkins",20251221,"WR").
+shift_data("33231","Katie Perkins",20251222,"SE").
+shift_data("33231","Katie Perkins",20251223,"SN").
+shift_data("33231","Katie Perkins",20251224,"WR").
+shift_data("33231","Katie Perkins",20251225,"LD").
+shift_data("33231","Katie Perkins",20251226,"SE").
+shift_data("33231","Katie Perkins",20251227,"SN").
+shift_data("33231","Katie Perkins",20251228,"WR").
+shift_data("33231","Katie Perkins",20251229,"LD").
+shift_data("33231","Katie Perkins",20251230,"SE").
+shift_data("33231","Katie Perkins",20251231,"SN").
+shift_data("42904","Vincent Combs",20250401,"D").
+shift_data("42904","Vincent Combs",20250402,"D").
+shift_data("42904","Vincent Combs",20250403,"LD").
+shift_data("42904","Vincent Combs",20250404,"WR").
+shift_data("42904","Vincent Combs",20250405,"SE").
+shift_data("42904","Vincent Combs",20250406,"SN").
+shift_data("42904","Vincent Combs",20250407,"WR").
+shift_data("42904","Vincent Combs",20250408,"LD").
+shift_data("42904","Vincent Combs",20250409,"SE").
+shift_data("42904","Vincent Combs",20250410,"SN").
+shift_data("42904","Vincent Combs",20250411,"SE").
+shift_data("42904","Vincent Combs",20250412,"SN").
+shift_data("42904","Vincent Combs",20250413,"WR").
+shift_data("42904","Vincent Combs",20250414,"D").
+shift_data("42904","Vincent Combs",20250415,"LD").
+shift_data("42904","Vincent Combs",20250416,"WR").
+shift_data("42904","Vincent Combs",20250417,"WR").
+shift_data("42904","Vincent Combs",20250418,"AL").
+shift_data("42904","Vincent Combs",20250419,"D").
+shift_data("42904","Vincent Combs",20250420,"SE").
+shift_data("42904","Vincent Combs",20250421,"SN").
+shift_data("42904","Vincent Combs",20250422,"WR").
+shift_data("42904","Vincent Combs",20250423,"LD").
+shift_data("42904","Vincent Combs",20250424,"WR").
+shift_data("42904","Vincent Combs",20250425,"LD").
+shift_data("42904","Vincent Combs",20250426,"SE").
+shift_data("42904","Vincent Combs",20250427,"SN").
+shift_data("42904","Vincent Combs",20250428,"WR").
+shift_data("42904","Vincent Combs",20250429,"PH").
+shift_data("42904","Vincent Combs",20250430,"SE").
+shift_data("42904","Vincent Combs",20250501,"SN").
+shift_data("42904","Vincent Combs",20250502,"WR").
+shift_data("42904","Vincent Combs",20250503,"LD").
+shift_data("42904","Vincent Combs",20250504,"SE").
+shift_data("42904","Vincent Combs",20250505,"SN").
+shift_data("42904","Vincent Combs",20250506,"PH").
+shift_data("42904","Vincent Combs",20250507,"D").
+shift_data("42904","Vincent Combs",20250508,"LD").
+shift_data("42904","Vincent Combs",20250509,"WR").
+shift_data("42904","Vincent Combs",20250510,"LD").
+shift_data("42904","Vincent Combs",20250511,"SE").
+shift_data("42904","Vincent Combs",20250512,"SN").
+shift_data("42904","Vincent Combs",20250513,"SE").
+shift_data("42904","Vincent Combs",20250514,"SN").
+shift_data("42904","Vincent Combs",20250515,"WR").
+shift_data("42904","Vincent Combs",20250516,"SE").
+shift_data("42904","Vincent Combs",20250517,"SN").
+shift_data("42904","Vincent Combs",20250518,"WR").
+shift_data("42904","Vincent Combs",20250519,"LD").
+shift_data("42904","Vincent Combs",20250520,"LM").
+shift_data("42904","Vincent Combs",20250521,"WR").
+shift_data("42904","Vincent Combs",20250522,"WR").
+shift_data("42904","Vincent Combs",20250523,"LD").
+shift_data("42904","Vincent Combs",20250524,"WR").
+shift_data("42904","Vincent Combs",20250525,"LD").
+shift_data("42904","Vincent Combs",20250526,"SE").
+shift_data("42904","Vincent Combs",20250527,"SN").
+shift_data("42904","Vincent Combs",20250528,"WR").
+shift_data("42904","Vincent Combs",20250529,"LD").
+shift_data("42904","Vincent Combs",20250530,"SE").
+shift_data("42904","Vincent Combs",20250531,"SN").
+shift_data("42904","Vincent Combs",20250601,"WR").
+shift_data("42904","Vincent Combs",20250602,"WR").
+shift_data("42904","Vincent Combs",20250603,"WR").
+shift_data("42904","Vincent Combs",20250604,"LD").
+shift_data("42904","Vincent Combs",20250605,"SE").
+shift_data("42904","Vincent Combs",20250606,"SN").
+shift_data("42904","Vincent Combs",20250607,"SE").
+shift_data("42904","Vincent Combs",20250608,"SN").
+shift_data("42904","Vincent Combs",20250609,"WR").
+shift_data("42904","Vincent Combs",20250610,"SL").
+shift_data("42904","Vincent Combs",20250611,"SL").
+shift_data("42904","Vincent Combs",20250612,"SL").
+shift_data("42904","Vincent Combs",20250613,"WR").
+shift_data("42904","Vincent Combs",20250614,"D").
+shift_data("42904","Vincent Combs",20250615,"LD").
+shift_data("42904","Vincent Combs",20250616,"SE").
+shift_data("42904","Vincent Combs",20250617,"SN").
+shift_data("42904","Vincent Combs",20250618,"WR").
+shift_data("42904","Vincent Combs",20250619,"LD").
+shift_data("42904","Vincent Combs",20250620,"WR").
+shift_data("42904","Vincent Combs",20250621,"D").
+shift_data("42904","Vincent Combs",20250622,"LD").
+shift_data("42904","Vincent Combs",20250623,"SE").
+shift_data("42904","Vincent Combs",20250624,"SN").
+shift_data("42904","Vincent Combs",20250625,"WR").
+shift_data("42904","Vincent Combs",20250626,"D").
+shift_data("42904","Vincent Combs",20250627,"LD").
+shift_data("42904","Vincent Combs",20250628,"SE").
+shift_data("42904","Vincent Combs",20250629,"SN").
+shift_data("42904","Vincent Combs",20250630,"WR").
+shift_data("42904","Vincent Combs",20250701,"LD").
+shift_data("42904","Vincent Combs",20250702,"WR").
+shift_data("42904","Vincent Combs",20250703,"LD").
+shift_data("42904","Vincent Combs",20250704,"WR").
+shift_data("42904","Vincent Combs",20250705,"WR").
+shift_data("42904","Vincent Combs",20250706,"SE").
+shift_data("42904","Vincent Combs",20250707,"SN").
+shift_data("42904","Vincent Combs",20250708,"WR").
+shift_data("42904","Vincent Combs",20250709,"LD").
+shift_data("42904","Vincent Combs",20250710,"SE").
+shift_data("42904","Vincent Combs",20250711,"SN").
+shift_data("42904","Vincent Combs",20250712,"SE").
+shift_data("42904","Vincent Combs",20250713,"SN").
+shift_data("42904","Vincent Combs",20250714,"WR").
+shift_data("42904","Vincent Combs",20250715,"D").
+shift_data("42904","Vincent Combs",20250716,"LD").
+shift_data("42904","Vincent Combs",20250717,"SE").
+shift_data("42904","Vincent Combs",20250718,"SN").
+shift_data("42904","Vincent Combs",20250719,"WR").
+shift_data("42904","Vincent Combs",20250720,"D").
+shift_data("42904","Vincent Combs",20250721,"LD").
+shift_data("42904","Vincent Combs",20250722,"SE").
+shift_data("42904","Vincent Combs",20250723,"SN").
+shift_data("42904","Vincent Combs",20250724,"WR").
+shift_data("42904","Vincent Combs",20250725,"LD").
+shift_data("42904","Vincent Combs",20250726,"WR").
+shift_data("42904","Vincent Combs",20250727,"LD").
+shift_data("42904","Vincent Combs",20250728,"SE").
+shift_data("42904","Vincent Combs",20250729,"SN").
+shift_data("42904","Vincent Combs",20250730,"WR").
+shift_data("42904","Vincent Combs",20250731,"WR").
+shift_data("42904","Vincent Combs",20250801,"LD").
+shift_data("42904","Vincent Combs",20250802,"SE").
+shift_data("42904","Vincent Combs",20250803,"SN").
+shift_data("42904","Vincent Combs",20250804,"WR").
+shift_data("42904","Vincent Combs",20250805,"WR").
+shift_data("42904","Vincent Combs",20250806,"LD").
+shift_data("42904","Vincent Combs",20250807,"WR").
+shift_data("42904","Vincent Combs",20250808,"LD").
+shift_data("42904","Vincent Combs",20250809,"SE").
+shift_data("42904","Vincent Combs",20250810,"SN").
+shift_data("42904","Vincent Combs",20250811,"SE").
+shift_data("42904","Vincent Combs",20250812,"SN").
+shift_data("42904","Vincent Combs",20250813,"WR").
+shift_data("42904","Vincent Combs",20250814,"LM").
+shift_data("42904","Vincent Combs",20250815,"SE").
+shift_data("42904","Vincent Combs",20250816,"SN").
+shift_data("42904","Vincent Combs",20250817,"WR").
+shift_data("42904","Vincent Combs",20250818,"LD").
+shift_data("42904","Vincent Combs",20250819,"LM").
+shift_data("42904","Vincent Combs",20250820,"SE").
+shift_data("42904","Vincent Combs",20250821,"SN").
+shift_data("42904","Vincent Combs",20250822,"WR").
+shift_data("42904","Vincent Combs",20250823,"LD").
+shift_data("42904","Vincent Combs",20250824,"SE").
+shift_data("42904","Vincent Combs",20250825,"SN").
+shift_data("42904","Vincent Combs",20250826,"WR").
+shift_data("42904","Vincent Combs",20250827,"SE").
+shift_data("42904","Vincent Combs",20250828,"SN").
+shift_data("42904","Vincent Combs",20250829,"AL").
+shift_data("42904","Vincent Combs",20250830,"WR").
+shift_data("42904","Vincent Combs",20250831,"WR").
+shift_data("42904","Vincent Combs",20250901,"HL").
+shift_data("42904","Vincent Combs",20250902,"WR").
+shift_data("42904","Vincent Combs",20250903,"LD").
+shift_data("42904","Vincent Combs",20250904,"SE").
+shift_data("42904","Vincent Combs",20250905,"SN").
+shift_data("42904","Vincent Combs",20250906,"WR").
+shift_data("42904","Vincent Combs",20250907,"D").
+shift_data("42904","Vincent Combs",20250908,"LD").
+shift_data("42904","Vincent Combs",20250909,"SE").
+shift_data("42904","Vincent Combs",20250910,"SN").
+shift_data("42904","Vincent Combs",20250911,"WR").
+shift_data("42904","Vincent Combs",20250912,"D").
+shift_data("42904","Vincent Combs",20250913,"LD").
+shift_data("42904","Vincent Combs",20250914,"SE").
+shift_data("42904","Vincent Combs",20250915,"SN").
+shift_data("42904","Vincent Combs",20250916,"WR").
+shift_data("42904","Vincent Combs",20250917,"D").
+shift_data("42904","Vincent Combs",20250918,"LD").
+shift_data("42904","Vincent Combs",20250919,"SE").
+shift_data("42904","Vincent Combs",20250920,"SN").
+shift_data("42904","Vincent Combs",20250921,"WR").
+shift_data("42904","Vincent Combs",20250922,"WR").
+shift_data("42904","Vincent Combs",20250923,"LD").
+shift_data("42904","Vincent Combs",20250924,"SE").
+shift_data("42904","Vincent Combs",20250925,"SN").
+shift_data("42904","Vincent Combs",20250926,"WR").
+shift_data("42904","Vincent Combs",20250927,"WR").
+shift_data("42904","Vincent Combs",20250928,"LD").
+shift_data("42904","Vincent Combs",20250929,"SE").
+shift_data("42904","Vincent Combs",20250930,"SN").
+shift_data("42904","Vincent Combs",20251001,"WR").
+shift_data("42904","Vincent Combs",20251002,"D").
+shift_data("42904","Vincent Combs",20251003,"LD").
+shift_data("42904","Vincent Combs",20251004,"WR").
+shift_data("42904","Vincent Combs",20251005,"LD").
+shift_data("42904","Vincent Combs",20251006,"SE").
+shift_data("42904","Vincent Combs",20251007,"SN").
+shift_data("42904","Vincent Combs",20251008,"WR").
+shift_data("42904","Vincent Combs",20251009,"AL").
+shift_data("42904","Vincent Combs",20251010,"LD").
+shift_data("42904","Vincent Combs",20251011,"SE").
+shift_data("42904","Vincent Combs",20251012,"SN").
+shift_data("42904","Vincent Combs",20251013,"PH").
+shift_data("42904","Vincent Combs",20251014,"LD").
+shift_data("42904","Vincent Combs",20251015,"SE").
+shift_data("42904","Vincent Combs",20251016,"SN").
+shift_data("42904","Vincent Combs",20251017,"WR").
+shift_data("42904","Vincent Combs",20251018,"D").
+shift_data("42904","Vincent Combs",20251019,"WR").
+shift_data("42904","Vincent Combs",20251020,"LD").
+shift_data("42904","Vincent Combs",20251021,"SE").
+shift_data("42904","Vincent Combs",20251022,"SN").
+shift_data("42904","Vincent Combs",20251023,"WR").
+shift_data("42904","Vincent Combs",20251024,"SE").
+shift_data("42904","Vincent Combs",20251025,"SN").
+shift_data("42904","Vincent Combs",20251026,"WR").
+shift_data("42904","Vincent Combs",20251027,"LD").
+shift_data("42904","Vincent Combs",20251028,"SE").
+shift_data("42904","Vincent Combs",20251029,"SN").
+shift_data("42904","Vincent Combs",20251030,"WR").
+shift_data("42904","Vincent Combs",20251031,"LD").
+shift_data("42904","Vincent Combs",20251101,"WR").
+shift_data("42904","Vincent Combs",20251102,"D").
+shift_data("42904","Vincent Combs",20251103,"PH").
+shift_data("42904","Vincent Combs",20251104,"LD").
+shift_data("42904","Vincent Combs",20251105,"SE").
+shift_data("42904","Vincent Combs",20251106,"SN").
+shift_data("42904","Vincent Combs",20251107,"WR").
+shift_data("42904","Vincent Combs",20251108,"WR").
+shift_data("42904","Vincent Combs",20251109,"LD").
+shift_data("42904","Vincent Combs",20251110,"SE").
+shift_data("42904","Vincent Combs",20251111,"SN").
+shift_data("42904","Vincent Combs",20251112,"WR").
+shift_data("42904","Vincent Combs",20251113,"AL").
+shift_data("42904","Vincent Combs",20251114,"D").
+shift_data("42904","Vincent Combs",20251115,"WR").
+shift_data("42904","Vincent Combs",20251116,"LD").
+shift_data("42904","Vincent Combs",20251117,"SE").
+shift_data("42904","Vincent Combs",20251118,"SN").
+shift_data("42904","Vincent Combs",20251119,"WR").
+shift_data("42904","Vincent Combs",20251120,"LD").
+shift_data("42904","Vincent Combs",20251121,"SE").
+shift_data("42904","Vincent Combs",20251122,"SN").
+shift_data("42904","Vincent Combs",20251123,"WR").
+shift_data("42904","Vincent Combs",20251124,"LD").
+shift_data("42904","Vincent Combs",20251125,"SE").
+shift_data("42904","Vincent Combs",20251126,"SN").
+shift_data("42904","Vincent Combs",20251127,"WR").
+shift_data("42904","Vincent Combs",20251128,"WR").
+shift_data("42904","Vincent Combs",20251129,"LD").
+shift_data("42904","Vincent Combs",20251130,"SE").
+shift_data("42904","Vincent Combs",20251201,"SN").
+shift_data("42904","Vincent Combs",20251202,"WR").
+shift_data("42904","Vincent Combs",20251203,"LD").
+shift_data("42904","Vincent Combs",20251204,"SE").
+shift_data("42904","Vincent Combs",20251205,"SN").
+shift_data("42904","Vincent Combs",20251206,"WR").
+shift_data("42904","Vincent Combs",20251207,"SE").
+shift_data("42904","Vincent Combs",20251208,"SN").
+shift_data("42904","Vincent Combs",20251209,"WR").
+shift_data("42904","Vincent Combs",20251210,"LD").
+shift_data("42904","Vincent Combs",20251211,"SE").
+shift_data("42904","Vincent Combs",20251212,"SN").
+shift_data("42904","Vincent Combs",20251213,"WR").
+shift_data("42904","Vincent Combs",20251214,"WR").
+shift_data("42904","Vincent Combs",20251215,"WR").
+shift_data("42904","Vincent Combs",20251216,"LD").
+shift_data("42904","Vincent Combs",20251217,"SE").
+shift_data("42904","Vincent Combs",20251218,"SN").
+shift_data("42904","Vincent Combs",20251219,"WR").
+shift_data("42904","Vincent Combs",20251220,"WR").
+shift_data("42904","Vincent Combs",20251221,"WR").
+shift_data("42904","Vincent Combs",20251222,"LD").
+shift_data("42904","Vincent Combs",20251223,"SE").
+shift_data("42904","Vincent Combs",20251224,"SN").
+shift_data("42904","Vincent Combs",20251225,"WR").
+shift_data("42904","Vincent Combs",20251226,"LD").
+shift_data("42904","Vincent Combs",20251227,"SE").
+shift_data("42904","Vincent Combs",20251228,"SN").
+shift_data("42904","Vincent Combs",20251229,"PH").
+shift_data("42904","Vincent Combs",20251230,"PH").
+shift_data("42904","Vincent Combs",20251231,"PH").
+shift_data("395817","nan",20250401,"D").
+shift_data("395817","nan",20250402,"D").
+shift_data("395817","nan",20250403,"D").
+shift_data("395817","nan",20250404,"D").
+shift_data("395817","nan",20250405,"WR").
+shift_data("395817","nan",20250406,"WR").
+shift_data("395817","nan",20250407,"D").
+shift_data("395817","nan",20250408,"D").
+shift_data("395817","nan",20250409,"D").
+shift_data("395817","nan",20250410,"D").
+shift_data("395817","nan",20250411,"D").
+shift_data("395817","nan",20250412,"WR").
+shift_data("395817","nan",20250413,"WR").
+shift_data("395817","nan",20250414,"D").
+shift_data("395817","nan",20250415,"D").
+shift_data("395817","nan",20250416,"D").
+shift_data("395817","nan",20250417,"D").
+shift_data("395817","nan",20250418,"D").
+shift_data("395817","nan",20250419,"WR").
+shift_data("395817","nan",20250420,"WR").
+shift_data("395817","nan",20250421,"D").
+shift_data("395817","nan",20250422,"D").
+shift_data("395817","nan",20250423,"D").
+shift_data("395817","nan",20250424,"D").
+shift_data("395817","nan",20250425,"D").
+shift_data("395817","nan",20250426,"WR").
+shift_data("395817","nan",20250427,"WR").
+shift_data("395817","nan",20250428,"D").
+shift_data("395817","nan",20250429,"PH").
+shift_data("395817","nan",20250430,"D").
+shift_data("395817","nan",20250501,"D").
+shift_data("395817","nan",20250502,"D").
+shift_data("395817","nan",20250503,"D").
+shift_data("395817","nan",20250504,"WR").
+shift_data("395817","nan",20250505,"PH").
+shift_data("395817","nan",20250506,"PH").
+shift_data("395817","nan",20250507,"WR").
+shift_data("395817","nan",20250508,"D").
+shift_data("395817","nan",20250509,"D").
+shift_data("395817","nan",20250510,"LD").
+shift_data("395817","nan",20250511,"SE").
+shift_data("395817","nan",20250512,"SN").
+shift_data("395817","nan",20250513,"WR").
+shift_data("395817","nan",20250514,"WR").
+shift_data("395817","nan",20250515,"D").
+shift_data("395817","nan",20250516,"D").
+shift_data("395817","nan",20250517,"WR").
+shift_data("395817","nan",20250518,"WR").
+shift_data("395817","nan",20250519,"D").
+shift_data("395817","nan",20250520,"D").
+shift_data("395817","nan",20250521,"SL").
+shift_data("395817","nan",20250522,"D").
+shift_data("395817","nan",20250523,"D").
+shift_data("395817","nan",20250524,"WR").
+shift_data("395817","nan",20250525,"WR").
+shift_data("395817","nan",20250526,"D").
+shift_data("395817","nan",20250527,"D").
+shift_data("395817","nan",20250528,"D").
+shift_data("395817","nan",20250529,"WR").
+shift_data("395817","nan",20250530,"D").
+shift_data("395817","nan",20250531,"LD").
+shift_data("395817","nan",20250601,"SE").
+shift_data("395817","nan",20250602,"SN").
+shift_data("395817","nan",20250603,"WR").
+shift_data("395817","nan",20250604,"D").
+shift_data("395817","nan",20250605,"D").
+shift_data("395817","nan",20250606,"D").
+shift_data("395817","nan",20250607,"D").
+shift_data("395817","nan",20250608,"WR").
+shift_data("395817","nan",20250609,"D").
+shift_data("395817","nan",20250610,"D").
+shift_data("395817","nan",20250611,"WR").
+shift_data("395817","nan",20250612,"D").
+shift_data("395817","nan",20250613,"D").
+shift_data("395817","nan",20250614,"LD").
+shift_data("395817","nan",20250615,"SE").
+shift_data("395817","nan",20250616,"SN").
+shift_data("395817","nan",20250617,"WR").
+shift_data("395817","nan",20250618,"D").
+shift_data("395817","nan",20250619,"D").
+shift_data("395817","nan",20250620,"WR").
+shift_data("395817","nan",20250621,"WR").
+shift_data("395817","nan",20250622,"D").
+shift_data("395817","nan",20250623,"WR").
+shift_data("395817","nan",20250624,"D").
+shift_data("395817","nan",20250625,"D").
+shift_data("395817","nan",20250626,"WR").
+shift_data("395817","nan",20250627,"D").
+shift_data("395817","nan",20250628,"SL").
+shift_data("395817","nan",20250629,"SL").
+shift_data("395817","nan",20250630,"SL").
+shift_data("395817","nan",20250701,"WR").
+shift_data("395817","nan",20250702,"D").
+shift_data("395817","nan",20250703,"WR").
+shift_data("395817","nan",20250704,"D").
+shift_data("395817","nan",20250705,"D").
+shift_data("395817","nan",20250706,"D").
+shift_data("395817","nan",20250707,"WR").
+shift_data("395817","nan",20250708,"D").
+shift_data("395817","nan",20250709,"LD").
+shift_data("395817","nan",20250710,"SE").
+shift_data("395817","nan",20250711,"SN").
+shift_data("395817","nan",20250712,"WR").
+shift_data("395817","nan",20250713,"D").
+shift_data("395817","nan",20250714,"D").
+shift_data("395817","nan",20250715,"D").
+shift_data("395817","nan",20250716,"D").
+shift_data("395817","nan",20250717,"WR").
+shift_data("395817","nan",20250718,"D").
+shift_data("395817","nan",20250719,"WR").
+shift_data("395817","nan",20250720,"WR").
+shift_data("395817","nan",20250721,"LD").
+shift_data("395817","nan",20250722,"SE").
+shift_data("395817","nan",20250723,"SN").
+shift_data("395817","nan",20250724,"WR").
+shift_data("395817","nan",20250725,"WR").
+shift_data("395817","nan",20250726,"D").
+shift_data("395817","nan",20250727,"D").
+shift_data("395817","nan",20250728,"WR").
+shift_data("395817","nan",20250729,"D").
+shift_data("395817","nan",20250730,"LD").
+shift_data("395817","nan",20250731,"SE").
+shift_data("395817","nan",20250801,"SN").
+shift_data("395817","nan",20250802,"WR").
+shift_data("395817","nan",20250803,"WR").
+shift_data("395817","nan",20250804,"D").
+shift_data("395817","nan",20250805,"WR").
+shift_data("395817","nan",20250806,"D").
+shift_data("395817","nan",20250807,"LD").
+shift_data("395817","nan",20250808,"SE").
+shift_data("395817","nan",20250809,"SN").
+shift_data("395817","nan",20250810,"WR").
+shift_data("395817","nan",20250811,"PH").
+shift_data("395817","nan",20250812,"D").
+shift_data("395817","nan",20250813,"D").
+shift_data("395817","nan",20250814,"D").
+shift_data("395817","nan",20250815,"D").
+shift_data("395817","nan",20250816,"D").
+shift_data("395817","nan",20250817,"WR").
+shift_data("395817","nan",20250818,"D").
+shift_data("395817","nan",20250819,"LD").
+shift_data("395817","nan",20250820,"WR").
+shift_data("395817","nan",20250821,"D").
+shift_data("395817","nan",20250822,"D").
+shift_data("395817","nan",20250823,"WR").
+shift_data("395817","nan",20250824,"D").
+shift_data("395817","nan",20250825,"LD").
+shift_data("395817","nan",20250826,"SE").
+shift_data("395817","nan",20250827,"SN").
+shift_data("395817","nan",20250828,"WR").
+shift_data("395817","nan",20250829,"D").
+shift_data("395817","nan",20250830,"WR").
+shift_data("395817","nan",20250831,"WR").
+shift_data("395817","nan",20250901,"D").
+shift_data("395817","nan",20250902,"LD").
+shift_data("395817","nan",20250903,"SE").
+shift_data("395817","nan",20250904,"SN").
+shift_data("395817","nan",20250905,"WR").
+shift_data("395817","nan",20250906,"SE").
+shift_data("395817","nan",20250907,"SN").
+shift_data("395817","nan",20250908,"WR").
+shift_data("395817","nan",20250909,"D").
+shift_data("395817","nan",20250910,"D").
+shift_data("395817","nan",20250911,"D").
+shift_data("395817","nan",20250912,"D").
+shift_data("395817","nan",20250913,"AL").
+shift_data("395817","nan",20250914,"SL").
+shift_data("395817","nan",20250915,"SE").
+shift_data("395817","nan",20250916,"SN").
+shift_data("395817","nan",20250917,"WR").
+shift_data("395817","nan",20250918,"LD").
+shift_data("395817","nan",20250919,"WR").
+shift_data("395817","nan",20250920,"WR").
+shift_data("395817","nan",20250921,"D").
+shift_data("395817","nan",20250922,"D").
+shift_data("395817","nan",20250923,"PH").
+shift_data("395817","nan",20250924,"D").
+shift_data("395817","nan",20250925,"LD").
+shift_data("395817","nan",20250926,"WR").
+shift_data("395817","nan",20250927,"D").
+shift_data("395817","nan",20250928,"WR").
+shift_data("395817","nan",20250929,"D").
+shift_data("395817","nan",20250930,"SL").
+shift_data("395817","nan",20251001,"SE").
+shift_data("395817","nan",20251002,"SN").
+shift_data("395817","nan",20251003,"WR").
+shift_data("395817","nan",20251004,"SE").
+shift_data("395817","nan",20251005,"SN").
+shift_data("395817","nan",20251006,"WR").
+shift_data("395817","nan",20251007,"LD").
+shift_data("395817","nan",20251008,"SE").
+shift_data("395817","nan",20251009,"SN").
+shift_data("395817","nan",20251010,"WR").
+shift_data("395817","nan",20251011,"LD").
+shift_data("395817","nan",20251012,"LD").
+shift_data("395817","nan",20251013,"SE").
+shift_data("395817","nan",20251014,"SN").
+shift_data("395817","nan",20251015,"WR").
+shift_data("395817","nan",20251016,"D").
+shift_data("395817","nan",20251017,"SE").
+shift_data("395817","nan",20251018,"SN").
+shift_data("395817","nan",20251019,"WR").
+shift_data("395817","nan",20251020,"D").
+shift_data("395817","nan",20251021,"D").
+shift_data("395817","nan",20251022,"WR").
+shift_data("395817","nan",20251023,"WR").
+shift_data("395817","nan",20251024,"D").
+shift_data("395817","nan",20251025,"D").
+shift_data("395817","nan",20251026,"LD").
+shift_data("395817","nan",20251027,"SE").
+shift_data("395817","nan",20251028,"SN").
+shift_data("395817","nan",20251029,"AL").
+shift_data("395817","nan",20251030,"AL").
+shift_data("395817","nan",20251031,"HL").
+shift_data("395817","nan",20251101,"HL").
+shift_data("395817","nan",20251102,"HL").
+shift_data("395817","nan",20251103,"PH").
+shift_data("395817","nan",20251104,"WR").
+shift_data("395817","nan",20251105,"LD").
+shift_data("395817","nan",20251106,"WR").
+shift_data("395817","nan",20251107,"WR").
+shift_data("395817","nan",20251108,"WR").
+shift_data("395817","nan",20251109,"D").
+shift_data("395817","nan",20251110,"WR").
+shift_data("395817","nan",20251111,"LD").
+shift_data("395817","nan",20251112,"SE").
+shift_data("395817","nan",20251113,"SN").
+shift_data("395817","nan",20251114,"HL").
+shift_data("395817","nan",20251115,"AL").
+shift_data("395817","nan",20251116,"AL").
+shift_data("395817","nan",20251117,"AL").
+shift_data("395817","nan",20251118,"D").
+shift_data("395817","nan",20251119,"LD").
+shift_data("395817","nan",20251120,"WR").
+shift_data("395817","nan",20251121,"LD").
+shift_data("395817","nan",20251122,"SE").
+shift_data("395817","nan",20251123,"SN").
+shift_data("395817","nan",20251124,"PH").
+shift_data("395817","nan",20251125,"SE").
+shift_data("395817","nan",20251126,"SN").
+shift_data("395817","nan",20251127,"WR").
+shift_data("395817","nan",20251128,"WR").
+shift_data("395817","nan",20251129,"WR").
+shift_data("395817","nan",20251130,"SE").
+shift_data("395817","nan",20251201,"SN").
+shift_data("395817","nan",20251202,"WR").
+shift_data("395817","nan",20251203,"WR").
+shift_data("395817","nan",20251204,"WR").
+shift_data("395817","nan",20251205,"D").
+shift_data("395817","nan",20251206,"LD").
+shift_data("395817","nan",20251207,"WR").
+shift_data("395817","nan",20251208,"EM").
+shift_data("395817","nan",20251209,"D").
+shift_data("395817","nan",20251210,"AL").
+shift_data("395817","nan",20251211,"WR").
+shift_data("395817","nan",20251212,"D").
+shift_data("395817","nan",20251213,"WR").
+shift_data("395817","nan",20251214,"D").
+shift_data("395817","nan",20251215,"LD").
+shift_data("395817","nan",20251216,"SE").
+shift_data("395817","nan",20251217,"SN").
+shift_data("395817","nan",20251218,"WR").
+shift_data("395817","nan",20251219,"D").
+shift_data("395817","nan",20251220,"LD").
+shift_data("395817","nan",20251221,"SE").
+shift_data("395817","nan",20251222,"SN").
+shift_data("395817","nan",20251223,"WR").
+shift_data("395817","nan",20251224,"LD").
+shift_data("395817","nan",20251225,"SE").
+shift_data("395817","nan",20251226,"SN").
+shift_data("395817","nan",20251227,"WR").
+shift_data("395817","nan",20251228,"WR").
+shift_data("395817","nan",20251229,"PH").
+shift_data("395817","nan",20251230,"PH").
+shift_data("395817","nan",20251231,"D").
+shift_data("24392","Steven Park",20250401,"D").
+shift_data("24392","Steven Park",20250402,"D").
+shift_data("24392","Steven Park",20250403,"D").
+shift_data("24392","Steven Park",20250404,"LM").
+shift_data("24392","Steven Park",20250405,"WR").
+shift_data("24392","Steven Park",20250406,"D").
+shift_data("24392","Steven Park",20250407,"D").
+shift_data("24392","Steven Park",20250408,"D").
+shift_data("24392","Steven Park",20250409,"WR").
+shift_data("24392","Steven Park",20250410,"D").
+shift_data("24392","Steven Park",20250411,"D").
+shift_data("24392","Steven Park",20250412,"D").
+shift_data("24392","Steven Park",20250413,"D").
+shift_data("24392","Steven Park",20250414,"D").
+shift_data("24392","Steven Park",20250415,"WR").
+shift_data("24392","Steven Park",20250416,"D").
+shift_data("24392","Steven Park",20250417,"D").
+shift_data("24392","Steven Park",20250418,"LM").
+shift_data("24392","Steven Park",20250419,"WR").
+shift_data("24392","Steven Park",20250420,"AL").
+shift_data("24392","Steven Park",20250421,"D").
+shift_data("24392","Steven Park",20250422,"D").
+shift_data("24392","Steven Park",20250423,"WR").
+shift_data("24392","Steven Park",20250424,"WR").
+shift_data("24392","Steven Park",20250425,"LM").
+shift_data("24392","Steven Park",20250426,"WR").
+shift_data("24392","Steven Park",20250427,"D").
+shift_data("24392","Steven Park",20250428,"WR").
+shift_data("24392","Steven Park",20250429,"D").
+shift_data("24392","Steven Park",20250430,"D").
+shift_data("24392","Steven Park",20250501,"WR").
+shift_data("24392","Steven Park",20250502,"D").
+shift_data("24392","Steven Park",20250503,"D").
+shift_data("24392","Steven Park",20250504,"SL").
+shift_data("24392","Steven Park",20250505,"PH").
+shift_data("24392","Steven Park",20250506,"D").
+shift_data("24392","Steven Park",20250507,"D").
+shift_data("24392","Steven Park",20250508,"WR").
+shift_data("24392","Steven Park",20250509,"D").
+shift_data("24392","Steven Park",20250510,"D").
+shift_data("24392","Steven Park",20250511,"D").
+shift_data("24392","Steven Park",20250512,"D").
+shift_data("24392","Steven Park",20250513,"D").
+shift_data("24392","Steven Park",20250514,"WR").
+shift_data("24392","Steven Park",20250515,"LM").
+shift_data("24392","Steven Park",20250516,"WR").
+shift_data("24392","Steven Park",20250517,"WR").
+shift_data("24392","Steven Park",20250518,"WR").
+shift_data("24392","Steven Park",20250519,"D").
+shift_data("24392","Steven Park",20250520,"D").
+shift_data("24392","Steven Park",20250521,"LM").
+shift_data("24392","Steven Park",20250522,"WR").
+shift_data("24392","Steven Park",20250523,"D").
+shift_data("24392","Steven Park",20250524,"D").
+shift_data("24392","Steven Park",20250525,"D").
+shift_data("24392","Steven Park",20250526,"D").
+shift_data("24392","Steven Park",20250527,"WR").
+shift_data("24392","Steven Park",20250528,"WR").
+shift_data("24392","Steven Park",20250529,"D").
+shift_data("24392","Steven Park",20250530,"D").
+shift_data("24392","Steven Park",20250531,"D").
+shift_data("24392","Steven Park",20250601,"WR").
+shift_data("24392","Steven Park",20250602,"D").
+shift_data("24392","Steven Park",20250603,"D").
+shift_data("24392","Steven Park",20250604,"WR").
+shift_data("24392","Steven Park",20250605,"D").
+shift_data("24392","Steven Park",20250606,"D").
+shift_data("24392","Steven Park",20250607,"WR").
+shift_data("24392","Steven Park",20250608,"WR").
+shift_data("24392","Steven Park",20250609,"D").
+shift_data("24392","Steven Park",20250610,"D").
+shift_data("24392","Steven Park",20250611,"D").
+shift_data("24392","Steven Park",20250612,"D").
+shift_data("24392","Steven Park",20250613,"D").
+shift_data("24392","Steven Park",20250614,"WR").
+shift_data("24392","Steven Park",20250615,"D").
+shift_data("24392","Steven Park",20250616,"D").
+shift_data("24392","Steven Park",20250617,"D").
+shift_data("24392","Steven Park",20250618,"WR").
+shift_data("24392","Steven Park",20250619,"HL").
+shift_data("24392","Steven Park",20250620,"HL").
+shift_data("24392","Steven Park",20250621,"HL").
+shift_data("24392","Steven Park",20250622,"WR").
+shift_data("24392","Steven Park",20250623,"D").
+shift_data("24392","Steven Park",20250624,"SL").
+shift_data("24392","Steven Park",20250625,"D").
+shift_data("24392","Steven Park",20250626,"WR").
+shift_data("24392","Steven Park",20250627,"D").
+shift_data("24392","Steven Park",20250628,"D").
+shift_data("24392","Steven Park",20250629,"WR").
+shift_data("24392","Steven Park",20250630,"WR").
+shift_data("24392","Steven Park",20250701,"D").
+shift_data("24392","Steven Park",20250702,"D").
+shift_data("24392","Steven Park",20250703,"D").
+shift_data("24392","Steven Park",20250704,"D").
+shift_data("24392","Steven Park",20250705,"D").
+shift_data("24392","Steven Park",20250706,"WR").
+shift_data("24392","Steven Park",20250707,"D").
+shift_data("24392","Steven Park",20250708,"D").
+shift_data("24392","Steven Park",20250709,"WR").
+shift_data("24392","Steven Park",20250710,"D").
+shift_data("24392","Steven Park",20250711,"D").
+shift_data("24392","Steven Park",20250712,"WR").
+shift_data("24392","Steven Park",20250713,"D").
+shift_data("24392","Steven Park",20250714,"D").
+shift_data("24392","Steven Park",20250715,"D").
+shift_data("24392","Steven Park",20250716,"D").
+shift_data("24392","Steven Park",20250717,"D").
+shift_data("24392","Steven Park",20250718,"WR").
+shift_data("24392","Steven Park",20250719,"D").
+shift_data("24392","Steven Park",20250720,"WR").
+shift_data("24392","Steven Park",20250721,"SE").
+shift_data("24392","Steven Park",20250722,"SN").
+shift_data("24392","Steven Park",20250723,"WR").
+shift_data("24392","Steven Park",20250724,"D").
+shift_data("24392","Steven Park",20250725,"D").
+shift_data("24392","Steven Park",20250726,"WR").
+shift_data("24392","Steven Park",20250727,"D").
+shift_data("24392","Steven Park",20250728,"D").
+shift_data("24392","Steven Park",20250729,"LD").
+shift_data("24392","Steven Park",20250730,"WR").
+shift_data("24392","Steven Park",20250731,"D").
+shift_data("24392","Steven Park",20250801,"WR").
+shift_data("24392","Steven Park",20250802,"D").
+shift_data("24392","Steven Park",20250803,"D").
+shift_data("24392","Steven Park",20250804,"D").
+shift_data("24392","Steven Park",20250805,"D").
+shift_data("24392","Steven Park",20250806,"WR").
+shift_data("24392","Steven Park",20250807,"D").
+shift_data("24392","Steven Park",20250808,"WR").
+shift_data("24392","Steven Park",20250809,"SL").
+shift_data("24392","Steven Park",20250810,"D").
+shift_data("24392","Steven Park",20250811,"PH").
+shift_data("24392","Steven Park",20250812,"D").
+shift_data("24392","Steven Park",20250813,"SL").
+shift_data("24392","Steven Park",20250814,"D").
+shift_data("24392","Steven Park",20250815,"D").
+shift_data("24392","Steven Park",20250816,"WR").
+shift_data("24392","Steven Park",20250817,"D").
+shift_data("24392","Steven Park",20250818,"LM").
+shift_data("24392","Steven Park",20250819,"WR").
+shift_data("24392","Steven Park",20250820,"AL").
+shift_data("24392","Steven Park",20250821,"AL").
+shift_data("24392","Steven Park",20250822,"AL").
+shift_data("24392","Steven Park",20250823,"WR").
+shift_data("24392","Steven Park",20250824,"WR").
+shift_data("24392","Steven Park",20250825,"AL").
+shift_data("24392","Steven Park",20250826,"D").
+shift_data("24392","Steven Park",20250827,"WR").
+shift_data("24392","Steven Park",20250828,"SL").
+shift_data("24392","Steven Park",20250829,"SL").
+shift_data("24392","Steven Park",20250830,"SL").
+shift_data("24392","Steven Park",20250831,"WR").
+shift_data("24392","Steven Park",20250901,"SL").
+shift_data("24392","Steven Park",20250902,"SL").
+shift_data("24392","Steven Park",20250903,"SL").
+shift_data("24392","Steven Park",20250904,"WR").
+shift_data("24392","Steven Park",20250905,"SL").
+shift_data("24392","Steven Park",20250906,"SL").
+shift_data("24392","Steven Park",20250907,"SL").
+shift_data("24392","Steven Park",20250908,"SL").
+shift_data("24392","Steven Park",20250909,"SL").
+shift_data("24392","Steven Park",20250910,"WR").
+shift_data("24392","Steven Park",20250911,"SL").
+shift_data("24392","Steven Park",20250912,"D").
+shift_data("24392","Steven Park",20250913,"WR").
+shift_data("24392","Steven Park",20250914,"WR").
+shift_data("24392","Steven Park",20250915,"PH").
+shift_data("24392","Steven Park",20250916,"SL").
+shift_data("24392","Steven Park",20250917,"SL").
+shift_data("24392","Steven Park",20250918,"SL").
+shift_data("24392","Steven Park",20250919,"SL").
+shift_data("24392","Steven Park",20250920,"WR").
+shift_data("24392","Steven Park",20250921,"WR").
+shift_data("24392","Steven Park",20250922,"SL").
+shift_data("24392","Steven Park",20250923,"PH").
+shift_data("24392","Steven Park",20250924,"SL").
+shift_data("24392","Steven Park",20250925,"SL").
+shift_data("24392","Steven Park",20250926,"SL").
+shift_data("24392","Steven Park",20250927,"WR").
+shift_data("24392","Steven Park",20250928,"SL").
+shift_data("24392","Steven Park",20250929,"WR").
+shift_data("24392","Steven Park",20250930,"SL").
+shift_data("24392","Steven Park",20251001,"D").
+shift_data("24392","Steven Park",20251002,"D").
+shift_data("24392","Steven Park",20251003,"D").
+shift_data("24392","Steven Park",20251004,"D").
+shift_data("24392","Steven Park",20251005,"WR").
+shift_data("24392","Steven Park",20251006,"D").
+shift_data("24392","Steven Park",20251007,"D").
+shift_data("24392","Steven Park",20251008,"D").
+shift_data("24392","Steven Park",20251009,"D").
+shift_data("24392","Steven Park",20251010,"AL").
+shift_data("24392","Steven Park",20251011,"WR").
+shift_data("24392","Steven Park",20251012,"WR").
+shift_data("24392","Steven Park",20251013,"PH").
+shift_data("24392","Steven Park",20251014,"D").
+shift_data("24392","Steven Park",20251015,"D").
+shift_data("24392","Steven Park",20251016,"D").
+shift_data("24392","Steven Park",20251017,"D").
+shift_data("24392","Steven Park",20251018,"WR").
+shift_data("24392","Steven Park",20251019,"WR").
+shift_data("24392","Steven Park",20251020,"D").
+shift_data("24392","Steven Park",20251021,"D").
+shift_data("24392","Steven Park",20251022,"D").
+shift_data("24392","Steven Park",20251023,"D").
+shift_data("24392","Steven Park",20251024,"D").
+shift_data("24392","Steven Park",20251025,"WR").
+shift_data("24392","Steven Park",20251026,"WR").
+shift_data("24392","Steven Park",20251027,"D").
+shift_data("24392","Steven Park",20251028,"D").
+shift_data("24392","Steven Park",20251029,"D").
+shift_data("24392","Steven Park",20251030,"D").
+shift_data("24392","Steven Park",20251031,"D").
+shift_data("24392","Steven Park",20251101,"WR").
+shift_data("24392","Steven Park",20251102,"WR").
+shift_data("24392","Steven Park",20251103,"PH").
+shift_data("24392","Steven Park",20251104,"D").
+shift_data("24392","Steven Park",20251105,"D").
+shift_data("24392","Steven Park",20251106,"D").
+shift_data("24392","Steven Park",20251107,"D").
+shift_data("24392","Steven Park",20251108,"WR").
+shift_data("24392","Steven Park",20251109,"WR").
+shift_data("24392","Steven Park",20251110,"D").
+shift_data("24392","Steven Park",20251111,"D").
+shift_data("24392","Steven Park",20251112,"D").
+shift_data("24392","Steven Park",20251113,"D").
+shift_data("24392","Steven Park",20251114,"D").
+shift_data("24392","Steven Park",20251115,"WR").
+shift_data("24392","Steven Park",20251116,"WR").
+shift_data("24392","Steven Park",20251117,"D").
+shift_data("24392","Steven Park",20251118,"D").
+shift_data("24392","Steven Park",20251119,"D").
+shift_data("24392","Steven Park",20251120,"D").
+shift_data("24392","Steven Park",20251121,"D").
+shift_data("24392","Steven Park",20251122,"WR").
+shift_data("24392","Steven Park",20251123,"WR").
+shift_data("24392","Steven Park",20251124,"PH").
+shift_data("24392","Steven Park",20251125,"SL").
+shift_data("24392","Steven Park",20251126,"D").
+shift_data("24392","Steven Park",20251127,"WR").
+shift_data("24392","Steven Park",20251128,"D").
+shift_data("24392","Steven Park",20251129,"SL").
+shift_data("24392","Steven Park",20251130,"D").
+shift_data("24392","Steven Park",20251201,"D").
+shift_data("24392","Steven Park",20251202,"WR").
+shift_data("24392","Steven Park",20251203,"D").
+shift_data("24392","Steven Park",20251204,"D").
+shift_data("24392","Steven Park",20251205,"AL").
+shift_data("24392","Steven Park",20251206,"WR").
+shift_data("24392","Steven Park",20251207,"WR").
+shift_data("24392","Steven Park",20251208,"D").
+shift_data("24392","Steven Park",20251209,"WR").
+shift_data("24392","Steven Park",20251210,"D").
+shift_data("24392","Steven Park",20251211,"D").
+shift_data("24392","Steven Park",20251212,"D").
+shift_data("24392","Steven Park",20251213,"D").
+shift_data("24392","Steven Park",20251214,"D").
+shift_data("24392","Steven Park",20251215,"WR").
+shift_data("24392","Steven Park",20251216,"WR").
+shift_data("24392","Steven Park",20251217,"D").
+shift_data("24392","Steven Park",20251218,"D").
+shift_data("24392","Steven Park",20251219,"D").
+shift_data("24392","Steven Park",20251220,"WR").
+shift_data("24392","Steven Park",20251221,"WR").
+shift_data("24392","Steven Park",20251222,"D").
+shift_data("24392","Steven Park",20251223,"D").
+shift_data("24392","Steven Park",20251224,"WR").
+shift_data("24392","Steven Park",20251225,"D").
+shift_data("24392","Steven Park",20251226,"D").
+shift_data("24392","Steven Park",20251227,"WR").
+shift_data("24392","Steven Park",20251228,"D").
+shift_data("24392","Steven Park",20251229,"PH").
+shift_data("24392","Steven Park",20251230,"PH").
+shift_data("24392","Steven Park",20251231,"PH").
+shift_data("58103","Erica Lopez",20250401,"SE").
+shift_data("58103","Erica Lopez",20250402,"SN").
+shift_data("58103","Erica Lopez",20250403,"WR").
+shift_data("58103","Erica Lopez",20250404,"D").
+shift_data("58103","Erica Lopez",20250405,"D").
+shift_data("58103","Erica Lopez",20250406,"WR").
+shift_data("58103","Erica Lopez",20250407,"LD").
+shift_data("58103","Erica Lopez",20250408,"WR").
+shift_data("58103","Erica Lopez",20250409,"D").
+shift_data("58103","Erica Lopez",20250410,"LD").
+shift_data("58103","Erica Lopez",20250411,"SE").
+shift_data("58103","Erica Lopez",20250412,"SN").
+shift_data("58103","Erica Lopez",20250413,"WR").
+shift_data("58103","Erica Lopez",20250414,"LD").
+shift_data("58103","Erica Lopez",20250415,"SE").
+shift_data("58103","Erica Lopez",20250416,"SN").
+shift_data("58103","Erica Lopez",20250417,"WR").
+shift_data("58103","Erica Lopez",20250418,"AL").
+shift_data("58103","Erica Lopez",20250419,"LD").
+shift_data("58103","Erica Lopez",20250420,"WR").
+shift_data("58103","Erica Lopez",20250421,"SE").
+shift_data("58103","Erica Lopez",20250422,"SN").
+shift_data("58103","Erica Lopez",20250423,"SE").
+shift_data("58103","Erica Lopez",20250424,"SN").
+shift_data("58103","Erica Lopez",20250425,"WR").
+shift_data("58103","Erica Lopez",20250426,"D").
+shift_data("58103","Erica Lopez",20250427,"SE").
+shift_data("58103","Erica Lopez",20250428,"SN").
+shift_data("58103","Erica Lopez",20250429,"PH").
+shift_data("58103","Erica Lopez",20250430,"SE").
+shift_data("58103","Erica Lopez",20250501,"SN").
+shift_data("58103","Erica Lopez",20250502,"WR").
+shift_data("58103","Erica Lopez",20250503,"LD").
+shift_data("58103","Erica Lopez",20250504,"WR").
+shift_data("58103","Erica Lopez",20250505,"D").
+shift_data("58103","Erica Lopez",20250506,"PH").
+shift_data("58103","Erica Lopez",20250507,"LD").
+shift_data("58103","Erica Lopez",20250508,"WR").
+shift_data("58103","Erica Lopez",20250509,"LD").
+shift_data("58103","Erica Lopez",20250510,"SE").
+shift_data("58103","Erica Lopez",20250511,"SN").
+shift_data("58103","Erica Lopez",20250512,"WR").
+shift_data("58103","Erica Lopez",20250513,"WR").
+shift_data("58103","Erica Lopez",20250514,"LD").
+shift_data("58103","Erica Lopez",20250515,"WR").
+shift_data("58103","Erica Lopez",20250516,"LD").
+shift_data("58103","Erica Lopez",20250517,"SE").
+shift_data("58103","Erica Lopez",20250518,"SN").
+shift_data("58103","Erica Lopez",20250519,"WR").
+shift_data("58103","Erica Lopez",20250520,"WR").
+shift_data("58103","Erica Lopez",20250521,"LD").
+shift_data("58103","Erica Lopez",20250522,"SE").
+shift_data("58103","Erica Lopez",20250523,"SN").
+shift_data("58103","Erica Lopez",20250524,"SE").
+shift_data("58103","Erica Lopez",20250525,"SN").
+shift_data("58103","Erica Lopez",20250526,"WR").
+shift_data("58103","Erica Lopez",20250527,"LD").
+shift_data("58103","Erica Lopez",20250528,"SE").
+shift_data("58103","Erica Lopez",20250529,"SN").
+shift_data("58103","Erica Lopez",20250530,"WR").
+shift_data("58103","Erica Lopez",20250531,"D").
+shift_data("58103","Erica Lopez",20250601,"LD").
+shift_data("58103","Erica Lopez",20250602,"SE").
+shift_data("58103","Erica Lopez",20250603,"SN").
+shift_data("58103","Erica Lopez",20250604,"WR").
+shift_data("58103","Erica Lopez",20250605,"LD").
+shift_data("58103","Erica Lopez",20250606,"WR").
+shift_data("58103","Erica Lopez",20250607,"D").
+shift_data("58103","Erica Lopez",20250608,"LD").
+shift_data("58103","Erica Lopez",20250609,"SE").
+shift_data("58103","Erica Lopez",20250610,"SN").
+shift_data("58103","Erica Lopez",20250611,"WR").
+shift_data("58103","Erica Lopez",20250612,"WR").
+shift_data("58103","Erica Lopez",20250613,"WR").
+shift_data("58103","Erica Lopez",20250614,"LD").
+shift_data("58103","Erica Lopez",20250615,"SE").
+shift_data("58103","Erica Lopez",20250616,"SN").
+shift_data("58103","Erica Lopez",20250617,"SE").
+shift_data("58103","Erica Lopez",20250618,"SN").
+shift_data("58103","Erica Lopez",20250619,"WR").
+shift_data("58103","Erica Lopez",20250620,"LD").
+shift_data("58103","Erica Lopez",20250621,"SE").
+shift_data("58103","Erica Lopez",20250622,"SN").
+shift_data("58103","Erica Lopez",20250623,"AL").
+shift_data("58103","Erica Lopez",20250624,"AL").
+shift_data("58103","Erica Lopez",20250625,"LD").
+shift_data("58103","Erica Lopez",20250626,"WR").
+shift_data("58103","Erica Lopez",20250627,"SE").
+shift_data("58103","Erica Lopez",20250628,"SN").
+shift_data("58103","Erica Lopez",20250629,"WR").
+shift_data("58103","Erica Lopez",20250630,"D").
+shift_data("58103","Erica Lopez",20250701,"LD").
+shift_data("58103","Erica Lopez",20250702,"SE").
+shift_data("58103","Erica Lopez",20250703,"SN").
+shift_data("58103","Erica Lopez",20250704,"WR").
+shift_data("58103","Erica Lopez",20250705,"D").
+shift_data("58103","Erica Lopez",20250706,"LD").
+shift_data("58103","Erica Lopez",20250707,"SE").
+shift_data("58103","Erica Lopez",20250708,"SN").
+shift_data("58103","Erica Lopez",20250709,"WR").
+shift_data("58103","Erica Lopez",20250710,"WR").
+shift_data("58103","Erica Lopez",20250711,"LD").
+shift_data("58103","Erica Lopez",20250712,"SE").
+shift_data("58103","Erica Lopez",20250713,"SN").
+shift_data("58103","Erica Lopez",20250714,"WR").
+shift_data("58103","Erica Lopez",20250715,"WR").
+shift_data("58103","Erica Lopez",20250716,"SE").
+shift_data("58103","Erica Lopez",20250717,"SN").
+shift_data("58103","Erica Lopez",20250718,"WR").
+shift_data("58103","Erica Lopez",20250719,"LD").
+shift_data("58103","Erica Lopez",20250720,"SE").
+shift_data("58103","Erica Lopez",20250721,"SN").
+shift_data("58103","Erica Lopez",20250722,"WR").
+shift_data("58103","Erica Lopez",20250723,"WR").
+shift_data("58103","Erica Lopez",20250724,"LD").
+shift_data("58103","Erica Lopez",20250725,"SE").
+shift_data("58103","Erica Lopez",20250726,"SN").
+shift_data("58103","Erica Lopez",20250727,"SE").
+shift_data("58103","Erica Lopez",20250728,"SN").
+shift_data("58103","Erica Lopez",20250729,"WR").
+shift_data("58103","Erica Lopez",20250730,"LD").
+shift_data("58103","Erica Lopez",20250731,"WR").
+shift_data("58103","Erica Lopez",20250801,"D").
+shift_data("58103","Erica Lopez",20250802,"WR").
+shift_data("58103","Erica Lopez",20250803,"SE").
+shift_data("58103","Erica Lopez",20250804,"SN").
+shift_data("58103","Erica Lopez",20250805,"SE").
+shift_data("58103","Erica Lopez",20250806,"SN").
+shift_data("58103","Erica Lopez",20250807,"WR").
+shift_data("58103","Erica Lopez",20250808,"D").
+shift_data("58103","Erica Lopez",20250809,"LD").
+shift_data("58103","Erica Lopez",20250810,"WR").
+shift_data("58103","Erica Lopez",20250811,"PH").
+shift_data("58103","Erica Lopez",20250812,"LD").
+shift_data("58103","Erica Lopez",20250813,"WR").
+shift_data("58103","Erica Lopez",20250814,"D").
+shift_data("58103","Erica Lopez",20250815,"D").
+shift_data("58103","Erica Lopez",20250816,"LD").
+shift_data("58103","Erica Lopez",20250817,"SE").
+shift_data("58103","Erica Lopez",20250818,"SN").
+shift_data("58103","Erica Lopez",20250819,"WR").
+shift_data("58103","Erica Lopez",20250820,"LD").
+shift_data("58103","Erica Lopez",20250821,"SE").
+shift_data("58103","Erica Lopez",20250822,"SN").
+shift_data("58103","Erica Lopez",20250823,"WR").
+shift_data("58103","Erica Lopez",20250824,"D").
+shift_data("58103","Erica Lopez",20250825,"D").
+shift_data("58103","Erica Lopez",20250826,"D").
+shift_data("58103","Erica Lopez",20250827,"LD").
+shift_data("58103","Erica Lopez",20250828,"WR").
+shift_data("58103","Erica Lopez",20250829,"WR").
+shift_data("58103","Erica Lopez",20250830,"LD").
+shift_data("58103","Erica Lopez",20250831,"SE").
+shift_data("58103","Erica Lopez",20250901,"SN").
+shift_data("58103","Erica Lopez",20250902,"SE").
+shift_data("58103","Erica Lopez",20250903,"SN").
+shift_data("58103","Erica Lopez",20250904,"WR").
+shift_data("58103","Erica Lopez",20250905,"D").
+shift_data("58103","Erica Lopez",20250906,"WR").
+shift_data("58103","Erica Lopez",20250907,"LD").
+shift_data("58103","Erica Lopez",20250908,"SE").
+shift_data("58103","Erica Lopez",20250909,"SN").
+shift_data("58103","Erica Lopez",20250910,"WR").
+shift_data("58103","Erica Lopez",20250911,"LD").
+shift_data("58103","Erica Lopez",20250912,"WR").
+shift_data("58103","Erica Lopez",20250913,"D").
+shift_data("58103","Erica Lopez",20250914,"LD").
+shift_data("58103","Erica Lopez",20250915,"SE").
+shift_data("58103","Erica Lopez",20250916,"SN").
+shift_data("58103","Erica Lopez",20250917,"SE").
+shift_data("58103","Erica Lopez",20250918,"SN").
+shift_data("58103","Erica Lopez",20250919,"WR").
+shift_data("58103","Erica Lopez",20250920,"WR").
+shift_data("58103","Erica Lopez",20250921,"D").
+shift_data("58103","Erica Lopez",20250922,"LD").
+shift_data("58103","Erica Lopez",20250923,"PH").
+shift_data("58103","Erica Lopez",20250924,"WR").
+shift_data("58103","Erica Lopez",20250925,"WR").
+shift_data("58103","Erica Lopez",20250926,"LD").
+shift_data("58103","Erica Lopez",20250927,"SE").
+shift_data("58103","Erica Lopez",20250928,"SN").
+shift_data("58103","Erica Lopez",20250929,"WR").
+shift_data("58103","Erica Lopez",20250930,"LD").
+shift_data("58103","Erica Lopez",20251001,"SE").
+shift_data("58103","Erica Lopez",20251002,"SN").
+shift_data("58103","Erica Lopez",20251003,"WR").
+shift_data("58103","Erica Lopez",20251004,"LD").
+shift_data("58103","Erica Lopez",20251005,"SE").
+shift_data("58103","Erica Lopez",20251006,"SN").
+shift_data("58103","Erica Lopez",20251007,"WR").
+shift_data("58103","Erica Lopez",20251008,"LD").
+shift_data("58103","Erica Lopez",20251009,"SE").
+shift_data("58103","Erica Lopez",20251010,"SN").
+shift_data("58103","Erica Lopez",20251011,"WR").
+shift_data("58103","Erica Lopez",20251012,"LD").
+shift_data("58103","Erica Lopez",20251013,"PH").
+shift_data("58103","Erica Lopez",20251014,"D").
+shift_data("58103","Erica Lopez",20251015,"SE").
+shift_data("58103","Erica Lopez",20251016,"SN").
+shift_data("58103","Erica Lopez",20251017,"WR").
+shift_data("58103","Erica Lopez",20251018,"LD").
+shift_data("58103","Erica Lopez",20251019,"SE").
+shift_data("58103","Erica Lopez",20251020,"SN").
+shift_data("58103","Erica Lopez",20251021,"WR").
+shift_data("58103","Erica Lopez",20251022,"SE").
+shift_data("58103","Erica Lopez",20251023,"SN").
+shift_data("58103","Erica Lopez",20251024,"WR").
+shift_data("58103","Erica Lopez",20251025,"LD").
+shift_data("58103","Erica Lopez",20251026,"SE").
+shift_data("58103","Erica Lopez",20251027,"SN").
+shift_data("58103","Erica Lopez",20251028,"WR").
+shift_data("58103","Erica Lopez",20251029,"AL").
+shift_data("58103","Erica Lopez",20251030,"D").
+shift_data("58103","Erica Lopez",20251031,"LD").
+shift_data("58103","Erica Lopez",20251101,"WR").
+shift_data("58103","Erica Lopez",20251102,"D").
+shift_data("58103","Erica Lopez",20251103,"SE").
+shift_data("58103","Erica Lopez",20251104,"SN").
+shift_data("58103","Erica Lopez",20251105,"WR").
+shift_data("58103","Erica Lopez",20251106,"WR").
+shift_data("58103","Erica Lopez",20251107,"WR").
+shift_data("58103","Erica Lopez",20251108,"LD").
+shift_data("58103","Erica Lopez",20251109,"SE").
+shift_data("58103","Erica Lopez",20251110,"SN").
+shift_data("58103","Erica Lopez",20251111,"WR").
+shift_data("58103","Erica Lopez",20251112,"D").
+shift_data("58103","Erica Lopez",20251113,"LD").
+shift_data("58103","Erica Lopez",20251114,"SE").
+shift_data("58103","Erica Lopez",20251115,"SN").
+shift_data("58103","Erica Lopez",20251116,"HL").
+shift_data("58103","Erica Lopez",20251117,"HL").
+shift_data("58103","Erica Lopez",20251118,"AL").
+shift_data("58103","Erica Lopez",20251119,"D").
+shift_data("58103","Erica Lopez",20251120,"LD").
+shift_data("58103","Erica Lopez",20251121,"WR").
+shift_data("58103","Erica Lopez",20251122,"WR").
+shift_data("58103","Erica Lopez",20251123,"WR").
+shift_data("58103","Erica Lopez",20251124,"SE").
+shift_data("58103","Erica Lopez",20251125,"SN").
+shift_data("58103","Erica Lopez",20251126,"WR").
+shift_data("58103","Erica Lopez",20251127,"D").
+shift_data("58103","Erica Lopez",20251128,"D").
+shift_data("58103","Erica Lopez",20251129,"AL").
+shift_data("58103","Erica Lopez",20251130,"WR").
+shift_data("58103","Erica Lopez",20251201,"WR").
+shift_data("58103","Erica Lopez",20251202,"LD").
+shift_data("58103","Erica Lopez",20251203,"SE").
+shift_data("58103","Erica Lopez",20251204,"SN").
+shift_data("58103","Erica Lopez",20251205,"WR").
+shift_data("58103","Erica Lopez",20251206,"LD").
+shift_data("58103","Erica Lopez",20251207,"WR").
+shift_data("58103","Erica Lopez",20251208,"SE").
+shift_data("58103","Erica Lopez",20251209,"SN").
+shift_data("58103","Erica Lopez",20251210,"WR").
+shift_data("58103","Erica Lopez",20251211,"LD").
+shift_data("58103","Erica Lopez",20251212,"SE").
+shift_data("58103","Erica Lopez",20251213,"SN").
+shift_data("58103","Erica Lopez",20251214,"WR").
+shift_data("58103","Erica Lopez",20251215,"WR").
+shift_data("58103","Erica Lopez",20251216,"WR").
+shift_data("58103","Erica Lopez",20251217,"WR").
+shift_data("58103","Erica Lopez",20251218,"D").
+shift_data("58103","Erica Lopez",20251219,"LD").
+shift_data("58103","Erica Lopez",20251220,"SE").
+shift_data("58103","Erica Lopez",20251221,"SN").
+shift_data("58103","Erica Lopez",20251222,"WR").
+shift_data("58103","Erica Lopez",20251223,"D").
+shift_data("58103","Erica Lopez",20251224,"LD").
+shift_data("58103","Erica Lopez",20251225,"SE").
+shift_data("58103","Erica Lopez",20251226,"SN").
+shift_data("58103","Erica Lopez",20251227,"WR").
+shift_data("58103","Erica Lopez",20251228,"LD").
+shift_data("58103","Erica Lopez",20251229,"SE").
+shift_data("58103","Erica Lopez",20251230,"SN").
+shift_data("58103","Erica Lopez",20251231,"PH").
+shift_data("38988","Evan Cabrera",20250401,"WR").
+shift_data("38988","Evan Cabrera",20250402,"LD").
+shift_data("38988","Evan Cabrera",20250403,"WR").
+shift_data("38988","Evan Cabrera",20250404,"D").
+shift_data("38988","Evan Cabrera",20250405,"LD").
+shift_data("38988","Evan Cabrera",20250406,"SE").
+shift_data("38988","Evan Cabrera",20250407,"SN").
+shift_data("38988","Evan Cabrera",20250408,"WR").
+shift_data("38988","Evan Cabrera",20250409,"D").
+shift_data("38988","Evan Cabrera",20250410,"LD").
+shift_data("38988","Evan Cabrera",20250411,"LM").
+shift_data("38988","Evan Cabrera",20250412,"WR").
+shift_data("38988","Evan Cabrera",20250413,"WR").
+shift_data("38988","Evan Cabrera",20250414,"D").
+shift_data("38988","Evan Cabrera",20250415,"D").
+shift_data("38988","Evan Cabrera",20250416,"LD").
+shift_data("38988","Evan Cabrera",20250417,"SE").
+shift_data("38988","Evan Cabrera",20250418,"SN").
+shift_data("38988","Evan Cabrera",20250419,"WR").
+shift_data("38988","Evan Cabrera",20250420,"LD").
+shift_data("38988","Evan Cabrera",20250421,"WR").
+shift_data("38988","Evan Cabrera",20250422,"SE").
+shift_data("38988","Evan Cabrera",20250423,"SN").
+shift_data("38988","Evan Cabrera",20250424,"SE").
+shift_data("38988","Evan Cabrera",20250425,"SN").
+shift_data("38988","Evan Cabrera",20250426,"WR").
+shift_data("38988","Evan Cabrera",20250427,"D").
+shift_data("38988","Evan Cabrera",20250428,"LD").
+shift_data("38988","Evan Cabrera",20250429,"PH").
+shift_data("38988","Evan Cabrera",20250430,"LD").
+shift_data("38988","Evan Cabrera",20250501,"SE").
+shift_data("38988","Evan Cabrera",20250502,"SN").
+shift_data("38988","Evan Cabrera",20250503,"WR").
+shift_data("38988","Evan Cabrera",20250504,"LD").
+shift_data("38988","Evan Cabrera",20250505,"SE").
+shift_data("38988","Evan Cabrera",20250506,"SN").
+shift_data("38988","Evan Cabrera",20250507,"WR").
+shift_data("38988","Evan Cabrera",20250508,"WR").
+shift_data("38988","Evan Cabrera",20250509,"WR").
+shift_data("38988","Evan Cabrera",20250510,"SE").
+shift_data("38988","Evan Cabrera",20250511,"SN").
+shift_data("38988","Evan Cabrera",20250512,"SE").
+shift_data("38988","Evan Cabrera",20250513,"SN").
+shift_data("38988","Evan Cabrera",20250514,"WR").
+shift_data("38988","Evan Cabrera",20250515,"LD").
+shift_data("38988","Evan Cabrera",20250516,"LM").
+shift_data("38988","Evan Cabrera",20250517,"WR").
+shift_data("38988","Evan Cabrera",20250518,"D").
+shift_data("38988","Evan Cabrera",20250519,"LD").
+shift_data("38988","Evan Cabrera",20250520,"WR").
+shift_data("38988","Evan Cabrera",20250521,"SE").
+shift_data("38988","Evan Cabrera",20250522,"SN").
+shift_data("38988","Evan Cabrera",20250523,"WR").
+shift_data("38988","Evan Cabrera",20250524,"D").
+shift_data("38988","Evan Cabrera",20250525,"SE").
+shift_data("38988","Evan Cabrera",20250526,"SN").
+shift_data("38988","Evan Cabrera",20250527,"WR").
+shift_data("38988","Evan Cabrera",20250528,"LD").
+shift_data("38988","Evan Cabrera",20250529,"SE").
+shift_data("38988","Evan Cabrera",20250530,"SN").
+shift_data("38988","Evan Cabrera",20250531,"SE").
+shift_data("38988","Evan Cabrera",20250601,"SN").
+shift_data("38988","Evan Cabrera",20250602,"WR").
+shift_data("38988","Evan Cabrera",20250603,"WR").
+shift_data("38988","Evan Cabrera",20250604,"LD").
+shift_data("38988","Evan Cabrera",20250605,"WR").
+shift_data("38988","Evan Cabrera",20250606,"LD").
+shift_data("38988","Evan Cabrera",20250607,"WR").
+shift_data("38988","Evan Cabrera",20250608,"D").
+shift_data("38988","Evan Cabrera",20250609,"SE").
+shift_data("38988","Evan Cabrera",20250610,"SN").
+shift_data("38988","Evan Cabrera",20250611,"SE").
+shift_data("38988","Evan Cabrera",20250612,"SN").
+shift_data("38988","Evan Cabrera",20250613,"WR").
+shift_data("38988","Evan Cabrera",20250614,"LD").
+shift_data("38988","Evan Cabrera",20250615,"WR").
+shift_data("38988","Evan Cabrera",20250616,"LD").
+shift_data("38988","Evan Cabrera",20250617,"SE").
+shift_data("38988","Evan Cabrera",20250618,"SN").
+shift_data("38988","Evan Cabrera",20250619,"WR").
+shift_data("38988","Evan Cabrera",20250620,"D").
+shift_data("38988","Evan Cabrera",20250621,"LD").
+shift_data("38988","Evan Cabrera",20250622,"SE").
+shift_data("38988","Evan Cabrera",20250623,"SN").
+shift_data("38988","Evan Cabrera",20250624,"WR").
+shift_data("38988","Evan Cabrera",20250625,"D").
+shift_data("38988","Evan Cabrera",20250626,"D").
+shift_data("38988","Evan Cabrera",20250627,"D").
+shift_data("38988","Evan Cabrera",20250628,"LD").
+shift_data("38988","Evan Cabrera",20250629,"WR").
+shift_data("38988","Evan Cabrera",20250630,"SE").
+shift_data("38988","Evan Cabrera",20250701,"SN").
+shift_data("38988","Evan Cabrera",20250702,"WR").
+shift_data("38988","Evan Cabrera",20250703,"WR").
+shift_data("38988","Evan Cabrera",20250704,"D").
+shift_data("38988","Evan Cabrera",20250705,"LD").
+shift_data("38988","Evan Cabrera",20250706,"SE").
+shift_data("38988","Evan Cabrera",20250707,"SN").
+shift_data("38988","Evan Cabrera",20250708,"WR").
+shift_data("38988","Evan Cabrera",20250709,"LD").
+shift_data("38988","Evan Cabrera",20250710,"SE").
+shift_data("38988","Evan Cabrera",20250711,"SN").
+shift_data("38988","Evan Cabrera",20250712,"WR").
+shift_data("38988","Evan Cabrera",20250713,"LD").
+shift_data("38988","Evan Cabrera",20250714,"WR").
+shift_data("38988","Evan Cabrera",20250715,"D").
+shift_data("38988","Evan Cabrera",20250716,"D").
+shift_data("38988","Evan Cabrera",20250717,"LD").
+shift_data("38988","Evan Cabrera",20250718,"WR").
+shift_data("38988","Evan Cabrera",20250719,"SE").
+shift_data("38988","Evan Cabrera",20250720,"SN").
+shift_data("38988","Evan Cabrera",20250721,"PH").
+shift_data("38988","Evan Cabrera",20250722,"D").
+shift_data("38988","Evan Cabrera",20250723,"LD").
+shift_data("38988","Evan Cabrera",20250724,"WR").
+shift_data("38988","Evan Cabrera",20250725,"WR").
+shift_data("38988","Evan Cabrera",20250726,"WR").
+shift_data("38988","Evan Cabrera",20250727,"LD").
+shift_data("38988","Evan Cabrera",20250728,"SE").
+shift_data("38988","Evan Cabrera",20250729,"SN").
+shift_data("38988","Evan Cabrera",20250730,"WR").
+shift_data("38988","Evan Cabrera",20250731,"D").
+shift_data("38988","Evan Cabrera",20250801,"LD").
+shift_data("38988","Evan Cabrera",20250802,"WR").
+shift_data("38988","Evan Cabrera",20250803,"WR").
+shift_data("38988","Evan Cabrera",20250804,"D").
+shift_data("38988","Evan Cabrera",20250805,"LD").
+shift_data("38988","Evan Cabrera",20250806,"SE").
+shift_data("38988","Evan Cabrera",20250807,"SN").
+shift_data("38988","Evan Cabrera",20250808,"WR").
+shift_data("38988","Evan Cabrera",20250809,"AL").
+shift_data("38988","Evan Cabrera",20250810,"SE").
+shift_data("38988","Evan Cabrera",20250811,"SN").
+shift_data("38988","Evan Cabrera",20250812,"SE").
+shift_data("38988","Evan Cabrera",20250813,"SN").
+shift_data("38988","Evan Cabrera",20250814,"WR").
+shift_data("38988","Evan Cabrera",20250815,"LD").
+shift_data("38988","Evan Cabrera",20250816,"SE").
+shift_data("38988","Evan Cabrera",20250817,"SN").
+shift_data("38988","Evan Cabrera",20250818,"WR").
+shift_data("38988","Evan Cabrera",20250819,"LD").
+shift_data("38988","Evan Cabrera",20250820,"SE").
+shift_data("38988","Evan Cabrera",20250821,"SN").
+shift_data("38988","Evan Cabrera",20250822,"WR").
+shift_data("38988","Evan Cabrera",20250823,"WR").
+shift_data("38988","Evan Cabrera",20250824,"LD").
+shift_data("38988","Evan Cabrera",20250825,"SE").
+shift_data("38988","Evan Cabrera",20250826,"SN").
+shift_data("38988","Evan Cabrera",20250827,"WR").
+shift_data("38988","Evan Cabrera",20250828,"D").
+shift_data("38988","Evan Cabrera",20250829,"LD").
+shift_data("38988","Evan Cabrera",20250830,"SE").
+shift_data("38988","Evan Cabrera",20250831,"SN").
+shift_data("38988","Evan Cabrera",20250901,"WR").
+shift_data("38988","Evan Cabrera",20250902,"D").
+shift_data("38988","Evan Cabrera",20250903,"AL").
+shift_data("38988","Evan Cabrera",20250904,"LD").
+shift_data("38988","Evan Cabrera",20250905,"SE").
+shift_data("38988","Evan Cabrera",20250906,"SN").
+shift_data("38988","Evan Cabrera",20250907,"WR").
+shift_data("38988","Evan Cabrera",20250908,"D").
+shift_data("38988","Evan Cabrera",20250909,"LD").
+shift_data("38988","Evan Cabrera",20250910,"WR").
+shift_data("38988","Evan Cabrera",20250911,"SE").
+shift_data("38988","Evan Cabrera",20250912,"SN").
+shift_data("38988","Evan Cabrera",20250913,"WR").
+shift_data("38988","Evan Cabrera",20250914,"D").
+shift_data("38988","Evan Cabrera",20250915,"LD").
+shift_data("38988","Evan Cabrera",20250916,"SE").
+shift_data("38988","Evan Cabrera",20250917,"SN").
+shift_data("38988","Evan Cabrera",20250918,"WR").
+shift_data("38988","Evan Cabrera",20250919,"D").
+shift_data("38988","Evan Cabrera",20250920,"LD").
+shift_data("38988","Evan Cabrera",20250921,"WR").
+shift_data("38988","Evan Cabrera",20250922,"WR").
+shift_data("38988","Evan Cabrera",20250923,"LD").
+shift_data("38988","Evan Cabrera",20250924,"SE").
+shift_data("38988","Evan Cabrera",20250925,"SN").
+shift_data("38988","Evan Cabrera",20250926,"WR").
+shift_data("38988","Evan Cabrera",20250927,"LD").
+shift_data("38988","Evan Cabrera",20250928,"SE").
+shift_data("38988","Evan Cabrera",20250929,"SN").
+shift_data("38988","Evan Cabrera",20250930,"WR").
+shift_data("38988","Evan Cabrera",20251001,"D").
+shift_data("38988","Evan Cabrera",20251002,"WR").
+shift_data("38988","Evan Cabrera",20251003,"LD").
+shift_data("38988","Evan Cabrera",20251004,"SE").
+shift_data("38988","Evan Cabrera",20251005,"SN").
+shift_data("38988","Evan Cabrera",20251006,"WR").
+shift_data("38988","Evan Cabrera",20251007,"HL").
+shift_data("38988","Evan Cabrera",20251008,"HL").
+shift_data("38988","Evan Cabrera",20251009,"WR").
+shift_data("38988","Evan Cabrera",20251010,"D").
+shift_data("38988","Evan Cabrera",20251011,"SE").
+shift_data("38988","Evan Cabrera",20251012,"SN").
+shift_data("38988","Evan Cabrera",20251013,"PH").
+shift_data("38988","Evan Cabrera",20251014,"LD").
+shift_data("38988","Evan Cabrera",20251015,"WR").
+shift_data("38988","Evan Cabrera",20251016,"SE").
+shift_data("38988","Evan Cabrera",20251017,"SN").
+shift_data("38988","Evan Cabrera",20251018,"WR").
+shift_data("38988","Evan Cabrera",20251019,"WR").
+shift_data("38988","Evan Cabrera",20251020,"LD").
+shift_data("38988","Evan Cabrera",20251021,"SE").
+shift_data("38988","Evan Cabrera",20251022,"SN").
+shift_data("38988","Evan Cabrera",20251023,"WR").
+shift_data("38988","Evan Cabrera",20251024,"LD").
+shift_data("38988","Evan Cabrera",20251025,"SE").
+shift_data("38988","Evan Cabrera",20251026,"SN").
+shift_data("38988","Evan Cabrera",20251027,"SE").
+shift_data("38988","Evan Cabrera",20251028,"SN").
+shift_data("38988","Evan Cabrera",20251029,"WR").
+shift_data("38988","Evan Cabrera",20251030,"LD").
+shift_data("38988","Evan Cabrera",20251031,"SE").
+shift_data("38988","Evan Cabrera",20251101,"SN").
+shift_data("38988","Evan Cabrera",20251102,"WR").
+shift_data("38988","Evan Cabrera",20251103,"LD").
+shift_data("38988","Evan Cabrera",20251104,"WR").
+shift_data("38988","Evan Cabrera",20251105,"AL").
+shift_data("38988","Evan Cabrera",20251106,"AL").
+shift_data("38988","Evan Cabrera",20251107,"D").
+shift_data("38988","Evan Cabrera",20251108,"WR").
+shift_data("38988","Evan Cabrera",20251109,"SE").
+shift_data("38988","Evan Cabrera",20251110,"SN").
+shift_data("38988","Evan Cabrera",20251111,"WR").
+shift_data("38988","Evan Cabrera",20251112,"LD").
+shift_data("38988","Evan Cabrera",20251113,"WR").
+shift_data("38988","Evan Cabrera",20251114,"D").
+shift_data("38988","Evan Cabrera",20251115,"D").
+shift_data("38988","Evan Cabrera",20251116,"WR").
+shift_data("38988","Evan Cabrera",20251117,"LD").
+shift_data("38988","Evan Cabrera",20251118,"SE").
+shift_data("38988","Evan Cabrera",20251119,"SN").
+shift_data("38988","Evan Cabrera",20251120,"WR").
+shift_data("38988","Evan Cabrera",20251121,"D").
+shift_data("38988","Evan Cabrera",20251122,"WR").
+shift_data("38988","Evan Cabrera",20251123,"WR").
+shift_data("38988","Evan Cabrera",20251124,"LD").
+shift_data("38988","Evan Cabrera",20251125,"LM").
+shift_data("38988","Evan Cabrera",20251126,"SE").
+shift_data("38988","Evan Cabrera",20251127,"SN").
+shift_data("38988","Evan Cabrera",20251128,"WR").
+shift_data("38988","Evan Cabrera",20251129,"LD").
+shift_data("38988","Evan Cabrera",20251130,"SE").
+shift_data("38988","Evan Cabrera",20251201,"SN").
+shift_data("38988","Evan Cabrera",20251202,"WR").
+shift_data("38988","Evan Cabrera",20251203,"SE").
+shift_data("38988","Evan Cabrera",20251204,"SN").
+shift_data("38988","Evan Cabrera",20251205,"AL").
+shift_data("38988","Evan Cabrera",20251206,"LD").
+shift_data("38988","Evan Cabrera",20251207,"SL").
+shift_data("38988","Evan Cabrera",20251208,"SL").
+shift_data("38988","Evan Cabrera",20251209,"SE").
+shift_data("38988","Evan Cabrera",20251210,"SN").
+shift_data("38988","Evan Cabrera",20251211,"WR").
+shift_data("38988","Evan Cabrera",20251212,"SL").
+shift_data("38988","Evan Cabrera",20251213,"WR").
+shift_data("38988","Evan Cabrera",20251214,"SL").
+shift_data("38988","Evan Cabrera",20251215,"WR").
+shift_data("38988","Evan Cabrera",20251216,"SL").
+shift_data("38988","Evan Cabrera",20251217,"SL").
+shift_data("38988","Evan Cabrera",20251218,"WR").
+shift_data("38988","Evan Cabrera",20251219,"WR").
+shift_data("38988","Evan Cabrera",20251220,"SL").
+shift_data("38988","Evan Cabrera",20251221,"SL").
+shift_data("38988","Evan Cabrera",20251222,"SL").
+shift_data("38988","Evan Cabrera",20251223,"SL").
+shift_data("38988","Evan Cabrera",20251224,"WR").
+shift_data("38988","Evan Cabrera",20251225,"SL").
+shift_data("38988","Evan Cabrera",20251226,"WR").
+shift_data("38988","Evan Cabrera",20251227,"WR").
+shift_data("38988","Evan Cabrera",20251228,"SL").
+shift_data("38988","Evan Cabrera",20251229,"PH").
+shift_data("38988","Evan Cabrera",20251230,"PH").
+shift_data("38988","Evan Cabrera",20251231,"PH").
+shift_data("65326","Loretta Anderson DVM",20250401,"WR").
+shift_data("65326","Loretta Anderson DVM",20250402,"LD").
+shift_data("65326","Loretta Anderson DVM",20250403,"SE").
+shift_data("65326","Loretta Anderson DVM",20250404,"SN").
+shift_data("65326","Loretta Anderson DVM",20250405,"WR").
+shift_data("65326","Loretta Anderson DVM",20250406,"D").
+shift_data("65326","Loretta Anderson DVM",20250407,"SE").
+shift_data("65326","Loretta Anderson DVM",20250408,"SN").
+shift_data("65326","Loretta Anderson DVM",20250409,"WR").
+shift_data("65326","Loretta Anderson DVM",20250410,"WR").
+shift_data("65326","Loretta Anderson DVM",20250411,"LD").
+shift_data("65326","Loretta Anderson DVM",20250412,"SE").
+shift_data("65326","Loretta Anderson DVM",20250413,"SN").
+shift_data("65326","Loretta Anderson DVM",20250414,"SE").
+shift_data("65326","Loretta Anderson DVM",20250415,"SN").
+shift_data("65326","Loretta Anderson DVM",20250416,"WR").
+shift_data("65326","Loretta Anderson DVM",20250417,"LD").
+shift_data("65326","Loretta Anderson DVM",20250418,"SE").
+shift_data("65326","Loretta Anderson DVM",20250419,"SN").
+shift_data("65326","Loretta Anderson DVM",20250420,"WR").
+shift_data("65326","Loretta Anderson DVM",20250421,"LD").
+shift_data("65326","Loretta Anderson DVM",20250422,"SE").
+shift_data("65326","Loretta Anderson DVM",20250423,"SN").
+shift_data("65326","Loretta Anderson DVM",20250424,"WR").
+shift_data("65326","Loretta Anderson DVM",20250425,"D").
+shift_data("65326","Loretta Anderson DVM",20250426,"LD").
+shift_data("65326","Loretta Anderson DVM",20250427,"WR").
+shift_data("65326","Loretta Anderson DVM",20250428,"D").
+shift_data("65326","Loretta Anderson DVM",20250429,"SE").
+shift_data("65326","Loretta Anderson DVM",20250430,"SN").
+shift_data("65326","Loretta Anderson DVM",20250501,"WR").
+shift_data("65326","Loretta Anderson DVM",20250502,"LD").
+shift_data("65326","Loretta Anderson DVM",20250503,"WR").
+shift_data("65326","Loretta Anderson DVM",20250504,"LD").
+shift_data("65326","Loretta Anderson DVM",20250505,"SE").
+shift_data("65326","Loretta Anderson DVM",20250506,"SN").
+shift_data("65326","Loretta Anderson DVM",20250507,"SE").
+shift_data("65326","Loretta Anderson DVM",20250508,"SN").
+shift_data("65326","Loretta Anderson DVM",20250509,"WR").
+shift_data("65326","Loretta Anderson DVM",20250510,"LD").
+shift_data("65326","Loretta Anderson DVM",20250511,"WR").
+shift_data("65326","Loretta Anderson DVM",20250512,"LD").
+shift_data("65326","Loretta Anderson DVM",20250513,"SE").
+shift_data("65326","Loretta Anderson DVM",20250514,"SN").
+shift_data("65326","Loretta Anderson DVM",20250515,"WR").
+shift_data("65326","Loretta Anderson DVM",20250516,"SE").
+shift_data("65326","Loretta Anderson DVM",20250517,"SN").
+shift_data("65326","Loretta Anderson DVM",20250518,"SE").
+shift_data("65326","Loretta Anderson DVM",20250519,"SN").
+shift_data("65326","Loretta Anderson DVM",20250520,"WR").
+shift_data("65326","Loretta Anderson DVM",20250521,"D").
+shift_data("65326","Loretta Anderson DVM",20250522,"LD").
+shift_data("65326","Loretta Anderson DVM",20250523,"WR").
+shift_data("65326","Loretta Anderson DVM",20250524,"LD").
+shift_data("65326","Loretta Anderson DVM",20250525,"WR").
+shift_data("65326","Loretta Anderson DVM",20250526,"AL").
+shift_data("65326","Loretta Anderson DVM",20250527,"D").
+shift_data("65326","Loretta Anderson DVM",20250528,"D").
+shift_data("65326","Loretta Anderson DVM",20250529,"D").
+shift_data("65326","Loretta Anderson DVM",20250530,"D").
+shift_data("65326","Loretta Anderson DVM",20250531,"WR").
+shift_data("65326","Loretta Anderson DVM",20250601,"SE").
+shift_data("65326","Loretta Anderson DVM",20250602,"SN").
+shift_data("65326","Loretta Anderson DVM",20250603,"SE").
+shift_data("65326","Loretta Anderson DVM",20250604,"SN").
+shift_data("65326","Loretta Anderson DVM",20250605,"WR").
+shift_data("65326","Loretta Anderson DVM",20250606,"LD").
+shift_data("65326","Loretta Anderson DVM",20250607,"WR").
+shift_data("65326","Loretta Anderson DVM",20250608,"LD").
+shift_data("65326","Loretta Anderson DVM",20250609,"SE").
+shift_data("65326","Loretta Anderson DVM",20250610,"SN").
+shift_data("65326","Loretta Anderson DVM",20250611,"WR").
+shift_data("65326","Loretta Anderson DVM",20250612,"WR").
+shift_data("65326","Loretta Anderson DVM",20250613,"LD").
+shift_data("65326","Loretta Anderson DVM",20250614,"SE").
+shift_data("65326","Loretta Anderson DVM",20250615,"SN").
+shift_data("65326","Loretta Anderson DVM",20250616,"WR").
+shift_data("65326","Loretta Anderson DVM",20250617,"LD").
+shift_data("65326","Loretta Anderson DVM",20250618,"SE").
+shift_data("65326","Loretta Anderson DVM",20250619,"SN").
+shift_data("65326","Loretta Anderson DVM",20250620,"WR").
+shift_data("65326","Loretta Anderson DVM",20250621,"LD").
+shift_data("65326","Loretta Anderson DVM",20250622,"WR").
+shift_data("65326","Loretta Anderson DVM",20250623,"D").
+shift_data("65326","Loretta Anderson DVM",20250624,"LD").
+shift_data("65326","Loretta Anderson DVM",20250625,"SE").
+shift_data("65326","Loretta Anderson DVM",20250626,"SN").
+shift_data("65326","Loretta Anderson DVM",20250627,"WR").
+shift_data("65326","Loretta Anderson DVM",20250628,"D").
+shift_data("65326","Loretta Anderson DVM",20250629,"SE").
+shift_data("65326","Loretta Anderson DVM",20250630,"SN").
+shift_data("65326","Loretta Anderson DVM",20250701,"WR").
+shift_data("65326","Loretta Anderson DVM",20250702,"LD").
+shift_data("65326","Loretta Anderson DVM",20250703,"SE").
+shift_data("65326","Loretta Anderson DVM",20250704,"SN").
+shift_data("65326","Loretta Anderson DVM",20250705,"WR").
+shift_data("65326","Loretta Anderson DVM",20250706,"LD").
+shift_data("65326","Loretta Anderson DVM",20250707,"SE").
+shift_data("65326","Loretta Anderson DVM",20250708,"SN").
+shift_data("65326","Loretta Anderson DVM",20250709,"WR").
+shift_data("65326","Loretta Anderson DVM",20250710,"WR").
+shift_data("65326","Loretta Anderson DVM",20250711,"LD").
+shift_data("65326","Loretta Anderson DVM",20250712,"WR").
+shift_data("65326","Loretta Anderson DVM",20250713,"LD").
+shift_data("65326","Loretta Anderson DVM",20250714,"WR").
+shift_data("65326","Loretta Anderson DVM",20250715,"LD").
+shift_data("65326","Loretta Anderson DVM",20250716,"SE").
+shift_data("65326","Loretta Anderson DVM",20250717,"SN").
+shift_data("65326","Loretta Anderson DVM",20250718,"SE").
+shift_data("65326","Loretta Anderson DVM",20250719,"SN").
+shift_data("65326","Loretta Anderson DVM",20250720,"WR").
+shift_data("65326","Loretta Anderson DVM",20250721,"D").
+shift_data("65326","Loretta Anderson DVM",20250722,"LD").
+shift_data("65326","Loretta Anderson DVM",20250723,"SE").
+shift_data("65326","Loretta Anderson DVM",20250724,"SN").
+shift_data("65326","Loretta Anderson DVM",20250725,"WR").
+shift_data("65326","Loretta Anderson DVM",20250726,"D").
+shift_data("65326","Loretta Anderson DVM",20250727,"WR").
+shift_data("65326","Loretta Anderson DVM",20250728,"LD").
+shift_data("65326","Loretta Anderson DVM",20250729,"SE").
+shift_data("65326","Loretta Anderson DVM",20250730,"SN").
+shift_data("65326","Loretta Anderson DVM",20250731,"SE").
+shift_data("65326","Loretta Anderson DVM",20250801,"SN").
+shift_data("65326","Loretta Anderson DVM",20250802,"WR").
+shift_data("65326","Loretta Anderson DVM",20250803,"WR").
+shift_data("65326","Loretta Anderson DVM",20250804,"LD").
+shift_data("65326","Loretta Anderson DVM",20250805,"SE").
+shift_data("65326","Loretta Anderson DVM",20250806,"SN").
+shift_data("65326","Loretta Anderson DVM",20250807,"WR").
+shift_data("65326","Loretta Anderson DVM",20250808,"LD").
+shift_data("65326","Loretta Anderson DVM",20250809,"WR").
+shift_data("65326","Loretta Anderson DVM",20250810,"LD").
+shift_data("65326","Loretta Anderson DVM",20250811,"SE").
+shift_data("65326","Loretta Anderson DVM",20250812,"SN").
+shift_data("65326","Loretta Anderson DVM",20250813,"WR").
+shift_data("65326","Loretta Anderson DVM",20250814,"LD").
+shift_data("65326","Loretta Anderson DVM",20250815,"SE").
+shift_data("65326","Loretta Anderson DVM",20250816,"SN").
+shift_data("65326","Loretta Anderson DVM",20250817,"WR").
+shift_data("65326","Loretta Anderson DVM",20250818,"D").
+shift_data("65326","Loretta Anderson DVM",20250819,"D").
+shift_data("65326","Loretta Anderson DVM",20250820,"WR").
+shift_data("65326","Loretta Anderson DVM",20250821,"LD").
+shift_data("65326","Loretta Anderson DVM",20250822,"SE").
+shift_data("65326","Loretta Anderson DVM",20250823,"SN").
+shift_data("65326","Loretta Anderson DVM",20250824,"WR").
+shift_data("65326","Loretta Anderson DVM",20250825,"LD").
+shift_data("65326","Loretta Anderson DVM",20250826,"SE").
+shift_data("65326","Loretta Anderson DVM",20250827,"SN").
+shift_data("65326","Loretta Anderson DVM",20250828,"WR").
+shift_data("65326","Loretta Anderson DVM",20250829,"D").
+shift_data("65326","Loretta Anderson DVM",20250830,"LD").
+shift_data("65326","Loretta Anderson DVM",20250831,"SE").
+shift_data("65326","Loretta Anderson DVM",20250901,"SN").
+shift_data("65326","Loretta Anderson DVM",20250902,"WR").
+shift_data("65326","Loretta Anderson DVM",20250903,"D").
+shift_data("65326","Loretta Anderson DVM",20250904,"SE").
+shift_data("65326","Loretta Anderson DVM",20250905,"SN").
+shift_data("65326","Loretta Anderson DVM",20250906,"WR").
+shift_data("65326","Loretta Anderson DVM",20250907,"WR").
+shift_data("65326","Loretta Anderson DVM",20250908,"D").
+shift_data("65326","Loretta Anderson DVM",20250909,"LD").
+shift_data("65326","Loretta Anderson DVM",20250910,"SE").
+shift_data("65326","Loretta Anderson DVM",20250911,"SN").
+shift_data("65326","Loretta Anderson DVM",20250912,"WR").
+shift_data("65326","Loretta Anderson DVM",20250913,"LD").
+shift_data("65326","Loretta Anderson DVM",20250914,"SE").
+shift_data("65326","Loretta Anderson DVM",20250915,"SN").
+shift_data("65326","Loretta Anderson DVM",20250916,"WR").
+shift_data("65326","Loretta Anderson DVM",20250917,"LD").
+shift_data("65326","Loretta Anderson DVM",20250918,"SE").
+shift_data("65326","Loretta Anderson DVM",20250919,"SN").
+shift_data("65326","Loretta Anderson DVM",20250920,"WR").
+shift_data("65326","Loretta Anderson DVM",20250921,"SE").
+shift_data("65326","Loretta Anderson DVM",20250922,"SN").
+shift_data("65326","Loretta Anderson DVM",20250923,"PH").
+shift_data("65326","Loretta Anderson DVM",20250924,"WR").
+shift_data("65326","Loretta Anderson DVM",20250925,"WR").
+shift_data("65326","Loretta Anderson DVM",20250926,"D").
+shift_data("65326","Loretta Anderson DVM",20250927,"D").
+shift_data("65326","Loretta Anderson DVM",20250928,"D").
+shift_data("65326","Loretta Anderson DVM",20250929,"LD").
+shift_data("65326","Loretta Anderson DVM",20250930,"WR").
+shift_data("65326","Loretta Anderson DVM",20251001,"TR").
+shift_data("65326","Loretta Anderson DVM",20251002,"SE").
+shift_data("65326","Loretta Anderson DVM",20251003,"SN").
+shift_data("65326","Loretta Anderson DVM",20251004,"WR").
+shift_data("65326","Loretta Anderson DVM",20251005,"LD").
+shift_data("65326","Loretta Anderson DVM",20251006,"SE").
+shift_data("65326","Loretta Anderson DVM",20251007,"SN").
+shift_data("65326","Loretta Anderson DVM",20251008,"WR").
+shift_data("65326","Loretta Anderson DVM",20251009,"LD").
+shift_data("65326","Loretta Anderson DVM",20251010,"WR").
+shift_data("65326","Loretta Anderson DVM",20251011,"LD").
+shift_data("65326","Loretta Anderson DVM",20251012,"WR").
+shift_data("65326","Loretta Anderson DVM",20251013,"SE").
+shift_data("65326","Loretta Anderson DVM",20251014,"SN").
+shift_data("65326","Loretta Anderson DVM",20251015,"WR").
+shift_data("65326","Loretta Anderson DVM",20251016,"LD").
+shift_data("65326","Loretta Anderson DVM",20251017,"SE").
+shift_data("65326","Loretta Anderson DVM",20251018,"SN").
+shift_data("65326","Loretta Anderson DVM",20251019,"WR").
+shift_data("65326","Loretta Anderson DVM",20251020,"D").
+shift_data("65326","Loretta Anderson DVM",20251021,"LD").
+shift_data("65326","Loretta Anderson DVM",20251022,"WR").
+shift_data("65326","Loretta Anderson DVM",20251023,"LD").
+shift_data("65326","Loretta Anderson DVM",20251024,"WR").
+shift_data("65326","Loretta Anderson DVM",20251025,"LD").
+shift_data("65326","Loretta Anderson DVM",20251026,"WR").
+shift_data("65326","Loretta Anderson DVM",20251027,"TR").
+shift_data("65326","Loretta Anderson DVM",20251028,"WR").
+shift_data("65326","Loretta Anderson DVM",20251029,"HL").
+shift_data("65326","Loretta Anderson DVM",20251030,"HL").
+shift_data("65326","Loretta Anderson DVM",20251031,"HL").
+shift_data("65326","Loretta Anderson DVM",20251101,"AL").
+shift_data("65326","Loretta Anderson DVM",20251102,"SE").
+shift_data("65326","Loretta Anderson DVM",20251103,"SN").
+shift_data("65326","Loretta Anderson DVM",20251104,"SE").
+shift_data("65326","Loretta Anderson DVM",20251105,"SN").
+shift_data("65326","Loretta Anderson DVM",20251106,"WR").
+shift_data("65326","Loretta Anderson DVM",20251107,"LD").
+shift_data("65326","Loretta Anderson DVM",20251108,"SE").
+shift_data("65326","Loretta Anderson DVM",20251109,"SN").
+shift_data("65326","Loretta Anderson DVM",20251110,"WR").
+shift_data("65326","Loretta Anderson DVM",20251111,"SE").
+shift_data("65326","Loretta Anderson DVM",20251112,"SN").
+shift_data("65326","Loretta Anderson DVM",20251113,"WR").
+shift_data("65326","Loretta Anderson DVM",20251114,"TR").
+shift_data("65326","Loretta Anderson DVM",20251115,"LD").
+shift_data("65326","Loretta Anderson DVM",20251116,"SE").
+shift_data("65326","Loretta Anderson DVM",20251117,"SN").
+shift_data("65326","Loretta Anderson DVM",20251118,"SE").
+shift_data("65326","Loretta Anderson DVM",20251119,"SN").
+shift_data("65326","Loretta Anderson DVM",20251120,"WR").
+shift_data("65326","Loretta Anderson DVM",20251121,"WR").
+shift_data("65326","Loretta Anderson DVM",20251122,"D").
+shift_data("65326","Loretta Anderson DVM",20251123,"LD").
+shift_data("65326","Loretta Anderson DVM",20251124,"PH").
+shift_data("65326","Loretta Anderson DVM",20251125,"LD").
+shift_data("65326","Loretta Anderson DVM",20251126,"WR").
+shift_data("65326","Loretta Anderson DVM",20251127,"TR").
+shift_data("65326","Loretta Anderson DVM",20251128,"LD").
+shift_data("65326","Loretta Anderson DVM",20251129,"WR").
+shift_data("65326","Loretta Anderson DVM",20251130,"WR").
+shift_data("65326","Loretta Anderson DVM",20251201,"SE").
+shift_data("65326","Loretta Anderson DVM",20251202,"SN").
+shift_data("65326","Loretta Anderson DVM",20251203,"WR").
+shift_data("65326","Loretta Anderson DVM",20251204,"LD").
+shift_data("65326","Loretta Anderson DVM",20251205,"SE").
+shift_data("65326","Loretta Anderson DVM",20251206,"SN").
+shift_data("65326","Loretta Anderson DVM",20251207,"WR").
+shift_data("65326","Loretta Anderson DVM",20251208,"TR").
+shift_data("65326","Loretta Anderson DVM",20251209,"D").
+shift_data("65326","Loretta Anderson DVM",20251210,"LM").
+shift_data("65326","Loretta Anderson DVM",20251211,"WR").
+shift_data("65326","Loretta Anderson DVM",20251212,"D").
+shift_data("65326","Loretta Anderson DVM",20251213,"LD").
+shift_data("65326","Loretta Anderson DVM",20251214,"WR").
+shift_data("65326","Loretta Anderson DVM",20251215,"LD").
+shift_data("65326","Loretta Anderson DVM",20251216,"WR").
+shift_data("65326","Loretta Anderson DVM",20251217,"LD").
+shift_data("65326","Loretta Anderson DVM",20251218,"SE").
+shift_data("65326","Loretta Anderson DVM",20251219,"SN").
+shift_data("65326","Loretta Anderson DVM",20251220,"WR").
+shift_data("65326","Loretta Anderson DVM",20251221,"D").
+shift_data("65326","Loretta Anderson DVM",20251222,"D").
+shift_data("65326","Loretta Anderson DVM",20251223,"SE").
+shift_data("65326","Loretta Anderson DVM",20251224,"SN").
+shift_data("65326","Loretta Anderson DVM",20251225,"WR").
+shift_data("65326","Loretta Anderson DVM",20251226,"WR").
+shift_data("65326","Loretta Anderson DVM",20251227,"HL").
+shift_data("65326","Loretta Anderson DVM",20251228,"LD").
+shift_data("65326","Loretta Anderson DVM",20251229,"SE").
+shift_data("65326","Loretta Anderson DVM",20251230,"SN").
+shift_data("65326","Loretta Anderson DVM",20251231,"SE").
+shift_data("86454","Justin Bond",20250401,"SN").
+shift_data("86454","Justin Bond",20250402,"SE").
+shift_data("86454","Justin Bond",20250403,"SN").
+shift_data("86454","Justin Bond",20250404,"WR").
+shift_data("86454","Justin Bond",20250405,"D").
+shift_data("86454","Justin Bond",20250406,"LD").
+shift_data("86454","Justin Bond",20250407,"SE").
+shift_data("86454","Justin Bond",20250408,"SN").
+shift_data("86454","Justin Bond",20250409,"WR").
+shift_data("86454","Justin Bond",20250410,"LD").
+shift_data("86454","Justin Bond",20250411,"WR").
+shift_data("86454","Justin Bond",20250412,"LD").
+shift_data("86454","Justin Bond",20250413,"SE").
+shift_data("86454","Justin Bond",20250414,"SN").
+shift_data("86454","Justin Bond",20250415,"WR").
+shift_data("86454","Justin Bond",20250416,"AL").
+shift_data("86454","Justin Bond",20250417,"SE").
+shift_data("86454","Justin Bond",20250418,"SN").
+shift_data("86454","Justin Bond",20250419,"WR").
+shift_data("86454","Justin Bond",20250420,"WR").
+shift_data("86454","Justin Bond",20250421,"LD").
+shift_data("86454","Justin Bond",20250422,"WR").
+shift_data("86454","Justin Bond",20250423,"WR").
+shift_data("86454","Justin Bond",20250424,"LD").
+shift_data("86454","Justin Bond",20250425,"SE").
+shift_data("86454","Justin Bond",20250426,"SN").
+shift_data("86454","Justin Bond",20250427,"WR").
+shift_data("86454","Justin Bond",20250428,"WR").
+shift_data("86454","Justin Bond",20250429,"LD").
+shift_data("86454","Justin Bond",20250430,"SE").
+shift_data("86454","Justin Bond",20250501,"SN").
+shift_data("86454","Justin Bond",20250502,"WR").
+shift_data("86454","Justin Bond",20250503,"D").
+shift_data("86454","Justin Bond",20250504,"D").
+shift_data("86454","Justin Bond",20250505,"LD").
+shift_data("86454","Justin Bond",20250506,"PH").
+shift_data("86454","Justin Bond",20250507,"WR").
+shift_data("86454","Justin Bond",20250508,"LD").
+shift_data("86454","Justin Bond",20250509,"SE").
+shift_data("86454","Justin Bond",20250510,"SN").
+shift_data("86454","Justin Bond",20250511,"WR").
+shift_data("86454","Justin Bond",20250512,"LD").
+shift_data("86454","Justin Bond",20250513,"WR").
+shift_data("86454","Justin Bond",20250514,"D").
+shift_data("86454","Justin Bond",20250515,"SE").
+shift_data("86454","Justin Bond",20250516,"SN").
+shift_data("86454","Justin Bond",20250517,"WR").
+shift_data("86454","Justin Bond",20250518,"LD").
+shift_data("86454","Justin Bond",20250519,"SE").
+shift_data("86454","Justin Bond",20250520,"SN").
+shift_data("86454","Justin Bond",20250521,"SL").
+shift_data("86454","Justin Bond",20250522,"SL").
+shift_data("86454","Justin Bond",20250523,"WR").
+shift_data("86454","Justin Bond",20250524,"HL").
+shift_data("86454","Justin Bond",20250525,"LD").
+shift_data("86454","Justin Bond",20250526,"WR").
+shift_data("86454","Justin Bond",20250527,"WR").
+shift_data("86454","Justin Bond",20250528,"D").
+shift_data("86454","Justin Bond",20250529,"LD").
+shift_data("86454","Justin Bond",20250530,"SE").
+shift_data("86454","Justin Bond",20250531,"SN").
+shift_data("86454","Justin Bond",20250601,"WR").
+shift_data("86454","Justin Bond",20250602,"LD").
+shift_data("86454","Justin Bond",20250603,"LD").
+shift_data("86454","Justin Bond",20250604,"SE").
+shift_data("86454","Justin Bond",20250605,"SN").
+shift_data("86454","Justin Bond",20250606,"WR").
+shift_data("86454","Justin Bond",20250607,"LD").
+shift_data("86454","Justin Bond",20250608,"SE").
+shift_data("86454","Justin Bond",20250609,"SN").
+shift_data("86454","Justin Bond",20250610,"WR").
+shift_data("86454","Justin Bond",20250611,"WR").
+shift_data("86454","Justin Bond",20250612,"AL").
+shift_data("86454","Justin Bond",20250613,"LD").
+shift_data("86454","Justin Bond",20250614,"SE").
+shift_data("86454","Justin Bond",20250615,"SN").
+shift_data("86454","Justin Bond",20250616,"SE").
+shift_data("86454","Justin Bond",20250617,"SN").
+shift_data("86454","Justin Bond",20250618,"WR").
+shift_data("86454","Justin Bond",20250619,"LD").
+shift_data("86454","Justin Bond",20250620,"WR").
+shift_data("86454","Justin Bond",20250621,"SE").
+shift_data("86454","Justin Bond",20250622,"SN").
+shift_data("86454","Justin Bond",20250623,"SE").
+shift_data("86454","Justin Bond",20250624,"SN").
+shift_data("86454","Justin Bond",20250625,"WR").
+shift_data("86454","Justin Bond",20250626,"LD").
+shift_data("86454","Justin Bond",20250627,"SE").
+shift_data("86454","Justin Bond",20250628,"SN").
+shift_data("86454","Justin Bond",20250629,"WR").
+shift_data("86454","Justin Bond",20250630,"LD").
+shift_data("86454","Justin Bond",20250701,"SE").
+shift_data("86454","Justin Bond",20250702,"SN").
+shift_data("86454","Justin Bond",20250703,"WR").
+shift_data("86454","Justin Bond",20250704,"LD").
+shift_data("86454","Justin Bond",20250705,"SE").
+shift_data("86454","Justin Bond",20250706,"SN").
+shift_data("86454","Justin Bond",20250707,"WR").
+shift_data("86454","Justin Bond",20250708,"LD").
+shift_data("86454","Justin Bond",20250709,"SE").
+shift_data("86454","Justin Bond",20250710,"SN").
+shift_data("86454","Justin Bond",20250711,"WR").
+shift_data("86454","Justin Bond",20250712,"WR").
+shift_data("86454","Justin Bond",20250713,"WR").
+shift_data("86454","Justin Bond",20250714,"D").
+shift_data("86454","Justin Bond",20250715,"LD").
+shift_data("86454","Justin Bond",20250716,"SE").
+shift_data("86454","Justin Bond",20250717,"SN").
+shift_data("86454","Justin Bond",20250718,"WR").
+shift_data("86454","Justin Bond",20250719,"LD").
+shift_data("86454","Justin Bond",20250720,"SE").
+shift_data("86454","Justin Bond",20250721,"SN").
+shift_data("86454","Justin Bond",20250722,"WR").
+shift_data("86454","Justin Bond",20250723,"SE").
+shift_data("86454","Justin Bond",20250724,"SN").
+shift_data("86454","Justin Bond",20250725,"WR").
+shift_data("86454","Justin Bond",20250726,"LD").
+shift_data("86454","Justin Bond",20250727,"WR").
+shift_data("86454","Justin Bond",20250728,"LD").
+shift_data("86454","Justin Bond",20250729,"WR").
+shift_data("86454","Justin Bond",20250730,"D").
+shift_data("86454","Justin Bond",20250731,"LD").
+shift_data("86454","Justin Bond",20250801,"WR").
+shift_data("86454","Justin Bond",20250802,"SE").
+shift_data("86454","Justin Bond",20250803,"SN").
+shift_data("86454","Justin Bond",20250804,"SE").
+shift_data("86454","Justin Bond",20250805,"SN").
+shift_data("86454","Justin Bond",20250806,"WR").
+shift_data("86454","Justin Bond",20250807,"D").
+shift_data("86454","Justin Bond",20250808,"LD").
+shift_data("86454","Justin Bond",20250809,"WR").
+shift_data("86454","Justin Bond",20250810,"HL").
+shift_data("86454","Justin Bond",20250811,"PH").
+shift_data("86454","Justin Bond",20250812,"D").
+shift_data("86454","Justin Bond",20250813,"LD").
+shift_data("86454","Justin Bond",20250814,"SE").
+shift_data("86454","Justin Bond",20250815,"SN").
+shift_data("86454","Justin Bond",20250816,"WR").
+shift_data("86454","Justin Bond",20250817,"LD").
+shift_data("86454","Justin Bond",20250818,"SE").
+shift_data("86454","Justin Bond",20250819,"SN").
+shift_data("86454","Justin Bond",20250820,"WR").
+shift_data("86454","Justin Bond",20250821,"D").
+shift_data("86454","Justin Bond",20250822,"D").
+shift_data("86454","Justin Bond",20250823,"WR").
+shift_data("86454","Justin Bond",20250824,"WR").
+shift_data("86454","Justin Bond",20250825,"WR").
+shift_data("86454","Justin Bond",20250826,"AL").
+shift_data("86454","Justin Bond",20250827,"D").
+shift_data("86454","Justin Bond",20250828,"LD").
+shift_data("86454","Justin Bond",20250829,"SE").
+shift_data("86454","Justin Bond",20250830,"SN").
+shift_data("86454","Justin Bond",20250831,"WR").
+shift_data("86454","Justin Bond",20250901,"LD").
+shift_data("86454","Justin Bond",20250902,"LM").
+shift_data("86454","Justin Bond",20250903,"SE").
+shift_data("86454","Justin Bond",20250904,"SN").
+shift_data("86454","Justin Bond",20250905,"WR").
+shift_data("86454","Justin Bond",20250906,"LD").
+shift_data("86454","Justin Bond",20250907,"SE").
+shift_data("86454","Justin Bond",20250908,"SN").
+shift_data("86454","Justin Bond",20250909,"WR").
+shift_data("86454","Justin Bond",20250910,"LD").
+shift_data("86454","Justin Bond",20250911,"SE").
+shift_data("86454","Justin Bond",20250912,"SN").
+shift_data("86454","Justin Bond",20250913,"WR").
+shift_data("86454","Justin Bond",20250914,"LD").
+shift_data("86454","Justin Bond",20250915,"SE").
+shift_data("86454","Justin Bond",20250916,"SN").
+shift_data("86454","Justin Bond",20250917,"WR").
+shift_data("86454","Justin Bond",20250918,"LD").
+shift_data("86454","Justin Bond",20250919,"AL").
+shift_data("86454","Justin Bond",20250920,"SE").
+shift_data("86454","Justin Bond",20250921,"SN").
+shift_data("86454","Justin Bond",20250922,"WR").
+shift_data("86454","Justin Bond",20250923,"D").
+shift_data("86454","Justin Bond",20250924,"WR").
+shift_data("86454","Justin Bond",20250925,"WR").
+shift_data("86454","Justin Bond",20250926,"D").
+shift_data("86454","Justin Bond",20250927,"WR").
+shift_data("86454","Justin Bond",20250928,"HL").
+shift_data("86454","Justin Bond",20250929,"LD").
+shift_data("86454","Justin Bond",20250930,"SE").
+shift_data("86454","Justin Bond",20251001,"SN").
+shift_data("86454","Justin Bond",20251002,"WR").
+shift_data("86454","Justin Bond",20251003,"D").
+shift_data("86454","Justin Bond",20251004,"WR").
+shift_data("86454","Justin Bond",20251005,"LD").
+shift_data("86454","Justin Bond",20251006,"SE").
+shift_data("86454","Justin Bond",20251007,"SN").
+shift_data("86454","Justin Bond",20251008,"WR").
+shift_data("86454","Justin Bond",20251009,"LD").
+shift_data("86454","Justin Bond",20251010,"SE").
+shift_data("86454","Justin Bond",20251011,"SN").
+shift_data("86454","Justin Bond",20251012,"WR").
+shift_data("86454","Justin Bond",20251013,"PH").
+shift_data("86454","Justin Bond",20251014,"D").
+shift_data("86454","Justin Bond",20251015,"LD").
+shift_data("86454","Justin Bond",20251016,"WR").
+shift_data("86454","Justin Bond",20251017,"D").
+shift_data("86454","Justin Bond",20251018,"WR").
+shift_data("86454","Justin Bond",20251019,"LD").
+shift_data("86454","Justin Bond",20251020,"SE").
+shift_data("86454","Justin Bond",20251021,"SN").
+shift_data("86454","Justin Bond",20251022,"SE").
+shift_data("86454","Justin Bond",20251023,"SN").
+shift_data("86454","Justin Bond",20251024,"HL").
+shift_data("86454","Justin Bond",20251025,"WR").
+shift_data("86454","Justin Bond",20251026,"LD").
+shift_data("86454","Justin Bond",20251027,"WR").
+shift_data("86454","Justin Bond",20251028,"D").
+shift_data("86454","Justin Bond",20251029,"LD").
+shift_data("86454","Justin Bond",20251030,"SE").
+shift_data("86454","Justin Bond",20251031,"SN").
+shift_data("86454","Justin Bond",20251101,"WR").
+shift_data("86454","Justin Bond",20251102,"LD").
+shift_data("86454","Justin Bond",20251103,"SE").
+shift_data("86454","Justin Bond",20251104,"SN").
+shift_data("86454","Justin Bond",20251105,"SE").
+shift_data("86454","Justin Bond",20251106,"SN").
+shift_data("86454","Justin Bond",20251107,"WR").
+shift_data("86454","Justin Bond",20251108,"WR").
+shift_data("86454","Justin Bond",20251109,"WR").
+shift_data("86454","Justin Bond",20251110,"LD").
+shift_data("86454","Justin Bond",20251111,"SE").
+shift_data("86454","Justin Bond",20251112,"SN").
+shift_data("86454","Justin Bond",20251113,"WR").
+shift_data("86454","Justin Bond",20251114,"LD").
+shift_data("86454","Justin Bond",20251115,"SE").
+shift_data("86454","Justin Bond",20251116,"SN").
+shift_data("86454","Justin Bond",20251117,"WR").
+shift_data("86454","Justin Bond",20251118,"D").
+shift_data("86454","Justin Bond",20251119,"LD").
+shift_data("86454","Justin Bond",20251120,"SE").
+shift_data("86454","Justin Bond",20251121,"SN").
+shift_data("86454","Justin Bond",20251122,"WR").
+shift_data("86454","Justin Bond",20251123,"WR").
+shift_data("86454","Justin Bond",20251124,"D").
+shift_data("86454","Justin Bond",20251125,"D").
+shift_data("86454","Justin Bond",20251126,"LD").
+shift_data("86454","Justin Bond",20251127,"SE").
+shift_data("86454","Justin Bond",20251128,"SN").
+shift_data("86454","Justin Bond",20251129,"WR").
+shift_data("86454","Justin Bond",20251130,"AL").
+shift_data("86454","Justin Bond",20251201,"D").
+shift_data("86454","Justin Bond",20251202,"WR").
+shift_data("86454","Justin Bond",20251203,"LD").
+shift_data("86454","Justin Bond",20251204,"SE").
+shift_data("86454","Justin Bond",20251205,"SN").
+shift_data("86454","Justin Bond",20251206,"WR").
+shift_data("86454","Justin Bond",20251207,"WR").
+shift_data("86454","Justin Bond",20251208,"SE").
+shift_data("86454","Justin Bond",20251209,"SN").
+shift_data("86454","Justin Bond",20251210,"WR").
+shift_data("86454","Justin Bond",20251211,"LD").
+shift_data("86454","Justin Bond",20251212,"SE").
+shift_data("86454","Justin Bond",20251213,"SN").
+shift_data("86454","Justin Bond",20251214,"WR").
+shift_data("86454","Justin Bond",20251215,"WR").
+shift_data("86454","Justin Bond",20251216,"D").
+shift_data("86454","Justin Bond",20251217,"LD").
+shift_data("86454","Justin Bond",20251218,"SE").
+shift_data("86454","Justin Bond",20251219,"SN").
+shift_data("86454","Justin Bond",20251220,"WR").
+shift_data("86454","Justin Bond",20251221,"WR").
+shift_data("86454","Justin Bond",20251222,"LD").
+shift_data("86454","Justin Bond",20251223,"WR").
+shift_data("86454","Justin Bond",20251224,"D").
+shift_data("86454","Justin Bond",20251225,"WR").
+shift_data("86454","Justin Bond",20251226,"LD").
+shift_data("86454","Justin Bond",20251227,"SE").
+shift_data("86454","Justin Bond",20251228,"SN").
+shift_data("86454","Justin Bond",20251229,"PH").
+shift_data("86454","Justin Bond",20251230,"SE").
+shift_data("86454","Justin Bond",20251231,"SN").
+shift_data("96590","Susan Carter",20250401,"SN").
+shift_data("96590","Susan Carter",20250402,"WR").
+shift_data("96590","Susan Carter",20250403,"D").
+shift_data("96590","Susan Carter",20250404,"LD").
+shift_data("96590","Susan Carter",20250405,"SE").
+shift_data("96590","Susan Carter",20250406,"SN").
+shift_data("96590","Susan Carter",20250407,"WR").
+shift_data("96590","Susan Carter",20250408,"WR").
+shift_data("96590","Susan Carter",20250409,"LD").
+shift_data("96590","Susan Carter",20250410,"SE").
+shift_data("96590","Susan Carter",20250411,"SN").
+shift_data("96590","Susan Carter",20250412,"WR").
+shift_data("96590","Susan Carter",20250413,"LD").
+shift_data("96590","Susan Carter",20250414,"SE").
+shift_data("96590","Susan Carter",20250415,"SN").
+shift_data("96590","Susan Carter",20250416,"SE").
+shift_data("96590","Susan Carter",20250417,"SN").
+shift_data("96590","Susan Carter",20250418,"WR").
+shift_data("96590","Susan Carter",20250419,"LD").
+shift_data("96590","Susan Carter",20250420,"WR").
+shift_data("96590","Susan Carter",20250421,"SE").
+shift_data("96590","Susan Carter",20250422,"SN").
+shift_data("96590","Susan Carter",20250423,"WR").
+shift_data("96590","Susan Carter",20250424,"LD").
+shift_data("96590","Susan Carter",20250425,"WR").
+shift_data("96590","Susan Carter",20250426,"LD").
+shift_data("96590","Susan Carter",20250427,"WR").
+shift_data("96590","Susan Carter",20250428,"LD").
+shift_data("96590","Susan Carter",20250429,"SE").
+shift_data("96590","Susan Carter",20250430,"SN").
+shift_data("96590","Susan Carter",20250501,"WR").
+shift_data("96590","Susan Carter",20250502,"SE").
+shift_data("96590","Susan Carter",20250503,"SN").
+shift_data("96590","Susan Carter",20250504,"SE").
+shift_data("96590","Susan Carter",20250505,"SN").
+shift_data("96590","Susan Carter",20250506,"PH").
+shift_data("96590","Susan Carter",20250507,"LD").
+shift_data("96590","Susan Carter",20250508,"WR").
+shift_data("96590","Susan Carter",20250509,"LD").
+shift_data("96590","Susan Carter",20250510,"WR").
+shift_data("96590","Susan Carter",20250511,"LD").
+shift_data("96590","Susan Carter",20250512,"WR").
+shift_data("96590","Susan Carter",20250513,"LD").
+shift_data("96590","Susan Carter",20250514,"SE").
+shift_data("96590","Susan Carter",20250515,"SN").
+shift_data("96590","Susan Carter",20250516,"WR").
+shift_data("96590","Susan Carter",20250517,"LD").
+shift_data("96590","Susan Carter",20250518,"SE").
+shift_data("96590","Susan Carter",20250519,"SN").
+shift_data("96590","Susan Carter",20250520,"SE").
+shift_data("96590","Susan Carter",20250521,"SN").
+shift_data("96590","Susan Carter",20250522,"WR").
+shift_data("96590","Susan Carter",20250523,"AL").
+shift_data("96590","Susan Carter",20250524,"WR").
+shift_data("96590","Susan Carter",20250525,"WR").
+shift_data("96590","Susan Carter",20250526,"AL").
+shift_data("96590","Susan Carter",20250527,"WR").
+shift_data("96590","Susan Carter",20250528,"D").
+shift_data("96590","Susan Carter",20250529,"D").
+shift_data("96590","Susan Carter",20250530,"LD").
+shift_data("96590","Susan Carter",20250531,"WR").
+shift_data("96590","Susan Carter",20250601,"LD").
+shift_data("96590","Susan Carter",20250602,"WR").
+shift_data("96590","Susan Carter",20250603,"D").
+shift_data("96590","Susan Carter",20250604,"SE").
+shift_data("96590","Susan Carter",20250605,"SN").
+shift_data("96590","Susan Carter",20250606,"WR").
+shift_data("96590","Susan Carter",20250607,"AL").
+shift_data("96590","Susan Carter",20250608,"LD").
+shift_data("96590","Susan Carter",20250609,"WR").
+shift_data("96590","Susan Carter",20250610,"LD").
+shift_data("96590","Susan Carter",20250611,"SE").
+shift_data("96590","Susan Carter",20250612,"SN").
+shift_data("96590","Susan Carter",20250613,"WR").
+shift_data("96590","Susan Carter",20250614,"D").
+shift_data("96590","Susan Carter",20250615,"LD").
+shift_data("96590","Susan Carter",20250616,"SE").
+shift_data("96590","Susan Carter",20250617,"SN").
+shift_data("96590","Susan Carter",20250618,"WR").
+shift_data("96590","Susan Carter",20250619,"SE").
+shift_data("96590","Susan Carter",20250620,"SN").
+shift_data("96590","Susan Carter",20250621,"SE").
+shift_data("96590","Susan Carter",20250622,"SN").
+shift_data("96590","Susan Carter",20250623,"WR").
+shift_data("96590","Susan Carter",20250624,"LD").
+shift_data("96590","Susan Carter",20250625,"SE").
+shift_data("96590","Susan Carter",20250626,"SN").
+shift_data("96590","Susan Carter",20250627,"WR").
+shift_data("96590","Susan Carter",20250628,"LD").
+shift_data("96590","Susan Carter",20250629,"WR").
+shift_data("96590","Susan Carter",20250630,"LD").
+shift_data("96590","Susan Carter",20250701,"SE").
+shift_data("96590","Susan Carter",20250702,"SN").
+shift_data("96590","Susan Carter",20250703,"SE").
+shift_data("96590","Susan Carter",20250704,"SN").
+shift_data("96590","Susan Carter",20250705,"WR").
+shift_data("96590","Susan Carter",20250706,"D").
+shift_data("96590","Susan Carter",20250707,"LD").
+shift_data("96590","Susan Carter",20250708,"SE").
+shift_data("96590","Susan Carter",20250709,"SN").
+shift_data("96590","Susan Carter",20250710,"WR").
+shift_data("96590","Susan Carter",20250711,"WR").
+shift_data("96590","Susan Carter",20250712,"LD").
+shift_data("96590","Susan Carter",20250713,"SE").
+shift_data("96590","Susan Carter",20250714,"SN").
+shift_data("96590","Susan Carter",20250715,"SE").
+shift_data("96590","Susan Carter",20250716,"SN").
+shift_data("96590","Susan Carter",20250717,"WR").
+shift_data("96590","Susan Carter",20250718,"LD").
+shift_data("96590","Susan Carter",20250719,"WR").
+shift_data("96590","Susan Carter",20250720,"WR").
+shift_data("96590","Susan Carter",20250721,"PH").
+shift_data("96590","Susan Carter",20250722,"LD").
+shift_data("96590","Susan Carter",20250723,"SE").
+shift_data("96590","Susan Carter",20250724,"SN").
+shift_data("96590","Susan Carter",20250725,"WR").
+shift_data("96590","Susan Carter",20250726,"LD").
+shift_data("96590","Susan Carter",20250727,"SE").
+shift_data("96590","Susan Carter",20250728,"SN").
+shift_data("96590","Susan Carter",20250729,"SE").
+shift_data("96590","Susan Carter",20250730,"SN").
+shift_data("96590","Susan Carter",20250731,"WR").
+shift_data("96590","Susan Carter",20250801,"D").
+shift_data("96590","Susan Carter",20250802,"LD").
+shift_data("96590","Susan Carter",20250803,"WR").
+shift_data("96590","Susan Carter",20250804,"WR").
+shift_data("96590","Susan Carter",20250805,"D").
+shift_data("96590","Susan Carter",20250806,"LD").
+shift_data("96590","Susan Carter",20250807,"SE").
+shift_data("96590","Susan Carter",20250808,"SN").
+shift_data("96590","Susan Carter",20250809,"WR").
+shift_data("96590","Susan Carter",20250810,"LD").
+shift_data("96590","Susan Carter",20250811,"PH").
+shift_data("96590","Susan Carter",20250812,"D").
+shift_data("96590","Susan Carter",20250813,"WR").
+shift_data("96590","Susan Carter",20250814,"SE").
+shift_data("96590","Susan Carter",20250815,"SN").
+shift_data("96590","Susan Carter",20250816,"WR").
+shift_data("96590","Susan Carter",20250817,"D").
+shift_data("96590","Susan Carter",20250818,"WR").
+shift_data("96590","Susan Carter",20250819,"HL").
+shift_data("96590","Susan Carter",20250820,"HL").
+shift_data("96590","Susan Carter",20250821,"WR").
+shift_data("96590","Susan Carter",20250822,"D").
+shift_data("96590","Susan Carter",20250823,"SE").
+shift_data("96590","Susan Carter",20250824,"SN").
+shift_data("96590","Susan Carter",20250825,"WR").
+shift_data("96590","Susan Carter",20250826,"D").
+shift_data("96590","Susan Carter",20250827,"WR").
+shift_data("96590","Susan Carter",20250828,"BL").
+shift_data("96590","Susan Carter",20250829,"LD").
+shift_data("96590","Susan Carter",20250830,"WR").
+shift_data("96590","Susan Carter",20250831,"WR").
+shift_data("96590","Susan Carter",20250901,"D").
+shift_data("96590","Susan Carter",20250902,"LD").
+shift_data("96590","Susan Carter",20250903,"LM").
+shift_data("96590","Susan Carter",20250904,"SE").
+shift_data("96590","Susan Carter",20250905,"SN").
+shift_data("96590","Susan Carter",20250906,"WR").
+shift_data("96590","Susan Carter",20250907,"LD").
+shift_data("96590","Susan Carter",20250908,"SE").
+shift_data("96590","Susan Carter",20250909,"SN").
+shift_data("96590","Susan Carter",20250910,"WR").
+shift_data("96590","Susan Carter",20250911,"D").
+shift_data("96590","Susan Carter",20250912,"LD").
+shift_data("96590","Susan Carter",20250913,"SE").
+shift_data("96590","Susan Carter",20250914,"SN").
+shift_data("96590","Susan Carter",20250915,"PH").
+shift_data("96590","Susan Carter",20250916,"LD").
+shift_data("96590","Susan Carter",20250917,"SE").
+shift_data("96590","Susan Carter",20250918,"SN").
+shift_data("96590","Susan Carter",20250919,"WR").
+shift_data("96590","Susan Carter",20250920,"LD").
+shift_data("96590","Susan Carter",20250921,"SE").
+shift_data("96590","Susan Carter",20250922,"SN").
+shift_data("96590","Susan Carter",20250923,"PH").
+shift_data("96590","Susan Carter",20250924,"D").
+shift_data("96590","Susan Carter",20250925,"LD").
+shift_data("96590","Susan Carter",20250926,"WR").
+shift_data("96590","Susan Carter",20250927,"LD").
+shift_data("96590","Susan Carter",20250928,"SE").
+shift_data("96590","Susan Carter",20250929,"SN").
+shift_data("96590","Susan Carter",20250930,"WR").
+shift_data("96590","Susan Carter",20251001,"D").
+shift_data("96590","Susan Carter",20251002,"WR").
+shift_data("96590","Susan Carter",20251003,"WR").
+shift_data("96590","Susan Carter",20251004,"WR").
+shift_data("96590","Susan Carter",20251005,"D").
+shift_data("96590","Susan Carter",20251006,"SE").
+shift_data("96590","Susan Carter",20251007,"SN").
+shift_data("96590","Susan Carter",20251008,"WR").
+shift_data("96590","Susan Carter",20251009,"WR").
+shift_data("96590","Susan Carter",20251010,"D").
+shift_data("96590","Susan Carter",20251011,"D").
+shift_data("96590","Susan Carter",20251012,"WR").
+shift_data("96590","Susan Carter",20251013,"PH").
+shift_data("96590","Susan Carter",20251014,"AL").
+shift_data("96590","Susan Carter",20251015,"LD").
+shift_data("96590","Susan Carter",20251016,"WR").
+shift_data("96590","Susan Carter",20251017,"LD").
+shift_data("96590","Susan Carter",20251018,"WR").
+shift_data("96590","Susan Carter",20251019,"LD").
+shift_data("96590","Susan Carter",20251020,"SE").
+shift_data("96590","Susan Carter",20251021,"SN").
+shift_data("96590","Susan Carter",20251022,"WR").
+shift_data("96590","Susan Carter",20251023,"WR").
+shift_data("96590","Susan Carter",20251024,"SE").
+shift_data("96590","Susan Carter",20251025,"SN").
+shift_data("96590","Susan Carter",20251026,"WR").
+shift_data("96590","Susan Carter",20251027,"D").
+shift_data("96590","Susan Carter",20251028,"LD").
+shift_data("96590","Susan Carter",20251029,"SE").
+shift_data("96590","Susan Carter",20251030,"SN").
+shift_data("96590","Susan Carter",20251031,"HL").
+shift_data("96590","Susan Carter",20251101,"HL").
+shift_data("96590","Susan Carter",20251102,"WR").
+shift_data("96590","Susan Carter",20251103,"LD").
+shift_data("96590","Susan Carter",20251104,"WR").
+shift_data("96590","Susan Carter",20251105,"SE").
+shift_data("96590","Susan Carter",20251106,"SN").
+shift_data("96590","Susan Carter",20251107,"SE").
+shift_data("96590","Susan Carter",20251108,"SN").
+shift_data("96590","Susan Carter",20251109,"WR").
+shift_data("96590","Susan Carter",20251110,"SE").
+shift_data("96590","Susan Carter",20251111,"SN").
+shift_data("96590","Susan Carter",20251112,"AL").
+shift_data("96590","Susan Carter",20251113,"D").
+shift_data("96590","Susan Carter",20251114,"LD").
+shift_data("96590","Susan Carter",20251115,"SE").
+shift_data("96590","Susan Carter",20251116,"SN").
+shift_data("96590","Susan Carter",20251117,"WR").
+shift_data("96590","Susan Carter",20251118,"LD").
+shift_data("96590","Susan Carter",20251119,"SE").
+shift_data("96590","Susan Carter",20251120,"SN").
+shift_data("96590","Susan Carter",20251121,"WR").
+shift_data("96590","Susan Carter",20251122,"LD").
+shift_data("96590","Susan Carter",20251123,"SE").
+shift_data("96590","Susan Carter",20251124,"SN").
+shift_data("96590","Susan Carter",20251125,"SE").
+shift_data("96590","Susan Carter",20251126,"SN").
+shift_data("96590","Susan Carter",20251127,"WR").
+shift_data("96590","Susan Carter",20251128,"LD").
+shift_data("96590","Susan Carter",20251129,"WR").
+shift_data("96590","Susan Carter",20251130,"WR").
+shift_data("96590","Susan Carter",20251201,"WR").
+shift_data("96590","Susan Carter",20251202,"AL").
+shift_data("96590","Susan Carter",20251203,"LD").
+shift_data("96590","Susan Carter",20251204,"WR").
+shift_data("96590","Susan Carter",20251205,"D").
+shift_data("96590","Susan Carter",20251206,"AL").
+shift_data("96590","Susan Carter",20251207,"WR").
+shift_data("96590","Susan Carter",20251208,"D").
+shift_data("96590","Susan Carter",20251209,"LD").
+shift_data("96590","Susan Carter",20251210,"SE").
+shift_data("96590","Susan Carter",20251211,"SN").
+shift_data("96590","Susan Carter",20251212,"WR").
+shift_data("96590","Susan Carter",20251213,"LD").
+shift_data("96590","Susan Carter",20251214,"SE").
+shift_data("96590","Susan Carter",20251215,"SN").
+shift_data("96590","Susan Carter",20251216,"WR").
+shift_data("96590","Susan Carter",20251217,"SE").
+shift_data("96590","Susan Carter",20251218,"SN").
+shift_data("96590","Susan Carter",20251219,"WR").
+shift_data("96590","Susan Carter",20251220,"LD").
+shift_data("96590","Susan Carter",20251221,"LD").
+shift_data("96590","Susan Carter",20251222,"SE").
+shift_data("96590","Susan Carter",20251223,"SN").
+shift_data("96590","Susan Carter",20251224,"WR").
+shift_data("96590","Susan Carter",20251225,"WR").
+shift_data("96590","Susan Carter",20251226,"WR").
+shift_data("96590","Susan Carter",20251227,"LD").
+shift_data("96590","Susan Carter",20251228,"SE").
+shift_data("96590","Susan Carter",20251229,"SN").
+shift_data("96590","Susan Carter",20251230,"PH").
+shift_data("96590","Susan Carter",20251231,"PH").
+shift_data("59576","Holly Conley",20250401,"WR").
+shift_data("59576","Holly Conley",20250402,"LD").
+shift_data("59576","Holly Conley",20250403,"SE").
+shift_data("59576","Holly Conley",20250404,"SN").
+shift_data("59576","Holly Conley",20250405,"WR").
+shift_data("59576","Holly Conley",20250406,"LD").
+shift_data("59576","Holly Conley",20250407,"SE").
+shift_data("59576","Holly Conley",20250408,"SN").
+shift_data("59576","Holly Conley",20250409,"WR").
+shift_data("59576","Holly Conley",20250410,"WR").
+shift_data("59576","Holly Conley",20250411,"D").
+shift_data("59576","Holly Conley",20250412,"LD").
+shift_data("59576","Holly Conley",20250413,"SE").
+shift_data("59576","Holly Conley",20250414,"SN").
+shift_data("59576","Holly Conley",20250415,"WR").
+shift_data("59576","Holly Conley",20250416,"LD").
+shift_data("59576","Holly Conley",20250417,"SE").
+shift_data("59576","Holly Conley",20250418,"SN").
+shift_data("59576","Holly Conley",20250419,"WR").
+shift_data("59576","Holly Conley",20250420,"LD").
+shift_data("59576","Holly Conley",20250421,"WR").
+shift_data("59576","Holly Conley",20250422,"LD").
+shift_data("59576","Holly Conley",20250423,"SE").
+shift_data("59576","Holly Conley",20250424,"SN").
+shift_data("59576","Holly Conley",20250425,"WR").
+shift_data("59576","Holly Conley",20250426,"D").
+shift_data("59576","Holly Conley",20250427,"LD").
+shift_data("59576","Holly Conley",20250428,"SE").
+shift_data("59576","Holly Conley",20250429,"SN").
+shift_data("59576","Holly Conley",20250430,"WR").
+shift_data("59576","Holly Conley",20250501,"LD").
+shift_data("59576","Holly Conley",20250502,"WR").
+shift_data("59576","Holly Conley",20250503,"LD").
+shift_data("59576","Holly Conley",20250504,"WR").
+shift_data("59576","Holly Conley",20250505,"PH").
+shift_data("59576","Holly Conley",20250506,"LD").
+shift_data("59576","Holly Conley",20250507,"SE").
+shift_data("59576","Holly Conley",20250508,"SN").
+shift_data("59576","Holly Conley",20250509,"WR").
+shift_data("59576","Holly Conley",20250510,"LD").
+shift_data("59576","Holly Conley",20250511,"SE").
+shift_data("59576","Holly Conley",20250512,"SN").
+shift_data("59576","Holly Conley",20250513,"SE").
+shift_data("59576","Holly Conley",20250514,"SN").
+shift_data("59576","Holly Conley",20250515,"WR").
+shift_data("59576","Holly Conley",20250516,"WR").
+shift_data("59576","Holly Conley",20250517,"LD").
+shift_data("59576","Holly Conley",20250518,"SE").
+shift_data("59576","Holly Conley",20250519,"SN").
+shift_data("59576","Holly Conley",20250520,"SE").
+shift_data("59576","Holly Conley",20250521,"SN").
+shift_data("59576","Holly Conley",20250522,"WR").
+shift_data("59576","Holly Conley",20250523,"WR").
+shift_data("59576","Holly Conley",20250524,"D").
+shift_data("59576","Holly Conley",20250525,"D").
+shift_data("59576","Holly Conley",20250526,"LD").
+shift_data("59576","Holly Conley",20250527,"WR").
+shift_data("59576","Holly Conley",20250528,"LD").
+shift_data("59576","Holly Conley",20250529,"SE").
+shift_data("59576","Holly Conley",20250530,"SN").
+shift_data("59576","Holly Conley",20250531,"WR").
+shift_data("59576","Holly Conley",20250601,"D").
+shift_data("59576","Holly Conley",20250602,"LD").
+shift_data("59576","Holly Conley",20250603,"SE").
+shift_data("59576","Holly Conley",20250604,"SN").
+shift_data("59576","Holly Conley",20250605,"WR").
+shift_data("59576","Holly Conley",20250606,"LD").
+shift_data("59576","Holly Conley",20250607,"SE").
+shift_data("59576","Holly Conley",20250608,"SN").
+shift_data("59576","Holly Conley",20250609,"WR").
+shift_data("59576","Holly Conley",20250610,"WR").
+shift_data("59576","Holly Conley",20250611,"SE").
+shift_data("59576","Holly Conley",20250612,"SN").
+shift_data("59576","Holly Conley",20250613,"WR").
+shift_data("59576","Holly Conley",20250614,"LD").
+shift_data("59576","Holly Conley",20250615,"SE").
+shift_data("59576","Holly Conley",20250616,"SN").
+shift_data("59576","Holly Conley",20250617,"WR").
+shift_data("59576","Holly Conley",20250618,"LD").
+shift_data("59576","Holly Conley",20250619,"SE").
+shift_data("59576","Holly Conley",20250620,"SN").
+shift_data("59576","Holly Conley",20250621,"WR").
+shift_data("59576","Holly Conley",20250622,"LD").
+shift_data("59576","Holly Conley",20250623,"SE").
+shift_data("59576","Holly Conley",20250624,"SN").
+shift_data("59576","Holly Conley",20250625,"WR").
+shift_data("59576","Holly Conley",20250626,"WR").
+shift_data("59576","Holly Conley",20250627,"LD").
+shift_data("59576","Holly Conley",20250628,"WR").
+shift_data("59576","Holly Conley",20250629,"SE").
+shift_data("59576","Holly Conley",20250630,"SN").
+shift_data("59576","Holly Conley",20250701,"WR").
+shift_data("59576","Holly Conley",20250702,"D").
+shift_data("59576","Holly Conley",20250703,"LD").
+shift_data("59576","Holly Conley",20250704,"WR").
+shift_data("59576","Holly Conley",20250705,"SE").
+shift_data("59576","Holly Conley",20250706,"SN").
+shift_data("59576","Holly Conley",20250707,"WR").
+shift_data("59576","Holly Conley",20250708,"D").
+shift_data("59576","Holly Conley",20250709,"D").
+shift_data("59576","Holly Conley",20250710,"LD").
+shift_data("59576","Holly Conley",20250711,"WR").
+shift_data("59576","Holly Conley",20250712,"LD").
+shift_data("59576","Holly Conley",20250713,"SE").
+shift_data("59576","Holly Conley",20250714,"SN").
+shift_data("59576","Holly Conley",20250715,"SE").
+shift_data("59576","Holly Conley",20250716,"SN").
+shift_data("59576","Holly Conley",20250717,"HL").
+shift_data("59576","Holly Conley",20250718,"AL").
+shift_data("59576","Holly Conley",20250719,"WR").
+shift_data("59576","Holly Conley",20250720,"LD").
+shift_data("59576","Holly Conley",20250721,"SE").
+shift_data("59576","Holly Conley",20250722,"SN").
+shift_data("59576","Holly Conley",20250723,"WR").
+shift_data("59576","Holly Conley",20250724,"WR").
+shift_data("59576","Holly Conley",20250725,"D").
+shift_data("59576","Holly Conley",20250726,"LD").
+shift_data("59576","Holly Conley",20250727,"SE").
+shift_data("59576","Holly Conley",20250728,"SN").
+shift_data("59576","Holly Conley",20250729,"WR").
+shift_data("59576","Holly Conley",20250730,"LD").
+shift_data("59576","Holly Conley",20250731,"SE").
+shift_data("59576","Holly Conley",20250801,"SN").
+shift_data("59576","Holly Conley",20250802,"WR").
+shift_data("59576","Holly Conley",20250803,"D").
+shift_data("59576","Holly Conley",20250804,"LD").
+shift_data("59576","Holly Conley",20250805,"SE").
+shift_data("59576","Holly Conley",20250806,"SN").
+shift_data("59576","Holly Conley",20250807,"WR").
+shift_data("59576","Holly Conley",20250808,"D").
+shift_data("59576","Holly Conley",20250809,"WR").
+shift_data("59576","Holly Conley",20250810,"LD").
+shift_data("59576","Holly Conley",20250811,"PH").
+shift_data("59576","Holly Conley",20250812,"D").
+shift_data("59576","Holly Conley",20250813,"WR").
+shift_data("59576","Holly Conley",20250814,"WR").
+shift_data("59576","Holly Conley",20250815,"SE").
+shift_data("59576","Holly Conley",20250816,"SN").
+shift_data("59576","Holly Conley",20250817,"WR").
+shift_data("59576","Holly Conley",20250818,"LD").
+shift_data("59576","Holly Conley",20250819,"SE").
+shift_data("59576","Holly Conley",20250820,"SN").
+shift_data("59576","Holly Conley",20250821,"SE").
+shift_data("59576","Holly Conley",20250822,"SN").
+shift_data("59576","Holly Conley",20250823,"WR").
+shift_data("59576","Holly Conley",20250824,"SE").
+shift_data("59576","Holly Conley",20250825,"SN").
+shift_data("59576","Holly Conley",20250826,"WR").
+shift_data("59576","Holly Conley",20250827,"D").
+shift_data("59576","Holly Conley",20250828,"LD").
+shift_data("59576","Holly Conley",20250829,"WR").
+shift_data("59576","Holly Conley",20250830,"WR").
+shift_data("59576","Holly Conley",20250831,"D").
+shift_data("59576","Holly Conley",20250901,"D").
+shift_data("59576","Holly Conley",20250902,"LD").
+shift_data("59576","Holly Conley",20250903,"SE").
+shift_data("59576","Holly Conley",20250904,"SN").
+shift_data("59576","Holly Conley",20250905,"WR").
+shift_data("59576","Holly Conley",20250906,"LD").
+shift_data("59576","Holly Conley",20250907,"WR").
+shift_data("59576","Holly Conley",20250908,"D").
+shift_data("59576","Holly Conley",20250909,"D").
+shift_data("59576","Holly Conley",20250910,"WR").
+shift_data("59576","Holly Conley",20250911,"LD").
+shift_data("59576","Holly Conley",20250912,"LM").
+shift_data("59576","Holly Conley",20250913,"SE").
+shift_data("59576","Holly Conley",20250914,"SN").
+shift_data("59576","Holly Conley",20250915,"PH").
+shift_data("59576","Holly Conley",20250916,"D").
+shift_data("59576","Holly Conley",20250917,"LD").
+shift_data("59576","Holly Conley",20250918,"SE").
+shift_data("59576","Holly Conley",20250919,"SN").
+shift_data("59576","Holly Conley",20250920,"WR").
+shift_data("59576","Holly Conley",20250921,"WR").
+shift_data("59576","Holly Conley",20250922,"LD").
+shift_data("59576","Holly Conley",20250923,"SE").
+shift_data("59576","Holly Conley",20250924,"SN").
+shift_data("59576","Holly Conley",20250925,"WR").
+shift_data("59576","Holly Conley",20250926,"LD").
+shift_data("59576","Holly Conley",20250927,"SE").
+shift_data("59576","Holly Conley",20250928,"SN").
+shift_data("59576","Holly Conley",20250929,"WR").
+shift_data("59576","Holly Conley",20250930,"D").
+shift_data("59576","Holly Conley",20251001,"LD").
+shift_data("59576","Holly Conley",20251002,"LM").
+shift_data("59576","Holly Conley",20251003,"WR").
+shift_data("59576","Holly Conley",20251004,"WR").
+shift_data("59576","Holly Conley",20251005,"SE").
+shift_data("59576","Holly Conley",20251006,"SN").
+shift_data("59576","Holly Conley",20251007,"SE").
+shift_data("59576","Holly Conley",20251008,"SN").
+shift_data("59576","Holly Conley",20251009,"WR").
+shift_data("59576","Holly Conley",20251010,"LD").
+shift_data("59576","Holly Conley",20251011,"WR").
+shift_data("59576","Holly Conley",20251012,"WR").
+shift_data("59576","Holly Conley",20251013,"LD").
+shift_data("59576","Holly Conley",20251014,"WR").
+shift_data("59576","Holly Conley",20251015,"SE").
+shift_data("59576","Holly Conley",20251016,"SN").
+shift_data("59576","Holly Conley",20251017,"WR").
+shift_data("59576","Holly Conley",20251018,"AL").
+shift_data("59576","Holly Conley",20251019,"LD").
+shift_data("59576","Holly Conley",20251020,"SE").
+shift_data("59576","Holly Conley",20251021,"SN").
+shift_data("59576","Holly Conley",20251022,"WR").
+shift_data("59576","Holly Conley",20251023,"LD").
+shift_data("59576","Holly Conley",20251024,"WR").
+shift_data("59576","Holly Conley",20251025,"D").
+shift_data("59576","Holly Conley",20251026,"AL").
+shift_data("59576","Holly Conley",20251027,"LD").
+shift_data("59576","Holly Conley",20251028,"SE").
+shift_data("59576","Holly Conley",20251029,"SN").
+shift_data("59576","Holly Conley",20251030,"WR").
+shift_data("59576","Holly Conley",20251031,"WR").
+shift_data("59576","Holly Conley",20251101,"SE").
+shift_data("59576","Holly Conley",20251102,"SN").
+shift_data("59576","Holly Conley",20251103,"PH").
+shift_data("59576","Holly Conley",20251104,"D").
+shift_data("59576","Holly Conley",20251105,"LD").
+shift_data("59576","Holly Conley",20251106,"WR").
+shift_data("59576","Holly Conley",20251107,"D").
+shift_data("59576","Holly Conley",20251108,"SE").
+shift_data("59576","Holly Conley",20251109,"SN").
+shift_data("59576","Holly Conley",20251110,"WR").
+shift_data("59576","Holly Conley",20251111,"SE").
+shift_data("59576","Holly Conley",20251112,"SN").
+shift_data("59576","Holly Conley",20251113,"WR").
+shift_data("59576","Holly Conley",20251114,"D").
+shift_data("59576","Holly Conley",20251115,"LD").
+shift_data("59576","Holly Conley",20251116,"SE").
+shift_data("59576","Holly Conley",20251117,"SN").
+shift_data("59576","Holly Conley",20251118,"WR").
+shift_data("59576","Holly Conley",20251119,"LD").
+shift_data("59576","Holly Conley",20251120,"SE").
+shift_data("59576","Holly Conley",20251121,"SN").
+shift_data("59576","Holly Conley",20251122,"HL").
+shift_data("59576","Holly Conley",20251123,"HL").
+shift_data("59576","Holly Conley",20251124,"PH").
+shift_data("59576","Holly Conley",20251125,"WR").
+shift_data("59576","Holly Conley",20251126,"WR").
+shift_data("59576","Holly Conley",20251127,"D").
+shift_data("59576","Holly Conley",20251128,"LD").
+shift_data("59576","Holly Conley",20251129,"WR").
+shift_data("59576","Holly Conley",20251130,"WR").
+shift_data("59576","Holly Conley",20251201,"LD").
+shift_data("59576","Holly Conley",20251202,"SE").
+shift_data("59576","Holly Conley",20251203,"SN").
+shift_data("59576","Holly Conley",20251204,"WR").
+shift_data("59576","Holly Conley",20251205,"LD").
+shift_data("59576","Holly Conley",20251206,"SE").
+shift_data("59576","Holly Conley",20251207,"SN").
+shift_data("59576","Holly Conley",20251208,"WR").
+shift_data("59576","Holly Conley",20251209,"WR").
+shift_data("59576","Holly Conley",20251210,"D").
+shift_data("59576","Holly Conley",20251211,"WR").
+shift_data("59576","Holly Conley",20251212,"LD").
+shift_data("59576","Holly Conley",20251213,"WR").
+shift_data("59576","Holly Conley",20251214,"WR").
+shift_data("59576","Holly Conley",20251215,"D").
+shift_data("59576","Holly Conley",20251216,"D").
+shift_data("59576","Holly Conley",20251217,"D").
+shift_data("59576","Holly Conley",20251218,"D").
+shift_data("59576","Holly Conley",20251219,"LD").
+shift_data("59576","Holly Conley",20251220,"WR").
+shift_data("59576","Holly Conley",20251221,"SE").
+shift_data("59576","Holly Conley",20251222,"SN").
+shift_data("59576","Holly Conley",20251223,"WR").
+shift_data("59576","Holly Conley",20251224,"LD").
+shift_data("59576","Holly Conley",20251225,"SE").
+shift_data("59576","Holly Conley",20251226,"SN").
+shift_data("59576","Holly Conley",20251227,"WR").
+shift_data("59576","Holly Conley",20251228,"D").
+shift_data("59576","Holly Conley",20251229,"PH").
+shift_data("59576","Holly Conley",20251230,"PH").
+shift_data("59576","Holly Conley",20251231,"LD").
+shift_data("42386","Kim Morton",20250401,"SE").
+shift_data("42386","Kim Morton",20250402,"SN").
+shift_data("42386","Kim Morton",20250403,"WR").
+shift_data("42386","Kim Morton",20250404,"SE").
+shift_data("42386","Kim Morton",20250405,"SN").
+shift_data("42386","Kim Morton",20250406,"WR").
+shift_data("42386","Kim Morton",20250407,"D").
+shift_data("42386","Kim Morton",20250408,"LD").
+shift_data("42386","Kim Morton",20250409,"SE").
+shift_data("42386","Kim Morton",20250410,"SN").
+shift_data("42386","Kim Morton",20250411,"WR").
+shift_data("42386","Kim Morton",20250412,"LD").
+shift_data("42386","Kim Morton",20250413,"WR").
+shift_data("42386","Kim Morton",20250414,"LD").
+shift_data("42386","Kim Morton",20250415,"SE").
+shift_data("42386","Kim Morton",20250416,"SN").
+shift_data("42386","Kim Morton",20250417,"WR").
+shift_data("42386","Kim Morton",20250418,"LD").
+shift_data("42386","Kim Morton",20250419,"SE").
+shift_data("42386","Kim Morton",20250420,"SN").
+shift_data("42386","Kim Morton",20250421,"WR").
+shift_data("42386","Kim Morton",20250422,"LD").
+shift_data("42386","Kim Morton",20250423,"SE").
+shift_data("42386","Kim Morton",20250424,"SN").
+shift_data("42386","Kim Morton",20250425,"WR").
+shift_data("42386","Kim Morton",20250426,"D").
+shift_data("42386","Kim Morton",20250427,"SE").
+shift_data("42386","Kim Morton",20250428,"SN").
+shift_data("42386","Kim Morton",20250429,"PH").
+shift_data("42386","Kim Morton",20250430,"LM").
+shift_data("42386","Kim Morton",20250501,"SE").
+shift_data("42386","Kim Morton",20250502,"SN").
+shift_data("42386","Kim Morton",20250503,"WR").
+shift_data("42386","Kim Morton",20250504,"WR").
+shift_data("42386","Kim Morton",20250505,"LD").
+shift_data("42386","Kim Morton",20250506,"SE").
+shift_data("42386","Kim Morton",20250507,"SN").
+shift_data("42386","Kim Morton",20250508,"WR").
+shift_data("42386","Kim Morton",20250509,"D").
+shift_data("42386","Kim Morton",20250510,"WR").
+shift_data("42386","Kim Morton",20250511,"LD").
+shift_data("42386","Kim Morton",20250512,"WR").
+shift_data("42386","Kim Morton",20250513,"LD").
+shift_data("42386","Kim Morton",20250514,"SE").
+shift_data("42386","Kim Morton",20250515,"SN").
+shift_data("42386","Kim Morton",20250516,"WR").
+shift_data("42386","Kim Morton",20250517,"AL").
+shift_data("42386","Kim Morton",20250518,"AL").
+shift_data("42386","Kim Morton",20250519,"LD").
+shift_data("42386","Kim Morton",20250520,"WR").
+shift_data("42386","Kim Morton",20250521,"LD").
+shift_data("42386","Kim Morton",20250522,"SE").
+shift_data("42386","Kim Morton",20250523,"SN").
+shift_data("42386","Kim Morton",20250524,"WR").
+shift_data("42386","Kim Morton",20250525,"D").
+shift_data("42386","Kim Morton",20250526,"LD").
+shift_data("42386","Kim Morton",20250527,"SE").
+shift_data("42386","Kim Morton",20250528,"SN").
+shift_data("42386","Kim Morton",20250529,"WR").
+shift_data("42386","Kim Morton",20250530,"WR").
+shift_data("42386","Kim Morton",20250531,"LD").
+shift_data("42386","Kim Morton",20250601,"SE").
+shift_data("42386","Kim Morton",20250602,"SN").
+shift_data("42386","Kim Morton",20250603,"WR").
+shift_data("42386","Kim Morton",20250604,"D").
+shift_data("42386","Kim Morton",20250605,"LD").
+shift_data("42386","Kim Morton",20250606,"WR").
+shift_data("42386","Kim Morton",20250607,"LD").
+shift_data("42386","Kim Morton",20250608,"WR").
+shift_data("42386","Kim Morton",20250609,"WR").
+shift_data("42386","Kim Morton",20250610,"SE").
+shift_data("42386","Kim Morton",20250611,"SN").
+shift_data("42386","Kim Morton",20250612,"WR").
+shift_data("42386","Kim Morton",20250613,"LD").
+shift_data("42386","Kim Morton",20250614,"SE").
+shift_data("42386","Kim Morton",20250615,"SN").
+shift_data("42386","Kim Morton",20250616,"WR").
+shift_data("42386","Kim Morton",20250617,"LD").
+shift_data("42386","Kim Morton",20250618,"SE").
+shift_data("42386","Kim Morton",20250619,"SN").
+shift_data("42386","Kim Morton",20250620,"SE").
+shift_data("42386","Kim Morton",20250621,"SN").
+shift_data("42386","Kim Morton",20250622,"WR").
+shift_data("42386","Kim Morton",20250623,"LD").
+shift_data("42386","Kim Morton",20250624,"SE").
+shift_data("42386","Kim Morton",20250625,"SN").
+shift_data("42386","Kim Morton",20250626,"WR").
+shift_data("42386","Kim Morton",20250627,"D").
+shift_data("42386","Kim Morton",20250628,"LD").
+shift_data("42386","Kim Morton",20250629,"WR").
+shift_data("42386","Kim Morton",20250630,"D").
+shift_data("42386","Kim Morton",20250701,"D").
+shift_data("42386","Kim Morton",20250702,"SE").
+shift_data("42386","Kim Morton",20250703,"SN").
+shift_data("42386","Kim Morton",20250704,"WR").
+shift_data("42386","Kim Morton",20250705,"WR").
+shift_data("42386","Kim Morton",20250706,"LD").
+shift_data("42386","Kim Morton",20250707,"SE").
+shift_data("42386","Kim Morton",20250708,"SN").
+shift_data("42386","Kim Morton",20250709,"SE").
+shift_data("42386","Kim Morton",20250710,"SN").
+shift_data("42386","Kim Morton",20250711,"WR").
+shift_data("42386","Kim Morton",20250712,"LD").
+shift_data("42386","Kim Morton",20250713,"WR").
+shift_data("42386","Kim Morton",20250714,"LD").
+shift_data("42386","Kim Morton",20250715,"WR").
+shift_data("42386","Kim Morton",20250716,"LD").
+shift_data("42386","Kim Morton",20250717,"SE").
+shift_data("42386","Kim Morton",20250718,"SN").
+shift_data("42386","Kim Morton",20250719,"SE").
+shift_data("42386","Kim Morton",20250720,"SN").
+shift_data("42386","Kim Morton",20250721,"PH").
+shift_data("42386","Kim Morton",20250722,"SE").
+shift_data("42386","Kim Morton",20250723,"SN").
+shift_data("42386","Kim Morton",20250724,"WR").
+shift_data("42386","Kim Morton",20250725,"AL").
+shift_data("42386","Kim Morton",20250726,"HL").
+shift_data("42386","Kim Morton",20250727,"WR").
+shift_data("42386","Kim Morton",20250728,"LD").
+shift_data("42386","Kim Morton",20250729,"SE").
+shift_data("42386","Kim Morton",20250730,"SN").
+shift_data("42386","Kim Morton",20250731,"WR").
+shift_data("42386","Kim Morton",20250801,"LD").
+shift_data("42386","Kim Morton",20250802,"WR").
+shift_data("42386","Kim Morton",20250803,"LD").
+shift_data("42386","Kim Morton",20250804,"SE").
+shift_data("42386","Kim Morton",20250805,"SN").
+shift_data("42386","Kim Morton",20250806,"WR").
+shift_data("42386","Kim Morton",20250807,"SE").
+shift_data("42386","Kim Morton",20250808,"SN").
+shift_data("42386","Kim Morton",20250809,"SE").
+shift_data("42386","Kim Morton",20250810,"SN").
+shift_data("42386","Kim Morton",20250811,"PH").
+shift_data("42386","Kim Morton",20250812,"WR").
+shift_data("42386","Kim Morton",20250813,"LD").
+shift_data("42386","Kim Morton",20250814,"WR").
+shift_data("42386","Kim Morton",20250815,"LD").
+shift_data("42386","Kim Morton",20250816,"WR").
+shift_data("18555","Eric Wilkinson",20250401,"LD").
+shift_data("18555","Eric Wilkinson",20250402,"SE").
+shift_data("18555","Eric Wilkinson",20250403,"SN").
+shift_data("18555","Eric Wilkinson",20250404,"WR").
+shift_data("18555","Eric Wilkinson",20250405,"LD").
+shift_data("18555","Eric Wilkinson",20250406,"SE").
+shift_data("18555","Eric Wilkinson",20250407,"SN").
+shift_data("18555","Eric Wilkinson",20250408,"SE").
+shift_data("18555","Eric Wilkinson",20250409,"SN").
+shift_data("18555","Eric Wilkinson",20250410,"WR").
+shift_data("18555","Eric Wilkinson",20250411,"D").
+shift_data("18555","Eric Wilkinson",20250412,"D").
+shift_data("18555","Eric Wilkinson",20250413,"D").
+shift_data("18555","Eric Wilkinson",20250414,"WR").
+shift_data("18555","Eric Wilkinson",20250415,"LD").
+shift_data("18555","Eric Wilkinson",20250416,"WR").
+shift_data("18555","Eric Wilkinson",20250417,"LD").
+shift_data("18555","Eric Wilkinson",20250418,"SE").
+shift_data("18555","Eric Wilkinson",20250419,"SN").
+shift_data("18555","Eric Wilkinson",20250420,"SE").
+shift_data("18555","Eric Wilkinson",20250421,"SN").
+shift_data("18555","Eric Wilkinson",20250422,"WR").
+shift_data("18555","Eric Wilkinson",20250423,"LD").
+shift_data("18555","Eric Wilkinson",20250424,"WR").
+shift_data("18555","Eric Wilkinson",20250425,"WR").
+shift_data("18555","Eric Wilkinson",20250426,"SE").
+shift_data("18555","Eric Wilkinson",20250427,"SN").
+shift_data("18555","Eric Wilkinson",20250428,"SE").
+shift_data("18555","Eric Wilkinson",20250429,"SN").
+shift_data("18555","Eric Wilkinson",20250430,"WR").
+shift_data("18555","Eric Wilkinson",20250501,"LD").
+shift_data("18555","Eric Wilkinson",20250502,"WR").
+shift_data("18555","Eric Wilkinson",20250503,"SE").
+shift_data("18555","Eric Wilkinson",20250504,"SN").
+shift_data("18555","Eric Wilkinson",20250505,"PH").
+shift_data("18555","Eric Wilkinson",20250506,"LD").
+shift_data("18555","Eric Wilkinson",20250507,"WR").
+shift_data("18555","Eric Wilkinson",20250508,"LD").
+shift_data("18555","Eric Wilkinson",20250509,"SE").
+shift_data("18555","Eric Wilkinson",20250510,"SN").
+shift_data("18555","Eric Wilkinson",20250511,"WR").
+shift_data("18555","Eric Wilkinson",20250512,"SE").
+shift_data("18555","Eric Wilkinson",20250513,"SN").
+shift_data("18555","Eric Wilkinson",20250514,"WR").
+shift_data("18555","Eric Wilkinson",20250515,"WR").
+shift_data("18555","Eric Wilkinson",20250516,"LD").
+shift_data("18555","Eric Wilkinson",20250517,"SE").
+shift_data("18555","Eric Wilkinson",20250518,"SN").
+shift_data("18555","Eric Wilkinson",20250519,"SE").
+shift_data("18555","Eric Wilkinson",20250520,"SN").
+shift_data("18555","Eric Wilkinson",20250521,"WR").
+shift_data("18555","Eric Wilkinson",20250522,"LD").
+shift_data("18555","Eric Wilkinson",20250523,"WR").
+shift_data("18555","Eric Wilkinson",20250524,"LD").
+shift_data("18555","Eric Wilkinson",20250525,"AL").
+shift_data("18555","Eric Wilkinson",20250526,"SE").
+shift_data("18555","Eric Wilkinson",20250527,"SN").
+shift_data("18555","Eric Wilkinson",20250528,"WR").
+shift_data("18555","Eric Wilkinson",20250529,"WR").
+shift_data("18555","Eric Wilkinson",20250530,"D").
+shift_data("18555","Eric Wilkinson",20250531,"SE").
+shift_data("18555","Eric Wilkinson",20250601,"SN").
+shift_data("18555","Eric Wilkinson",20250602,"SE").
+shift_data("18555","Eric Wilkinson",20250603,"SN").
+shift_data("18555","Eric Wilkinson",20250604,"WR").
+shift_data("18555","Eric Wilkinson",20250605,"D").
+shift_data("18555","Eric Wilkinson",20250606,"LD").
+shift_data("18555","Eric Wilkinson",20250607,"SE").
+shift_data("18555","Eric Wilkinson",20250608,"SN").
+shift_data("18555","Eric Wilkinson",20250609,"WR").
+shift_data("18555","Eric Wilkinson",20250610,"LD").
+shift_data("18555","Eric Wilkinson",20250611,"WR").
+shift_data("18555","Eric Wilkinson",20250612,"LD").
+shift_data("18555","Eric Wilkinson",20250613,"WR").
+shift_data("18555","Eric Wilkinson",20250614,"D").
+shift_data("18555","Eric Wilkinson",20250615,"AL").
+shift_data("18555","Eric Wilkinson",20250616,"LD").
+shift_data("18555","Eric Wilkinson",20250617,"SE").
+shift_data("18555","Eric Wilkinson",20250618,"SN").
+shift_data("18555","Eric Wilkinson",20250619,"WR").
+shift_data("18555","Eric Wilkinson",20250620,"LD").
+shift_data("18555","Eric Wilkinson",20250621,"WR").
+shift_data("18555","Eric Wilkinson",20250622,"LD").
+shift_data("18555","Eric Wilkinson",20250623,"SE").
+shift_data("18555","Eric Wilkinson",20250624,"SN").
+shift_data("18555","Eric Wilkinson",20250625,"WR").
+shift_data("18555","Eric Wilkinson",20250626,"LD").
+shift_data("18555","Eric Wilkinson",20250627,"AL").
+shift_data("18555","Eric Wilkinson",20250628,"WR").
+shift_data("18555","Eric Wilkinson",20250629,"SE").
+shift_data("18555","Eric Wilkinson",20250630,"SN").
+shift_data("18555","Eric Wilkinson",20250701,"WR").
+shift_data("18555","Eric Wilkinson",20250702,"SE").
+shift_data("18555","Eric Wilkinson",20250703,"SN").
+shift_data("18555","Eric Wilkinson",20250704,"WR").
+shift_data("18555","Eric Wilkinson",20250705,"LD").
+shift_data("18555","Eric Wilkinson",20250706,"SE").
+shift_data("18555","Eric Wilkinson",20250707,"SN").
+shift_data("18555","Eric Wilkinson",20250708,"WR").
+shift_data("18555","Eric Wilkinson",20250709,"LD").
+shift_data("18555","Eric Wilkinson",20250710,"SE").
+shift_data("18555","Eric Wilkinson",20250711,"SN").
+shift_data("18555","Eric Wilkinson",20250712,"WR").
+shift_data("18555","Eric Wilkinson",20250713,"WR").
+shift_data("18555","Eric Wilkinson",20250714,"D").
+shift_data("18555","Eric Wilkinson",20250715,"LD").
+shift_data("18555","Eric Wilkinson",20250716,"WR").
+shift_data("18555","Eric Wilkinson",20250717,"LD").
+shift_data("18555","Eric Wilkinson",20250718,"SE").
+shift_data("18555","Eric Wilkinson",20250719,"SN").
+shift_data("18555","Eric Wilkinson",20250720,"SE").
+shift_data("18555","Eric Wilkinson",20250721,"SN").
+shift_data("18555","Eric Wilkinson",20250722,"WR").
+shift_data("18555","Eric Wilkinson",20250723,"LD").
+shift_data("18555","Eric Wilkinson",20250724,"SE").
+shift_data("18555","Eric Wilkinson",20250725,"SN").
+shift_data("18555","Eric Wilkinson",20250726,"WR").
+shift_data("18555","Eric Wilkinson",20250727,"LD").
+shift_data("18555","Eric Wilkinson",20250728,"SE").
+shift_data("18555","Eric Wilkinson",20250729,"SN").
+shift_data("18555","Eric Wilkinson",20250730,"WR").
+shift_data("18555","Eric Wilkinson",20250731,"LD").
+shift_data("18555","Eric Wilkinson",20250801,"SE").
+shift_data("18555","Eric Wilkinson",20250802,"SN").
+shift_data("18555","Eric Wilkinson",20250803,"SE").
+shift_data("18555","Eric Wilkinson",20250804,"SN").
+shift_data("18555","Eric Wilkinson",20250805,"WR").
+shift_data("18555","Eric Wilkinson",20250806,"D").
+shift_data("18555","Eric Wilkinson",20250807,"LD").
+shift_data("18555","Eric Wilkinson",20250808,"SE").
+shift_data("18555","Eric Wilkinson",20250809,"SN").
+shift_data("18555","Eric Wilkinson",20250810,"WR").
+shift_data("18555","Eric Wilkinson",20250811,"PH").
+shift_data("18555","Eric Wilkinson",20250812,"LD").
+shift_data("18555","Eric Wilkinson",20250813,"WR").
+shift_data("18555","Eric Wilkinson",20250814,"LD").
+shift_data("18555","Eric Wilkinson",20250815,"WR").
+shift_data("18555","Eric Wilkinson",20250816,"WR").
+shift_data("18555","Eric Wilkinson",20250817,"LD").
+shift_data("18555","Eric Wilkinson",20250818,"SE").
+shift_data("18555","Eric Wilkinson",20250819,"SN").
+shift_data("18555","Eric Wilkinson",20250820,"WR").
+shift_data("18555","Eric Wilkinson",20250821,"LD").
+shift_data("18555","Eric Wilkinson",20250822,"SE").
+shift_data("18555","Eric Wilkinson",20250823,"SN").
+shift_data("18555","Eric Wilkinson",20250824,"WR").
+shift_data("18555","Eric Wilkinson",20250825,"LM").
+shift_data("18555","Eric Wilkinson",20250826,"SE").
+shift_data("18555","Eric Wilkinson",20250827,"SN").
+shift_data("18555","Eric Wilkinson",20250828,"WR").
+shift_data("18555","Eric Wilkinson",20250829,"WR").
+shift_data("18555","Eric Wilkinson",20250830,"HL").
+shift_data("18555","Eric Wilkinson",20250831,"AL").
+shift_data("18555","Eric Wilkinson",20250901,"D").
+shift_data("18555","Eric Wilkinson",20250902,"WR").
+shift_data("18555","Eric Wilkinson",20250903,"LD").
+shift_data("18555","Eric Wilkinson",20250904,"LM").
+shift_data("18555","Eric Wilkinson",20250905,"SE").
+shift_data("18555","Eric Wilkinson",20250906,"SN").
+shift_data("18555","Eric Wilkinson",20250907,"WR").
+shift_data("18555","Eric Wilkinson",20250908,"LD").
+shift_data("18555","Eric Wilkinson",20250909,"SE").
+shift_data("18555","Eric Wilkinson",20250910,"SN").
+shift_data("18555","Eric Wilkinson",20250911,"WR").
+shift_data("18555","Eric Wilkinson",20250912,"WR").
+shift_data("18555","Eric Wilkinson",20250913,"LD").
+shift_data("18555","Eric Wilkinson",20250914,"SE").
+shift_data("18555","Eric Wilkinson",20250915,"SN").
+shift_data("18555","Eric Wilkinson",20250916,"WR").
+shift_data("18555","Eric Wilkinson",20250917,"LD").
+shift_data("18555","Eric Wilkinson",20250918,"SE").
+shift_data("18555","Eric Wilkinson",20250919,"SN").
+shift_data("18555","Eric Wilkinson",20250920,"WR").
+shift_data("18555","Eric Wilkinson",20250921,"D").
+shift_data("18555","Eric Wilkinson",20250922,"D").
+shift_data("18555","Eric Wilkinson",20250923,"SE").
+shift_data("18555","Eric Wilkinson",20250924,"SN").
+shift_data("18555","Eric Wilkinson",20250925,"WR").
+shift_data("18555","Eric Wilkinson",20250926,"D").
+shift_data("18555","Eric Wilkinson",20250927,"TR").
+shift_data("18555","Eric Wilkinson",20250928,"HL").
+shift_data("18555","Eric Wilkinson",20250929,"WR").
+shift_data("18555","Eric Wilkinson",20250930,"LD").
+shift_data("18555","Eric Wilkinson",20251001,"SE").
+shift_data("18555","Eric Wilkinson",20251002,"SN").
+shift_data("18555","Eric Wilkinson",20251003,"WR").
+shift_data("18555","Eric Wilkinson",20251004,"WR").
+shift_data("18555","Eric Wilkinson",20251005,"LD").
+shift_data("18555","Eric Wilkinson",20251006,"WR").
+shift_data("18555","Eric Wilkinson",20251007,"LD").
+shift_data("18555","Eric Wilkinson",20251008,"SE").
+shift_data("18555","Eric Wilkinson",20251009,"SN").
+shift_data("18555","Eric Wilkinson",20251010,"WR").
+shift_data("18555","Eric Wilkinson",20251011,"LD").
+shift_data("18555","Eric Wilkinson",20251012,"SE").
+shift_data("18555","Eric Wilkinson",20251013,"SN").
+shift_data("18555","Eric Wilkinson",20251014,"WR").
+shift_data("18555","Eric Wilkinson",20251015,"LD").
+shift_data("18555","Eric Wilkinson",20251016,"SE").
+shift_data("18555","Eric Wilkinson",20251017,"SN").
+shift_data("18555","Eric Wilkinson",20251018,"SE").
+shift_data("18555","Eric Wilkinson",20251019,"SN").
+shift_data("18555","Eric Wilkinson",20251020,"WR").
+shift_data("18555","Eric Wilkinson",20251021,"LD").
+shift_data("18555","Eric Wilkinson",20251022,"WR").
+shift_data("18555","Eric Wilkinson",20251023,"D").
+shift_data("18555","Eric Wilkinson",20251024,"WR").
+shift_data("18555","Eric Wilkinson",20251025,"HL").
+shift_data("18555","Eric Wilkinson",20251026,"AL").
+shift_data("18555","Eric Wilkinson",20251027,"TR").
+shift_data("18555","Eric Wilkinson",20251028,"LD").
+shift_data("18555","Eric Wilkinson",20251029,"WR").
+shift_data("18555","Eric Wilkinson",20251030,"WR").
+shift_data("18555","Eric Wilkinson",20251031,"D").
+shift_data("18555","Eric Wilkinson",20251101,"LD").
+shift_data("18555","Eric Wilkinson",20251102,"WR").
+shift_data("18555","Eric Wilkinson",20251103,"LD").
+shift_data("18555","Eric Wilkinson",20251104,"SE").
+shift_data("18555","Eric Wilkinson",20251105,"SN").
+shift_data("18555","Eric Wilkinson",20251106,"SE").
+shift_data("18555","Eric Wilkinson",20251107,"SN").
+shift_data("18555","Eric Wilkinson",20251108,"WR").
+shift_data("18555","Eric Wilkinson",20251109,"LD").
+shift_data("18555","Eric Wilkinson",20251110,"SE").
+shift_data("18555","Eric Wilkinson",20251111,"SN").
+shift_data("18555","Eric Wilkinson",20251112,"WR").
+shift_data("18555","Eric Wilkinson",20251113,"SE").
+shift_data("18555","Eric Wilkinson",20251114,"SN").
+shift_data("18555","Eric Wilkinson",20251115,"WR").
+shift_data("18555","Eric Wilkinson",20251116,"LD").
+shift_data("18555","Eric Wilkinson",20251117,"SE").
+shift_data("18555","Eric Wilkinson",20251118,"SN").
+shift_data("18555","Eric Wilkinson",20251119,"AL").
+shift_data("18555","Eric Wilkinson",20251120,"WR").
+shift_data("18555","Eric Wilkinson",20251121,"LD").
+shift_data("18555","Eric Wilkinson",20251122,"SE").
+shift_data("18555","Eric Wilkinson",20251123,"SN").
+shift_data("18555","Eric Wilkinson",20251124,"PH").
+shift_data("18555","Eric Wilkinson",20251125,"WR").
+shift_data("18555","Eric Wilkinson",20251126,"WR").
+shift_data("18555","Eric Wilkinson",20251127,"WR").
+shift_data("18555","Eric Wilkinson",20251128,"TR").
+shift_data("18555","Eric Wilkinson",20251129,"D").
+shift_data("18555","Eric Wilkinson",20251130,"WR").
+shift_data("18555","Eric Wilkinson",20251201,"D").
+shift_data("18555","Eric Wilkinson",20251202,"D").
+shift_data("18555","Eric Wilkinson",20251203,"D").
+shift_data("18555","Eric Wilkinson",20251204,"D").
+shift_data("18555","Eric Wilkinson",20251205,"LD").
+shift_data("18555","Eric Wilkinson",20251206,"WR").
+shift_data("18555","Eric Wilkinson",20251207,"SE").
+shift_data("18555","Eric Wilkinson",20251208,"SN").
+shift_data("18555","Eric Wilkinson",20251209,"WR").
+shift_data("18555","Eric Wilkinson",20251210,"LD").
+shift_data("18555","Eric Wilkinson",20251211,"SE").
+shift_data("18555","Eric Wilkinson",20251212,"SN").
+shift_data("18555","Eric Wilkinson",20251213,"SE").
+shift_data("18555","Eric Wilkinson",20251214,"SN").
+shift_data("18555","Eric Wilkinson",20251215,"WR").
+shift_data("18555","Eric Wilkinson",20251216,"TR").
+shift_data("18555","Eric Wilkinson",20251217,"WR").
+shift_data("18555","Eric Wilkinson",20251218,"WR").
+shift_data("18555","Eric Wilkinson",20251219,"WR").
+shift_data("18555","Eric Wilkinson",20251220,"LD").
+shift_data("18555","Eric Wilkinson",20251221,"LM").
+shift_data("18555","Eric Wilkinson",20251222,"WR").
+shift_data("18555","Eric Wilkinson",20251223,"WR").
+shift_data("18555","Eric Wilkinson",20251224,"D").
+shift_data("18555","Eric Wilkinson",20251225,"LD").
+shift_data("18555","Eric Wilkinson",20251226,"SE").
+shift_data("18555","Eric Wilkinson",20251227,"SN").
+shift_data("18555","Eric Wilkinson",20251228,"WR").
+shift_data("18555","Eric Wilkinson",20251229,"PH").
+shift_data("18555","Eric Wilkinson",20251230,"LD").
+shift_data("18555","Eric Wilkinson",20251231,"SE").
+shift_data("34054","Jane Taylor",20250401,"SN").
+shift_data("34054","Jane Taylor",20250402,"SE").
+shift_data("34054","Jane Taylor",20250403,"SN").
+shift_data("34054","Jane Taylor",20250404,"WR").
+shift_data("34054","Jane Taylor",20250405,"LD").
+shift_data("34054","Jane Taylor",20250406,"WR").
+shift_data("34054","Jane Taylor",20250407,"LD").
+shift_data("34054","Jane Taylor",20250408,"WR").
+shift_data("34054","Jane Taylor",20250409,"LD").
+shift_data("34054","Jane Taylor",20250410,"SE").
+shift_data("34054","Jane Taylor",20250411,"SN").
+shift_data("34054","Jane Taylor",20250412,"WR").
+shift_data("34054","Jane Taylor",20250413,"WR").
+shift_data("34054","Jane Taylor",20250414,"LD").
+shift_data("34054","Jane Taylor",20250415,"SE").
+shift_data("34054","Jane Taylor",20250416,"SN").
+shift_data("34054","Jane Taylor",20250417,"WR").
+shift_data("34054","Jane Taylor",20250418,"D").
+shift_data("34054","Jane Taylor",20250419,"AL").
+shift_data("34054","Jane Taylor",20250420,"LD").
+shift_data("34054","Jane Taylor",20250421,"SE").
+shift_data("34054","Jane Taylor",20250422,"SN").
+shift_data("34054","Jane Taylor",20250423,"WR").
+shift_data("34054","Jane Taylor",20250424,"LD").
+shift_data("34054","Jane Taylor",20250425,"SE").
+shift_data("34054","Jane Taylor",20250426,"SN").
+shift_data("34054","Jane Taylor",20250427,"WR").
+shift_data("34054","Jane Taylor",20250428,"LD").
+shift_data("34054","Jane Taylor",20250429,"PH").
+shift_data("34054","Jane Taylor",20250430,"WR").
+shift_data("34054","Jane Taylor",20250501,"WR").
+shift_data("34054","Jane Taylor",20250502,"LD").
+shift_data("34054","Jane Taylor",20250503,"SE").
+shift_data("34054","Jane Taylor",20250504,"SN").
+shift_data("34054","Jane Taylor",20250505,"PH").
+shift_data("34054","Jane Taylor",20250506,"LD").
+shift_data("34054","Jane Taylor",20250507,"SE").
+shift_data("34054","Jane Taylor",20250508,"SN").
+shift_data("34054","Jane Taylor",20250509,"SE").
+shift_data("34054","Jane Taylor",20250510,"SN").
+shift_data("34054","Jane Taylor",20250511,"WR").
+shift_data("34054","Jane Taylor",20250512,"WR").
+shift_data("34054","Jane Taylor",20250513,"LD").
+shift_data("34054","Jane Taylor",20250514,"WR").
+shift_data("34054","Jane Taylor",20250515,"LD").
+shift_data("34054","Jane Taylor",20250516,"SE").
+shift_data("34054","Jane Taylor",20250517,"SN").
+shift_data("34054","Jane Taylor",20250518,"WR").
+shift_data("34054","Jane Taylor",20250519,"LD").
+shift_data("34054","Jane Taylor",20250520,"SE").
+shift_data("34054","Jane Taylor",20250521,"SN").
+shift_data("34054","Jane Taylor",20250522,"SE").
+shift_data("34054","Jane Taylor",20250523,"SN").
+shift_data("34054","Jane Taylor",20250524,"WR").
+shift_data("34054","Jane Taylor",20250525,"LD").
+shift_data("34054","Jane Taylor",20250526,"SE").
+shift_data("34054","Jane Taylor",20250527,"SN").
+shift_data("34054","Jane Taylor",20250528,"WR").
+shift_data("34054","Jane Taylor",20250529,"LD").
+shift_data("34054","Jane Taylor",20250530,"SE").
+shift_data("34054","Jane Taylor",20250531,"SN").
+shift_data("34054","Jane Taylor",20250601,"WR").
+shift_data("34054","Jane Taylor",20250602,"WR").
+shift_data("34054","Jane Taylor",20250603,"LD").
+shift_data("34054","Jane Taylor",20250604,"SE").
+shift_data("34054","Jane Taylor",20250605,"SN").
+shift_data("34054","Jane Taylor",20250606,"SE").
+shift_data("34054","Jane Taylor",20250607,"SN").
+shift_data("34054","Jane Taylor",20250608,"WR").
+shift_data("34054","Jane Taylor",20250609,"LD").
+shift_data("34054","Jane Taylor",20250610,"WR").
+shift_data("34054","Jane Taylor",20250611,"WR").
+shift_data("34054","Jane Taylor",20250612,"LD").
+shift_data("34054","Jane Taylor",20250613,"SE").
+shift_data("34054","Jane Taylor",20250614,"SN").
+shift_data("34054","Jane Taylor",20250615,"WR").
+shift_data("34054","Jane Taylor",20250616,"BL").
+shift_data("34054","Jane Taylor",20250617,"WR").
+shift_data("34054","Jane Taylor",20250618,"D").
+shift_data("34054","Jane Taylor",20250619,"LD").
+shift_data("34054","Jane Taylor",20250620,"SE").
+shift_data("34054","Jane Taylor",20250621,"SN").
+shift_data("34054","Jane Taylor",20250622,"WR").
+shift_data("34054","Jane Taylor",20250623,"LD").
+shift_data("34054","Jane Taylor",20250624,"SE").
+shift_data("34054","Jane Taylor",20250625,"SN").
+shift_data("34054","Jane Taylor",20250626,"SE").
+shift_data("34054","Jane Taylor",20250627,"SN").
+shift_data("34054","Jane Taylor",20250628,"WR").
+shift_data("34054","Jane Taylor",20250629,"LD").
+shift_data("34054","Jane Taylor",20250630,"SE").
+shift_data("34054","Jane Taylor",20250701,"SN").
+shift_data("34054","Jane Taylor",20250702,"WR").
+shift_data("34054","Jane Taylor",20250703,"D").
+shift_data("34054","Jane Taylor",20250704,"LD").
+shift_data("34054","Jane Taylor",20250705,"SE").
+shift_data("34054","Jane Taylor",20250706,"SN").
+shift_data("34054","Jane Taylor",20250707,"WR").
+shift_data("34054","Jane Taylor",20250708,"LD").
+shift_data("34054","Jane Taylor",20250709,"SE").
+shift_data("34054","Jane Taylor",20250710,"SN").
+shift_data("34054","Jane Taylor",20250711,"WR").
+shift_data("34054","Jane Taylor",20250712,"WR").
+shift_data("34054","Jane Taylor",20250713,"SE").
+shift_data("34054","Jane Taylor",20250714,"SN").
+shift_data("34054","Jane Taylor",20250715,"WR").
+shift_data("34054","Jane Taylor",20250716,"LD").
+shift_data("34054","Jane Taylor",20250717,"WR").
+shift_data("34054","Jane Taylor",20250718,"AL").
+shift_data("34054","Jane Taylor",20250719,"LD").
+shift_data("34054","Jane Taylor",20250720,"HL").
+shift_data("34054","Jane Taylor",20250721,"PH").
+shift_data("34054","Jane Taylor",20250722,"WR").
+shift_data("34054","Jane Taylor",20250723,"LD").
+shift_data("34054","Jane Taylor",20250724,"SE").
+shift_data("34054","Jane Taylor",20250725,"SN").
+shift_data("34054","Jane Taylor",20250726,"SE").
+shift_data("34054","Jane Taylor",20250727,"SN").
+shift_data("34054","Jane Taylor",20250728,"WR").
+shift_data("34054","Jane Taylor",20250729,"D").
+shift_data("34054","Jane Taylor",20250730,"SE").
+shift_data("34054","Jane Taylor",20250731,"SN").
+shift_data("34054","Jane Taylor",20250801,"WR").
+shift_data("34054","Jane Taylor",20250802,"LD").
+shift_data("34054","Jane Taylor",20250803,"WR").
+shift_data("34054","Jane Taylor",20250804,"LD").
+shift_data("34054","Jane Taylor",20250805,"WR").
+shift_data("34054","Jane Taylor",20250806,"D").
+shift_data("34054","Jane Taylor",20250807,"LM").
+shift_data("34054","Jane Taylor",20250808,"WR").
+shift_data("34054","Jane Taylor",20250809,"LD").
+shift_data("34054","Jane Taylor",20250810,"WR").
+shift_data("34054","Jane Taylor",20250811,"LD").
+shift_data("34054","Jane Taylor",20250812,"SE").
+shift_data("34054","Jane Taylor",20250813,"SN").
+shift_data("34054","Jane Taylor",20250814,"WR").
+shift_data("34054","Jane Taylor",20250815,"EM").
+shift_data("34054","Jane Taylor",20250816,"SE").
+shift_data("34054","Jane Taylor",20250817,"SN").
+shift_data("34054","Jane Taylor",20250818,"WR").
+shift_data("34054","Jane Taylor",20250819,"D").
+shift_data("34054","Jane Taylor",20250820,"LD").
+shift_data("34054","Jane Taylor",20250821,"SE").
+shift_data("34054","Jane Taylor",20250822,"SN").
+shift_data("34054","Jane Taylor",20250823,"WR").
+shift_data("34054","Jane Taylor",20250824,"LD").
+shift_data("34054","Jane Taylor",20250825,"SE").
+shift_data("34054","Jane Taylor",20250826,"SN").
+shift_data("34054","Jane Taylor",20250827,"WR").
+shift_data("34054","Jane Taylor",20250828,"HL").
+shift_data("34054","Jane Taylor",20250829,"HL").
+shift_data("34054","Jane Taylor",20250830,"WR").
+shift_data("34054","Jane Taylor",20250831,"LD").
+shift_data("34054","Jane Taylor",20250901,"SE").
+shift_data("34054","Jane Taylor",20250902,"SN").
+shift_data("34054","Jane Taylor",20250903,"WR").
+shift_data("34054","Jane Taylor",20250904,"D").
+shift_data("34054","Jane Taylor",20250905,"EM").
+shift_data("34054","Jane Taylor",20250906,"WR").
+shift_data("34054","Jane Taylor",20250907,"LD").
+shift_data("34054","Jane Taylor",20250908,"SE").
+shift_data("34054","Jane Taylor",20250909,"SN").
+shift_data("34054","Jane Taylor",20250910,"WR").
+shift_data("34054","Jane Taylor",20250911,"WR").
+shift_data("34054","Jane Taylor",20250912,"LD").
+shift_data("34054","Jane Taylor",20250913,"SE").
+shift_data("34054","Jane Taylor",20250914,"SN").
+shift_data("34054","Jane Taylor",20250915,"PH").
+shift_data("34054","Jane Taylor",20250916,"SE").
+shift_data("34054","Jane Taylor",20250917,"SN").
+shift_data("34054","Jane Taylor",20250918,"WR").
+shift_data("34054","Jane Taylor",20250919,"D").
+shift_data("34054","Jane Taylor",20250920,"LD").
+shift_data("34054","Jane Taylor",20250921,"WR").
+shift_data("34054","Jane Taylor",20250922,"LD").
+shift_data("34054","Jane Taylor",20250923,"SE").
+shift_data("34054","Jane Taylor",20250924,"SN").
+shift_data("34054","Jane Taylor",20250925,"WR").
+shift_data("34054","Jane Taylor",20250926,"WR").
+shift_data("34054","Jane Taylor",20250927,"LD").
+shift_data("34054","Jane Taylor",20250928,"SE").
+shift_data("34054","Jane Taylor",20250929,"SN").
+shift_data("34054","Jane Taylor",20250930,"WR").
+shift_data("34054","Jane Taylor",20251001,"D").
+shift_data("34054","Jane Taylor",20251002,"LD").
+shift_data("34054","Jane Taylor",20251003,"SE").
+shift_data("34054","Jane Taylor",20251004,"SN").
+shift_data("34054","Jane Taylor",20251005,"WR").
+shift_data("34054","Jane Taylor",20251006,"LD").
+shift_data("34054","Jane Taylor",20251007,"WR").
+shift_data("34054","Jane Taylor",20251008,"HL").
+shift_data("34054","Jane Taylor",20251009,"AL").
+shift_data("34054","Jane Taylor",20251010,"WR").
+shift_data("34054","Jane Taylor",20251011,"SE").
+shift_data("34054","Jane Taylor",20251012,"SN").
+shift_data("34054","Jane Taylor",20251013,"PH").
+shift_data("34054","Jane Taylor",20251014,"LD").
+shift_data("34054","Jane Taylor",20251015,"WR").
+shift_data("34054","Jane Taylor",20251016,"D").
+shift_data("34054","Jane Taylor",20251017,"WR").
+shift_data("34054","Jane Taylor",20251018,"LD").
+shift_data("34054","Jane Taylor",20251019,"SE").
+shift_data("34054","Jane Taylor",20251020,"SN").
+shift_data("34054","Jane Taylor",20251021,"SE").
+shift_data("34054","Jane Taylor",20251022,"SN").
+shift_data("34054","Jane Taylor",20251023,"WR").
+shift_data("34054","Jane Taylor",20251024,"LD").
+shift_data("34054","Jane Taylor",20251025,"SE").
+shift_data("34054","Jane Taylor",20251026,"SN").
+shift_data("34054","Jane Taylor",20251027,"WR").
+shift_data("34054","Jane Taylor",20251028,"LD").
+shift_data("34054","Jane Taylor",20251029,"SE").
+shift_data("34054","Jane Taylor",20251030,"SN").
+shift_data("34054","Jane Taylor",20251031,"WR").
+shift_data("34054","Jane Taylor",20251101,"D").
+shift_data("34054","Jane Taylor",20251102,"D").
+shift_data("34054","Jane Taylor",20251103,"LD").
+shift_data("34054","Jane Taylor",20251104,"WR").
+shift_data("34054","Jane Taylor",20251105,"WR").
+shift_data("34054","Jane Taylor",20251106,"SE").
+shift_data("34054","Jane Taylor",20251107,"SN").
+shift_data("34054","Jane Taylor",20251108,"WR").
+shift_data("34054","Jane Taylor",20251109,"D").
+shift_data("34054","Jane Taylor",20251110,"LD").
+shift_data("34054","Jane Taylor",20251111,"AL").
+shift_data("34054","Jane Taylor",20251112,"AL").
+shift_data("34054","Jane Taylor",20251113,"WR").
+shift_data("34054","Jane Taylor",20251114,"LD").
+shift_data("34054","Jane Taylor",20251115,"WR").
+shift_data("34054","Jane Taylor",20251116,"LD").
+shift_data("34054","Jane Taylor",20251117,"SE").
+shift_data("34054","Jane Taylor",20251118,"SN").
+shift_data("34054","Jane Taylor",20251119,"WR").
+shift_data("34054","Jane Taylor",20251120,"LM").
+shift_data("34054","Jane Taylor",20251121,"SE").
+shift_data("34054","Jane Taylor",20251122,"SN").
+shift_data("34054","Jane Taylor",20251123,"WR").
+shift_data("34054","Jane Taylor",20251124,"LD").
+shift_data("34054","Jane Taylor",20251125,"WR").
+shift_data("34054","Jane Taylor",20251126,"LD").
+shift_data("34054","Jane Taylor",20251127,"SE").
+shift_data("34054","Jane Taylor",20251128,"SN").
+shift_data("34054","Jane Taylor",20251129,"SE").
+shift_data("34054","Jane Taylor",20251130,"SN").
+shift_data("34054","Jane Taylor",20251201,"WR").
+shift_data("34054","Jane Taylor",20251202,"D").
+shift_data("34054","Jane Taylor",20251203,"D").
+shift_data("34054","Jane Taylor",20251204,"WR").
+shift_data("34054","Jane Taylor",20251205,"WR").
+shift_data("34054","Jane Taylor",20251206,"SE").
+shift_data("34054","Jane Taylor",20251207,"SN").
+shift_data("34054","Jane Taylor",20251208,"AL").
+shift_data("34054","Jane Taylor",20251209,"WR").
+shift_data("34054","Jane Taylor",20251210,"LD").
+shift_data("34054","Jane Taylor",20251211,"SE").
+shift_data("34054","Jane Taylor",20251212,"SN").
+shift_data("34054","Jane Taylor",20251213,"WR").
+shift_data("34054","Jane Taylor",20251214,"LD").
+shift_data("34054","Jane Taylor",20251215,"SE").
+shift_data("34054","Jane Taylor",20251216,"SN").
+shift_data("34054","Jane Taylor",20251217,"WR").
+shift_data("34054","Jane Taylor",20251218,"LD").
+shift_data("34054","Jane Taylor",20251219,"SE").
+shift_data("34054","Jane Taylor",20251220,"SN").
+shift_data("34054","Jane Taylor",20251221,"WR").
+shift_data("34054","Jane Taylor",20251222,"WR").
+shift_data("34054","Jane Taylor",20251223,"WR").
+shift_data("34054","Jane Taylor",20251224,"D").
+shift_data("34054","Jane Taylor",20251225,"WR").
+shift_data("34054","Jane Taylor",20251226,"WR").
+shift_data("34054","Jane Taylor",20251227,"LD").
+shift_data("34054","Jane Taylor",20251228,"SE").
+shift_data("34054","Jane Taylor",20251229,"SN").
+shift_data("34054","Jane Taylor",20251230,"PH").
+shift_data("34054","Jane Taylor",20251231,"PH").
+shift_data("89865","Mr. James Harmon",20250401,"WR").
+shift_data("89865","Mr. James Harmon",20250402,"LD").
+shift_data("89865","Mr. James Harmon",20250403,"SE").
+shift_data("89865","Mr. James Harmon",20250404,"SN").
+shift_data("89865","Mr. James Harmon",20250405,"WR").
+shift_data("89865","Mr. James Harmon",20250406,"LD").
+shift_data("89865","Mr. James Harmon",20250407,"WR").
+shift_data("89865","Mr. James Harmon",20250408,"LD").
+shift_data("89865","Mr. James Harmon",20250409,"SE").
+shift_data("89865","Mr. James Harmon",20250410,"SN").
+shift_data("89865","Mr. James Harmon",20250411,"WR").
+shift_data("89865","Mr. James Harmon",20250412,"D").
+shift_data("89865","Mr. James Harmon",20250413,"LD").
+shift_data("89865","Mr. James Harmon",20250414,"SE").
+shift_data("89865","Mr. James Harmon",20250415,"SN").
+shift_data("89865","Mr. James Harmon",20250416,"WR").
+shift_data("89865","Mr. James Harmon",20250417,"LD").
+shift_data("89865","Mr. James Harmon",20250418,"SE").
+shift_data("89865","Mr. James Harmon",20250419,"SN").
+shift_data("89865","Mr. James Harmon",20250420,"SE").
+shift_data("89865","Mr. James Harmon",20250421,"SN").
+shift_data("89865","Mr. James Harmon",20250422,"WR").
+shift_data("89865","Mr. James Harmon",20250423,"LD").
+shift_data("89865","Mr. James Harmon",20250424,"SE").
+shift_data("89865","Mr. James Harmon",20250425,"SN").
+shift_data("89865","Mr. James Harmon",20250426,"WR").
+shift_data("89865","Mr. James Harmon",20250427,"LD").
+shift_data("89865","Mr. James Harmon",20250428,"WR").
+shift_data("89865","Mr. James Harmon",20250429,"D").
+shift_data("89865","Mr. James Harmon",20250430,"LD").
+shift_data("89865","Mr. James Harmon",20250501,"SE").
+shift_data("89865","Mr. James Harmon",20250502,"SN").
+shift_data("89865","Mr. James Harmon",20250503,"AL").
+shift_data("89865","Mr. James Harmon",20250504,"WR").
+shift_data("89865","Mr. James Harmon",20250505,"LD").
+shift_data("89865","Mr. James Harmon",20250506,"SE").
+shift_data("89865","Mr. James Harmon",20250507,"SN").
+shift_data("89865","Mr. James Harmon",20250508,"WR").
+shift_data("89865","Mr. James Harmon",20250509,"WR").
+shift_data("89865","Mr. James Harmon",20250510,"WR").
+shift_data("89865","Mr. James Harmon",20250511,"LD").
+shift_data("89865","Mr. James Harmon",20250512,"SE").
+shift_data("89865","Mr. James Harmon",20250513,"SN").
+shift_data("89865","Mr. James Harmon",20250514,"SE").
+shift_data("89865","Mr. James Harmon",20250515,"SN").
+shift_data("89865","Mr. James Harmon",20250516,"WR").
+shift_data("89865","Mr. James Harmon",20250517,"LD").
+shift_data("89865","Mr. James Harmon",20250518,"WR").
+shift_data("89865","Mr. James Harmon",20250519,"SE").
+shift_data("89865","Mr. James Harmon",20250520,"SN").
+shift_data("89865","Mr. James Harmon",20250521,"WR").
+shift_data("89865","Mr. James Harmon",20250522,"LD").
+shift_data("89865","Mr. James Harmon",20250523,"SE").
+shift_data("89865","Mr. James Harmon",20250524,"SN").
+shift_data("89865","Mr. James Harmon",20250525,"SE").
+shift_data("89865","Mr. James Harmon",20250526,"SN").
+shift_data("89865","Mr. James Harmon",20250527,"WR").
+shift_data("89865","Mr. James Harmon",20250528,"LD").
+shift_data("89865","Mr. James Harmon",20250529,"WR").
+shift_data("89865","Mr. James Harmon",20250530,"D").
+shift_data("89865","Mr. James Harmon",20250531,"WR").
+shift_data("89865","Mr. James Harmon",20250601,"LD").
+shift_data("89865","Mr. James Harmon",20250602,"SE").
+shift_data("89865","Mr. James Harmon",20250603,"SN").
+shift_data("89865","Mr. James Harmon",20250604,"WR").
+shift_data("89865","Mr. James Harmon",20250605,"LD").
+shift_data("89865","Mr. James Harmon",20250606,"SE").
+shift_data("89865","Mr. James Harmon",20250607,"SN").
+shift_data("89865","Mr. James Harmon",20250608,"WR").
+shift_data("89865","Mr. James Harmon",20250609,"D").
+shift_data("89865","Mr. James Harmon",20250610,"LD").
+shift_data("89865","Mr. James Harmon",20250611,"WR").
+shift_data("89865","Mr. James Harmon",20250612,"LD").
+shift_data("89865","Mr. James Harmon",20250613,"SE").
+shift_data("89865","Mr. James Harmon",20250614,"SN").
+shift_data("89865","Mr. James Harmon",20250615,"SE").
+shift_data("89865","Mr. James Harmon",20250616,"SN").
+shift_data("89865","Mr. James Harmon",20250617,"WR").
+shift_data("89865","Mr. James Harmon",20250618,"LD").
+shift_data("89865","Mr. James Harmon",20250619,"SE").
+shift_data("89865","Mr. James Harmon",20250620,"SN").
+shift_data("89865","Mr. James Harmon",20250621,"WR").
+shift_data("89865","Mr. James Harmon",20250622,"D").
+shift_data("89865","Mr. James Harmon",20250623,"D").
+shift_data("89865","Mr. James Harmon",20250624,"LD").
+shift_data("89865","Mr. James Harmon",20250625,"WR").
+shift_data("89865","Mr. James Harmon",20250626,"LD").
+shift_data("89865","Mr. James Harmon",20250627,"WR").
+shift_data("89865","Mr. James Harmon",20250628,"SE").
+shift_data("89865","Mr. James Harmon",20250629,"SN").
+shift_data("89865","Mr. James Harmon",20250630,"WR").
+shift_data("89865","Mr. James Harmon",20250701,"LD").
+shift_data("89865","Mr. James Harmon",20250702,"WR").
+shift_data("89865","Mr. James Harmon",20250703,"D").
+shift_data("89865","Mr. James Harmon",20250704,"D").
+shift_data("89865","Mr. James Harmon",20250705,"WR").
+shift_data("89865","Mr. James Harmon",20250706,"WR").
+shift_data("89865","Mr. James Harmon",20250707,"LD").
+shift_data("89865","Mr. James Harmon",20250708,"SE").
+shift_data("89865","Mr. James Harmon",20250709,"SN").
+shift_data("89865","Mr. James Harmon",20250710,"WR").
+shift_data("89865","Mr. James Harmon",20250711,"D").
+shift_data("89865","Mr. James Harmon",20250712,"SE").
+shift_data("89865","Mr. James Harmon",20250713,"SN").
+shift_data("89865","Mr. James Harmon",20250714,"SE").
+shift_data("89865","Mr. James Harmon",20250715,"SN").
+shift_data("89865","Mr. James Harmon",20250716,"WR").
+shift_data("89865","Mr. James Harmon",20250717,"LD").
+shift_data("89865","Mr. James Harmon",20250718,"SE").
+shift_data("89865","Mr. James Harmon",20250719,"SN").
+shift_data("89865","Mr. James Harmon",20250720,"WR").
+shift_data("89865","Mr. James Harmon",20250721,"LD").
+shift_data("89865","Mr. James Harmon",20250722,"SE").
+shift_data("89865","Mr. James Harmon",20250723,"SN").
+shift_data("89865","Mr. James Harmon",20250724,"WR").
+shift_data("89865","Mr. James Harmon",20250725,"LD").
+shift_data("89865","Mr. James Harmon",20250726,"WR").
+shift_data("89865","Mr. James Harmon",20250727,"D").
+shift_data("89865","Mr. James Harmon",20250728,"D").
+shift_data("89865","Mr. James Harmon",20250729,"LD").
+shift_data("89865","Mr. James Harmon",20250730,"SE").
+shift_data("89865","Mr. James Harmon",20250731,"SN").
+shift_data("89865","Mr. James Harmon",20250801,"WR").
+shift_data("89865","Mr. James Harmon",20250802,"WR").
+shift_data("89865","Mr. James Harmon",20250803,"LD").
+shift_data("89865","Mr. James Harmon",20250804,"SE").
+shift_data("89865","Mr. James Harmon",20250805,"SN").
+shift_data("89865","Mr. James Harmon",20250806,"SE").
+shift_data("89865","Mr. James Harmon",20250807,"SN").
+shift_data("89865","Mr. James Harmon",20250808,"WR").
+shift_data("89865","Mr. James Harmon",20250809,"D").
+shift_data("89865","Mr. James Harmon",20250810,"WR").
+shift_data("89865","Mr. James Harmon",20250811,"D").
+shift_data("89865","Mr. James Harmon",20250812,"LM").
+shift_data("89865","Mr. James Harmon",20250813,"SE").
+shift_data("89865","Mr. James Harmon",20250814,"SN").
+shift_data("89865","Mr. James Harmon",20250815,"WR").
+shift_data("89865","Mr. James Harmon",20250816,"LD").
+shift_data("89865","Mr. James Harmon",20250817,"SE").
+shift_data("89865","Mr. James Harmon",20250818,"SN").
+shift_data("89865","Mr. James Harmon",20250819,"WR").
+shift_data("89865","Mr. James Harmon",20250820,"D").
+shift_data("89865","Mr. James Harmon",20250821,"LD").
+shift_data("89865","Mr. James Harmon",20250822,"SE").
+shift_data("89865","Mr. James Harmon",20250823,"SN").
+shift_data("89865","Mr. James Harmon",20250824,"WR").
+shift_data("89865","Mr. James Harmon",20250825,"D").
+shift_data("89865","Mr. James Harmon",20250826,"EM").
+shift_data("89865","Mr. James Harmon",20250827,"LD").
+shift_data("89865","Mr. James Harmon",20250828,"SE").
+shift_data("89865","Mr. James Harmon",20250829,"SN").
+shift_data("89865","Mr. James Harmon",20250830,"WR").
+shift_data("89865","Mr. James Harmon",20250831,"WR").
+shift_data("89865","Mr. James Harmon",20250901,"LD").
+shift_data("89865","Mr. James Harmon",20250902,"SE").
+shift_data("89865","Mr. James Harmon",20250903,"SN").
+shift_data("89865","Mr. James Harmon",20250904,"WR").
+shift_data("89865","Mr. James Harmon",20250905,"D").
+shift_data("89865","Mr. James Harmon",20250906,"WR").
+shift_data("89865","Mr. James Harmon",20250907,"WR").
+shift_data("89865","Mr. James Harmon",20250908,"D").
+shift_data("89865","Mr. James Harmon",20250909,"LD").
+shift_data("89865","Mr. James Harmon",20250910,"SE").
+shift_data("89865","Mr. James Harmon",20250911,"SN").
+shift_data("89865","Mr. James Harmon",20250912,"WR").
+shift_data("89865","Mr. James Harmon",20250913,"LD").
+shift_data("89865","Mr. James Harmon",20250914,"SE").
+shift_data("89865","Mr. James Harmon",20250915,"SN").
+shift_data("89865","Mr. James Harmon",20250916,"WR").
+shift_data("89865","Mr. James Harmon",20250917,"HL").
+shift_data("89865","Mr. James Harmon",20250918,"WR").
+shift_data("89865","Mr. James Harmon",20250919,"LD").
+shift_data("89865","Mr. James Harmon",20250920,"SE").
+shift_data("89865","Mr. James Harmon",20250921,"SN").
+shift_data("89865","Mr. James Harmon",20250922,"WR").
+shift_data("89865","Mr. James Harmon",20250923,"PH").
+shift_data("89865","Mr. James Harmon",20250924,"LD").
+shift_data("89865","Mr. James Harmon",20250925,"SE").
+shift_data("89865","Mr. James Harmon",20250926,"SN").
+shift_data("89865","Mr. James Harmon",20250927,"WR").
+shift_data("89865","Mr. James Harmon",20250928,"WR").
+shift_data("89865","Mr. James Harmon",20250929,"LD").
+shift_data("89865","Mr. James Harmon",20250930,"SE").
+shift_data("89865","Mr. James Harmon",20251001,"SN").
+shift_data("89865","Mr. James Harmon",20251002,"WR").
+shift_data("89865","Mr. James Harmon",20251003,"D").
+shift_data("89865","Mr. James Harmon",20251004,"LD").
+shift_data("89865","Mr. James Harmon",20251005,"SE").
+shift_data("89865","Mr. James Harmon",20251006,"SN").
+shift_data("89865","Mr. James Harmon",20251007,"WR").
+shift_data("89865","Mr. James Harmon",20251008,"HL").
+shift_data("89865","Mr. James Harmon",20251009,"HL").
+shift_data("89865","Mr. James Harmon",20251010,"WR").
+shift_data("89865","Mr. James Harmon",20251011,"LD").
+shift_data("89865","Mr. James Harmon",20251012,"WR").
+shift_data("89865","Mr. James Harmon",20251013,"PH").
+shift_data("89865","Mr. James Harmon",20251014,"SE").
+shift_data("89865","Mr. James Harmon",20251015,"SN").
+shift_data("89865","Mr. James Harmon",20251016,"AL").
+shift_data("89865","Mr. James Harmon",20251017,"AL").
+shift_data("89865","Mr. James Harmon",20251018,"WR").
+shift_data("89865","Mr. James Harmon",20251019,"WR").
+shift_data("89865","Mr. James Harmon",20251020,"LD").
+shift_data("89865","Mr. James Harmon",20251021,"SE").
+shift_data("89865","Mr. James Harmon",20251022,"SN").
+shift_data("89865","Mr. James Harmon",20251023,"SE").
+shift_data("89865","Mr. James Harmon",20251024,"SN").
+shift_data("89865","Mr. James Harmon",20251025,"WR").
+shift_data("89865","Mr. James Harmon",20251026,"LD").
+shift_data("89865","Mr. James Harmon",20251027,"WR").
+shift_data("89865","Mr. James Harmon",20251028,"D").
+shift_data("89865","Mr. James Harmon",20251029,"SE").
+shift_data("89865","Mr. James Harmon",20251030,"SN").
+shift_data("89865","Mr. James Harmon",20251031,"WR").
+shift_data("89865","Mr. James Harmon",20251101,"D").
+shift_data("89865","Mr. James Harmon",20251102,"LD").
+shift_data("89865","Mr. James Harmon",20251103,"SE").
+shift_data("89865","Mr. James Harmon",20251104,"SN").
+shift_data("89865","Mr. James Harmon",20251105,"WR").
+shift_data("89865","Mr. James Harmon",20251106,"LD").
+shift_data("89865","Mr. James Harmon",20251107,"WR").
+shift_data("89865","Mr. James Harmon",20251108,"LD").
+shift_data("89865","Mr. James Harmon",20251109,"SE").
+shift_data("89865","Mr. James Harmon",20251110,"SN").
+shift_data("89865","Mr. James Harmon",20251111,"WR").
+shift_data("89865","Mr. James Harmon",20251112,"LD").
+shift_data("89865","Mr. James Harmon",20251113,"SE").
+shift_data("89865","Mr. James Harmon",20251114,"SN").
+shift_data("89865","Mr. James Harmon",20251115,"WR").
+shift_data("89865","Mr. James Harmon",20251116,"LD").
+shift_data("89865","Mr. James Harmon",20251117,"SE").
+shift_data("89865","Mr. James Harmon",20251118,"SN").
+shift_data("89865","Mr. James Harmon",20251119,"WR").
+shift_data("89865","Mr. James Harmon",20251120,"D").
+shift_data("89865","Mr. James Harmon",20251121,"D").
+shift_data("89865","Mr. James Harmon",20251122,"D").
+shift_data("89865","Mr. James Harmon",20251123,"LD").
+shift_data("89865","Mr. James Harmon",20251124,"PH").
+shift_data("89865","Mr. James Harmon",20251125,"LD").
+shift_data("89865","Mr. James Harmon",20251126,"SE").
+shift_data("89865","Mr. James Harmon",20251127,"SN").
+shift_data("89865","Mr. James Harmon",20251128,"SE").
+shift_data("89865","Mr. James Harmon",20251129,"SN").
+shift_data("89865","Mr. James Harmon",20251130,"WR").
+shift_data("89865","Mr. James Harmon",20251201,"WR").
+shift_data("89865","Mr. James Harmon",20251202,"LD").
+shift_data("89865","Mr. James Harmon",20251203,"WR").
+shift_data("89865","Mr. James Harmon",20251204,"WR").
+shift_data("89865","Mr. James Harmon",20251205,"WR").
+shift_data("89865","Mr. James Harmon",20251206,"D").
+shift_data("89865","Mr. James Harmon",20251207,"WR").
+shift_data("89865","Mr. James Harmon",20251208,"LD").
+shift_data("89865","Mr. James Harmon",20251209,"SE").
+shift_data("89865","Mr. James Harmon",20251210,"SN").
+shift_data("89865","Mr. James Harmon",20251211,"AL").
+shift_data("89865","Mr. James Harmon",20251212,"WR").
+shift_data("89865","Mr. James Harmon",20251213,"WR").
+shift_data("89865","Mr. James Harmon",20251214,"LD").
+shift_data("89865","Mr. James Harmon",20251215,"SE").
+shift_data("89865","Mr. James Harmon",20251216,"SN").
+shift_data("89865","Mr. James Harmon",20251217,"WR").
+shift_data("89865","Mr. James Harmon",20251218,"LD").
+shift_data("89865","Mr. James Harmon",20251219,"SE").
+shift_data("89865","Mr. James Harmon",20251220,"SN").
+shift_data("89865","Mr. James Harmon",20251221,"WR").
+shift_data("89865","Mr. James Harmon",20251222,"D").
+shift_data("89865","Mr. James Harmon",20251223,"LD").
+shift_data("89865","Mr. James Harmon",20251224,"SE").
+shift_data("89865","Mr. James Harmon",20251225,"SN").
+shift_data("89865","Mr. James Harmon",20251226,"WR").
+shift_data("89865","Mr. James Harmon",20251227,"D").
+shift_data("89865","Mr. James Harmon",20251228,"WR").
+shift_data("89865","Mr. James Harmon",20251229,"PH").
+shift_data("89865","Mr. James Harmon",20251230,"LD").
+shift_data("89865","Mr. James Harmon",20251231,"SE").
+shift_data("19148","Heather Acevedo",20250401,"D").
+shift_data("19148","Heather Acevedo",20250402,"D").
+shift_data("19148","Heather Acevedo",20250403,"D").
+shift_data("19148","Heather Acevedo",20250404,"D").
+shift_data("19148","Heather Acevedo",20250405,"WR").
+shift_data("19148","Heather Acevedo",20250406,"WR").
+shift_data("19148","Heather Acevedo",20250407,"D").
+shift_data("19148","Heather Acevedo",20250408,"LD").
+shift_data("19148","Heather Acevedo",20250409,"WR").
+shift_data("19148","Heather Acevedo",20250410,"LD").
+shift_data("19148","Heather Acevedo",20250411,"WR").
+shift_data("19148","Heather Acevedo",20250412,"SE").
+shift_data("19148","Heather Acevedo",20250413,"SN").
+shift_data("19148","Heather Acevedo",20250414,"WR").
+shift_data("19148","Heather Acevedo",20250415,"D").
+shift_data("19148","Heather Acevedo",20250416,"LD").
+shift_data("19148","Heather Acevedo",20250417,"SE").
+shift_data("19148","Heather Acevedo",20250418,"SN").
+shift_data("19148","Heather Acevedo",20250419,"WR").
+shift_data("19148","Heather Acevedo",20250420,"D").
+shift_data("19148","Heather Acevedo",20250421,"D").
+shift_data("19148","Heather Acevedo",20250422,"D").
+shift_data("19148","Heather Acevedo",20250423,"WR").
+shift_data("19148","Heather Acevedo",20250424,"D").
+shift_data("19148","Heather Acevedo",20250425,"SE").
+shift_data("19148","Heather Acevedo",20250426,"SN").
+shift_data("19148","Heather Acevedo",20250427,"SE").
+shift_data("19148","Heather Acevedo",20250428,"SN").
+shift_data("19148","Heather Acevedo",20250429,"PH").
+shift_data("19148","Heather Acevedo",20250430,"WR").
+shift_data("19148","Heather Acevedo",20250501,"D").
+shift_data("19148","Heather Acevedo",20250502,"LD").
+shift_data("19148","Heather Acevedo",20250503,"SE").
+shift_data("19148","Heather Acevedo",20250504,"SN").
+shift_data("19148","Heather Acevedo",20250505,"PH").
+shift_data("19148","Heather Acevedo",20250506,"PH").
+shift_data("19148","Heather Acevedo",20250507,"D").
+shift_data("19148","Heather Acevedo",20250508,"WR").
+shift_data("19148","Heather Acevedo",20250509,"WR").
+shift_data("19148","Heather Acevedo",20250510,"D").
+shift_data("19148","Heather Acevedo",20250511,"WR").
+shift_data("19148","Heather Acevedo",20250512,"WR").
+shift_data("19148","Heather Acevedo",20250513,"WR").
+shift_data("19148","Heather Acevedo",20250514,"D").
+shift_data("19148","Heather Acevedo",20250515,"LD").
+shift_data("19148","Heather Acevedo",20250516,"WR").
+shift_data("19148","Heather Acevedo",20250517,"D").
+shift_data("19148","Heather Acevedo",20250518,"WR").
+shift_data("19148","Heather Acevedo",20250519,"SE").
+shift_data("19148","Heather Acevedo",20250520,"SN").
+shift_data("19148","Heather Acevedo",20250521,"AL").
+shift_data("19148","Heather Acevedo",20250522,"D").
+shift_data("19148","Heather Acevedo",20250523,"D").
+shift_data("19148","Heather Acevedo",20250524,"LD").
+shift_data("19148","Heather Acevedo",20250525,"SE").
+shift_data("19148","Heather Acevedo",20250526,"SN").
+shift_data("19148","Heather Acevedo",20250527,"WR").
+shift_data("19148","Heather Acevedo",20250528,"LD").
+shift_data("19148","Heather Acevedo",20250529,"WR").
+shift_data("19148","Heather Acevedo",20250530,"D").
+shift_data("19148","Heather Acevedo",20250531,"LD").
+shift_data("19148","Heather Acevedo",20250601,"SE").
+shift_data("19148","Heather Acevedo",20250602,"SN").
+shift_data("19148","Heather Acevedo",20250603,"AL").
+shift_data("19148","Heather Acevedo",20250604,"D").
+shift_data("19148","Heather Acevedo",20250605,"SE").
+shift_data("19148","Heather Acevedo",20250606,"SN").
+shift_data("19148","Heather Acevedo",20250607,"WR").
+shift_data("19148","Heather Acevedo",20250608,"WR").
+shift_data("19148","Heather Acevedo",20250609,"D").
+shift_data("19148","Heather Acevedo",20250610,"WR").
+shift_data("19148","Heather Acevedo",20250611,"D").
+shift_data("19148","Heather Acevedo",20250612,"LD").
+shift_data("19148","Heather Acevedo",20250613,"WR").
+shift_data("19148","Heather Acevedo",20250614,"D").
+shift_data("19148","Heather Acevedo",20250615,"WR").
+shift_data("19148","Heather Acevedo",20250616,"D").
+shift_data("19148","Heather Acevedo",20250617,"D").
+shift_data("19148","Heather Acevedo",20250618,"D").
+shift_data("19148","Heather Acevedo",20250619,"D").
+shift_data("19148","Heather Acevedo",20250620,"D").
+shift_data("19148","Heather Acevedo",20250621,"WR").
+shift_data("19148","Heather Acevedo",20250622,"SE").
+shift_data("19148","Heather Acevedo",20250623,"SN").
+shift_data("19148","Heather Acevedo",20250624,"WR").
+shift_data("19148","Heather Acevedo",20250625,"D").
+shift_data("19148","Heather Acevedo",20250626,"D").
+shift_data("19148","Heather Acevedo",20250627,"SE").
+shift_data("19148","Heather Acevedo",20250628,"SN").
+shift_data("19148","Heather Acevedo",20250629,"WR").
+shift_data("19148","Heather Acevedo",20250630,"LD").
+shift_data("19148","Heather Acevedo",20250701,"SE").
+shift_data("19148","Heather Acevedo",20250702,"SN").
+shift_data("19148","Heather Acevedo",20250703,"WR").
+shift_data("19148","Heather Acevedo",20250704,"D").
+shift_data("19148","Heather Acevedo",20250705,"LD").
+shift_data("19148","Heather Acevedo",20250706,"WR").
+shift_data("19148","Heather Acevedo",20250707,"LD").
+shift_data("19148","Heather Acevedo",20250708,"WR").
+shift_data("19148","Heather Acevedo",20250709,"D").
+shift_data("19148","Heather Acevedo",20250710,"D").
+shift_data("19148","Heather Acevedo",20250711,"D").
+shift_data("19148","Heather Acevedo",20250712,"WR").
+shift_data("19148","Heather Acevedo",20250713,"WR").
+shift_data("19148","Heather Acevedo",20250714,"D").
+shift_data("19148","Heather Acevedo",20250715,"WR").
+shift_data("19148","Heather Acevedo",20250716,"D").
+shift_data("19148","Heather Acevedo",20250717,"AL").
+shift_data("19148","Heather Acevedo",20250718,"D").
+shift_data("19148","Heather Acevedo",20250719,"D").
+shift_data("19148","Heather Acevedo",20250720,"D").
+shift_data("19148","Heather Acevedo",20250721,"SE").
+shift_data("19148","Heather Acevedo",20250722,"SN").
+shift_data("19148","Heather Acevedo",20250723,"WR").
+shift_data("19148","Heather Acevedo",20250724,"D").
+shift_data("19148","Heather Acevedo",20250725,"D").
+shift_data("19148","Heather Acevedo",20250726,"SE").
+shift_data("19148","Heather Acevedo",20250727,"SN").
+shift_data("19148","Heather Acevedo",20250728,"WR").
+shift_data("19148","Heather Acevedo",20250729,"D").
+shift_data("19148","Heather Acevedo",20250730,"D").
+shift_data("19148","Heather Acevedo",20250731,"LD").
+shift_data("19148","Heather Acevedo",20250801,"WR").
+shift_data("19148","Heather Acevedo",20250802,"LD").
+shift_data("19148","Heather Acevedo",20250803,"SE").
+shift_data("19148","Heather Acevedo",20250804,"SN").
+shift_data("19148","Heather Acevedo",20250805,"WR").
+shift_data("19148","Heather Acevedo",20250806,"D").
+shift_data("19148","Heather Acevedo",20250807,"D").
+shift_data("19148","Heather Acevedo",20250808,"D").
+shift_data("19148","Heather Acevedo",20250809,"D").
+shift_data("19148","Heather Acevedo",20250810,"WR").
+shift_data("19148","Heather Acevedo",20250811,"LD").
+shift_data("19148","Heather Acevedo",20250812,"WR").
+shift_data("19148","Heather Acevedo",20250813,"D").
+shift_data("19148","Heather Acevedo",20250814,"HL").
+shift_data("19148","Heather Acevedo",20250815,"WR").
+shift_data("19148","Heather Acevedo",20250816,"WR").
+shift_data("19148","Heather Acevedo",20250817,"WR").
+shift_data("19148","Heather Acevedo",20250818,"SE").
+shift_data("19148","Heather Acevedo",20250819,"SN").
+shift_data("19148","Heather Acevedo",20250820,"WR").
+shift_data("19148","Heather Acevedo",20250821,"D").
+shift_data("19148","Heather Acevedo",20250822,"D").
+shift_data("19148","Heather Acevedo",20250823,"LD").
+shift_data("19148","Heather Acevedo",20250824,"WR").
+shift_data("19148","Heather Acevedo",20250825,"D").
+shift_data("19148","Heather Acevedo",20250826,"WR").
+shift_data("19148","Heather Acevedo",20250827,"D").
+shift_data("19148","Heather Acevedo",20250828,"D").
+shift_data("19148","Heather Acevedo",20250829,"LD").
+shift_data("19148","Heather Acevedo",20250830,"SE").
+shift_data("19148","Heather Acevedo",20250831,"SN").
+shift_data("19148","Heather Acevedo",20250901,"WR").
+shift_data("19148","Heather Acevedo",20250902,"D").
+shift_data("19148","Heather Acevedo",20250903,"D").
+shift_data("19148","Heather Acevedo",20250904,"WR").
+shift_data("19148","Heather Acevedo",20250905,"D").
+shift_data("19148","Heather Acevedo",20250906,"LD").
+shift_data("19148","Heather Acevedo",20250907,"SE").
+shift_data("19148","Heather Acevedo",20250908,"SN").
+shift_data("19148","Heather Acevedo",20250909,"WR").
+shift_data("19148","Heather Acevedo",20250910,"D").
+shift_data("19148","Heather Acevedo",20250911,"D").
+shift_data("19148","Heather Acevedo",20250912,"D").
+shift_data("19148","Heather Acevedo",20250913,"WR").
+shift_data("19148","Heather Acevedo",20250914,"WR").
+shift_data("19148","Heather Acevedo",20250915,"PH").
+shift_data("19148","Heather Acevedo",20250916,"D").
+shift_data("19148","Heather Acevedo",20250917,"D").
+shift_data("19148","Heather Acevedo",20250918,"D").
+shift_data("19148","Heather Acevedo",20250919,"SE").
+shift_data("19148","Heather Acevedo",20250920,"SN").
+shift_data("19148","Heather Acevedo",20250921,"WR").
+shift_data("19148","Heather Acevedo",20250922,"D").
+shift_data("19148","Heather Acevedo",20250923,"LD").
+shift_data("19148","Heather Acevedo",20250924,"WR").
+shift_data("19148","Heather Acevedo",20250925,"D").
+shift_data("19148","Heather Acevedo",20250926,"D").
+shift_data("19148","Heather Acevedo",20250927,"WR").
+shift_data("19148","Heather Acevedo",20250928,"WR").
+shift_data("19148","Heather Acevedo",20250929,"D").
+shift_data("19148","Heather Acevedo",20250930,"D").
+shift_data("19148","Heather Acevedo",20251001,"D").
+shift_data("19148","Heather Acevedo",20251002,"D").
+shift_data("19148","Heather Acevedo",20251003,"D").
+shift_data("19148","Heather Acevedo",20251004,"WR").
+shift_data("19148","Heather Acevedo",20251005,"WR").
+shift_data("19148","Heather Acevedo",20251006,"WR").
+shift_data("19148","Heather Acevedo",20251007,"D").
+shift_data("19148","Heather Acevedo",20251008,"D").
+shift_data("19148","Heather Acevedo",20251009,"LD").
+shift_data("19148","Heather Acevedo",20251010,"SE").
+shift_data("19148","Heather Acevedo",20251011,"SN").
+shift_data("19148","Heather Acevedo",20251012,"WR").
+shift_data("19148","Heather Acevedo",20251013,"LD").
+shift_data("19148","Heather Acevedo",20251014,"WR").
+shift_data("19148","Heather Acevedo",20251015,"D").
+shift_data("19148","Heather Acevedo",20251016,"WR").
+shift_data("19148","Heather Acevedo",20251017,"D").
+shift_data("19148","Heather Acevedo",20251018,"D").
+shift_data("19148","Heather Acevedo",20251019,"WR").
+shift_data("19148","Heather Acevedo",20251020,"WR").
+shift_data("19148","Heather Acevedo",20251021,"WR").
+shift_data("19148","Heather Acevedo",20251022,"D").
+shift_data("19148","Heather Acevedo",20251023,"D").
+shift_data("19148","Heather Acevedo",20251024,"LD").
+shift_data("19148","Heather Acevedo",20251025,"LM").
+shift_data("19148","Heather Acevedo",20251026,"WR").
+shift_data("19148","Heather Acevedo",20251027,"D").
+shift_data("19148","Heather Acevedo",20251028,"SE").
+shift_data("19148","Heather Acevedo",20251029,"SN").
+shift_data("19148","Heather Acevedo",20251030,"WR").
+shift_data("19148","Heather Acevedo",20251031,"D").
+shift_data("19148","Heather Acevedo",20251101,"SE").
+shift_data("19148","Heather Acevedo",20251102,"SN").
+shift_data("19148","Heather Acevedo",20251103,"PH").
+shift_data("19148","Heather Acevedo",20251104,"D").
+shift_data("19148","Heather Acevedo",20251105,"D").
+shift_data("19148","Heather Acevedo",20251106,"LD").
+shift_data("19148","Heather Acevedo",20251107,"SE").
+shift_data("19148","Heather Acevedo",20251108,"SN").
+shift_data("19148","Heather Acevedo",20251109,"WR").
+shift_data("19148","Heather Acevedo",20251110,"D").
+shift_data("19148","Heather Acevedo",20251111,"WR").
+shift_data("19148","Heather Acevedo",20251112,"D").
+shift_data("19148","Heather Acevedo",20251113,"WR").
+shift_data("19148","Heather Acevedo",20251114,"D").
+shift_data("19148","Heather Acevedo",20251115,"WR").
+shift_data("19148","Heather Acevedo",20251116,"HL").
+shift_data("19148","Heather Acevedo",20251117,"AL").
+shift_data("19148","Heather Acevedo",20251118,"WR").
+shift_data("19148","Heather Acevedo",20251119,"D").
+shift_data("19148","Heather Acevedo",20251120,"LD").
+shift_data("19148","Heather Acevedo",20251121,"SE").
+shift_data("19148","Heather Acevedo",20251122,"SN").
+shift_data("19148","Heather Acevedo",20251123,"WR").
+shift_data("19148","Heather Acevedo",20251124,"PH").
+shift_data("19148","Heather Acevedo",20251125,"D").
+shift_data("19148","Heather Acevedo",20251126,"D").
+shift_data("19148","Heather Acevedo",20251127,"D").
+shift_data("19148","Heather Acevedo",20251128,"SE").
+shift_data("19148","Heather Acevedo",20251129,"SN").
+shift_data("19148","Heather Acevedo",20251130,"WR").
+shift_data("19148","Heather Acevedo",20251201,"D").
+shift_data("19148","Heather Acevedo",20251202,"LD").
+shift_data("19148","Heather Acevedo",20251203,"SE").
+shift_data("19148","Heather Acevedo",20251204,"SN").
+shift_data("19148","Heather Acevedo",20251205,"WR").
+shift_data("19148","Heather Acevedo",20251206,"LD").
+shift_data("19148","Heather Acevedo",20251207,"SE").
+shift_data("19148","Heather Acevedo",20251208,"SN").
+shift_data("19148","Heather Acevedo",20251209,"WR").
+shift_data("19148","Heather Acevedo",20251210,"D").
+shift_data("19148","Heather Acevedo",20251211,"LD").
+shift_data("19148","Heather Acevedo",20251212,"SE").
+shift_data("19148","Heather Acevedo",20251213,"SN").
+shift_data("19148","Heather Acevedo",20251214,"WR").
+shift_data("19148","Heather Acevedo",20251215,"D").
+shift_data("19148","Heather Acevedo",20251216,"WR").
+shift_data("19148","Heather Acevedo",20251217,"WR").
+shift_data("19148","Heather Acevedo",20251218,"LD").
+shift_data("19148","Heather Acevedo",20251219,"WR").
+shift_data("19148","Heather Acevedo",20251220,"WR").
+shift_data("19148","Heather Acevedo",20251221,"SE").
+shift_data("19148","Heather Acevedo",20251222,"SN").
+shift_data("19148","Heather Acevedo",20251223,"AL").
+shift_data("19148","Heather Acevedo",20251224,"WR").
+shift_data("19148","Heather Acevedo",20251225,"LD").
+shift_data("19148","Heather Acevedo",20251226,"AL").
+shift_data("19148","Heather Acevedo",20251227,"WR").
+shift_data("19148","Heather Acevedo",20251228,"D").
+shift_data("19148","Heather Acevedo",20251229,"D").
+shift_data("19148","Heather Acevedo",20251230,"PH").
+shift_data("19148","Heather Acevedo",20251231,"PH").
+shift_data("564088","nan",20250405,"WR").
+shift_data("564088","nan",20250406,"WR").
+shift_data("564088","nan",20250412,"WR").
+shift_data("564088","nan",20250413,"WR").
+shift_data("564088","nan",20250415,"HL").
+shift_data("564088","nan",20250419,"WR").
+shift_data("564088","nan",20250420,"WR").
+shift_data("564088","nan",20250426,"WR").
+shift_data("564088","nan",20250427,"WR").
+shift_data("564088","nan",20250429,"PH").
+shift_data("564088","nan",20250503,"WR").
+shift_data("564088","nan",20250504,"WR").
+shift_data("564088","nan",20250505,"PH").
+shift_data("564088","nan",20250506,"PH").
+shift_data("564088","nan",20250510,"WR").
+shift_data("564088","nan",20250511,"WR").
+shift_data("564088","nan",20250514,"HL").
+shift_data("564088","nan",20250517,"WR").
+shift_data("564088","nan",20250518,"WR").
+shift_data("564088","nan",20250524,"WR").
+shift_data("564088","nan",20250525,"WR").
+shift_data("564088","nan",20250531,"WR").
+shift_data("564088","nan",20250601,"WR").
+shift_data("564088","nan",20250602,"HL").
+shift_data("564088","nan",20250607,"WR").
+shift_data("564088","nan",20250608,"WR").
+shift_data("564088","nan",20250614,"WR").
+shift_data("564088","nan",20250615,"WR").
+shift_data("564088","nan",20250621,"WR").
+shift_data("564088","nan",20250622,"WR").
+shift_data("564088","nan",20250624,"AL").
+shift_data("564088","nan",20250628,"WR").
+shift_data("564088","nan",20250629,"WR").
+shift_data("564088","nan",20250705,"WR").
+shift_data("564088","nan",20250706,"WR").
+shift_data("564088","nan",20250712,"WR").
+shift_data("564088","nan",20250713,"WR").
+shift_data("564088","nan",20250715,"HL").
+shift_data("564088","nan",20250719,"WR").
+shift_data("564088","nan",20250720,"WR").
+shift_data("564088","nan",20250721,"PH").
+shift_data("564088","nan",20250726,"WR").
+shift_data("564088","nan",20250727,"WR").
+shift_data("564088","nan",20250802,"WR").
+shift_data("564088","nan",20250803,"WR").
+shift_data("564088","nan",20250809,"WR").
+shift_data("564088","nan",20250810,"WR").
+shift_data("564088","nan",20250811,"PH").
+shift_data("564088","nan",20250814,"AL").
+shift_data("564088","nan",20250815,"AL").
+shift_data("564088","nan",20250816,"WR").
+shift_data("564088","nan",20250817,"WR").
+shift_data("564088","nan",20250823,"WR").
+shift_data("564088","nan",20250824,"WR").
+shift_data("564088","nan",20250830,"WR").
+shift_data("564088","nan",20250831,"WR").
+shift_data("564088","nan",20250906,"WR").
+shift_data("564088","nan",20250907,"WR").
+shift_data("564088","nan",20250912,"AL").
+shift_data("564088","nan",20250913,"WR").
+shift_data("564088","nan",20250914,"WR").
+shift_data("564088","nan",20250915,"PH").
+shift_data("564088","nan",20250920,"WR").
+shift_data("564088","nan",20250921,"WR").
+shift_data("564088","nan",20250923,"PH").
+shift_data("564088","nan",20250927,"WR").
+shift_data("564088","nan",20250928,"WR").
+shift_data("564088","nan",20251004,"WR").
+shift_data("564088","nan",20251005,"WR").
+shift_data("564088","nan",20251011,"WR").
+shift_data("564088","nan",20251012,"WR").
+shift_data("564088","nan",20251013,"PH").
+shift_data("564088","nan",20251018,"WR").
+shift_data("564088","nan",20251019,"WR").
+shift_data("564088","nan",20251025,"WR").
+shift_data("564088","nan",20251026,"WR").
+shift_data("564088","nan",20251030,"AL").
+shift_data("564088","nan",20251101,"WR").
+shift_data("564088","nan",20251102,"WR").
+shift_data("564088","nan",20251103,"PH").
+shift_data("564088","nan",20251108,"WR").
+shift_data("564088","nan",20251109,"WR").
+shift_data("564088","nan",20251113,"AL").
+shift_data("564088","nan",20251115,"WR").
+shift_data("564088","nan",20251116,"WR").
+shift_data("564088","nan",20251122,"WR").
+shift_data("564088","nan",20251123,"WR").
+shift_data("564088","nan",20251124,"PH").
+shift_data("564088","nan",20251129,"WR").
+shift_data("564088","nan",20251130,"WR").
+shift_data("564088","nan",20251202,"AL").
+shift_data("564088","nan",20251206,"WR").
+shift_data("564088","nan",20251207,"WR").
+shift_data("564088","nan",20251213,"WR").
+shift_data("564088","nan",20251214,"WR").
+shift_data("564088","nan",20251220,"WR").
+shift_data("564088","nan",20251221,"WR").
+shift_data("564088","nan",20251225,"AL").
+shift_data("564088","nan",20251227,"WR").
+shift_data("564088","nan",20251228,"WR").
+shift_data("564088","nan",20251229,"PH").
+shift_data("564088","nan",20251230,"PH").
+shift_data("564088","nan",20251231,"PH").
+shift_data("67379","Tristan Perkins",20250405,"WR").
+shift_data("67379","Tristan Perkins",20250406,"WR").
+shift_data("67379","Tristan Perkins",20250412,"WR").
+shift_data("67379","Tristan Perkins",20250413,"WR").
+shift_data("67379","Tristan Perkins",20250419,"WR").
+shift_data("67379","Tristan Perkins",20250420,"WR").
+shift_data("67379","Tristan Perkins",20250426,"WR").
+shift_data("67379","Tristan Perkins",20250427,"WR").
+shift_data("67379","Tristan Perkins",20250429,"PH").
+shift_data("67379","Tristan Perkins",20250503,"WR").
+shift_data("67379","Tristan Perkins",20250504,"WR").
+shift_data("67379","Tristan Perkins",20250505,"PH").
+shift_data("67379","Tristan Perkins",20250506,"PH").
+shift_data("67379","Tristan Perkins",20250510,"WR").
+shift_data("67379","Tristan Perkins",20250511,"WR").
+shift_data("67379","Tristan Perkins",20250517,"WR").
+shift_data("67379","Tristan Perkins",20250518,"WR").
+shift_data("67379","Tristan Perkins",20250524,"WR").
+shift_data("67379","Tristan Perkins",20250525,"WR").
+shift_data("67379","Tristan Perkins",20250531,"WR").
+shift_data("67379","Tristan Perkins",20250601,"WR").
+shift_data("67379","Tristan Perkins",20250607,"WR").
+shift_data("67379","Tristan Perkins",20250608,"WR").
+shift_data("67379","Tristan Perkins",20250614,"WR").
+shift_data("67379","Tristan Perkins",20250615,"WR").
+shift_data("67379","Tristan Perkins",20250621,"WR").
+shift_data("67379","Tristan Perkins",20250622,"WR").
+shift_data("67379","Tristan Perkins",20250628,"WR").
+shift_data("67379","Tristan Perkins",20250629,"WR").
+shift_data("67379","Tristan Perkins",20250705,"WR").
+shift_data("67379","Tristan Perkins",20250706,"WR").
+shift_data("67379","Tristan Perkins",20250712,"WR").
+shift_data("67379","Tristan Perkins",20250713,"WR").
+shift_data("67379","Tristan Perkins",20250719,"WR").
+shift_data("67379","Tristan Perkins",20250720,"WR").
+shift_data("67379","Tristan Perkins",20250721,"PH").
+shift_data("67379","Tristan Perkins",20250726,"WR").
+shift_data("67379","Tristan Perkins",20250727,"WR").
+shift_data("67379","Tristan Perkins",20250802,"WR").
+shift_data("67379","Tristan Perkins",20250803,"WR").
+shift_data("67379","Tristan Perkins",20250809,"WR").
+shift_data("67379","Tristan Perkins",20250810,"WR").
+shift_data("67379","Tristan Perkins",20250811,"PH").
+shift_data("67379","Tristan Perkins",20250816,"WR").
+shift_data("67379","Tristan Perkins",20250817,"WR").
+shift_data("67379","Tristan Perkins",20250823,"WR").
+shift_data("67379","Tristan Perkins",20250824,"WR").
+shift_data("67379","Tristan Perkins",20250830,"WR").
+shift_data("67379","Tristan Perkins",20250831,"WR").
+shift_data("67379","Tristan Perkins",20250906,"WR").
+shift_data("67379","Tristan Perkins",20250907,"WR").
+shift_data("67379","Tristan Perkins",20250913,"WR").
+shift_data("67379","Tristan Perkins",20250914,"WR").
+shift_data("67379","Tristan Perkins",20250915,"PH").
+shift_data("67379","Tristan Perkins",20250920,"WR").
+shift_data("67379","Tristan Perkins",20250921,"WR").
+shift_data("67379","Tristan Perkins",20250923,"PH").
+shift_data("67379","Tristan Perkins",20250927,"WR").
+shift_data("67379","Tristan Perkins",20250928,"WR").
+shift_data("67379","Tristan Perkins",20251004,"WR").
+shift_data("67379","Tristan Perkins",20251005,"WR").
+shift_data("67379","Tristan Perkins",20251011,"WR").
+shift_data("67379","Tristan Perkins",20251012,"WR").
+shift_data("67379","Tristan Perkins",20251013,"PH").
+shift_data("67379","Tristan Perkins",20251018,"WR").
+shift_data("67379","Tristan Perkins",20251019,"WR").
+shift_data("67379","Tristan Perkins",20251025,"WR").
+shift_data("67379","Tristan Perkins",20251026,"WR").
+shift_data("67379","Tristan Perkins",20251101,"WR").
+shift_data("67379","Tristan Perkins",20251102,"WR").
+shift_data("67379","Tristan Perkins",20251103,"PH").
+shift_data("67379","Tristan Perkins",20251108,"WR").
+shift_data("67379","Tristan Perkins",20251109,"WR").
+shift_data("67379","Tristan Perkins",20251115,"WR").
+shift_data("67379","Tristan Perkins",20251116,"WR").
+shift_data("67379","Tristan Perkins",20251120,"AL").
+shift_data("67379","Tristan Perkins",20251122,"WR").
+shift_data("67379","Tristan Perkins",20251123,"WR").
+shift_data("67379","Tristan Perkins",20251124,"PH").
+shift_data("67379","Tristan Perkins",20251129,"WR").
+shift_data("67379","Tristan Perkins",20251130,"WR").
+shift_data("67379","Tristan Perkins",20251206,"WR").
+shift_data("67379","Tristan Perkins",20251207,"WR").
+shift_data("67379","Tristan Perkins",20251213,"WR").
+shift_data("67379","Tristan Perkins",20251214,"WR").
+shift_data("67379","Tristan Perkins",20251220,"WR").
+shift_data("67379","Tristan Perkins",20251221,"WR").
+shift_data("67379","Tristan Perkins",20251227,"WR").
+shift_data("67379","Tristan Perkins",20251228,"WR").
+shift_data("67379","Tristan Perkins",20251229,"PH").
+shift_data("67379","Tristan Perkins",20251230,"PH").
+shift_data("67379","Tristan Perkins",20251231,"PH").
+shift_data("606231","nan",20250401,"D").
+shift_data("606231","nan",20250402,"D").
+shift_data("606231","nan",20250403,"D").
+shift_data("606231","nan",20250404,"D").
+shift_data("606231","nan",20250405,"WR").
+shift_data("606231","nan",20250406,"WR").
+shift_data("606231","nan",20250407,"D").
+shift_data("606231","nan",20250408,"D").
+shift_data("606231","nan",20250409,"D").
+shift_data("606231","nan",20250410,"D").
+shift_data("606231","nan",20250411,"D").
+shift_data("606231","nan",20250412,"WR").
+shift_data("606231","nan",20250413,"WR").
+shift_data("606231","nan",20250414,"D").
+shift_data("606231","nan",20250415,"D").
+shift_data("606231","nan",20250416,"D").
+shift_data("606231","nan",20250417,"D").
+shift_data("606231","nan",20250418,"D").
+shift_data("606231","nan",20250419,"WR").
+shift_data("606231","nan",20250420,"WR").
+shift_data("606231","nan",20250421,"D").
+shift_data("606231","nan",20250422,"D").
+shift_data("606231","nan",20250423,"D").
+shift_data("606231","nan",20250424,"D").
+shift_data("606231","nan",20250425,"D").
+shift_data("606231","nan",20250426,"WR").
+shift_data("606231","nan",20250427,"WR").
+shift_data("606231","nan",20250428,"D").
+shift_data("606231","nan",20250429,"PH").
+shift_data("606231","nan",20250430,"D").
+shift_data("606231","nan",20250501,"D").
+shift_data("606231","nan",20250502,"D").
+shift_data("606231","nan",20250503,"WR").
+shift_data("606231","nan",20250504,"D").
+shift_data("606231","nan",20250505,"PH").
+shift_data("606231","nan",20250506,"PH").
+shift_data("606231","nan",20250507,"WR").
+shift_data("606231","nan",20250508,"WR").
+shift_data("606231","nan",20250509,"LD").
+shift_data("606231","nan",20250510,"SE").
+shift_data("606231","nan",20250511,"SN").
+shift_data("606231","nan",20250512,"WR").
+shift_data("606231","nan",20250513,"D").
+shift_data("606231","nan",20250514,"D").
+shift_data("606231","nan",20250515,"D").
+shift_data("606231","nan",20250516,"D").
+shift_data("606231","nan",20250517,"WR").
+shift_data("606231","nan",20250518,"WR").
+shift_data("606231","nan",20250519,"D").
+shift_data("606231","nan",20250520,"D").
+shift_data("606231","nan",20250521,"D").
+shift_data("606231","nan",20250522,"D").
+shift_data("606231","nan",20250523,"D").
+shift_data("606231","nan",20250524,"WR").
+shift_data("606231","nan",20250525,"WR").
+shift_data("606231","nan",20250526,"D").
+shift_data("606231","nan",20250527,"D").
+shift_data("606231","nan",20250528,"D").
+shift_data("606231","nan",20250529,"D").
+shift_data("606231","nan",20250530,"D").
+shift_data("606231","nan",20250531,"WR").
+shift_data("606231","nan",20250601,"D").
+shift_data("606231","nan",20250602,"WR").
+shift_data("606231","nan",20250603,"BL").
+shift_data("606231","nan",20250604,"LD").
+shift_data("606231","nan",20250605,"SE").
+shift_data("606231","nan",20250606,"SN").
+shift_data("606231","nan",20250607,"WR").
+shift_data("606231","nan",20250608,"WR").
+shift_data("606231","nan",20250609,"D").
+shift_data("606231","nan",20250610,"D").
+shift_data("606231","nan",20250611,"D").
+shift_data("606231","nan",20250612,"D").
+shift_data("606231","nan",20250613,"D").
+shift_data("606231","nan",20250614,"WR").
+shift_data("606231","nan",20250615,"D").
+shift_data("606231","nan",20250616,"WR").
+shift_data("606231","nan",20250617,"D").
+shift_data("606231","nan",20250618,"WR").
+shift_data("606231","nan",20250619,"D").
+shift_data("606231","nan",20250620,"LD").
+shift_data("606231","nan",20250621,"SE").
+shift_data("606231","nan",20250622,"SN").
+shift_data("606231","nan",20250623,"WR").
+shift_data("606231","nan",20250624,"D").
+shift_data("606231","nan",20250625,"D").
+shift_data("606231","nan",20250626,"D").
+shift_data("606231","nan",20250627,"WR").
+shift_data("606231","nan",20250628,"D").
+shift_data("606231","nan",20250629,"WR").
+shift_data("606231","nan",20250630,"D").
+shift_data("606231","nan",20250701,"LD").
+shift_data("606231","nan",20250702,"SE").
+shift_data("606231","nan",20250703,"SN").
+shift_data("606231","nan",20250704,"WR").
+shift_data("606231","nan",20250705,"WR").
+shift_data("606231","nan",20250706,"D").
+shift_data("606231","nan",20250707,"WR").
+shift_data("606231","nan",20250708,"D").
+shift_data("606231","nan",20250709,"WR").
+shift_data("606231","nan",20250710,"D").
+shift_data("606231","nan",20250711,"LD").
+shift_data("606231","nan",20250712,"SE").
+shift_data("606231","nan",20250713,"SN").
+shift_data("606231","nan",20250714,"WR").
+shift_data("606231","nan",20250715,"D").
+shift_data("606231","nan",20250716,"D").
+shift_data("606231","nan",20250717,"D").
+shift_data("606231","nan",20250718,"D").
+shift_data("606231","nan",20250719,"D").
+shift_data("606231","nan",20250720,"WR").
+shift_data("606231","nan",20250721,"PH").
+shift_data("606231","nan",20250722,"D").
+shift_data("606231","nan",20250723,"D").
+shift_data("606231","nan",20250724,"LD").
+shift_data("606231","nan",20250725,"SE").
+shift_data("606231","nan",20250726,"SN").
+shift_data("606231","nan",20250727,"WR").
+shift_data("606231","nan",20250728,"D").
+shift_data("606231","nan",20250729,"D").
+shift_data("606231","nan",20250730,"WR").
+shift_data("606231","nan",20250731,"D").
+shift_data("606231","nan",20250801,"LD").
+shift_data("606231","nan",20250802,"SE").
+shift_data("606231","nan",20250803,"SN").
+shift_data("606231","nan",20250804,"WR").
+shift_data("606231","nan",20250805,"WR").
+shift_data("606231","nan",20250806,"D").
+shift_data("606231","nan",20250807,"WR").
+shift_data("606231","nan",20250808,"D").
+shift_data("606231","nan",20250809,"LD").
+shift_data("606231","nan",20250810,"SE").
+shift_data("606231","nan",20250811,"SN").
+shift_data("606231","nan",20250812,"WR").
+shift_data("606231","nan",20250813,"D").
+shift_data("606231","nan",20250814,"D").
+shift_data("606231","nan",20250815,"D").
+shift_data("606231","nan",20250816,"WR").
+shift_data("606231","nan",20250817,"LD").
+shift_data("606231","nan",20250818,"SE").
+shift_data("606231","nan",20250819,"SN").
+shift_data("606231","nan",20250820,"WR").
+shift_data("606231","nan",20250821,"D").
+shift_data("606231","nan",20250822,"D").
+shift_data("606231","nan",20250823,"D").
+shift_data("606231","nan",20250824,"WR").
+shift_data("606231","nan",20250825,"WR").
+shift_data("606231","nan",20250826,"D").
+shift_data("606231","nan",20250827,"AL").
+shift_data("606231","nan",20250828,"WR").
+shift_data("606231","nan",20250829,"LD").
+shift_data("606231","nan",20250830,"SE").
+shift_data("606231","nan",20250831,"SN").
+shift_data("606231","nan",20250901,"WR").
+shift_data("606231","nan",20250902,"D").
+shift_data("606231","nan",20250903,"D").
+shift_data("606231","nan",20250904,"D").
+shift_data("606231","nan",20250905,"LD").
+shift_data("606231","nan",20250906,"WR").
+shift_data("606231","nan",20250907,"D").
+shift_data("606231","nan",20250908,"WR").
+shift_data("606231","nan",20250909,"WR").
+shift_data("606231","nan",20250910,"D").
+shift_data("606231","nan",20250911,"D").
+shift_data("606231","nan",20250912,"SE").
+shift_data("606231","nan",20250913,"SN").
+shift_data("606231","nan",20250914,"WR").
+shift_data("606231","nan",20250915,"PH").
+shift_data("606231","nan",20250916,"HL").
+shift_data("606231","nan",20250917,"WR").
+shift_data("606231","nan",20250918,"WR").
+shift_data("606231","nan",20250919,"LD").
+shift_data("606231","nan",20250920,"SE").
+shift_data("606231","nan",20250921,"SN").
+shift_data("606231","nan",20250922,"WR").
+shift_data("606231","nan",20250923,"LD").
+shift_data("606231","nan",20250924,"SE").
+shift_data("606231","nan",20250925,"SN").
+shift_data("606231","nan",20250926,"WR").
+shift_data("606231","nan",20250927,"D").
+shift_data("606231","nan",20250928,"D").
+shift_data("606231","nan",20250929,"D").
+shift_data("606231","nan",20250930,"LM").
+shift_data("606231","nan",20251001,"WR").
+shift_data("606231","nan",20251002,"LD").
+shift_data("606231","nan",20251003,"SE").
+shift_data("606231","nan",20251004,"SN").
+shift_data("606231","nan",20251005,"WR").
+shift_data("606231","nan",20251006,"D").
+shift_data("606231","nan",20251007,"D").
+shift_data("606231","nan",20251008,"LD").
+shift_data("606231","nan",20251009,"SE").
+shift_data("606231","nan",20251010,"SN").
+shift_data("606231","nan",20251011,"WR").
+shift_data("606231","nan",20251012,"WR").
+shift_data("606231","nan",20251013,"LD").
+shift_data("606231","nan",20251014,"SE").
+shift_data("606231","nan",20251015,"SN").
+shift_data("606231","nan",20251016,"WR").
+shift_data("606231","nan",20251017,"SL").
+shift_data("606231","nan",20251018,"LD").
+shift_data("606231","nan",20251019,"WR").
+shift_data("606231","nan",20251020,"WR").
+shift_data("606231","nan",20251021,"D").
+shift_data("606231","nan",20251022,"D").
+shift_data("606231","nan",20251023,"D").
+shift_data("606231","nan",20251024,"WR").
+shift_data("606231","nan",20251025,"SE").
+shift_data("606231","nan",20251026,"SN").
+shift_data("606231","nan",20251027,"AL").
+shift_data("606231","nan",20251028,"AL").
+shift_data("606231","nan",20251029,"D").
+shift_data("606231","nan",20251030,"WR").
+shift_data("606231","nan",20251031,"SE").
+shift_data("606231","nan",20251101,"SN").
+shift_data("606231","nan",20251102,"WR").
+shift_data("606231","nan",20251103,"D").
+shift_data("606231","nan",20251104,"LD").
+shift_data("606231","nan",20251105,"WR").
+shift_data("606231","nan",20251106,"D").
+shift_data("606231","nan",20251107,"LD").
+shift_data("606231","nan",20251108,"SE").
+shift_data("606231","nan",20251109,"SN").
+shift_data("606231","nan",20251110,"WR").
+shift_data("606231","nan",20251111,"WR").
+shift_data("606231","nan",20251112,"LD").
+shift_data("606231","nan",20251113,"SE").
+shift_data("606231","nan",20251114,"SN").
+shift_data("606231","nan",20251115,"HL").
+shift_data("606231","nan",20251116,"AL").
+shift_data("606231","nan",20251117,"AL").
+shift_data("606231","nan",20251118,"D").
+shift_data("606231","nan",20251119,"SE").
+shift_data("606231","nan",20251120,"SN").
+shift_data("606231","nan",20251121,"WR").
+shift_data("606231","nan",20251122,"WR").
+shift_data("606231","nan",20251123,"LD").
+shift_data("606231","nan",20251124,"PH").
+shift_data("606231","nan",20251125,"LD").
+shift_data("606231","nan",20251126,"SE").
+shift_data("606231","nan",20251127,"SN").
+shift_data("606231","nan",20251128,"WR").
+shift_data("606231","nan",20251129,"D").
+shift_data("606231","nan",20251130,"D").
+shift_data("606231","nan",20251201,"LD").
+shift_data("606231","nan",20251202,"SE").
+shift_data("606231","nan",20251203,"SN").
+shift_data("606231","nan",20251204,"WR").
+shift_data("606231","nan",20251205,"WR").
+shift_data("606231","nan",20251206,"WR").
+shift_data("606231","nan",20251207,"D").
+shift_data("606231","nan",20251208,"D").
+shift_data("606231","nan",20251209,"LD").
+shift_data("606231","nan",20251210,"WR").
+shift_data("606231","nan",20251211,"WR").
+shift_data("606231","nan",20251212,"D").
+shift_data("606231","nan",20251213,"LD").
+shift_data("606231","nan",20251214,"SE").
+shift_data("606231","nan",20251215,"SN").
+shift_data("606231","nan",20251216,"WR").
+shift_data("606231","nan",20251217,"D").
+shift_data("606231","nan",20251218,"D").
+shift_data("606231","nan",20251219,"LD").
+shift_data("606231","nan",20251220,"SE").
+shift_data("606231","nan",20251221,"SN").
+shift_data("606231","nan",20251222,"WR").
+shift_data("606231","nan",20251223,"WR").
+shift_data("606231","nan",20251224,"SE").
+shift_data("606231","nan",20251225,"SN").
+shift_data("606231","nan",20251226,"WR").
+shift_data("606231","nan",20251227,"D").
+shift_data("606231","nan",20251228,"WR").
+shift_data("606231","nan",20251229,"D").
+shift_data("606231","nan",20251230,"PH").
+shift_data("606231","nan",20251231,"PH").
+shift_data("606377","nan",20250401,"D").
+shift_data("606377","nan",20250402,"D").
+shift_data("606377","nan",20250403,"D").
+shift_data("606377","nan",20250404,"D").
+shift_data("606377","nan",20250405,"WR").
+shift_data("606377","nan",20250406,"WR").
+shift_data("606377","nan",20250407,"D").
+shift_data("606377","nan",20250408,"D").
+shift_data("606377","nan",20250409,"D").
+shift_data("606377","nan",20250410,"D").
+shift_data("606377","nan",20250411,"D").
+shift_data("606377","nan",20250412,"WR").
+shift_data("606377","nan",20250413,"WR").
+shift_data("606377","nan",20250414,"D").
+shift_data("606377","nan",20250415,"D").
+shift_data("606377","nan",20250416,"D").
+shift_data("606377","nan",20250417,"D").
+shift_data("606377","nan",20250418,"D").
+shift_data("606377","nan",20250419,"WR").
+shift_data("606377","nan",20250420,"WR").
+shift_data("606377","nan",20250421,"D").
+shift_data("606377","nan",20250422,"D").
+shift_data("606377","nan",20250423,"D").
+shift_data("606377","nan",20250424,"D").
+shift_data("606377","nan",20250425,"D").
+shift_data("606377","nan",20250426,"WR").
+shift_data("606377","nan",20250427,"WR").
+shift_data("606377","nan",20250428,"D").
+shift_data("606377","nan",20250429,"PH").
+shift_data("606377","nan",20250430,"D").
+shift_data("606377","nan",20250501,"D").
+shift_data("606377","nan",20250502,"D").
+shift_data("606377","nan",20250503,"WR").
+shift_data("606377","nan",20250504,"WR").
+shift_data("606377","nan",20250505,"PH").
+shift_data("606377","nan",20250506,"PH").
+shift_data("606377","nan",20250507,"D").
+shift_data("606377","nan",20250508,"D").
+shift_data("606377","nan",20250509,"D").
+shift_data("606377","nan",20250510,"D").
+shift_data("606377","nan",20250511,"WR").
+shift_data("606377","nan",20250512,"D").
+shift_data("606377","nan",20250513,"D").
+shift_data("606377","nan",20250514,"D").
+shift_data("606377","nan",20250515,"WR").
+shift_data("606377","nan",20250516,"D").
+shift_data("606377","nan",20250517,"LD").
+shift_data("606377","nan",20250518,"SE").
+shift_data("606377","nan",20250519,"SN").
+shift_data("606377","nan",20250520,"WR").
+shift_data("606377","nan",20250521,"WR").
+shift_data("606377","nan",20250522,"D").
+shift_data("606377","nan",20250523,"D").
+shift_data("606377","nan",20250524,"WR").
+shift_data("606377","nan",20250525,"LD").
+shift_data("606377","nan",20250526,"SE").
+shift_data("606377","nan",20250527,"SN").
+shift_data("606377","nan",20250528,"WR").
+shift_data("606377","nan",20250529,"D").
+shift_data("606377","nan",20250530,"D").
+shift_data("606377","nan",20250531,"WR").
+shift_data("606377","nan",20250601,"WR").
+shift_data("606377","nan",20250602,"D").
+shift_data("606377","nan",20250603,"D").
+shift_data("606377","nan",20250604,"WR").
+shift_data("606377","nan",20250605,"D").
+shift_data("606377","nan",20250606,"D").
+shift_data("606377","nan",20250607,"D").
+shift_data("606377","nan",20250608,"D").
+shift_data("606377","nan",20250609,"WR").
+shift_data("606377","nan",20250610,"D").
+shift_data("606377","nan",20250611,"D").
+shift_data("606377","nan",20250612,"D").
+shift_data("606377","nan",20250613,"D").
+shift_data("606377","nan",20250614,"D").
+shift_data("606377","nan",20250615,"WR").
+shift_data("606377","nan",20250616,"D").
+shift_data("606377","nan",20250617,"D").
+shift_data("606377","nan",20250618,"D").
+shift_data("606377","nan",20250619,"WR").
+shift_data("606377","nan",20250620,"D").
+shift_data("606377","nan",20250621,"WR").
+shift_data("606377","nan",20250622,"D").
+shift_data("606377","nan",20250623,"WR").
+shift_data("606377","nan",20250624,"D").
+shift_data("606377","nan",20250625,"D").
+shift_data("606377","nan",20250626,"D").
+shift_data("606377","nan",20250627,"D").
+shift_data("606377","nan",20250628,"WR").
+shift_data("606377","nan",20250629,"WR").
+shift_data("606377","nan",20250630,"LD").
+shift_data("606377","nan",20250701,"SE").
+shift_data("606377","nan",20250702,"SN").
+shift_data("606377","nan",20250703,"WR").
+shift_data("606377","nan",20250704,"D").
+shift_data("606377","nan",20250705,"WR").
+shift_data("606377","nan",20250706,"WR").
+shift_data("606377","nan",20250707,"D").
+shift_data("606377","nan",20250708,"D").
+shift_data("606377","nan",20250709,"WR").
+shift_data("606377","nan",20250710,"D").
+shift_data("606377","nan",20250711,"D").
+shift_data("606377","nan",20250712,"D").
+shift_data("606377","nan",20250713,"D").
+shift_data("606377","nan",20250714,"D").
+shift_data("606377","nan",20250715,"WR").
+shift_data("606377","nan",20250716,"D").
+shift_data("606377","nan",20250717,"SL").
+shift_data("606377","nan",20250718,"SL").
+shift_data("606377","nan",20250719,"SL").
+shift_data("606377","nan",20250720,"WR").
+shift_data("606377","nan",20250721,"D").
+shift_data("606377","nan",20250722,"WR").
+shift_data("606377","nan",20250723,"WR").
+shift_data("606377","nan",20250724,"D").
+shift_data("606377","nan",20250725,"LD").
+shift_data("606377","nan",20250726,"SE").
+shift_data("606377","nan",20250727,"SN").
+shift_data("606377","nan",20250728,"WR").
+shift_data("606377","nan",20250729,"D").
+shift_data("606377","nan",20250730,"D").
+shift_data("606377","nan",20250731,"LD").
+shift_data("606377","nan",20250801,"SE").
+shift_data("606377","nan",20250802,"SN").
+shift_data("606377","nan",20250803,"WR").
+shift_data("606377","nan",20250804,"D").
+shift_data("606377","nan",20250805,"D").
+shift_data("606377","nan",20250806,"D").
+shift_data("606377","nan",20250807,"D").
+shift_data("606377","nan",20250808,"D").
+shift_data("606377","nan",20250809,"WR").
+shift_data("606377","nan",20250810,"WR").
+shift_data("606377","nan",20250811,"LD").
+shift_data("606377","nan",20250812,"SE").
+shift_data("606377","nan",20250813,"SN").
+shift_data("606377","nan",20250814,"WR").
+shift_data("606377","nan",20250815,"D").
+shift_data("606377","nan",20250816,"WR").
+shift_data("606377","nan",20250817,"WR").
+shift_data("606377","nan",20250818,"HL").
+shift_data("606377","nan",20250819,"HL").
+shift_data("606377","nan",20250820,"HL").
+shift_data("606377","nan",20250821,"D").
+shift_data("606377","nan",20250822,"D").
+shift_data("606377","nan",20250823,"LD").
+shift_data("606377","nan",20250824,"SE").
+shift_data("606377","nan",20250825,"SN").
+shift_data("606377","nan",20250826,"WR").
+shift_data("606377","nan",20250827,"AL").
+shift_data("606377","nan",20250828,"WR").
+shift_data("606377","nan",20250829,"BL").
+shift_data("606377","nan",20250830,"EM").
+shift_data("606377","nan",20250831,"WR").
+shift_data("606377","nan",20250901,"WR").
+shift_data("606377","nan",20250902,"D").
+shift_data("606377","nan",20250903,"WR").
+shift_data("606377","nan",20250904,"LD").
+shift_data("606377","nan",20250905,"SE").
+shift_data("606377","nan",20250906,"SN").
+shift_data("606377","nan",20250907,"WR").
+shift_data("606377","nan",20250908,"LD").
+shift_data("606377","nan",20250909,"SE").
+shift_data("606377","nan",20250910,"SN").
+shift_data("606377","nan",20250911,"WR").
+shift_data("606377","nan",20250912,"AL").
+shift_data("606377","nan",20250913,"D").
+shift_data("606377","nan",20250914,"WR").
+shift_data("606377","nan",20250915,"D").
+shift_data("606377","nan",20250916,"D").
+shift_data("606377","nan",20250917,"D").
+shift_data("606377","nan",20250918,"WR").
+shift_data("606377","nan",20250919,"D").
+shift_data("606377","nan",20250920,"D").
+shift_data("606377","nan",20250921,"SE").
+shift_data("606377","nan",20250922,"SN").
+shift_data("606377","nan",20250923,"PH").
+shift_data("606377","nan",20250924,"D").
+shift_data("606377","nan",20250925,"LD").
+shift_data("606377","nan",20250926,"SE").
+shift_data("606377","nan",20250927,"SN").
+shift_data("606377","nan",20250928,"WR").
+shift_data("606377","nan",20250929,"D").
+shift_data("606377","nan",20250930,"WR").
+shift_data("606377","nan",20251001,"LD").
+shift_data("606377","nan",20251002,"SE").
+shift_data("606377","nan",20251003,"SN").
+shift_data("606377","nan",20251004,"WR").
+shift_data("606377","nan",20251005,"WR").
+shift_data("606377","nan",20251006,"LD").
+shift_data("606377","nan",20251007,"SE").
+shift_data("606377","nan",20251008,"SN").
+shift_data("606377","nan",20251009,"WR").
+shift_data("606377","nan",20251010,"LD").
+shift_data("606377","nan",20251011,"WR").
+shift_data("606377","nan",20251012,"D").
+shift_data("606377","nan",20251013,"D").
+shift_data("606377","nan",20251014,"WR").
+shift_data("606377","nan",20251015,"D").
+shift_data("606377","nan",20251016,"AL").
+shift_data("606377","nan",20251017,"LD").
+shift_data("606377","nan",20251018,"SE").
+shift_data("606377","nan",20251019,"SN").
+shift_data("606377","nan",20251020,"WR").
+shift_data("606377","nan",20251021,"WR").
+shift_data("606377","nan",20251022,"WR").
+shift_data("606377","nan",20251023,"D").
+shift_data("606377","nan",20251024,"D").
+shift_data("606377","nan",20251025,"LD").
+shift_data("606377","nan",20251026,"SE").
+shift_data("606377","nan",20251027,"SN").
+shift_data("606377","nan",20251028,"WR").
+shift_data("606377","nan",20251029,"D").
+shift_data("606377","nan",20251030,"WR").
+shift_data("606377","nan",20251031,"LD").
+shift_data("606377","nan",20251101,"SE").
+shift_data("606377","nan",20251102,"SN").
+shift_data("606377","nan",20251103,"PH").
+shift_data("606377","nan",20251104,"WR").
+shift_data("606377","nan",20251105,"WR").
+shift_data("606377","nan",20251106,"LD").
+shift_data("606377","nan",20251107,"SE").
+shift_data("606377","nan",20251108,"SN").
+shift_data("606377","nan",20251109,"WR").
+shift_data("606377","nan",20251110,"HL").
+shift_data("606377","nan",20251111,"AL").
+shift_data("606377","nan",20251112,"D").
+shift_data("606377","nan",20251113,"D").
+shift_data("606377","nan",20251114,"WR").
+shift_data("606377","nan",20251115,"D").
+shift_data("606377","nan",20251116,"WR").
+shift_data("606377","nan",20251117,"LD").
+shift_data("606377","nan",20251118,"WR").
+shift_data("606377","nan",20251119,"D").
+shift_data("606377","nan",20251120,"D").
+shift_data("606377","nan",20251121,"D").
+shift_data("606377","nan",20251122,"WR").
+shift_data("606377","nan",20251123,"SE").
+shift_data("606377","nan",20251124,"SN").
+shift_data("606377","nan",20251125,"WR").
+shift_data("606377","nan",20251126,"LD").
+shift_data("606377","nan",20251127,"SE").
+shift_data("606377","nan",20251128,"SN").
+shift_data("606377","nan",20251129,"WR").
+shift_data("606377","nan",20251130,"LD").
+shift_data("606377","nan",20251201,"SE").
+shift_data("606377","nan",20251202,"SN").
+shift_data("606377","nan",20251203,"WR").
+shift_data("606377","nan",20251204,"LD").
+shift_data("606377","nan",20251205,"SE").
+shift_data("606377","nan",20251206,"SN").
+shift_data("606377","nan",20251207,"WR").
+shift_data("606377","nan",20251208,"D").
+shift_data("606377","nan",20251209,"D").
+shift_data("606377","nan",20251210,"SE").
+shift_data("606377","nan",20251211,"SN").
+shift_data("606377","nan",20251212,"WR").
+shift_data("606377","nan",20251213,"WR").
+shift_data("606377","nan",20251214,"AL").
+shift_data("606377","nan",20251215,"AL").
+shift_data("606377","nan",20251216,"LD").
+shift_data("606377","nan",20251217,"SE").
+shift_data("606377","nan",20251218,"SN").
+shift_data("606377","nan",20251219,"WR").
+shift_data("606377","nan",20251220,"D").
+shift_data("606377","nan",20251221,"D").
+shift_data("606377","nan",20251222,"WR").
+shift_data("606377","nan",20251223,"LD").
+shift_data("606377","nan",20251224,"WR").
+shift_data("606377","nan",20251225,"D").
+shift_data("606377","nan",20251226,"D").
+shift_data("606377","nan",20251227,"WR").
+shift_data("606377","nan",20251228,"WR").
+shift_data("606377","nan",20251229,"LD").
+shift_data("606377","nan",20251230,"SE").
+shift_data("606377","nan",20251231,"SN").
+shift_data("606606","nan",20250401,"D").
+shift_data("606606","nan",20250402,"D").
+shift_data("606606","nan",20250403,"D").
+shift_data("606606","nan",20250404,"D").
+shift_data("606606","nan",20250405,"WR").
+shift_data("606606","nan",20250406,"WR").
+shift_data("606606","nan",20250407,"D").
+shift_data("606606","nan",20250408,"D").
+shift_data("606606","nan",20250409,"D").
+shift_data("606606","nan",20250410,"D").
+shift_data("606606","nan",20250411,"D").
+shift_data("606606","nan",20250412,"WR").
+shift_data("606606","nan",20250413,"WR").
+shift_data("606606","nan",20250414,"D").
+shift_data("606606","nan",20250415,"D").
+shift_data("606606","nan",20250416,"D").
+shift_data("606606","nan",20250417,"D").
+shift_data("606606","nan",20250418,"D").
+shift_data("606606","nan",20250419,"WR").
+shift_data("606606","nan",20250420,"WR").
+shift_data("606606","nan",20250421,"D").
+shift_data("606606","nan",20250422,"D").
+shift_data("606606","nan",20250423,"D").
+shift_data("606606","nan",20250424,"D").
+shift_data("606606","nan",20250425,"D").
+shift_data("606606","nan",20250426,"WR").
+shift_data("606606","nan",20250427,"WR").
+shift_data("606606","nan",20250428,"D").
+shift_data("606606","nan",20250429,"PH").
+shift_data("606606","nan",20250430,"LD").
+shift_data("606606","nan",20250501,"SE").
+shift_data("606606","nan",20250502,"SN").
+shift_data("606606","nan",20250503,"WR").
+shift_data("606606","nan",20250504,"WR").
+shift_data("606606","nan",20250505,"PH").
+shift_data("606606","nan",20250506,"PH").
+shift_data("606606","nan",20250507,"D").
+shift_data("606606","nan",20250508,"D").
+shift_data("606606","nan",20250509,"D").
+shift_data("606606","nan",20250510,"WR").
+shift_data("606606","nan",20250511,"D").
+shift_data("606606","nan",20250512,"D").
+shift_data("606606","nan",20250513,"D").
+shift_data("606606","nan",20250514,"WR").
+shift_data("606606","nan",20250515,"D").
+shift_data("606606","nan",20250516,"D").
+shift_data("606606","nan",20250517,"WR").
+shift_data("606606","nan",20250518,"WR").
+shift_data("606606","nan",20250519,"D").
+shift_data("606606","nan",20250520,"D").
+shift_data("606606","nan",20250521,"D").
+shift_data("606606","nan",20250522,"D").
+shift_data("606606","nan",20250523,"SL").
+shift_data("606606","nan",20250524,"WR").
+shift_data("606606","nan",20250525,"WR").
+shift_data("606606","nan",20250526,"D").
+shift_data("606606","nan",20250527,"D").
+shift_data("606606","nan",20250528,"D").
+shift_data("606606","nan",20250529,"D").
+shift_data("606606","nan",20250530,"D").
+shift_data("606606","nan",20250531,"WR").
+shift_data("606606","nan",20250601,"WR").
+shift_data("606606","nan",20250602,"D").
+shift_data("606606","nan",20250603,"D").
+shift_data("606606","nan",20250604,"SL").
+shift_data("606606","nan",20250605,"WR").
+shift_data("606606","nan",20250606,"D").
+shift_data("606606","nan",20250607,"WR").
+shift_data("606606","nan",20250608,"D").
+shift_data("606606","nan",20250609,"D").
+shift_data("606606","nan",20250610,"D").
+shift_data("606606","nan",20250611,"D").
+shift_data("606606","nan",20250612,"WR").
+shift_data("606606","nan",20250613,"LD").
+shift_data("606606","nan",20250614,"SE").
+shift_data("606606","nan",20250615,"SN").
+shift_data("606606","nan",20250616,"WR").
+shift_data("606606","nan",20250617,"WR").
+shift_data("606606","nan",20250618,"D").
+shift_data("606606","nan",20250619,"D").
+shift_data("606606","nan",20250620,"D").
+shift_data("606606","nan",20250621,"D").
+shift_data("606606","nan",20250622,"WR").
+shift_data("606606","nan",20250623,"D").
+shift_data("606606","nan",20250624,"D").
+shift_data("606606","nan",20250625,"WR").
+shift_data("606606","nan",20250626,"D").
+shift_data("606606","nan",20250627,"LD").
+shift_data("606606","nan",20250628,"SE").
+shift_data("606606","nan",20250629,"SN").
+shift_data("606606","nan",20250630,"WR").
+shift_data("606606","nan",20250701,"D").
+shift_data("606606","nan",20250702,"D").
+shift_data("606606","nan",20250703,"D").
+shift_data("606606","nan",20250704,"D").
+shift_data("606606","nan",20250705,"WR").
+shift_data("606606","nan",20250706,"WR").
+shift_data("606606","nan",20250707,"WR").
+shift_data("606606","nan",20250708,"D").
+shift_data("606606","nan",20250709,"D").
+shift_data("606606","nan",20250710,"LD").
+shift_data("606606","nan",20250711,"SE").
+shift_data("606606","nan",20250712,"SN").
+shift_data("606606","nan",20250713,"WR").
+shift_data("606606","nan",20250714,"D").
+shift_data("606606","nan",20250715,"D").
+shift_data("606606","nan",20250716,"D").
+shift_data("606606","nan",20250717,"D").
+shift_data("606606","nan",20250718,"D").
+shift_data("606606","nan",20250719,"WR").
+shift_data("606606","nan",20250720,"WR").
+shift_data("606606","nan",20250721,"PH").
+shift_data("606606","nan",20250722,"D").
+shift_data("606606","nan",20250723,"D").
+shift_data("606606","nan",20250724,"WR").
+shift_data("606606","nan",20250725,"WR").
+shift_data("606606","nan",20250726,"LD").
+shift_data("606606","nan",20250727,"SE").
+shift_data("606606","nan",20250728,"SN").
+shift_data("606606","nan",20250729,"WR").
+shift_data("606606","nan",20250730,"SL").
+shift_data("606606","nan",20250731,"D").
+shift_data("606606","nan",20250801,"D").
+shift_data("606606","nan",20250802,"D").
+shift_data("606606","nan",20250803,"WR").
+shift_data("606606","nan",20250804,"D").
+shift_data("606606","nan",20250805,"WR").
+shift_data("606606","nan",20250806,"D").
+shift_data("606606","nan",20250807,"D").
+shift_data("606606","nan",20250808,"LD").
+shift_data("606606","nan",20250809,"SE").
+shift_data("606606","nan",20250810,"SN").
+shift_data("606606","nan",20250811,"PH").
+shift_data("606606","nan",20250812,"WR").
+shift_data("606606","nan",20250813,"LD").
+shift_data("606606","nan",20250814,"SE").
+shift_data("606606","nan",20250815,"SN").
+shift_data("606606","nan",20250816,"WR").
+shift_data("606606","nan",20250817,"D").
+shift_data("606606","nan",20250818,"D").
+shift_data("606606","nan",20250819,"SL").
+shift_data("606606","nan",20250820,"SL").
+shift_data("606606","nan",20250821,"WR").
+shift_data("606606","nan",20250822,"SL").
+shift_data("606606","nan",20250823,"SL").
+shift_data("606606","nan",20250824,"SL").
+shift_data("606606","nan",20250825,"SL").
+shift_data("606606","nan",20250826,"SL").
+shift_data("606606","nan",20250827,"WR").
+shift_data("606606","nan",20250828,"WR").
+shift_data("606606","nan",20250829,"D").
+shift_data("606606","nan",20250830,"WR").
+shift_data("606606","nan",20250831,"D").
+shift_data("606606","nan",20250901,"D").
+shift_data("606606","nan",20250902,"WR").
+shift_data("606606","nan",20250903,"D").
+shift_data("606606","nan",20250904,"D").
+shift_data("606606","nan",20250905,"D").
+shift_data("606606","nan",20250906,"WR").
+shift_data("606606","nan",20250907,"WR").
+shift_data("606606","nan",20250908,"D").
+shift_data("606606","nan",20250909,"D").
+shift_data("606606","nan",20250910,"D").
+shift_data("606606","nan",20250911,"D").
+shift_data("606606","nan",20250912,"D").
+shift_data("606606","nan",20250913,"WR").
+shift_data("606606","nan",20250914,"HL").
+shift_data("606606","nan",20250915,"PH").
+shift_data("606606","nan",20250916,"AL").
+shift_data("606606","nan",20250917,"WR").
+shift_data("606606","nan",20250918,"D").
+shift_data("606606","nan",20250919,"D").
+shift_data("606606","nan",20250920,"WR").
+shift_data("606606","nan",20250921,"WR").
+shift_data("606606","nan",20250922,"D").
+shift_data("606606","nan",20250923,"PH").
+shift_data("606606","nan",20250924,"D").
+shift_data("606606","nan",20250925,"D").
+shift_data("606606","nan",20250926,"D").
+shift_data("606606","nan",20250927,"WR").
+shift_data("606606","nan",20250928,"WR").
+shift_data("606606","nan",20250929,"D").
+shift_data("606606","nan",20250930,"D").
+shift_data("606606","nan",20251001,"D").
+shift_data("606606","nan",20251002,"D").
+shift_data("606606","nan",20251003,"D").
+shift_data("606606","nan",20251004,"WR").
+shift_data("606606","nan",20251005,"WR").
+shift_data("606606","nan",20251006,"AL").
+shift_data("606606","nan",20251007,"D").
+shift_data("606606","nan",20251008,"D").
+shift_data("606606","nan",20251009,"D").
+shift_data("606606","nan",20251010,"D").
+shift_data("606606","nan",20251011,"WR").
+shift_data("606606","nan",20251012,"WR").
+shift_data("606606","nan",20251013,"PH").
+shift_data("606606","nan",20251014,"D").
+shift_data("606606","nan",20251015,"D").
+shift_data("606606","nan",20251016,"D").
+shift_data("606606","nan",20251017,"D").
+shift_data("606606","nan",20251018,"WR").
+shift_data("606606","nan",20251019,"D").
+shift_data("606606","nan",20251020,"D").
+shift_data("606606","nan",20251021,"WR").
+shift_data("606606","nan",20251022,"D").
+shift_data("606606","nan",20251023,"D").
+shift_data("606606","nan",20251024,"D").
+shift_data("606606","nan",20251025,"WR").
+shift_data("606606","nan",20251026,"WR").
+shift_data("606606","nan",20251027,"D").
+shift_data("606606","nan",20251028,"WR").
+shift_data("606606","nan",20251029,"D").
+shift_data("606606","nan",20251030,"D").
+shift_data("606606","nan",20251031,"D").
+shift_data("606606","nan",20251101,"D").
+shift_data("606606","nan",20251102,"WR").
+shift_data("606606","nan",20251103,"PH").
+shift_data("606606","nan",20251104,"D").
+shift_data("606606","nan",20251105,"D").
+shift_data("606606","nan",20251106,"D").
+shift_data("606606","nan",20251107,"D").
+shift_data("606606","nan",20251108,"WR").
+shift_data("606606","nan",20251109,"LD").
+shift_data("606606","nan",20251110,"WR").
+shift_data("606606","nan",20251111,"WR").
+shift_data("606606","nan",20251112,"D").
+shift_data("606606","nan",20251113,"D").
+shift_data("606606","nan",20251114,"D").
+shift_data("606606","nan",20251115,"WR").
+shift_data("606606","nan",20251116,"SE").
+shift_data("606606","nan",20251117,"SN").
+shift_data("606606","nan",20251118,"WR").
+shift_data("606606","nan",20251119,"D").
+shift_data("606606","nan",20251120,"D").
+shift_data("606606","nan",20251121,"D").
+shift_data("606606","nan",20251122,"LD").
+shift_data("606606","nan",20251123,"WR").
+shift_data("606606","nan",20251124,"PH").
+shift_data("606606","nan",20251125,"AL").
+shift_data("606606","nan",20251126,"AL").
+shift_data("606606","nan",20251127,"AL").
+shift_data("606606","nan",20251128,"D").
+shift_data("606606","nan",20251129,"SE").
+shift_data("606606","nan",20251130,"SN").
+shift_data("606606","nan",20251201,"WR").
+shift_data("606606","nan",20251202,"WR").
+shift_data("606606","nan",20251203,"D").
+shift_data("606606","nan",20251204,"SL").
+shift_data("606606","nan",20251205,"WR").
+shift_data("606606","nan",20251206,"SL").
+shift_data("606606","nan",20251207,"SL").
+shift_data("606606","nan",20251208,"D").
+shift_data("606606","nan",20251209,"WR").
+shift_data("606606","nan",20251210,"D").
+shift_data("606606","nan",20251211,"D").
+shift_data("606606","nan",20251212,"LM").
+shift_data("606606","nan",20251213,"WR").
+shift_data("606606","nan",20251214,"HL").
+shift_data("606606","nan",20251215,"AL").
+shift_data("606606","nan",20251216,"AL").
+shift_data("606606","nan",20251217,"D").
+shift_data("606606","nan",20251218,"WR").
+shift_data("606606","nan",20251219,"D").
+shift_data("606606","nan",20251220,"WR").
+shift_data("606606","nan",20251221,"D").
+shift_data("606606","nan",20251222,"SE").
+shift_data("606606","nan",20251223,"SN").
+shift_data("606606","nan",20251224,"WR").
+shift_data("606606","nan",20251225,"WR").
+shift_data("606606","nan",20251226,"D").
+shift_data("606606","nan",20251227,"WR").
+shift_data("606606","nan",20251228,"LD").
+shift_data("606606","nan",20251229,"SE").
+shift_data("606606","nan",20251230,"SN").
+shift_data("606606","nan",20251231,"PH").
+shift_data("62062","nan",20250405,"WR").
+shift_data("62062","nan",20250406,"WR").
+shift_data("62062","nan",20250412,"WR").
+shift_data("62062","nan",20250413,"WR").
+shift_data("62062","nan",20250419,"WR").
+shift_data("62062","nan",20250420,"WR").
+shift_data("62062","nan",20250426,"WR").
+shift_data("62062","nan",20250427,"WR").
+shift_data("62062","nan",20250429,"PH").
+shift_data("62062","nan",20250501,"HL").
+shift_data("62062","nan",20250502,"HL").
+shift_data("62062","nan",20250503,"WR").
+shift_data("62062","nan",20250504,"WR").
+shift_data("62062","nan",20250505,"PH").
+shift_data("62062","nan",20250506,"PH").
+shift_data("62062","nan",20250510,"WR").
+shift_data("62062","nan",20250511,"WR").
+shift_data("62062","nan",20250517,"WR").
+shift_data("62062","nan",20250518,"WR").
+shift_data("62062","nan",20250524,"WR").
+shift_data("62062","nan",20250525,"WR").
+shift_data("62062","nan",20250531,"WR").
+shift_data("62062","nan",20250601,"WR").
+shift_data("62062","nan",20250607,"WR").
+shift_data("62062","nan",20250608,"WR").
+shift_data("62062","nan",20250614,"WR").
+shift_data("62062","nan",20250615,"WR").
+shift_data("62062","nan",20250621,"WR").
+shift_data("62062","nan",20250622,"WR").
+shift_data("62062","nan",20250627,"HL").
+shift_data("62062","nan",20250628,"WR").
+shift_data("62062","nan",20250629,"WR").
+shift_data("62062","nan",20250705,"WR").
+shift_data("62062","nan",20250706,"WR").
+shift_data("62062","nan",20250712,"WR").
+shift_data("62062","nan",20250713,"WR").
+shift_data("62062","nan",20250719,"WR").
+shift_data("62062","nan",20250720,"WR").
+shift_data("62062","nan",20250721,"PH").
+shift_data("62062","nan",20250726,"WR").
+shift_data("62062","nan",20250727,"WR").
+shift_data("62062","nan",20250802,"WR").
+shift_data("62062","nan",20250803,"WR").
+shift_data("62062","nan",20250809,"WR").
+shift_data("62062","nan",20250810,"WR").
+shift_data("62062","nan",20250811,"PH").
+shift_data("62062","nan",20250812,"AL").
+shift_data("62062","nan",20250813,"AL").
+shift_data("62062","nan",20250816,"WR").
+shift_data("62062","nan",20250817,"WR").
+shift_data("62062","nan",20250823,"WR").
+shift_data("62062","nan",20250824,"WR").
+shift_data("62062","nan",20250830,"WR").
+shift_data("62062","nan",20250831,"WR").
+shift_data("62062","nan",20250906,"WR").
+shift_data("62062","nan",20250907,"WR").
+shift_data("62062","nan",20250913,"WR").
+shift_data("62062","nan",20250914,"WR").
+shift_data("62062","nan",20250915,"PH").
+shift_data("62062","nan",20250920,"WR").
+shift_data("62062","nan",20250921,"WR").
+shift_data("62062","nan",20250923,"PH").
+shift_data("62062","nan",20250927,"WR").
+shift_data("62062","nan",20250928,"WR").
+shift_data("62062","nan",20251004,"WR").
+shift_data("62062","nan",20251005,"WR").
+shift_data("62062","nan",20251011,"WR").
+shift_data("62062","nan",20251012,"WR").
+shift_data("62062","nan",20251013,"PH").
+shift_data("62062","nan",20251017,"HL").
+shift_data("62062","nan",20251018,"WR").
+shift_data("62062","nan",20251019,"WR").
+shift_data("62062","nan",20251025,"WR").
+shift_data("62062","nan",20251026,"WR").
+shift_data("62062","nan",20251101,"WR").
+shift_data("62062","nan",20251102,"WR").
+shift_data("62062","nan",20251103,"PH").
+shift_data("62062","nan",20251108,"WR").
+shift_data("62062","nan",20251109,"WR").
+shift_data("62062","nan",20251115,"WR").
+shift_data("62062","nan",20251116,"WR").
+shift_data("62062","nan",20251121,"AL").
+shift_data("62062","nan",20251122,"WR").
+shift_data("62062","nan",20251123,"WR").
+shift_data("62062","nan",20251124,"PH").
+shift_data("62062","nan",20251128,"AL").
+shift_data("62062","nan",20251129,"WR").
+shift_data("62062","nan",20251130,"WR").
+shift_data("62062","nan",20251206,"WR").
+shift_data("62062","nan",20251207,"WR").
+shift_data("62062","nan",20251213,"WR").
+shift_data("62062","nan",20251214,"WR").
+shift_data("62062","nan",20251220,"WR").
+shift_data("62062","nan",20251221,"WR").
+shift_data("62062","nan",20251227,"WR").
+shift_data("62062","nan",20251228,"WR").
+shift_data("62062","nan",20251229,"PH").
+shift_data("62062","nan",20251230,"PH").
+shift_data("62062","nan",20251231,"PH").

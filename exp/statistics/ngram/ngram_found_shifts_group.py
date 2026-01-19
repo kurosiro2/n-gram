@@ -29,6 +29,11 @@
   - found-model 内の述語（想定）
       ext_assigned(staff_id, day, "SHIFT").
       staff_group("GROUPNAME", staff_id).
+
+  ★追加対応（今回）
+      out_assigned(staff_id, yyyymmdd, "SHIFT").   # 3引数版を読む
+      out_assigned(staff_id, yyyymmdd).           # 2引数版は無視（パターンに一致しないので無視される）
+      group("GROUPNAME", staff_id).               # 2引数版を読む
 """
 
 import sys
@@ -51,6 +56,12 @@ VALID_SHIFTS = {
 # -------------------------------------------------------------
 PAT_EXT = re.compile(r'^ext_assigned\(\s*(\d+)\s*,\s*(-?\d+)\s*,\s*"([^"]+)"\s*\)\.')
 PAT_GROUP = re.compile(r'^staff_group\(\s*"([^"]+)"\s*,\s*(\d+)\s*\)\.')
+
+# ★追加: out_assigned(id, date, "SHIFT"). を読む（2引数 out_assigned はマッチしないので無視される）
+PAT_OUT_ASSIGNED = re.compile(r'^out_assigned\(\s*(\d+)\s*,\s*(\d{8})\s*,\s*"([^"]+)"\s*\)\.')
+
+# ★追加: group("GROUPNAME", staff_id). を読む
+PAT_GROUP2 = re.compile(r'^group\(\s*"([^"]+)"\s*,\s*(\d+)\s*\)\.')
 
 
 # =============================================================
@@ -126,6 +137,11 @@ def load_found_model(path):
       - seqs_by_staff: {staff_id: [(day:int, shift:str), ...]}
       - groups_by_staff: {staff_id: set(groupname)}
     を返す
+
+    ★追加対応:
+      - out_assigned(staff_id, yyyymmdd, "SHIFT"). を読む
+      - group("GROUPNAME", staff_id). を読む
+      - out_assigned(staff_id, yyyymmdd). はパターン不一致なので無視される
     """
     seqs_by_staff = defaultdict(list)
     groups_by_staff = defaultdict(set)
@@ -136,6 +152,7 @@ def load_found_model(path):
             if not line or line.startswith("%") or line.startswith("#"):
                 continue
 
+            # ---- 既存: ext_assigned(staff, day, "SHIFT").
             m = PAT_EXT.match(line)
             if m:
                 sid = int(m.group(1))
@@ -144,7 +161,26 @@ def load_found_model(path):
                 seqs_by_staff[sid].append((day, sh))
                 continue
 
+            # ---- ★追加: out_assigned(staff, yyyymmdd, "SHIFT").
+            # out_assigned(staff, yyyymmdd). はここではマッチしないので無視
+            m = PAT_OUT_ASSIGNED.match(line)
+            if m:
+                sid = int(m.group(1))
+                day = int(m.group(2))  # yyyymmdd を int として扱う（ソート可能）
+                sh = m.group(3)
+                seqs_by_staff[sid].append((day, sh))
+                continue
+
+            # ---- 既存: staff_group("GROUPNAME", staff).
             m = PAT_GROUP.match(line)
+            if m:
+                gname = m.group(1)
+                sid = int(m.group(2))
+                groups_by_staff[sid].add(gname)
+                continue
+
+            # ---- ★追加: group("GROUPNAME", staff).
+            m = PAT_GROUP2.match(line)
             if m:
                 gname = m.group(1)
                 sid = int(m.group(2))
