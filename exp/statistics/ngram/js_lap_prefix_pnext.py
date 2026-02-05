@@ -14,6 +14,10 @@ distance のヒートマップ版（range A vs range B）
 重要:
 - k=0 は「スムージング無し（MLE）」として扱う（Ny=0 のときは一様）
 - 内部の count は timeline-aware segments と同じ
+- NEW: --laplace-support
+    all         : 従来通り10種(VALID_SHIFTS)に add-k（|X|=10固定）
+    observed_ab : （prefixごとに）A/Bどちらかで観測された next の union のみに add-k（|X|可変）
+                  ※ベクトル自体は表示の都合で常に10次元（未支持は 0 になりやすい）
 """
 
 import os
@@ -185,21 +189,74 @@ def count_conditional_heads_nonheads_in_range(
 # =============================================================
 # probabilities + JSD
 # =============================================================
-def pnext_vector(cond: Dict[Prefix, Counter], prefN: Counter, prefix: Prefix, k: float) -> List[float]:
+def pnext_vector(
+    condA: Dict[Prefix, Counter],
+    prefNA: Counter,
+    condB: Dict[Prefix, Counter],
+    prefNB: Counter,
+    prefix: Prefix,
+    k: float,
+    laplace_support: str,
+) -> Tuple[List[float], List[float]]:
     """
+    2期間分まとめてベクトル生成（support=observed_ab のためにA/B両方が必要）
+
     k>0: Laplace(k)
     k=0: MLE（Ny=0 のときは一様）
     """
-    Ny = float(prefN.get(prefix, 0))
-    cxy = cond.get(prefix, Counter())
+    NyA = float(prefNA.get(prefix, 0))
+    NyB = float(prefNB.get(prefix, 0))
+    cA = condA.get(prefix, Counter())
+    cB = condB.get(prefix, Counter())
 
+    # ---- k=0: smoothing無し（MLE扱い）
     if k <= 0.0:
-        if Ny <= 0.0:
-            return [1.0 / X_SIZE] * X_SIZE
-        return [cxy.get(x, 0) / Ny for x in VALID_SHIFTS]
+        if NyA <= 0.0:
+            pA = [1.0 / X_SIZE] * X_SIZE
+        else:
+            pA = [cA.get(x, 0) / NyA for x in VALID_SHIFTS]
 
-    denom = Ny + k * X_SIZE
-    return [(cxy.get(x, 0) + k) / denom for x in VALID_SHIFTS]
+        if NyB <= 0.0:
+            pB = [1.0 / X_SIZE] * X_SIZE
+        else:
+            pB = [cB.get(x, 0) / NyB for x in VALID_SHIFTS]
+        return pA, pB
+
+    # ---- k>0: Laplace
+    if laplace_support == "observed_ab":
+        support = set(cA.keys()) | set(cB.keys())
+        if not support:
+            support = VALID_SHIFTS_SET
+        denomA = NyA + k * len(support)
+        denomB = NyB + k * len(support)
+        # denom は k>0 なので基本 0 にならないが、念のため
+        if denomA <= 0.0:
+            denomA = k * len(support)
+        if denomB <= 0.0:
+            denomB = k * len(support)
+
+        pA = []
+        pB = []
+        for x in VALID_SHIFTS:
+            if x in support:
+                pA.append((cA.get(x, 0) + k) / denomA)
+                pB.append((cB.get(x, 0) + k) / denomB)
+            else:
+                pA.append(cA.get(x, 0) / denomA)  # 通常0
+                pB.append(cB.get(x, 0) / denomB)  # 通常0
+        return pA, pB
+
+    # laplace_support == "all"（従来）
+    denomA = NyA + k * X_SIZE
+    denomB = NyB + k * X_SIZE
+    if denomA <= 0.0:
+        denomA = k * X_SIZE
+    if denomB <= 0.0:
+        denomB = k * X_SIZE
+
+    pA = [(cA.get(x, 0) + k) / denomA for x in VALID_SHIFTS]
+    pB = [(cB.get(x, 0) + k) / denomB for x in VALID_SHIFTS]
+    return pA, pB
 
 
 def kl_div(p: List[float], q: List[float]) -> float:
@@ -294,9 +351,15 @@ def main():
     ap.add_argument("--B-end", type=int, required=True, help="range B end   yyyymmdd")
 
     ap.add_argument("--k-list", default="1,1e-3,1e-9,0", help='comma list, e.g. "1,1e-3,1e-9,0"')
+    ap.add_argument(
+        "--laplace-support",
+        choices=["all", "observed_ab"],
+        default="all",
+        help='Laplace の支持集合X: "all"=10種固定, "observed_ab"=期間A/Bで観測されたnextのunionのみ（prefixごと）',
+    )
 
     # ★変更: prefix（行）は prefix 単位なので top-prefixes にする
-    ap.add_argument("--top-prefixes", type=int, default=120,
+    ap.add_argument("--top-prefixes", type=int, default=2000,
                     help="how many prefixes to show (by total prefix count in A+B). n=1 -> always 1 prefix.")
     ap.add_argument("--min-prefix-count", type=int, default=1,
                     help="drop prefixes whose total count (A+B) is less than this")
@@ -376,8 +439,7 @@ def main():
     for (pfx, _tot, _cA, _cB) in prefixes:
         row_vals: List[float] = []
         for k in ks:
-            pA = pnext_vector(condA, prefNA, pfx, k)
-            pB = pnext_vector(condB, prefNB, pfx, k)
+            pA, pB = pnext_vector(condA, prefNA, condB, prefNB, pfx, k, args.laplace_support)
             row_vals.append(js_distance_vec(pA, pB))
         mat.append(row_vals)
 
@@ -386,7 +448,8 @@ def main():
     else:
         title = (
             f"{args.bucket}: JSdist on P(next|prefix) per-prefix  "
-            f"A={args.A_start}..{args.A_end}  B={args.B_start}..{args.B_end}  n={args.n}"
+            f"A={args.A_start}..{args.A_end}  B={args.B_start}..{args.B_end}  n={args.n}  "
+            f"laplace_support={args.laplace_support}"
         )
 
     plot_heatmap(args.out, title, row_labels, col_labels, mat)

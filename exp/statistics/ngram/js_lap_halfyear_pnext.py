@@ -12,6 +12,30 @@ half-year period × (n=1..5 の「2019~2025 を基準にした 条件付き確�
     * 重み付き: 既存どおり w(y)=c_p(y)+c_b(y) で平均
     * 単純平均: prefix ごとの JSD を等重みで平均（0個なら0）
 
+追加（今回・2）:
+  - Laplace の支持集合Xを切替可能
+    --laplace-support all         : 従来通り |X|=10（VALID_SHIFTS全部）に add-k
+    --laplace-support observed_ab : （prefixごとに）比較する2分布A/Bで観測された next の union のみに add-k（|X|可変）
+      ※ベクトル自体は表示の都合で常に10次元（未支持は 0 になりやすい）
+
+追加（今回・3）:
+  - avg-mode に robust 集約を追加（ただし "iqr" の挙動は以下）
+    --avg-mode iqr:
+        * セルの「表示値」は Q1-Q3（第一四分位数～第三四分位数）
+        * セルの「色」は median（中央値）でグラデーション
+
+★追加（今回・4）:
+  - nごとの箱ひげ図（半期ごとの距離分布）を出力可能
+    --boxplot:
+        heatmapに加えて boxplot を出す（Heads/NonHeadsそれぞれ）
+    --boxplot-only:
+        boxplot のみ出す（heatmapは出さない）
+  - 箱ひげ図の外れ値マーカー（変な〇）を消す: showfliers=False
+
+★追加（今回・5）:
+  - 全体的にグラフの字を大きくする
+    --font-scale 1.0 を基準に倍率指定（例: 1.35）
+
 デバッグで見たいもの:
   - prefix→next のカウント (c(y,x)) と prefix総数 (c(y))
   - （参考）n-gram（列）の頻度（tuple長n）
@@ -30,6 +54,25 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 # -------------------------------------------------------------
+# font scale (global)
+# -------------------------------------------------------------
+def apply_font_scale(scale: float) -> None:
+    if scale <= 0:
+        scale = 1.0
+    base = {
+        "font.size": 12,
+        "axes.titlesize": 14,
+        "axes.labelsize": 12,
+        "xtick.labelsize": 11,
+        "ytick.labelsize": 11,
+        "legend.fontsize": 11,
+        "figure.titlesize": 16,
+    }
+    for k, v in base.items():
+        plt.rcParams[k] = v * scale
+
+
+# -------------------------------------------------------------
 # import path
 # -------------------------------------------------------------
 CURRENT_DIR = os.path.dirname(__file__)
@@ -45,7 +88,7 @@ import data_loader
 # -------------------------------------------------------------
 VALID_SHIFTS = ["D", "LD", "EM", "LM", "E", "SE", "N", "SN", "WR", "PH"]
 VALID_SHIFTS_SET = set(VALID_SHIFTS)
-X_SIZE = 10  # 必ず10固定
+X_SIZE = 10  # 表示は10固定
 
 UNKNOWN_GROUP = "__UNKNOWN__"
 
@@ -76,8 +119,10 @@ def get_groups_for_day(name: str, nid: int, date: int, timeline: dict) -> Set[st
 
 
 def group_set_contains(group_set: FrozenSet[str], target_group: str) -> bool:
-    tg = target_group.lower()
-    return any(g.lower() == tg for g in group_set)
+    tg = (target_group or "").strip().lower()
+    if not tg:
+        return False
+    return any((g or "").strip().lower() == tg for g in group_set)
 
 
 class Segment:
@@ -204,17 +249,37 @@ def count_ngram_freq_heads_nonheads_in_range(
     return heads, nonheads
 
 
-def laplace_pnext_vector(cond: Dict[Prefix, Counter], prefN: Counter, prefix: Prefix, k: float) -> List[float]:
+def laplace_pnext_vector(
+    cond: Dict[Prefix, Counter],
+    prefN: Counter,
+    prefix: Prefix,
+    k: float,
+    support: Optional[Set[str]] = None,
+) -> List[float]:
     Ny = float(prefN.get(prefix, 0))
-    denom = Ny + k * X_SIZE
     cxy = cond.get(prefix, Counter())
-    return [(cxy.get(x, 0) + k) / denom for x in VALID_SHIFTS]
+
+    if support is None:
+        support = VALID_SHIFTS_SET
+    if not support:
+        support = VALID_SHIFTS_SET
+
+    denom = Ny + k * len(support)
+    if denom <= 0.0:
+        return [1.0 / X_SIZE] * X_SIZE
+
+    out: List[float] = []
+    for x in VALID_SHIFTS:
+        if x in support:
+            out.append((cxy.get(x, 0) + k) / denom)
+        else:
+            out.append(cxy.get(x, 0) / denom)
+    return out
 
 
 def mle_pnext_vector(cond: Dict[Prefix, Counter], prefN: Counter, prefix: Prefix) -> List[float]:
     Ny = float(prefN.get(prefix, 0))
     if Ny <= 0:
-        # prefixが存在しない場合は一様にしておく（ログ用）
         return [1.0 / X_SIZE] * X_SIZE
     cxy = cond.get(prefix, Counter())
     return [cxy.get(x, 0) / Ny for x in VALID_SHIFTS]
@@ -236,69 +301,140 @@ def js_divergence(p: List[float], q: List[float]) -> float:
     return 0.5 * kl_div(p, m) + 0.5 * kl_div(q, m)
 
 
+def js_distance_vec(p: List[float], q: List[float]) -> float:
+    d = js_divergence(p, q)
+    if d < 0.0:
+        d = 0.0
+    return math.sqrt(d)
+
+
+# -------------------------------------------------------------
+# quantiles (no numpy)
+# -------------------------------------------------------------
+def _quantile_sorted(xs_sorted: List[float], q: float) -> float:
+    n = len(xs_sorted)
+    if n <= 0:
+        return 0.0
+    if n == 1:
+        return xs_sorted[0]
+    if q <= 0.0:
+        return xs_sorted[0]
+    if q >= 1.0:
+        return xs_sorted[-1]
+
+    pos = q * (n - 1)
+    lo = int(math.floor(pos))
+    hi = int(math.ceil(pos))
+    if lo == hi:
+        return xs_sorted[lo]
+    frac = pos - lo
+    return xs_sorted[lo] * (1.0 - frac) + xs_sorted[hi] * frac
+
+
+def _q1_med_q3(xs: List[float]) -> Tuple[float, float, float]:
+    if not xs:
+        return 0.0, 0.0, 0.0
+    s = sorted(xs)
+    q1 = _quantile_sorted(s, 0.25)
+    med = _quantile_sorted(s, 0.50)
+    q3 = _quantile_sorted(s, 0.75)
+    return q1, med, q3
+
+
+# -------------------------------------------------------------
+# cell aggregation
+# -------------------------------------------------------------
 def js_distance_pnext_aggregate(
     cond_p: Dict[Prefix, Counter],
     prefN_p: Counter,
     cond_b: Dict[Prefix, Counter],
     prefN_b: Counter,
     laplace_k: float,
-    avg_mode: str,   # "weighted" or "uniform"
-) -> float:
+    avg_mode: str,
+    laplace_support: str,
+) -> Tuple[float, str]:
     """
-    prefixごとの JSD を集約して sqrt を取る。
+    戻り値:
+      color_value: ヒートマップの色（float）  ← 基本はセル値と同じだが iqr だけ median を返す
+      text_value : セル内の表示文字列
 
-    avg_mode="weighted":
-      既存と同じ。w(y)=c_p(y)+c_b(y) で JSD を重み付き平均 → sqrt
-
-    avg_mode="uniform":
-      prefixごとの JSD を等重み平均（単純平均） → sqrt
-      ※ prefix が1つも無い場合は 0
+    avg_mode:
+      weighted/uniform:
+        セル値= sqrt( avg JSD ) の1値
+      iqr:
+        セル値(表示)= "Q1-Q3"
+        色= median
     """
     prefixes = set(prefN_p.keys()) | set(prefN_b.keys())
     if not prefixes:
-        return 0.0
+        return 0.0, "0.000"
 
-    if avg_mode not in ("weighted", "uniform"):
-        raise ValueError(f"avg_mode must be weighted|uniform, got {avg_mode}")
+    if avg_mode not in ("weighted", "uniform", "iqr"):
+        raise ValueError(f"avg_mode must be weighted|uniform|iqr, got {avg_mode}")
+
+    if laplace_support not in ("all", "observed_ab"):
+        raise ValueError(f"laplace_support must be all|observed_ab, got {laplace_support}")
+
+    def _support_for_prefix(y: Prefix) -> Optional[Set[str]]:
+        if laplace_support == "all":
+            return None
+        c_p = cond_p.get(y, Counter())
+        c_b = cond_b.get(y, Counter())
+        return set(c_p.keys()) | set(c_b.keys())
+
+    if avg_mode == "iqr":
+        dists: List[float] = []
+        for y in prefixes:
+            sup = _support_for_prefix(y)
+            pvec = laplace_pnext_vector(cond_p, prefN_p, y, laplace_k, support=sup)
+            qvec = laplace_pnext_vector(cond_b, prefN_b, y, laplace_k, support=sup)
+            dists.append(js_distance_vec(pvec, qvec))
+
+        q1, med, q3 = _q1_med_q3(dists)
+        text = f"{q1:.3f}–{q3:.3f}"
+        return med, text
 
     if avg_mode == "uniform":
         jsd_sum = 0.0
         mcnt = 0
         for y in prefixes:
-            pvec = laplace_pnext_vector(cond_p, prefN_p, y, laplace_k)
-            qvec = laplace_pnext_vector(cond_b, prefN_b, y, laplace_k)
+            sup = _support_for_prefix(y)
+            pvec = laplace_pnext_vector(cond_p, prefN_p, y, laplace_k, support=sup)
+            qvec = laplace_pnext_vector(cond_b, prefN_b, y, laplace_k, support=sup)
             jsd = js_divergence(pvec, qvec)
             if jsd < 0:
                 jsd = 0.0
             jsd_sum += jsd
             mcnt += 1
         if mcnt <= 0:
-            return 0.0
-        return math.sqrt(jsd_sum / float(mcnt))
+            return 0.0, "0.000"
+        val = math.sqrt(jsd_sum / float(mcnt))
+        return val, f"{val:.3f}"
 
-    # weighted (existing behavior)
+    # weighted
     wsum = 0.0
-    weights = {}
+    weights: Dict[Prefix, float] = {}
     for y in prefixes:
         w = float(prefN_p.get(y, 0) + prefN_b.get(y, 0))
         weights[y] = w
         wsum += w
     if wsum <= 0.0:
-        # fallback to uniform weights
         wsum = float(len(prefixes))
         for y in prefixes:
             weights[y] = 1.0
 
     jsd_agg = 0.0
     for y in prefixes:
-        pvec = laplace_pnext_vector(cond_p, prefN_p, y, laplace_k)
-        qvec = laplace_pnext_vector(cond_b, prefN_b, y, laplace_k)
+        sup = _support_for_prefix(y)
+        pvec = laplace_pnext_vector(cond_p, prefN_p, y, laplace_k, support=sup)
+        qvec = laplace_pnext_vector(cond_b, prefN_b, y, laplace_k, support=sup)
         jsd = js_divergence(pvec, qvec)
         if jsd < 0:
             jsd = 0.0
         jsd_agg += (weights[y] / wsum) * jsd
 
-    return math.sqrt(jsd_agg)
+    val = math.sqrt(jsd_agg)
+    return val, f"{val:.3f}"
 
 
 # ---------------------------
@@ -312,7 +448,20 @@ def make_halfyear_periods(start_year: int, end_year: int) -> List[Tuple[str, int
     return periods
 
 
-def plot_heatmap_period_x_n(out_png, title, period_labels, n_labels, mat, vmin, vmax) -> None:
+# ---------------------------
+# plotting
+# ---------------------------
+def plot_heatmap_period_x_n(
+    out_png: str,
+    title: str,
+    period_labels: List[str],
+    n_labels: List[str],
+    color_mat: List[List[float]],
+    vmin: float,
+    vmax: float,
+    text_mat: List[List[str]],
+    cell_fontsize: Optional[float] = None,
+) -> None:
     R = len(period_labels)
     C = len(n_labels)
 
@@ -320,19 +469,54 @@ def plot_heatmap_period_x_n(out_png, title, period_labels, n_labels, mat, vmin, 
     fig_h = max(7.0, R * 0.55)
 
     plt.figure(figsize=(fig_w, fig_h))
-    im = plt.imshow(mat, vmin=vmin, vmax=vmax, aspect="auto")
-    plt.colorbar(im)
+    im = plt.imshow(color_mat, vmin=vmin, vmax=vmax, aspect="auto")
+    cbar = plt.colorbar(im)
+    cbar.ax.tick_params(labelsize=plt.rcParams["ytick.labelsize"])
 
     plt.xticks(list(range(C)), n_labels, rotation=45, ha="right")
     plt.yticks(list(range(R)), period_labels)
 
     mid = (vmin + vmax) / 2.0
+    fs = cell_fontsize if cell_fontsize is not None else (plt.rcParams["font.size"] * 0.85)
+
     for i in range(R):
         for j in range(C):
-            val = mat[i][j]
+            val = color_mat[i][j]
             txt_color = "black" if val > mid else "white"
-            plt.text(j, i, f"{val:.3f}", ha="center", va="center", fontsize=9, color=txt_color)
+            plt.text(j, i, text_mat[i][j], ha="center", va="center", fontsize=fs, color=txt_color)
 
+    plt.title(title)
+    plt.tight_layout()
+    plt.savefig(out_png, dpi=200)
+    plt.close()
+
+
+def plot_boxplot_by_n(
+    out_png: str,
+    title: str,
+    n_labels: List[str],
+    data_by_n: List[List[float]],
+    ymin: float,
+    ymax: float,
+) -> None:
+    """
+    data_by_n: [ [dist(2019H1), dist(2019H2), ...],  # for first n
+                 [ ... ],                             # for next n
+                 ... ]
+    """
+    C = len(n_labels)
+    fig_w = max(9.0, C * 1.8)
+    fig_h = 6.5
+
+    plt.figure(figsize=(fig_w, fig_h))
+    plt.boxplot(
+        data_by_n,
+        labels=n_labels,
+        showfliers=False,  # ★変な〇を消す
+    )
+    plt.ylim(ymin, ymax)
+    plt.xticks(rotation=45, ha="right")
+    plt.ylabel("JSDistance")
     plt.title(title)
     plt.tight_layout()
     plt.savefig(out_png, dpi=200)
@@ -354,10 +538,11 @@ def debug_dump_pnext(
     laplace_k: float,
     topk_prefix: int,
     focus_prefix: Optional[Prefix],
+    laplace_support: str,
 ) -> None:
     print("")
     print("=" * 80)
-    print(f"[DEBUG] {tag}  n={n}  (|X|=10 fixed)  laplace_k={laplace_k}")
+    print(f"[DEBUG] {tag}  n={n}  (display|X|=10)  laplace_k={laplace_k}  laplace_support={laplace_support}")
     print(f"[DEBUG] prefixes: {len(prefN)}  total_prefix_events(sum c(y))={sum(prefN.values())}")
     print("=" * 80)
 
@@ -385,6 +570,9 @@ def debug_dump_pnext(
             print("[DEBUG]   top next counts: (none)")
 
         mle = mle_pnext_vector(cond, prefN, pfx)
+
+        # debugはこのrange単体なので observed_ab の「AB」を作れない。
+        # なので従来どおり "all" 相当の Laplace を表示する。
         lap = laplace_pnext_vector(cond, prefN, pfx, laplace_k)
 
         keys = [nx for nx, _ in top_next]
@@ -433,12 +621,43 @@ def main():
     ap.add_argument("--outdir", default="out/halfyear_vs_total_pnext")
     ap.add_argument("--only-nonheads", action="store_true")
 
-    # ★追加: 集約の平均モード
+    # ★avg-mode
     ap.add_argument(
         "--avg-mode",
-        choices=["weighted", "uniform"],
+        choices=["weighted", "uniform", "iqr"],
         default="weighted",
-        help="How to aggregate prefix-wise JSD before sqrt. weighted=existing, uniform=unweighted mean.",
+        help=(
+            "weighted/uniform: existing (avg JSD then sqrt). "
+            "iqr: cell text=Q1–Q3 of per-prefix JS distance (sqrt(JSD)), color=median."
+        ),
+    )
+
+    # ★Laplace support
+    ap.add_argument(
+        "--laplace-support",
+        choices=["all", "observed_ab"],
+        default="all",
+        help='Laplace support X: all=10 fixed, observed_ab=union of observed next in compared A/B (per prefix).',
+    )
+
+    # ★boxplot
+    ap.add_argument(
+        "--boxplot",
+        action="store_true",
+        help="Also output boxplots: distribution of half-year JSdist (vs base) for each n.",
+    )
+    ap.add_argument(
+        "--boxplot-only",
+        action="store_true",
+        help="Output only boxplots (skip heatmaps).",
+    )
+
+    # ★font scale
+    ap.add_argument(
+        "--font-scale",
+        type=float,
+        default=1.35,
+        help="Global font scale for all plots (e.g., 1.2, 1.4, 1.6). Default=1.35",
     )
 
     # --- debug options ---
@@ -450,12 +669,21 @@ def main():
     ap.add_argument("--debug-ngram-topk", type=int, default=15, help="n-gram頻度上位を何件表示するか（参考）")
     args = ap.parse_args()
 
+    # boxplot-only implies boxplot
+    if args.boxplot_only:
+        args.boxplot = True
+
+    # font
+    apply_font_scale(args.font_scale)
+
     ensure_dir(args.outdir)
 
     if args.start_year > args.end_year:
         raise ValueError("--start-year must be <= --end-year")
     if args.laplace_k <= 0:
         raise ValueError("--laplace-k must be > 0")
+    if args.nmin <= 0 or args.nmax <= 0 or args.nmin > args.nmax:
+        raise ValueError("--nmin/--nmax must satisfy 1 <= nmin <= nmax")
 
     # load
     seqs = data_loader.load_past_shifts(args.past_shifts)
@@ -468,9 +696,10 @@ def main():
     base_start = args.start_year * 10000 + 101
     base_end = args.end_year * 10000 + 1231
     periods = half_periods + [(base_key, base_start, base_end)]
+    halfK = len(half_periods)
 
     ns = list(range(args.nmin, args.nmax + 1))
-    n_labels = [f"{n}-gram P(next|prefix) (vs {base_key})" for n in ns]
+    n_labels = [f"{n}-gram  (vs {base_key})" for n in ns]
 
     # base cache
     base_heads_cond_by_n = {}
@@ -487,7 +716,7 @@ def main():
         base_non_cond_by_n[n] = non_cond
         base_non_prefN_by_n[n] = non_prefN
 
-    # DEBUG (unchanged except it calls weighted function below)
+    # DEBUG
     focus_prefix: Optional[Prefix] = None
     if args.debug_prefix is not None:
         focus_prefix = parse_prefix_arg(args.debug_prefix)
@@ -523,6 +752,7 @@ def main():
                 laplace_k=args.laplace_k,
                 topk_prefix=args.debug_topk,
                 focus_prefix=focus_prefix,
+                laplace_support=args.laplace_support,
             )
             debug_dump_ngram_freq(f"{pkey} Heads", h_ng, args.debug_ngram_topk)
 
@@ -534,6 +764,7 @@ def main():
             laplace_k=args.laplace_k,
             topk_prefix=args.debug_topk,
             focus_prefix=focus_prefix,
+            laplace_support=args.laplace_support,
         )
         debug_dump_ngram_freq(f"{pkey} NonHeads", non_ng, args.debug_ngram_topk)
 
@@ -542,21 +773,23 @@ def main():
         print("#" * 90)
 
         if not args.only_nonheads:
-            dist_h = js_distance_pnext_aggregate(
+            dist_h, _ = js_distance_pnext_aggregate(
                 h_cond_p, h_prefN_p,
                 base_heads_cond_by_n[dbg_n], base_heads_prefN_by_n[dbg_n],
                 laplace_k=args.laplace_k,
                 avg_mode=args.avg_mode,
+                laplace_support=args.laplace_support,
             )
-            print(f"[DEBUG] Heads JSdist(P(next|prefix)) = {dist_h:.6f}")
+            print(f"[DEBUG] Heads color-value = {dist_h:.6f}")
 
-        dist_n = js_distance_pnext_aggregate(
+        dist_n, _ = js_distance_pnext_aggregate(
             non_cond_p, non_prefN_p,
             base_non_cond_by_n[dbg_n], base_non_prefN_by_n[dbg_n],
             laplace_k=args.laplace_k,
             avg_mode=args.avg_mode,
+            laplace_support=args.laplace_support,
         )
-        print(f"[DEBUG] NonHeads JSdist(P(next|prefix)) = {dist_n:.6f}")
+        print(f"[DEBUG] NonHeads color-value = {dist_n:.6f}")
         print("#" * 90 + "\n")
 
     # ---------------------------------------------------------
@@ -580,14 +813,16 @@ def main():
     period_labels_heads = [f"{lbl}({t})" for lbl, t in zip(base_labels, heads_T_by_period)]
     period_labels_non = [f"{lbl}({t})" for lbl, t in zip(base_labels, non_T_by_period)]
 
-    # heatmap
+    # heatmap color scale (ln): sqrt(ln2)
     vmin = 0.0
-    vmax = math.sqrt(math.log(2.0))
+    vmax = 0.2
 
-    def build_matrix(is_heads: bool) -> List[List[float]]:
-        mat = []
+    def build_mats(is_heads: bool) -> Tuple[List[List[float]], List[List[str]]]:
+        color_mat: List[List[float]] = []
+        text_mat: List[List[str]] = []
         for (_, d1, d2) in periods:
-            row = []
+            c_row: List[float] = []
+            t_row: List[str] = []
             for n in ns:
                 h_cond_p, h_prefN_p, non_cond_p, non_prefN_p = count_conditional_heads_nonheads_in_range(
                     segs_by_person, n=n, heads_name=args.heads_name, date_start=d1, date_end=d2
@@ -599,50 +834,101 @@ def main():
                     cond_p, prefN_p = non_cond_p, non_prefN_p
                     cond_b, prefN_b = base_non_cond_by_n[n], base_non_prefN_by_n[n]
 
-                row.append(
-                    js_distance_pnext_aggregate(
-                        cond_p, prefN_p, cond_b, prefN_b,
-                        laplace_k=args.laplace_k,
-                        avg_mode=args.avg_mode,
-                    )
+                color_val, text = js_distance_pnext_aggregate(
+                    cond_p, prefN_p, cond_b, prefN_b,
+                    laplace_k=args.laplace_k,
+                    avg_mode=args.avg_mode,
+                    laplace_support=args.laplace_support,
                 )
-            mat.append(row)
-        return mat
+                c_row.append(color_val)
+                t_row.append(text)
+            color_mat.append(c_row)
+            text_mat.append(t_row)
+        return color_mat, text_mat
 
-    suffix = f"k={args.laplace_k}_{args.avg_mode}"
+    def mat_halfyears_to_boxdata(color_mat: List[List[float]]) -> List[List[float]]:
+        """
+        color_mat: (half_years + base) x C
+        return: C x [values over half_years]
+        """
+        cols: List[List[float]] = [[] for _ in ns]
+        if not color_mat:
+            return cols
+        for i in range(min(halfK, len(color_mat))):
+            for j in range(len(ns)):
+                cols[j].append(color_mat[i][j])
+        return cols
 
+    suffix = f"{args.start_year}-{args.end_year}_n{args.nmin}-{args.nmax}_k{args.laplace_k}_{args.avg_mode}_{args.laplace_support}_fs{args.font_scale}"
+
+    # Heads
     if not args.only_nonheads:
-        mat_h = build_matrix(is_heads=True)
-        out_h = os.path.join(
+        color_h, text_h = build_mats(is_heads=True)
+
+        if not args.boxplot_only:
+            out_h = os.path.join(
+                args.outdir,
+                f"heatmap_halfyear_x_pnext_heads_{suffix}.png",
+            )
+            plot_heatmap_period_x_n(
+                out_h,
+                title=f"Heads: JSdist(half-year, {base_key}) on P(next|prefix) n={args.nmin}..{args.nmax} [ln] ({args.avg_mode}, {args.laplace_support})",
+                period_labels=period_labels_heads,
+                n_labels=n_labels,
+                color_mat=color_h,
+                vmin=vmin,
+                vmax=vmax,
+                text_mat=text_h,
+                cell_fontsize=plt.rcParams["font.size"] * 0.80,
+            )
+            print(f"# wrote: {out_h}")
+
+        if args.boxplot:
+            box_h = mat_halfyears_to_boxdata(color_h)
+            out_bh = os.path.join(args.outdir, f"boxplot_halfyear_jsdist_pnext_heads_{suffix}.png")
+            plot_boxplot_by_n(
+                out_bh,
+                title=f"Heads: half-year JSdist vs {base_key} (P(next|prefix), n={args.nmin}..{args.nmax}) [ln] ({args.avg_mode}, {args.laplace_support})",
+                n_labels=[f"{n}-gram" for n in ns],
+                data_by_n=box_h,
+                ymin=vmin,
+                ymax=vmax,
+            )
+            print(f"# wrote: {out_bh}")
+
+    # NonHeads
+    color_n, text_n = build_mats(is_heads=False)
+
+    if not args.boxplot_only:
+        out_n = os.path.join(
             args.outdir,
-            f"heatmap_halfyear_x_pnext_heads_{args.start_year}-{args.end_year}_n{args.nmin}-{args.nmax}_{suffix}.png",
+            f"heatmap_halfyear_x_pnext_nonheads_{suffix}.png",
         )
         plot_heatmap_period_x_n(
-            out_h,
-            title=f"Heads: JSdist(half-year, {base_key}) on P(next|prefix) n={args.nmin}..{args.nmax} [ln] ({suffix})",
-            period_labels=period_labels_heads,
+            out_n,
+            title=f"NonHeads: JSdist(half-year, {base_key}) on P(next|prefix) n={args.nmin}..{args.nmax} [ln] ({args.avg_mode}, {args.laplace_support})",
+            period_labels=period_labels_non,
             n_labels=n_labels,
-            mat=mat_h,
+            color_mat=color_n,
             vmin=vmin,
             vmax=vmax,
+            text_mat=text_n,
+            cell_fontsize=plt.rcParams["font.size"] * 0.80,
         )
-        print(f"# wrote: {out_h}")
+        print(f"# wrote: {out_n}")
 
-    mat_n = build_matrix(is_heads=False)
-    out_n = os.path.join(
-        args.outdir,
-        f"heatmap_halfyear_x_pnext_nonheads_{args.start_year}-{args.end_year}_n{args.nmin}-{args.nmax}_{suffix}.png",
-    )
-    plot_heatmap_period_x_n(
-        out_n,
-        title=f"NonHeads: JSdist(half-year, {base_key}) on P(next|prefix) n={args.nmin}..{args.nmax} [ln] ({suffix})",
-        period_labels=period_labels_non,
-        n_labels=n_labels,
-        mat=mat_n,
-        vmin=vmin,
-        vmax=vmax,
-    )
-    print(f"# wrote: {out_n}")
+    if args.boxplot:
+        box_n = mat_halfyears_to_boxdata(color_n)
+        out_bn = os.path.join(args.outdir, f"boxplot_halfyear_jsdist_pnext_nonheads_{suffix}.png")
+        plot_boxplot_by_n(
+            out_bn,
+            title=f"JSDistance: half-year vs {base_key}",
+            n_labels=[f"{n}-gram" for n in ns],
+            data_by_n=box_n,
+            ymin=vmin,
+            ymax=vmax,
+        )
+        print(f"# wrote: {out_bn}")
 
 
 if __name__ == "__main__":
