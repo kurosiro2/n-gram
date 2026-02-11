@@ -14,20 +14,26 @@ period(半年) × (n=1..N の「2019~2025 を基準にした JS距離」) のヒ
       --boxplot / --boxplot-only
   - 外れ値(変な〇)を消す:
       showfliers=False
-  - ★今回: 箱ひげ図に最小値/最大値を表示
+  - 箱ひげ図に最小値/最大値を表示
       - 最小値: 「〇」(open circle)
       - 最大値: 「•」(dot)
-      - 前面(zorder) + クリップ無効(clip_on=False) + ylim自動余白
       --boxplot-minmax-markers
   - フォント倍率:
       --font-scale
+
+★追加（今回）: past半期の比較基準を「全期間から当該半期を除外した base」にできる（leave-one-halfyear-out）
+  --past-base full | loo
+    full: 従来通り base=2019..2025 全期間
+    loo : 半期Pの行では base_excl(P)= [base_start..P_start-1] + [P_end+1..base_end] を基準にする
+          （単純な base_full - P はしない。半期境界跨ぎn-gramが残るため）
+  ※ base行（2019~2025 行）は比較対象が無いので dist=0.0 を出す（base vs base）
 """
 
 import os
 import sys
 import math
 import argparse
-from collections import Counter
+from collections import Counter, defaultdict
 from typing import Dict, Tuple, List, Optional, Set, FrozenSet
 
 import matplotlib
@@ -176,6 +182,36 @@ def count_ngrams_heads_nonheads_in_range(
     return heads, nonheads
 
 
+def count_ngrams_heads_nonheads_in_two_ranges(
+    segs_by_person: Dict[PersonKey, List[Segment]],
+    n: int,
+    heads_name: str,
+    r1: Optional[Tuple[int, int]],
+    r2: Optional[Tuple[int, int]],
+) -> Tuple[Counter, Counter]:
+    """
+    2区間を別々に数えて足す（区間間の“跨ぎn-gram”は自然に消える）。
+    """
+    heads = Counter()
+    non = Counter()
+
+    if r1 is not None:
+        a, b = r1
+        if a <= b:
+            h1, n1 = count_ngrams_heads_nonheads_in_range(segs_by_person, n, heads_name, a, b)
+            heads += h1
+            non += n1
+
+    if r2 is not None:
+        a, b = r2
+        if a <= b:
+            h2, n2 = count_ngrams_heads_nonheads_in_range(segs_by_person, n, heads_name, a, b)
+            heads += h2
+            non += n2
+
+    return heads, non
+
+
 # ---------------------------
 # JS distance (sqrt(JSD)) [ln]
 # ---------------------------
@@ -315,18 +351,6 @@ def plot_boxplot_by_n(
     show_minmax_markers: bool = False,
     minmax_marker_size: Optional[float] = None,
 ) -> None:
-    """
-    showfliers=False で外れ値マーカーは出さない。
-    show_minmax_markers=True で min/max を表示する。
-      - min: 「〇」(open circle)
-      - max: 「•」(dot)
-
-    ★確実に出すための対策:
-      - data/ min/max を有限値で掃除（nan/inf 対策）
-      - zorder=50 で前面
-      - clip_on=False
-      - ylim を min/max も考慮して余白付きで広げる
-    """
     C = len(n_labels)
     fig_w = max(9.0, C * 1.8)
     fig_h = 6.5
@@ -395,7 +419,6 @@ def plot_boxplot_by_n(
             if mx is not None and math.isfinite(mx):
                 x_max.append(x); y_max.append(mx)
 
-        # min: open circle
         sc_min = ax.scatter(
             x_min, y_min,
             marker="o",
@@ -407,8 +430,6 @@ def plot_boxplot_by_n(
             clip_on=False,
             label="min",
         )
-
-        # max: dot (black)
         sc_max = ax.scatter(
             x_max, y_max,
             marker=".",
@@ -419,7 +440,6 @@ def plot_boxplot_by_n(
             label="max",
         )
 
-        # ★凡例の表示順を「逆」に固定（max を先、min を後）
         ax.legend(handles=[sc_max, sc_min], labels=["max", "min"], loc="upper right")
 
     plt.tight_layout()
@@ -441,6 +461,14 @@ def main():
     ap.add_argument("--only-nonheads", action="store_true")
 
     ap.add_argument("--laplace-support", choices=["observed_ab", "all"], default="observed_ab")
+
+    # ★追加: 半期を抜く比較基準
+    ap.add_argument(
+        "--past-base",
+        choices=["full", "loo"],
+        default="loo",
+        help="Comparison base for half-years: full=all years, loo=exclude the half-year from base (two-range sum).",
+    )
 
     ap.add_argument("--boxplot", action="store_true")
     ap.add_argument("--boxplot-only", action="store_true")
@@ -475,12 +503,16 @@ def main():
     base_start = args.start_year * 10000 + 101
     base_end = args.end_year * 10000 + 1231
 
+    # 表示上は base 行も残す（従来通り）
     periods = half_periods + [(base_key, base_start, base_end)]
     halfK = len(half_periods)
 
     ns = list(range(args.nmin, args.nmax + 1))
     n_labels_heat = [f"{n}-gram (vs {base_key})" for n in ns]
 
+    # -------------------------
+    # base_full: foundがないので、half-year比較の基準として使う
+    # -------------------------
     base_heads_by_n: Dict[int, Counter] = {}
     base_non_by_n: Dict[int, Counter] = {}
     for n in ns:
@@ -490,6 +522,36 @@ def main():
         base_heads_by_n[n] = h_b
         base_non_by_n[n] = non_b
 
+    # -------------------------
+    # half-year のカウントを先に作る（距離計算用）
+    # -------------------------
+    half_counts_by_key_n: Dict[str, Dict[int, Tuple[Counter, Counter]]] = defaultdict(dict)
+    for (k, d1, d2) in half_periods:
+        for n in ns:
+            h_p, non_p = count_ngrams_heads_nonheads_in_range(
+                segs_by_person, n=n, heads_name=args.heads_name, date_start=d1, date_end=d2
+            )
+            half_counts_by_key_n[k][n] = (h_p, non_p)
+
+    # -------------------------
+    # base_excl(half-year): loo の時だけ作る（2区間合算）
+    # -------------------------
+    base_excl_heads_by_key_n: Dict[str, Dict[int, Counter]] = defaultdict(dict)
+    base_excl_non_by_key_n: Dict[str, Dict[int, Counter]] = defaultdict(dict)
+    if args.past_base == "loo":
+        for (k, d1, d2) in half_periods:
+            r1 = (base_start, d1 - 1) if base_start <= d1 - 1 else None
+            r2 = (d2 + 1, base_end) if d2 + 1 <= base_end else None
+            for n in ns:
+                h_ex, non_ex = count_ngrams_heads_nonheads_in_two_ranges(
+                    segs_by_person, n=n, heads_name=args.heads_name, r1=r1, r2=r2
+                )
+                base_excl_heads_by_key_n[k][n] = h_ex
+                base_excl_non_by_key_n[k][n] = non_ex
+
+    # -------------------------
+    # y軸ラベル用 1-gram totals
+    # -------------------------
     base_labels = [k for (k, _, _) in periods]
     heads_1gram_totals: List[int] = []
     non_1gram_totals: List[int] = []
@@ -504,18 +566,34 @@ def main():
     period_labels_non = [f"{lbl}({t})" for lbl, t in zip(base_labels, non_1gram_totals)]
 
     vmin = 0.0
-    vmax = 0.4
+    vmax = 0.45
+
+    def pick_base_counter(is_heads: bool, pkey: str, is_base_row: bool, n: int) -> Counter:
+        """
+        half-year 行の比較基準:
+          - --past-base=full -> base_full
+          - --past-base=loo  -> base_excl(pkey)
+        base 行（全期間行）は base vs base なので base_full を返しておく（距離は0にする）
+        """
+        if is_base_row:
+            return base_heads_by_n[n] if is_heads else base_non_by_n[n]
+
+        if args.past_base == "loo":
+            return base_excl_heads_by_key_n[pkey][n] if is_heads else base_excl_non_by_key_n[pkey][n]
+        return base_heads_by_n[n] if is_heads else base_non_by_n[n]
 
     def build_matrix(is_heads: bool) -> List[List[float]]:
         mat: List[List[float]] = []
-        for (_pkey, d1, d2) in periods:
+
+        # half-years
+        for (pkey, _d1, _d2) in half_periods:
             row: List[float] = []
             for n in ns:
-                h_p, non_p = count_ngrams_heads_nonheads_in_range(
-                    segs_by_person, n=n, heads_name=args.heads_name, date_start=d1, date_end=d2
-                )
+                h_p, non_p = half_counts_by_key_n[pkey][n]
                 c_p = h_p if is_heads else non_p
-                c_b = base_heads_by_n[n] if is_heads else base_non_by_n[n]
+
+                c_b = pick_base_counter(is_heads, pkey=pkey, is_base_row=False, n=n)
+
                 row.append(
                     js_distance_from_counters(
                         c_p, c_b,
@@ -525,6 +603,9 @@ def main():
                     )
                 )
             mat.append(row)
+
+        # base row: dist(base, base)=0.0（比較として意味が無いので固定）
+        mat.append([0.0 for _ in ns])
         return mat
 
     def mat_halfyears_to_boxdata(mat: List[List[float]]) -> List[List[float]]:
@@ -534,7 +615,7 @@ def main():
                 cols[j].append(mat[i][j])
         return cols
 
-    suffix = f"{args.start_year}-{args.end_year}_n{args.nmin}-{args.nmax}_{args.laplace_support}_a{args.alpha}_fs{args.font_scale}"
+    suffix = f"{args.start_year}-{args.end_year}_n{args.nmin}-{args.nmax}_{args.laplace_support}_a{args.alpha}_fs{args.font_scale}_pastbase-{args.past_base}"
 
     if not args.only_nonheads:
         mat_h = build_matrix(is_heads=True)
@@ -543,7 +624,7 @@ def main():
             out_h = os.path.join(args.outdir, f"heatmap_halfyear_x_ngram_heads_{suffix}.png")
             plot_heatmap_period_x_n(
                 out_h,
-                title=f"Heads: JSdist(half-year, {base_key}) for n={args.nmin}..{args.nmax} [ln] (laplace-support={args.laplace_support})",
+                title=f"Heads: JSdist(half-year, base={args.past_base}) for n={args.nmin}..{args.nmax} [ln] (laplace-support={args.laplace_support})",
                 period_labels=period_labels_heads,
                 n_labels=n_labels_heat,
                 mat=mat_h,
@@ -558,7 +639,7 @@ def main():
             out_bh = os.path.join(args.outdir, f"boxplot_halfyear_jsdist_heads_{suffix}.png")
             plot_boxplot_by_n(
                 out_bh,
-                title=f"Heads: half-year JSdist vs {base_key} (n={args.nmin}..{args.nmax}) [ln] (laplace-support={args.laplace_support})",
+                title=f"Heads: half-year JSdist (base={args.past_base}) (n={args.nmin}..{args.nmax}) [ln] (laplace-support={args.laplace_support})",
                 n_labels=[f"{n}-gram" for n in ns],
                 data_by_n=box_h,
                 ymin=vmin,
@@ -574,7 +655,7 @@ def main():
         out_n = os.path.join(args.outdir, f"heatmap_halfyear_x_ngram_nonheads_{suffix}.png")
         plot_heatmap_period_x_n(
             out_n,
-            title=f"NonHeads: JSdist(half-year, {base_key}) for n={args.nmin}..{args.nmax} [ln] (laplace-support={args.laplace_support})",
+            title=f"NonHeads: JSdist(half-year, base={args.past_base}) for n={args.nmin}..{args.nmax} [ln] (laplace-support={args.laplace_support})",
             period_labels=period_labels_non,
             n_labels=n_labels_heat,
             mat=mat_n,
@@ -589,7 +670,7 @@ def main():
         out_bn = os.path.join(args.outdir, f"boxplot_halfyear_jsdist_nonheads_{suffix}.png")
         plot_boxplot_by_n(
             out_bn,
-            title=f"JSDistance: half-year vs {base_key}",
+            title=f"JSDistance: half-year vs 2020~2025",
             n_labels=[f"{n}-gram" for n in ns],
             data_by_n=box_n,
             ymin=vmin,

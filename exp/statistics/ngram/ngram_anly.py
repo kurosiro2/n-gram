@@ -47,11 +47,11 @@ SHIFT_LABELS = {
     "日勤"   : {"ja": "日勤",   "en": "D" },
 
     "長日勤" : {"ja": "長日勤", "en": "LD"},
-    "早出"   : {"ja": "早出",   "en": "EM"},
-    "遅出"   : {"ja": "遅出",   "en": "LM"},
+    "早出"   : {"ja": "早日勤",   "en": "EM"},
+    "遅出"   : {"ja": "遅日勤",   "en": "LM"},
     "準夜"   : {"ja": "準夜",   "en": "E" },
     "深夜"   : {"ja": "深夜",   "en": "N" },
-    "公休"   : {"ja": "公休",   "en": "PH"},
+    "公休"   : {"ja": "祝日",   "en": "PH"},
 }
 
 EN2JA = {}
@@ -319,7 +319,7 @@ def main():
     ap.add_argument("--fig-h", type=float, default=6.0)
 
     # ★全体フォントサイズ
-    ap.add_argument("--base-fs", type=int, default=18, help="global base font size (default: 18)")
+    ap.add_argument("--base-fs", type=int, default=16, help="global base font size (default: 18)")
 
     # 個別（必要なら上書き）
     ap.add_argument("--fontsize-x", type=int, default=None)

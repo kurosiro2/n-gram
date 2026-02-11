@@ -267,7 +267,12 @@ penalty(succ_shift(N, DD, S), table(N, D), PNL, PRI) :-
 total_shifts_count(G, SS, X) :-
     group(G, _),
     shifts(SS, _),
-    X = #count { N,D,S : ext_assigned(N, D, S), shifts(SS, S), base_date(D), group(G, N)}.
+    X = #count { N,D,S :
+        ext_assigned(N, D, S),
+        shifts(SS, S),
+        date(D),
+        group(G, N)
+    }.
 
 % 上限
 penalty(total_shifts_ub(G, SS, UB, X), SS, PNL * (X - UB) * (X - UB), PRI) :-
@@ -288,16 +293,9 @@ penalty(total_shifts_lb(G, SS, LB, X), SS, PNL * (LB - X) * (LB - X), PRI) :-
 
 
 
-ext_ngram_assigned(N,D,"○") :-
-    ext_assigned(N,D,S),
-    not working_shift(S).
-
-
 ngram_pattern_occured(PID, N, D, D+LEN-1) :-
     pattern(PID, LEN), staff(N), base_date(D),
-    ext_ngram_assigned(N, D + IDX, S) : pattern(PID, IDX, S).
-
-
+    ext_assigned(N, D + IDX, S) : pattern(PID, IDX, S).
 
 % ある勤務パターンの回数（全体）
 total_patterns_count(G, PS, X) :-
@@ -306,7 +304,8 @@ total_patterns_count(G, PS, X) :-
     X = #count { N,BD,ED,P :
         ngram_pattern_occured(P, N, BD, ED),
         patterns(PS, P),
-        base_date(ED),
+        date(BD),
+        date(ED),
         group(G, N)
     }.
 
@@ -319,7 +318,7 @@ penalty(total_patterns_ub(G, PS, UB, X), PS, PNL * (X - UB) * (X - UB), PRI) :-
     _priority("total_patterns_ub", PRI).
 
 
-% 下限（ソフト）
+% 下限
 penalty(total_patterns_lb(G, PS, LB, X), PS, PNL * (LB - X) * (LB - X), PRI) :-
     total_patterns_lb(G, PS, LB),
     total_patterns_count(G, PS, X),

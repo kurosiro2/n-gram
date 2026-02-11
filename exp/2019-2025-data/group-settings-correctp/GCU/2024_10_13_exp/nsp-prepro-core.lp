@@ -8,9 +8,9 @@ target(ID) :- staff(ID), group(_, ID). % 少なくとも所属グループがあ
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % 勤務シフト
-working_shift("日";"N";"J";"S";"A";"P").
+working_shift("日";"N";"J";"S";"A";"P";"★";"☆").
 % 夜勤シフト
-night_working_shift("J";"S").
+night_working_shift("J";"S";"★";"☆").
 % 週休シフト
 weekly_holiday_shift("○").
 % 祝日シフト

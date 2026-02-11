@@ -8,42 +8,42 @@
  
 % S, ★, ☆ の前日シフトをハード化
 % J の前日はソフトでよい
-hard_pred_shift("S";"★";"☆").
+% hard_pred_shift("S";"★";"☆").
 
-% S, J, ★, ☆ の翌日シフトをハード化
-hard_succ_shift("S";"J";"★";"☆").
+% % S, J, ★, ☆ の翌日シフトをハード化
+% hard_succ_shift("S";"J";"★";"☆").
 
 %---------------------------------------------------------------------
 % 希望シフトに関する制約
 %---------------------------------------------------------------------
 
 % 各スタッフの希望シフトをハード化
-hard_staff_request(N) :- staff(N).
+% hard_staff_request(N) :- staff(N).
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % ソフト制約の優先度と重み
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % 看護師の希望シフトは優先的に充足する
-priority("staff_request", 5).
+priority("staff_request", 3).
 
 % 超過連続勤務を避ける
-priority("over_work_period", 5).
+priority("over_work_period", 3).
 
 % 不正パターンの抑制を優先する
-priority("invalid_patterns", 4).
+priority("invalid_patterns", 3).
 % パターン割当数を優先する
-priority("patterns_lb", 4).
-priority("patterns_ub", 4).
+priority("patterns_lb", 3).
+priority("patterns_ub", 3).
 
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%(追加部ここから)%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-priority("total_shifts_ub", 4).
-priority("total_shifts_lb", 4).
-priority("total_patterns_ub", 3).
-priority("total_patterns_lb", 3).
+priority("total_shifts_ub", 5).
+priority("total_shifts_lb", 5).
+priority("total_patterns_ub", 4).
+priority("total_patterns_lb", 4).
 priority("isolated_working_day", 3).
 priority("isolated_weekly_holiday", 3).
 priority("invalid_pref2_next",2).
