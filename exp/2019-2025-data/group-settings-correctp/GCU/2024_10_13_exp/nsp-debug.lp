@@ -174,3 +174,9 @@ penalty(pos_def_request(N, FD), table(N, D), PNL, PRI) :-
     not 1 { ext_assigned(N, D, S) : pos_def_request(N, D, S) } 1,
     date2fulldate(D, FD),
     _penalty("pos_def_request", PNL), _priority("pos_def_request", PRI), soft_all.
+
+
+#show hit/4.
+hit("日○日",N,BD,ED) :- ngram_pattern_occured("日○日", N, BD, ED), date(BD), date(ED).
+hit("○日日",N,BD,ED) :- ngram_pattern_occured("○日日", N, BD, ED), date(BD), date(ED).
+hit("○日日○",N,BD,ED) :- ngram_pattern_occured("○日日○", N, BD, ED), date(BD), date(ED).

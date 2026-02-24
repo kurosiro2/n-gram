@@ -1,4 +1,4 @@
-header("Cost: 0 0 0 18 7 155 114 225 -134, Elapsed: 1820s").
+header("Cost: 0 0 0 0 1 107 334 -42, Elapsed: 1865s").
 horizontal_constraint_type("D").
 horizontal_constraint_type("LD").
 horizontal_constraint_type("SE").
@@ -7,9 +7,6 @@ horizontal_constraint_type("E").
 horizontal_constraint_type("N").
 horizontal_constraint_type("LM").
 horizontal_constraint_type("EM").
-out_stats(num_weekend_offs(2, 0, 1, 1)).
-out_stats(num_weekend_offs(3, 0, 2, 2)).
-out_stats(num_weekend_offs(8, 0, 0, 0)).
 section("GCU").
 shift("D").
 shift("LD").
@@ -261,95 +258,14 @@ shift_rel("深夜勤", "SN").
 shift_rel("深夜勤", "N").
 shift_rel("準夜勤", "SE").
 shift_rel("準夜勤", "E").
-out_assigned(2, 20241013, "SE").
-out_assigned(3, 20241013, "WR").
-out_assigned(8, 20241013, "WR").
-out_assigned(2, 20241014, "SN").
-out_assigned(3, 20241014, "LD").
 out_assigned(8, 20241014, "PH").
 out_assigned(15, 20241014, "PH").
 out_assigned(17, 20241014, "PH").
 out_assigned(18, 20241014, "PH").
-out_assigned(3, 20241015, "SE").
-out_assigned(2, 20241015, "WR").
-out_assigned(8, 20241015, "WR").
 out_assigned(18, 20241015, "WR").
-out_assigned(2, 20241016, "D").
-out_assigned(3, 20241016, "SN").
-out_assigned(8, 20241016, "D").
-out_assigned(2, 20241017, "D").
-out_assigned(8, 20241017, "D").
-out_assigned(3, 20241017, "WR").
-out_assigned(3, 20241018, "D").
-out_assigned(8, 20241018, "D").
-out_assigned(2, 20241018, "WR").
-out_assigned(8, 20241019, "D").
-out_assigned(2, 20241019, "WR").
-out_assigned(3, 20241019, "WR").
-out_assigned(8, 20241020, "D").
-out_assigned(2, 20241020, "WR").
-out_assigned(3, 20241020, "WR").
-out_assigned(2, 20241021, "D").
-out_assigned(3, 20241021, "D").
-out_assigned(8, 20241021, "WR").
-out_assigned(2, 20241022, "D").
-out_assigned(8, 20241022, "D").
-out_assigned(3, 20241022, "WR").
-out_assigned(3, 20241023, "D").
-out_assigned(8, 20241023, "D").
-out_assigned(2, 20241023, "WR").
-out_assigned(2, 20241024, "D").
-out_assigned(3, 20241024, "WR").
-out_assigned(8, 20241024, "WR").
-out_assigned(2, 20241025, "D").
-out_assigned(3, 20241025, "D").
-out_assigned(8, 20241025, "D").
-out_assigned(8, 20241026, "D").
-out_assigned(2, 20241026, "WR").
-out_assigned(3, 20241026, "WR").
-out_assigned(2, 20241027, "D").
-out_assigned(3, 20241027, "D").
-out_assigned(8, 20241027, "D").
-out_assigned(2, 20241028, "D").
-out_assigned(3, 20241028, "D").
-out_assigned(8, 20241028, "WR").
-out_assigned(3, 20241029, "D").
-out_assigned(8, 20241029, "D").
-out_assigned(2, 20241029, "WR").
-out_assigned(2, 20241030, "D").
-out_assigned(8, 20241030, "D").
-out_assigned(3, 20241030, "WR").
-out_assigned(2, 20241031, "D").
-out_assigned(3, 20241031, "D").
-out_assigned(8, 20241031, "D").
-out_assigned(2, 20241101, "LD").
-out_assigned(3, 20241101, "D").
-out_assigned(8, 20241101, "D").
-out_assigned(2, 20241102, "LD").
-out_assigned(3, 20241102, "D").
-out_assigned(8, 20241102, "WR").
-out_assigned(3, 20241103, "D").
-out_assigned(8, 20241103, "D").
-out_assigned(2, 20241103, "WR").
-out_assigned(2, 20241104, "D").
 out_assigned(3, 20241104, "PH").
 out_assigned(8, 20241104, "PH").
-out_assigned(2, 20241105, "D").
-out_assigned(3, 20241105, "D").
-out_assigned(8, 20241105, "D").
-out_assigned(2, 20241106, "D").
-out_assigned(3, 20241106, "D").
-out_assigned(8, 20241106, "D").
-out_assigned(3, 20241107, "LD").
-out_assigned(8, 20241107, "D").
 out_assigned(2, 20241107, "AL").
-out_assigned(2, 20241108, "SE").
-out_assigned(3, 20241108, "SE").
-out_assigned(13, 20241108, "LD").
-out_assigned(8, 20241108, "WR").
-out_assigned(2, 20241109, "SN").
-out_assigned(3, 20241109, "SN").
-out_assigned(8, 20241109, "BT").
 out_assigned(7, 20241110, "WR").
 out_assigned(8, 20241110, "BT").
 out_assigned(8, 20241112, "D").
@@ -613,37 +529,10 @@ vertical_constraint_type("Mid-levels", "SE", "Staffs").
 vertical_constraint_type("Mid-levels", "SN", "Staffs").
 vertical_constraint_type("Newcomers", "SE", "Staffs").
 vertical_constraint_type("Newcomers", "SN", "Staffs").
-penalty(isolated_working_day(3, 20241018), table(3, 5), 1, 3).
-penalty(isolated_working_day(3, 20241021), table(3, 8), 1, 3).
-penalty(isolated_working_day(3, 20241023), table(3, 10), 1, 3).
-penalty(isolated_working_day(3, 20241025), table(3, 12), 1, 3).
-penalty(isolated_working_day(8, 20241103), table(8, 21), 1, 3).
-penalty(isolated_weekly_holiday(2, 20241015), table(2, 2), 1, 3).
-penalty(isolated_weekly_holiday(3, 20241017), table(3, 4), 1, 3).
-penalty(isolated_weekly_holiday(8, 20241021), table(8, 8), 1, 3).
-penalty(isolated_weekly_holiday(3, 20241022), table(3, 9), 1, 3).
-penalty(isolated_weekly_holiday(2, 20241023), table(2, 10), 1, 3).
-penalty(isolated_weekly_holiday(3, 20241024), table(3, 11), 1, 3).
-penalty(isolated_weekly_holiday(8, 20241024), table(8, 11), 1, 3).
-penalty(isolated_weekly_holiday(2, 20241026), table(2, 13), 1, 3).
-penalty(isolated_weekly_holiday(3, 20241026), table(3, 13), 1, 3).
-penalty(isolated_weekly_holiday(8, 20241028), table(8, 15), 1, 3).
-penalty(isolated_weekly_holiday(2, 20241029), table(2, 16), 1, 3).
-penalty(isolated_weekly_holiday(3, 20241030), table(3, 17), 1, 3).
-penalty(isolated_weekly_holiday(8, 20241102), table(8, 20), 1, 3).
-penalty(isolated_weekly_holiday(2, 20241103), table(2, 21), 1, 3).
-penalty(isolated_weekly_holiday(3, 20241104), table(3, 22), 1, 3).
-penalty(isolated_weekly_holiday(8, 20241104), table(8, 22), 1, 3).
-penalty(isolated_weekly_holiday(2, 20241107), table(2, 25), 1, 3).
-penalty(adjacent_holiday(2, 20241107, 20241107), table(2, 25), 1, 1).
-penalty(staff_request(8, 20241014, "WR", "◎"), table(8, 1), 1, 5).
-penalty(staff_request(15, 20241014, "WR", "◎"), table(15, 1), 1, 5).
-penalty(staff_request(17, 20241014, "WR", "◎"), table(17, 1), 1, 5).
-penalty(staff_request(18, 20241014, "WR", "◎"), table(18, 1), 1, 5).
-reward(weekend_offs(2, 0), staff(2), 4, 1).
-reward(weekend_offs(3, 0), staff(3), 4, 1).
-reward(consecutive_holidays(2, 0), staff(2), 4, 1).
-reward(consecutive_holidays(3, 0), staff(3), 4, 1).
+penalty(staff_request(8, 20241014, "WR", "◎"), table(8, 1), 1, 3).
+penalty(staff_request(15, 20241014, "WR", "◎"), table(15, 1), 1, 3).
+penalty(staff_request(17, 20241014, "WR", "◎"), table(17, 1), 1, 3).
+penalty(staff_request(18, 20241014, "WR", "◎"), table(18, 1), 1, 3).
 staff(1, "寺島　由美子", "Heads", "0102025", 0).
 staff(2, "中込　美幸", "Deputy Chief Nurse", "0058294", 5).
 staff(3, "杉本　美貴", "Deputy Chief Nurse", "0051525", 5).
@@ -661,455 +550,565 @@ staff(14, "中川　菜々子", "Nurse", "0384563", 3).
 staff(15, "小林　結菜", "Nurse", "0418437", 3).
 staff(16, "梶原　葉南", "Nurse", "0418448", 3).
 staff(17, "加賀美　里奈", "Nurse", "0418450", 2).
-out_stats(num_consecutive_holidays(2, 0, 1, 1)).
-out_stats(num_consecutive_holidays(3, 0, 2, 2)).
-out_stats(num_consecutive_holidays(8, 0, 0, 0)).
-out_stats(num_national_holiday_offs(2, 0, 0, 0)).
-penalty(pred_shift(2, 20241102, "N"), table(2, 20), 1, 4).
-penalty(succ_shift(2, 20241101, "N"), table(2, 19), 1, 4).
-out_assigned(4, 20241013, "LD").
-out_assigned(7, 20241013, "SN").
-out_assigned(11, 20241013, "SE").
-out_assigned(12, 20241013, "SN").
-out_assigned(13, 20241013, "LD").
+out_assigned(2, 20241013, "LD").
+out_assigned(3, 20241013, "E").
+out_assigned(4, 20241013, "N").
+out_assigned(5, 20241013, "E").
+out_assigned(6, 20241013, "LD").
+out_assigned(7, 20241013, "N").
+out_assigned(8, 20241013, "SN").
+out_assigned(10, 20241013, "SE").
+out_assigned(11, 20241013, "SN").
+out_assigned(13, 20241013, "E").
+out_assigned(14, 20241013, "SE").
+out_assigned(15, 20241013, "E").
+out_assigned(17, 20241013, "E").
 out_assigned(9, 20241013, "HL").
-out_assigned(15, 20241013, "WR").
-out_assigned(17, 20241013, "WR").
 out_assigned(1, 20241013, "WR").
-out_assigned(5, 20241013, "WR").
-out_assigned(6, 20241013, "WR").
-out_assigned(10, 20241013, "WR").
-out_assigned(14, 20241013, "WR").
+out_assigned(12, 20241013, "WR").
 out_assigned(16, 20241013, "WR").
+out_assigned(4, 20241014, "E").
+out_assigned(5, 20241014, "N").
 out_assigned(6, 20241014, "SE").
-out_assigned(9, 20241014, "SE").
-out_assigned(10, 20241014, "LD").
-out_assigned(11, 20241014, "SN").
+out_assigned(7, 20241014, "SE").
+out_assigned(9, 20241014, "SN").
+out_assigned(10, 20241014, "SN").
+out_assigned(12, 20241014, "LD").
+out_assigned(16, 20241014, "LD").
 out_assigned(1, 20241014, "PH").
-out_assigned(4, 20241014, "PH").
-out_assigned(5, 20241014, "PH").
-out_assigned(7, 20241014, "PH").
-out_assigned(12, 20241014, "PH").
+out_assigned(2, 20241014, "PH").
+out_assigned(3, 20241014, "PH").
+out_assigned(11, 20241014, "PH").
 out_assigned(13, 20241014, "PH").
 out_assigned(14, 20241014, "PH").
-out_assigned(16, 20241014, "PH").
-out_assigned(4, 20241015, "D").
-out_assigned(5, 20241015, "LD").
+out_assigned(2, 20241015, "LD").
+out_assigned(4, 20241015, "N").
 out_assigned(6, 20241015, "SN").
-out_assigned(9, 20241015, "SN").
-out_assigned(12, 20241015, "LD").
-out_assigned(13, 20241015, "SE").
+out_assigned(7, 20241015, "SN").
+out_assigned(8, 20241015, "D").
+out_assigned(9, 20241015, "SE").
+out_assigned(10, 20241015, "SE").
+out_assigned(11, 20241015, "SN").
+out_assigned(12, 20241015, "SE").
+out_assigned(14, 20241015, "D").
+out_assigned(15, 20241015, "LD").
 out_assigned(16, 20241015, "D").
 out_assigned(17, 20241015, "LD").
-out_assigned(10, 20241015, "WR").
 out_assigned(1, 20241015, "WR").
-out_assigned(7, 20241015, "WR").
-out_assigned(11, 20241015, "WR").
-out_assigned(14, 20241015, "WR").
-out_assigned(15, 20241015, "WR").
-out_assigned(4, 20241016, "SE").
-out_assigned(5, 20241016, "SE").
-out_assigned(7, 20241016, "LD").
-out_assigned(11, 20241016, "LD").
-out_assigned(13, 20241016, "SN").
-out_assigned(14, 20241016, "D").
-out_assigned(10, 20241016, "WR").
+out_assigned(3, 20241015, "WR").
+out_assigned(5, 20241015, "WR").
+out_assigned(13, 20241015, "WR").
+out_assigned(2, 20241016, "D").
+out_assigned(3, 20241016, "D").
+out_assigned(5, 20241016, "LD").
+out_assigned(6, 20241016, "SE").
+out_assigned(7, 20241016, "SE").
+out_assigned(9, 20241016, "SN").
+out_assigned(10, 20241016, "SN").
+out_assigned(12, 20241016, "SN").
+out_assigned(13, 20241016, "LD").
+out_assigned(15, 20241016, "LD").
+out_assigned(17, 20241016, "SE").
 out_assigned(16, 20241016, "HL").
 out_assigned(1, 20241016, "WR").
-out_assigned(6, 20241016, "WR").
-out_assigned(9, 20241016, "WR").
-out_assigned(12, 20241016, "WR").
-out_assigned(15, 20241016, "WR").
-out_assigned(17, 20241016, "WR").
-out_assigned(4, 20241017, "SN").
-out_assigned(5, 20241017, "SN").
-out_assigned(6, 20241017, "SE").
-out_assigned(7, 20241017, "SE").
-out_assigned(12, 20241017, "LD").
-out_assigned(14, 20241017, "SE").
-out_assigned(15, 20241017, "LD").
-out_assigned(10, 20241017, "AL").
+out_assigned(4, 20241016, "WR").
+out_assigned(8, 20241016, "WR").
+out_assigned(11, 20241016, "WR").
+out_assigned(14, 20241016, "WR").
+out_assigned(2, 20241017, "LD").
+out_assigned(3, 20241017, "D").
+out_assigned(5, 20241017, "LD").
+out_assigned(6, 20241017, "SN").
+out_assigned(7, 20241017, "SN").
+out_assigned(8, 20241017, "D").
+out_assigned(10, 20241017, "SE").
+out_assigned(11, 20241017, "D").
+out_assigned(13, 20241017, "SE").
+out_assigned(14, 20241017, "D").
+out_assigned(15, 20241017, "SE").
+out_assigned(17, 20241017, "SN").
 out_assigned(16, 20241017, "WR").
 out_assigned(1, 20241017, "WR").
+out_assigned(4, 20241017, "WR").
 out_assigned(9, 20241017, "WR").
-out_assigned(11, 20241017, "WR").
-out_assigned(13, 20241017, "WR").
-out_assigned(17, 20241017, "WR").
-out_assigned(6, 20241018, "SN").
-out_assigned(7, 20241018, "SN").
-out_assigned(9, 20241018, "LD").
-out_assigned(11, 20241018, "D").
-out_assigned(12, 20241018, "SE").
-out_assigned(13, 20241018, "D").
-out_assigned(14, 20241018, "SN").
-out_assigned(15, 20241018, "SE").
-out_assigned(17, 20241018, "LD").
+out_assigned(12, 20241017, "WR").
+out_assigned(2, 20241018, "D").
+out_assigned(3, 20241018, "D").
+out_assigned(5, 20241018, "SE").
+out_assigned(8, 20241018, "LD").
+out_assigned(9, 20241018, "D").
+out_assigned(11, 20241018, "SE").
+out_assigned(12, 20241018, "D").
+out_assigned(13, 20241018, "SN").
+out_assigned(14, 20241018, "D").
+out_assigned(15, 20241018, "SN").
+out_assigned(16, 20241018, "LD").
 out_assigned(10, 20241018, "AL").
 out_assigned(1, 20241018, "WR").
 out_assigned(4, 20241018, "WR").
-out_assigned(5, 20241018, "WR").
-out_assigned(16, 20241018, "WR").
-out_assigned(4, 20241019, "LD").
-out_assigned(5, 20241019, "SE").
-out_assigned(9, 20241019, "SE").
-out_assigned(12, 20241019, "SN").
-out_assigned(13, 20241019, "LD").
-out_assigned(15, 20241019, "SN").
+out_assigned(6, 20241018, "WR").
+out_assigned(7, 20241018, "WR").
+out_assigned(17, 20241018, "WR").
+out_assigned(4, 20241019, "SE").
+out_assigned(5, 20241019, "SN").
+out_assigned(8, 20241019, "LD").
+out_assigned(9, 20241019, "LD").
+out_assigned(11, 20241019, "SN").
+out_assigned(16, 20241019, "SE").
 out_assigned(1, 20241019, "WR").
+out_assigned(2, 20241019, "WR").
+out_assigned(3, 20241019, "WR").
 out_assigned(6, 20241019, "WR").
 out_assigned(7, 20241019, "WR").
 out_assigned(10, 20241019, "WR").
-out_assigned(11, 20241019, "WR").
+out_assigned(12, 20241019, "WR").
+out_assigned(13, 20241019, "WR").
 out_assigned(14, 20241019, "WR").
-out_assigned(16, 20241019, "WR").
+out_assigned(15, 20241019, "WR").
 out_assigned(17, 20241019, "WR").
-out_assigned(5, 20241020, "SN").
-out_assigned(6, 20241020, "LD").
-out_assigned(9, 20241020, "SN").
-out_assigned(13, 20241020, "SE").
-out_assigned(14, 20241020, "LD").
-out_assigned(17, 20241020, "SE").
+out_assigned(4, 20241020, "SN").
+out_assigned(7, 20241020, "SE").
+out_assigned(8, 20241020, "SE").
+out_assigned(10, 20241020, "LD").
+out_assigned(11, 20241020, "E").
+out_assigned(13, 20241020, "LD").
+out_assigned(16, 20241020, "SN").
 out_assigned(1, 20241020, "WR").
-out_assigned(4, 20241020, "WR").
-out_assigned(7, 20241020, "WR").
-out_assigned(10, 20241020, "WR").
-out_assigned(11, 20241020, "WR").
+out_assigned(2, 20241020, "WR").
+out_assigned(3, 20241020, "WR").
+out_assigned(5, 20241020, "WR").
+out_assigned(6, 20241020, "WR").
+out_assigned(9, 20241020, "WR").
 out_assigned(12, 20241020, "WR").
+out_assigned(14, 20241020, "WR").
 out_assigned(15, 20241020, "WR").
-out_assigned(16, 20241020, "WR").
-out_assigned(4, 20241021, "D").
-out_assigned(7, 20241021, "SE").
-out_assigned(10, 20241021, "LD").
-out_assigned(11, 20241021, "SE").
+out_assigned(17, 20241020, "WR").
+out_assigned(2, 20241021, "D").
+out_assigned(3, 20241021, "LD").
+out_assigned(5, 20241021, "SE").
+out_assigned(6, 20241021, "D").
+out_assigned(7, 20241021, "SN").
+out_assigned(8, 20241021, "SN").
+out_assigned(9, 20241021, "D").
+out_assigned(10, 20241021, "D").
+out_assigned(11, 20241021, "N").
 out_assigned(12, 20241021, "D").
-out_assigned(13, 20241021, "SN").
+out_assigned(14, 20241021, "D").
 out_assigned(15, 20241021, "LD").
-out_assigned(16, 20241021, "D").
-out_assigned(17, 20241021, "SN").
-out_assigned(14, 20241021, "AL").
+out_assigned(17, 20241021, "SE").
 out_assigned(1, 20241021, "WR").
-out_assigned(5, 20241021, "WR").
-out_assigned(6, 20241021, "WR").
-out_assigned(9, 20241021, "WR").
-out_assigned(4, 20241022, "D").
-out_assigned(7, 20241022, "SN").
-out_assigned(9, 20241022, "LD").
-out_assigned(10, 20241022, "SE").
-out_assigned(11, 20241022, "SN").
+out_assigned(4, 20241021, "WR").
+out_assigned(13, 20241021, "WR").
+out_assigned(16, 20241021, "WR").
+out_assigned(2, 20241022, "D").
+out_assigned(3, 20241022, "SE").
+out_assigned(4, 20241022, "LD").
+out_assigned(5, 20241022, "SN").
+out_assigned(6, 20241022, "D").
+out_assigned(9, 20241022, "D").
 out_assigned(12, 20241022, "LD").
+out_assigned(13, 20241022, "D").
+out_assigned(14, 20241022, "D").
 out_assigned(15, 20241022, "SE").
 out_assigned(16, 20241022, "D").
-out_assigned(14, 20241022, "HL").
+out_assigned(17, 20241022, "SN").
 out_assigned(1, 20241022, "WR").
-out_assigned(5, 20241022, "WR").
-out_assigned(6, 20241022, "WR").
-out_assigned(13, 20241022, "WR").
-out_assigned(17, 20241022, "WR").
-out_assigned(4, 20241023, "LD").
-out_assigned(5, 20241023, "LD").
-out_assigned(6, 20241023, "D").
+out_assigned(7, 20241022, "WR").
+out_assigned(8, 20241022, "WR").
+out_assigned(10, 20241022, "WR").
+out_assigned(11, 20241022, "WR").
+out_assigned(2, 20241023, "D").
+out_assigned(3, 20241023, "SN").
+out_assigned(4, 20241023, "SE").
+out_assigned(6, 20241023, "LD").
+out_assigned(7, 20241023, "LD").
+out_assigned(8, 20241023, "LD").
 out_assigned(9, 20241023, "SE").
-out_assigned(10, 20241023, "SN").
-out_assigned(13, 20241023, "SE").
+out_assigned(13, 20241023, "D").
+out_assigned(14, 20241023, "D").
 out_assigned(15, 20241023, "SN").
 out_assigned(16, 20241023, "D").
-out_assigned(17, 20241023, "LD").
-out_assigned(14, 20241023, "HL").
 out_assigned(1, 20241023, "WR").
-out_assigned(7, 20241023, "WR").
+out_assigned(5, 20241023, "WR").
+out_assigned(10, 20241023, "WR").
 out_assigned(11, 20241023, "WR").
 out_assigned(12, 20241023, "WR").
-out_assigned(4, 20241024, "SE").
-out_assigned(6, 20241024, "D").
+out_assigned(17, 20241023, "WR").
+out_assigned(2, 20241024, "D").
+out_assigned(4, 20241024, "SN").
+out_assigned(5, 20241024, "LD").
+out_assigned(6, 20241024, "LD").
 out_assigned(7, 20241024, "SE").
 out_assigned(9, 20241024, "SN").
-out_assigned(11, 20241024, "LD").
-out_assigned(12, 20241024, "D").
-out_assigned(13, 20241024, "SN").
-out_assigned(16, 20241024, "LD").
+out_assigned(10, 20241024, "LD").
+out_assigned(11, 20241024, "D").
+out_assigned(12, 20241024, "SE").
+out_assigned(13, 20241024, "D").
+out_assigned(14, 20241024, "D").
+out_assigned(16, 20241024, "D").
 out_assigned(17, 20241024, "SE").
-out_assigned(5, 20241024, "WR").
-out_assigned(14, 20241024, "WR").
+out_assigned(3, 20241024, "WR").
 out_assigned(1, 20241024, "WR").
-out_assigned(10, 20241024, "WR").
+out_assigned(8, 20241024, "WR").
 out_assigned(15, 20241024, "WR").
-out_assigned(4, 20241025, "SN").
+out_assigned(2, 20241025, "D").
+out_assigned(3, 20241025, "SE").
+out_assigned(5, 20241025, "D").
 out_assigned(6, 20241025, "D").
 out_assigned(7, 20241025, "SN").
-out_assigned(10, 20241025, "SE").
-out_assigned(11, 20241025, "SE").
-out_assigned(12, 20241025, "D").
-out_assigned(14, 20241025, "LD").
+out_assigned(8, 20241025, "LD").
+out_assigned(11, 20241025, "LD").
+out_assigned(12, 20241025, "SN").
+out_assigned(13, 20241025, "LM").
+out_assigned(14, 20241025, "D").
 out_assigned(15, 20241025, "LD").
+out_assigned(16, 20241025, "SE").
 out_assigned(17, 20241025, "SN").
-out_assigned(5, 20241025, "WR").
 out_assigned(1, 20241025, "WR").
+out_assigned(4, 20241025, "WR").
 out_assigned(9, 20241025, "WR").
-out_assigned(13, 20241025, "WR").
-out_assigned(16, 20241025, "WR").
-out_assigned(5, 20241026, "LD").
+out_assigned(10, 20241025, "WR").
+out_assigned(2, 20241026, "SE").
+out_assigned(3, 20241026, "SN").
 out_assigned(6, 20241026, "LD").
-out_assigned(10, 20241026, "SN").
-out_assigned(11, 20241026, "SN").
-out_assigned(14, 20241026, "SE").
-out_assigned(15, 20241026, "SE").
+out_assigned(7, 20241026, "SE").
+out_assigned(10, 20241026, "LD").
+out_assigned(11, 20241026, "E").
+out_assigned(16, 20241026, "SN").
 out_assigned(9, 20241026, "WR").
 out_assigned(17, 20241026, "AL").
 out_assigned(1, 20241026, "WR").
 out_assigned(4, 20241026, "WR").
-out_assigned(7, 20241026, "WR").
+out_assigned(5, 20241026, "WR").
+out_assigned(8, 20241026, "WR").
 out_assigned(12, 20241026, "WR").
 out_assigned(13, 20241026, "WR").
-out_assigned(16, 20241026, "WR").
-out_assigned(1, 20241027, "D").
+out_assigned(14, 20241026, "WR").
+out_assigned(15, 20241026, "WR").
+out_assigned(2, 20241027, "SN").
 out_assigned(4, 20241027, "LD").
 out_assigned(5, 20241027, "SE").
-out_assigned(12, 20241027, "SE").
-out_assigned(14, 20241027, "SN").
-out_assigned(15, 20241027, "SN").
-out_assigned(17, 20241027, "LD").
-out_assigned(9, 20241027, "WR").
+out_assigned(7, 20241027, "SN").
+out_assigned(9, 20241027, "SE").
+out_assigned(11, 20241027, "N").
+out_assigned(14, 20241027, "LD").
+out_assigned(1, 20241027, "WR").
+out_assigned(3, 20241027, "WR").
 out_assigned(6, 20241027, "WR").
-out_assigned(7, 20241027, "WR").
+out_assigned(8, 20241027, "WR").
 out_assigned(10, 20241027, "WR").
-out_assigned(11, 20241027, "WR").
+out_assigned(12, 20241027, "WR").
 out_assigned(13, 20241027, "WR").
+out_assigned(15, 20241027, "WR").
 out_assigned(16, 20241027, "WR").
+out_assigned(17, 20241027, "WR").
 out_assigned(1, 20241028, "D").
-out_assigned(4, 20241028, "SE").
+out_assigned(2, 20241028, "SE").
+out_assigned(3, 20241028, "LD").
+out_assigned(4, 20241028, "LD").
 out_assigned(5, 20241028, "SN").
-out_assigned(6, 20241028, "LD").
-out_assigned(7, 20241028, "LD").
-out_assigned(10, 20241028, "D").
-out_assigned(12, 20241028, "SN").
+out_assigned(6, 20241028, "D").
+out_assigned(8, 20241028, "D").
+out_assigned(9, 20241028, "SN").
+out_assigned(12, 20241028, "LD").
 out_assigned(13, 20241028, "D").
-out_assigned(16, 20241028, "D").
-out_assigned(17, 20241028, "SE").
-out_assigned(9, 20241028, "AL").
+out_assigned(15, 20241028, "SE").
+out_assigned(17, 20241028, "D").
+out_assigned(7, 20241028, "WR").
+out_assigned(10, 20241028, "WR").
 out_assigned(11, 20241028, "WR").
 out_assigned(14, 20241028, "WR").
-out_assigned(15, 20241028, "WR").
-out_assigned(4, 20241029, "SN").
-out_assigned(6, 20241029, "SE").
-out_assigned(7, 20241029, "SE").
-out_assigned(10, 20241029, "LD").
-out_assigned(11, 20241029, "D").
+out_assigned(16, 20241028, "WR").
+out_assigned(1, 20241029, "D").
+out_assigned(2, 20241029, "SN").
+out_assigned(3, 20241029, "SE").
+out_assigned(4, 20241029, "SE").
+out_assigned(6, 20241029, "D").
+out_assigned(7, 20241029, "LD").
+out_assigned(8, 20241029, "SE").
+out_assigned(10, 20241029, "D").
+out_assigned(12, 20241029, "D").
 out_assigned(13, 20241029, "D").
-out_assigned(14, 20241029, "D").
-out_assigned(15, 20241029, "LD").
-out_assigned(17, 20241029, "SN").
+out_assigned(14, 20241029, "LD").
+out_assigned(15, 20241029, "SN").
+out_assigned(16, 20241029, "D").
 out_assigned(9, 20241029, "AL").
-out_assigned(1, 20241029, "WR").
 out_assigned(5, 20241029, "WR").
-out_assigned(12, 20241029, "WR").
-out_assigned(16, 20241029, "WR").
+out_assigned(11, 20241029, "WR").
+out_assigned(17, 20241029, "WR").
 out_assigned(1, 20241030, "D").
-out_assigned(5, 20241030, "LD").
-out_assigned(6, 20241030, "SN").
-out_assigned(7, 20241030, "SN").
-out_assigned(10, 20241030, "SE").
-out_assigned(11, 20241030, "LD").
+out_assigned(3, 20241030, "SN").
+out_assigned(4, 20241030, "SN").
+out_assigned(5, 20241030, "SE").
+out_assigned(6, 20241030, "D").
+out_assigned(7, 20241030, "LD").
+out_assigned(8, 20241030, "SN").
+out_assigned(10, 20241030, "D").
+out_assigned(11, 20241030, "D").
 out_assigned(12, 20241030, "D").
 out_assigned(13, 20241030, "D").
-out_assigned(14, 20241030, "D").
-out_assigned(15, 20241030, "SE").
+out_assigned(14, 20241030, "SE").
 out_assigned(16, 20241030, "D").
-out_assigned(4, 20241030, "WR").
+out_assigned(17, 20241030, "LD").
+out_assigned(2, 20241030, "WR").
 out_assigned(9, 20241030, "WR").
-out_assigned(17, 20241030, "WR").
-out_assigned(4, 20241031, "D").
+out_assigned(15, 20241030, "WR").
+out_assigned(5, 20241031, "SN").
 out_assigned(9, 20241031, "LD").
-out_assigned(10, 20241031, "SN").
-out_assigned(12, 20241031, "SE").
-out_assigned(13, 20241031, "LD").
-out_assigned(14, 20241031, "D").
-out_assigned(15, 20241031, "SN").
-out_assigned(16, 20241031, "SE").
-out_assigned(17, 20241031, "LD").
+out_assigned(10, 20241031, "D").
+out_assigned(11, 20241031, "SE").
+out_assigned(12, 20241031, "D").
+out_assigned(14, 20241031, "SN").
+out_assigned(15, 20241031, "LD").
+out_assigned(17, 20241031, "SE").
 out_assigned(1, 20241031, "WR").
-out_assigned(5, 20241031, "WR").
+out_assigned(2, 20241031, "WR").
+out_assigned(3, 20241031, "WR").
+out_assigned(4, 20241031, "WR").
 out_assigned(6, 20241031, "WR").
 out_assigned(7, 20241031, "WR").
-out_assigned(11, 20241031, "WR").
-out_assigned(4, 20241101, "SE").
-out_assigned(5, 20241101, "LD").
-out_assigned(7, 20241101, "LD").
-out_assigned(9, 20241101, "SE").
-out_assigned(11, 20241101, "D").
-out_assigned(12, 20241101, "SN").
-out_assigned(14, 20241101, "D").
-out_assigned(16, 20241101, "SN").
-out_assigned(6, 20241101, "WR").
+out_assigned(8, 20241031, "WR").
+out_assigned(13, 20241031, "WR").
+out_assigned(16, 20241031, "WR").
+out_assigned(2, 20241101, "D").
+out_assigned(3, 20241101, "LD").
+out_assigned(4, 20241101, "LD").
+out_assigned(6, 20241101, "SE").
+out_assigned(8, 20241101, "E").
+out_assigned(9, 20241101, "E").
+out_assigned(11, 20241101, "SN").
+out_assigned(12, 20241101, "D").
+out_assigned(13, 20241101, "E").
+out_assigned(15, 20241101, "SE").
+out_assigned(16, 20241101, "D").
+out_assigned(17, 20241101, "SN").
 out_assigned(1, 20241101, "WR").
+out_assigned(5, 20241101, "WR").
+out_assigned(7, 20241101, "WR").
 out_assigned(10, 20241101, "WR").
-out_assigned(13, 20241101, "WR").
-out_assigned(15, 20241101, "WR").
-out_assigned(17, 20241101, "WR").
-out_assigned(4, 20241102, "SN").
-out_assigned(5, 20241102, "SE").
-out_assigned(9, 20241102, "SN").
-out_assigned(10, 20241102, "LD").
-out_assigned(17, 20241102, "SE").
-out_assigned(6, 20241102, "WR").
+out_assigned(14, 20241101, "WR").
+out_assigned(2, 20241102, "LD").
+out_assigned(3, 20241102, "SE").
+out_assigned(4, 20241102, "LD").
+out_assigned(6, 20241102, "SN").
+out_assigned(7, 20241102, "SE").
+out_assigned(8, 20241102, "N").
+out_assigned(9, 20241102, "N").
+out_assigned(13, 20241102, "N").
+out_assigned(15, 20241102, "SN").
 out_assigned(1, 20241102, "WR").
-out_assigned(7, 20241102, "WR").
+out_assigned(5, 20241102, "WR").
+out_assigned(10, 20241102, "WR").
 out_assigned(11, 20241102, "WR").
 out_assigned(12, 20241102, "WR").
-out_assigned(13, 20241102, "WR").
 out_assigned(14, 20241102, "WR").
-out_assigned(15, 20241102, "WR").
 out_assigned(16, 20241102, "WR").
-out_assigned(1, 20241103, "D").
-out_assigned(5, 20241103, "SN").
-out_assigned(6, 20241103, "LD").
+out_assigned(17, 20241102, "WR").
+out_assigned(3, 20241103, "SN").
+out_assigned(5, 20241103, "E").
+out_assigned(7, 20241103, "SN").
+out_assigned(12, 20241103, "LD").
 out_assigned(13, 20241103, "SE").
-out_assigned(14, 20241103, "LD").
-out_assigned(16, 20241103, "SE").
-out_assigned(17, 20241103, "SN").
+out_assigned(14, 20241103, "E").
+out_assigned(15, 20241103, "SE").
+out_assigned(17, 20241103, "LD").
 out_assigned(9, 20241103, "HL").
+out_assigned(1, 20241103, "WR").
+out_assigned(2, 20241103, "WR").
 out_assigned(4, 20241103, "WR").
-out_assigned(7, 20241103, "WR").
+out_assigned(6, 20241103, "WR").
+out_assigned(8, 20241103, "WR").
 out_assigned(10, 20241103, "WR").
 out_assigned(11, 20241103, "WR").
-out_assigned(12, 20241103, "WR").
-out_assigned(15, 20241103, "WR").
-out_assigned(4, 20241104, "LD").
+out_assigned(16, 20241103, "WR").
+out_assigned(2, 20241104, "SE").
+out_assigned(4, 20241104, "SE").
+out_assigned(9, 20241104, "SN").
+out_assigned(10, 20241104, "LD").
 out_assigned(11, 20241104, "LD").
 out_assigned(13, 20241104, "SN").
-out_assigned(14, 20241104, "SE").
-out_assigned(15, 20241104, "SE").
-out_assigned(16, 20241104, "SN").
-out_assigned(9, 20241104, "HL").
+out_assigned(14, 20241104, "N").
 out_assigned(1, 20241104, "PH").
 out_assigned(5, 20241104, "PH").
 out_assigned(6, 20241104, "PH").
 out_assigned(7, 20241104, "PH").
-out_assigned(10, 20241104, "PH").
 out_assigned(12, 20241104, "PH").
+out_assigned(15, 20241104, "PH").
+out_assigned(16, 20241104, "PH").
 out_assigned(17, 20241104, "PH").
-out_assigned(1, 20241105, "D").
-out_assigned(4, 20241105, "SE").
-out_assigned(5, 20241105, "D").
-out_assigned(6, 20241105, "D").
+out_assigned(2, 20241105, "SN").
+out_assigned(3, 20241105, "D").
+out_assigned(4, 20241105, "SN").
+out_assigned(5, 20241105, "SN").
+out_assigned(6, 20241105, "LM").
 out_assigned(7, 20241105, "LD").
-out_assigned(9, 20241105, "LD").
+out_assigned(8, 20241105, "LM").
 out_assigned(10, 20241105, "SE").
-out_assigned(12, 20241105, "D").
-out_assigned(14, 20241105, "SN").
-out_assigned(15, 20241105, "SN").
-out_assigned(17, 20241105, "SE").
-out_assigned(11, 20241105, "WR").
+out_assigned(11, 20241105, "LD").
+out_assigned(12, 20241105, "SE").
+out_assigned(16, 20241105, "SE").
+out_assigned(17, 20241105, "LD").
+out_assigned(1, 20241105, "WR").
+out_assigned(9, 20241105, "WR").
 out_assigned(13, 20241105, "WR").
-out_assigned(16, 20241105, "WR").
+out_assigned(14, 20241105, "WR").
+out_assigned(15, 20241105, "WR").
 out_assigned(1, 20241106, "D").
-out_assigned(4, 20241106, "SN").
+out_assigned(2, 20241106, "SE").
+out_assigned(3, 20241106, "E").
 out_assigned(5, 20241106, "D").
-out_assigned(9, 20241106, "SE").
+out_assigned(6, 20241106, "LD").
+out_assigned(7, 20241106, "LD").
+out_assigned(8, 20241106, "SE").
 out_assigned(10, 20241106, "SN").
-out_assigned(11, 20241106, "LD").
-out_assigned(12, 20241106, "SE").
-out_assigned(16, 20241106, "LD").
-out_assigned(17, 20241106, "SN").
-out_assigned(7, 20241106, "AL").
-out_assigned(6, 20241106, "WR").
-out_assigned(13, 20241106, "WR").
-out_assigned(14, 20241106, "WR").
-out_assigned(15, 20241106, "WR").
-out_assigned(5, 20241107, "SE").
+out_assigned(11, 20241106, "SE").
+out_assigned(12, 20241106, "SN").
+out_assigned(13, 20241106, "D").
+out_assigned(14, 20241106, "LD").
+out_assigned(15, 20241106, "D").
+out_assigned(16, 20241106, "SN").
+out_assigned(4, 20241106, "WR").
+out_assigned(9, 20241106, "WR").
+out_assigned(17, 20241106, "WR").
+out_assigned(3, 20241107, "N").
+out_assigned(4, 20241107, "SE").
+out_assigned(5, 20241107, "LD").
 out_assigned(6, 20241107, "SE").
-out_assigned(9, 20241107, "SN").
-out_assigned(11, 20241107, "SE").
-out_assigned(12, 20241107, "SN").
-out_assigned(13, 20241107, "D").
+out_assigned(8, 20241107, "SN").
+out_assigned(9, 20241107, "D").
+out_assigned(11, 20241107, "SN").
+out_assigned(14, 20241107, "SE").
 out_assigned(15, 20241107, "LD").
+out_assigned(17, 20241107, "D").
 out_assigned(7, 20241107, "AL").
-out_assigned(17, 20241107, "HL").
 out_assigned(1, 20241107, "WR").
-out_assigned(4, 20241107, "WR").
 out_assigned(10, 20241107, "WR").
-out_assigned(14, 20241107, "WR").
+out_assigned(12, 20241107, "WR").
+out_assigned(13, 20241107, "WR").
 out_assigned(16, 20241107, "WR").
-out_assigned(5, 20241108, "SN").
+out_assigned(2, 20241108, "D").
+out_assigned(4, 20241108, "SN").
 out_assigned(6, 20241108, "SN").
-out_assigned(10, 20241108, "LD").
-out_assigned(11, 20241108, "SN").
-out_assigned(16, 20241108, "D").
-out_assigned(7, 20241108, "WR").
+out_assigned(7, 20241108, "D").
+out_assigned(8, 20241108, "SE").
+out_assigned(9, 20241108, "LD").
+out_assigned(12, 20241108, "D").
+out_assigned(13, 20241108, "D").
+out_assigned(14, 20241108, "SN").
+out_assigned(15, 20241108, "SE").
+out_assigned(16, 20241108, "LD").
 out_assigned(17, 20241108, "HL").
 out_assigned(1, 20241108, "WR").
-out_assigned(4, 20241108, "WR").
-out_assigned(9, 20241108, "WR").
-out_assigned(12, 20241108, "WR").
-out_assigned(14, 20241108, "WR").
-out_assigned(15, 20241108, "WR").
-out_assigned(9, 20241109, "LD").
-out_assigned(10, 20241109, "SE").
-out_assigned(11, 20241109, "SE").
-out_assigned(12, 20241109, "LD").
-out_assigned(7, 20241109, "WR").
+out_assigned(3, 20241108, "WR").
+out_assigned(5, 20241108, "WR").
+out_assigned(10, 20241108, "WR").
+out_assigned(11, 20241108, "WR").
+out_assigned(3, 20241109, "LD").
+out_assigned(6, 20241109, "SE").
+out_assigned(7, 20241109, "LD").
+out_assigned(8, 20241109, "SN").
+out_assigned(12, 20241109, "SE").
+out_assigned(15, 20241109, "SN").
+out_assigned(17, 20241109, "N").
 out_assigned(1, 20241109, "WR").
+out_assigned(2, 20241109, "WR").
 out_assigned(4, 20241109, "WR").
 out_assigned(5, 20241109, "WR").
-out_assigned(6, 20241109, "WR").
+out_assigned(9, 20241109, "WR").
+out_assigned(10, 20241109, "WR").
+out_assigned(11, 20241109, "WR").
 out_assigned(13, 20241109, "WR").
 out_assigned(14, 20241109, "WR").
-out_assigned(15, 20241109, "WR").
 out_assigned(16, 20241109, "WR").
-out_assigned(17, 20241109, "WR").
-penalty(staff_hard_ub(20241019, "D", "All", 0, 1), num_staffs(6, "D", "全員"), 1, 10).
-penalty(staff_hard_ub(20241026, "D", "All", 0, 1), num_staffs(13, "D", "全員"), 1, 10).
-penalty(staff_hard_ub(20241102, "D", "All", 0, 1), num_staffs(20, "D", "全員"), 1, 10).
-penalty(staff_hard_ub(20241020, "D", "All", 0, 1), num_staffs(7, "D", "全員"), 1, 10).
-penalty(staff_hard_ub(20241027, "D", "All", 0, 3), num_staffs(14, "D", "全員"), 9, 10).
-penalty(staff_hard_ub(20241103, "D", "All", 0, 2), num_staffs(21, "D", "全員"), 4, 10).
-penalty(staff_hard_ub(20241104, "D", "All", 0, 1), num_staffs(22, "D", "全員"), 1, 10).
+hit("○日日", 1, 14, 16).
+hit("○日日", 2, 7, 9).
+hit("○日日", 3, 2, 4).
+hit("○日日", 6, 7, 9).
+hit("○日日", 6, 14, 16).
+hit("○日日", 9, 7, 9).
+hit("○日日", 10, 15, 17).
+hit("○日日", 13, 8, 10).
+hit("○日日", 13, 14, 16).
+hit("○日日", 14, 3, 5).
+hit("○日日", 14, 7, 9).
+hit("○日日", 16, 8, 10).
+hit("○日日", 16, 15, 17).
+hit("日○日", 8, 2, 4).
+hit("日○日", 13, 24, 26).
+hit("日○日", 14, 2, 4).
+hit("日○日", 16, 17, 19).
+penalty(over_work_period(2, 20241021, 6), table(2, 8), 1, 3).
+penalty(over_work_period(6, 20241021, 6), table(6, 8), 1, 3).
+penalty(over_work_period(2, 20241022, 6), table(2, 9), 1, 3).
+penalty(over_work_period(2, 20241023, 6), table(2, 10), 1, 3).
+penalty(over_work_period(2, 20241024, 6), table(2, 11), 1, 3).
+penalty(over_work_period(5, 20241009, 6), table(5, -4), 1, 3).
+penalty(over_work_period(10, 20241009, 6), table(10, -4), 1, 3).
+penalty(over_work_period(6, 20241010, 6), table(6, -3), 1, 3).
+penalty(over_work_period(7, 20241010, 6), table(7, -3), 1, 3).
+penalty(over_work_period(10, 20241010, 6), table(10, -3), 1, 3).
+penalty(over_work_period(6, 20241011, 6), table(6, -2), 1, 3).
+penalty(over_work_period(7, 20241011, 6), table(7, -2), 1, 3).
+penalty(over_work_period(10, 20241011, 6), table(10, -2), 1, 3).
+penalty(over_work_period(6, 20241012, 6), table(6, -1), 1, 3).
+penalty(over_work_period(7, 20241012, 6), table(7, -1), 1, 3).
+penalty(over_work_period(10, 20241012, 6), table(10, -1), 1, 3).
 out_stats(num_consecutive_holidays(1, 0, 3, 3)).
-out_stats(num_consecutive_holidays(4, 0, 1, 1)).
+out_stats(num_consecutive_holidays(2, 0, 2, 2)).
+out_stats(num_consecutive_holidays(3, 0, 2, 2)).
+out_stats(num_consecutive_holidays(4, 0, 2, 2)).
 out_stats(num_consecutive_holidays(5, 0, 2, 2)).
 out_stats(num_consecutive_holidays(6, 0, 2, 2)).
-out_stats(num_consecutive_holidays(7, 0, 4, 4)).
+out_stats(num_consecutive_holidays(7, 0, 2, 2)).
+out_stats(num_consecutive_holidays(8, 0, 2, 2)).
 out_stats(num_consecutive_holidays(9, 0, 2, 2)).
-out_stats(num_consecutive_holidays(10, 0, 2, 2)).
-out_stats(num_consecutive_holidays(11, 0, 3, 3)).
-out_stats(num_consecutive_holidays(12, 0, 1, 1)).
-out_stats(num_consecutive_holidays(13, 0, 3, 3)).
+out_stats(num_consecutive_holidays(10, 0, 4, 4)).
+out_stats(num_consecutive_holidays(11, 0, 4, 4)).
+out_stats(num_consecutive_holidays(12, 0, 2, 2)).
+out_stats(num_consecutive_holidays(13, 0, 2, 2)).
 out_stats(num_consecutive_holidays(14, 0, 2, 2)).
-out_stats(num_consecutive_holidays(15, 0, 2, 2)).
+out_stats(num_consecutive_holidays(15, 0, 3, 3)).
 out_stats(num_consecutive_holidays(16, 0, 2, 2)).
-out_stats(num_consecutive_holidays(17, 0, 2, 2)).
+out_stats(num_consecutive_holidays(17, 0, 1, 1)).
 out_stats(num_national_holiday_offs(1, 0, 2, 2)).
-out_stats(num_national_holiday_offs(3, 0, 1, 1)).
-out_stats(num_national_holiday_offs(4, 0, 1, 1)).
-out_stats(num_national_holiday_offs(5, 0, 2, 2)).
+out_stats(num_national_holiday_offs(2, 0, 1, 1)).
+out_stats(num_national_holiday_offs(3, 0, 2, 2)).
+out_stats(num_national_holiday_offs(4, 0, 0, 0)).
+out_stats(num_national_holiday_offs(5, 0, 1, 1)).
 out_stats(num_national_holiday_offs(6, 0, 1, 1)).
-out_stats(num_national_holiday_offs(7, 0, 2, 2)).
+out_stats(num_national_holiday_offs(7, 0, 1, 1)).
 out_stats(num_national_holiday_offs(8, 0, 1, 1)).
 out_stats(num_national_holiday_offs(9, 0, 0, 0)).
-out_stats(num_national_holiday_offs(10, 0, 1, 1)).
-out_stats(num_national_holiday_offs(11, 0, 0, 0)).
-out_stats(num_national_holiday_offs(12, 0, 2, 2)).
+out_stats(num_national_holiday_offs(10, 0, 0, 0)).
+out_stats(num_national_holiday_offs(11, 0, 1, 1)).
+out_stats(num_national_holiday_offs(12, 0, 1, 1)).
 out_stats(num_national_holiday_offs(13, 0, 1, 1)).
 out_stats(num_national_holiday_offs(14, 0, 1, 1)).
-out_stats(num_national_holiday_offs(15, 0, 0, 0)).
+out_stats(num_national_holiday_offs(15, 0, 1, 1)).
 out_stats(num_national_holiday_offs(16, 0, 1, 1)).
 out_stats(num_national_holiday_offs(17, 0, 1, 1)).
-out_stats(num_weekend_offs(1, 0, 2, 2)).
+out_stats(num_weekend_offs(1, 0, 4, 4)).
+out_stats(num_weekend_offs(2, 0, 1, 1)).
+out_stats(num_weekend_offs(3, 0, 1, 1)).
 out_stats(num_weekend_offs(4, 0, 0, 0)).
 out_stats(num_weekend_offs(5, 0, 0, 0)).
-out_stats(num_weekend_offs(6, 0, 0, 0)).
-out_stats(num_weekend_offs(7, 0, 3, 3)).
-out_stats(num_weekend_offs(9, 0, 1, 1)).
+out_stats(num_weekend_offs(6, 0, 1, 1)).
+out_stats(num_weekend_offs(7, 0, 0, 0)).
+out_stats(num_weekend_offs(8, 0, 1, 1)).
+out_stats(num_weekend_offs(9, 0, 0, 0)).
 out_stats(num_weekend_offs(10, 0, 1, 1)).
-out_stats(num_weekend_offs(11, 0, 2, 2)).
-out_stats(num_weekend_offs(12, 0, 1, 1)).
+out_stats(num_weekend_offs(11, 0, 1, 1)).
+out_stats(num_weekend_offs(12, 0, 2, 2)).
 out_stats(num_weekend_offs(13, 0, 1, 1)).
 out_stats(num_weekend_offs(14, 0, 1, 1)).
 out_stats(num_weekend_offs(15, 0, 2, 2)).
-out_stats(num_weekend_offs(16, 0, 2, 2)).
-out_stats(num_weekend_offs(17, 0, 0, 0)).
+out_stats(num_weekend_offs(16, 0, 1, 1)).
+out_stats(num_weekend_offs(17, 0, 1, 1)).
 reward(weekend_offs(1, 0), staff(1), 4, 1).
-reward(weekend_offs(7, 0), staff(7), 4, 1).
-reward(weekend_offs(9, 0), staff(9), 4, 1).
+reward(weekend_offs(2, 0), staff(2), 4, 1).
+reward(weekend_offs(3, 0), staff(3), 4, 1).
+reward(weekend_offs(6, 0), staff(6), 4, 1).
+reward(weekend_offs(8, 0), staff(8), 4, 1).
 reward(weekend_offs(10, 0), staff(10), 4, 1).
 reward(weekend_offs(11, 0), staff(11), 4, 1).
 reward(weekend_offs(12, 0), staff(12), 4, 1).
@@ -1117,11 +1116,15 @@ reward(weekend_offs(13, 0), staff(13), 4, 1).
 reward(weekend_offs(14, 0), staff(14), 4, 1).
 reward(weekend_offs(15, 0), staff(15), 4, 1).
 reward(weekend_offs(16, 0), staff(16), 4, 1).
+reward(weekend_offs(17, 0), staff(17), 4, 1).
 reward(consecutive_holidays(1, 0), staff(1), 4, 1).
+reward(consecutive_holidays(2, 0), staff(2), 4, 1).
+reward(consecutive_holidays(3, 0), staff(3), 4, 1).
 reward(consecutive_holidays(4, 0), staff(4), 4, 1).
 reward(consecutive_holidays(5, 0), staff(5), 4, 1).
 reward(consecutive_holidays(6, 0), staff(6), 4, 1).
 reward(consecutive_holidays(7, 0), staff(7), 4, 1).
+reward(consecutive_holidays(8, 0), staff(8), 4, 1).
 reward(consecutive_holidays(9, 0), staff(9), 4, 1).
 reward(consecutive_holidays(10, 0), staff(10), 4, 1).
 reward(consecutive_holidays(11, 0), staff(11), 4, 1).
@@ -1132,26 +1135,24 @@ reward(consecutive_holidays(15, 0), staff(15), 4, 1).
 reward(consecutive_holidays(16, 0), staff(16), 4, 1).
 reward(consecutive_holidays(17, 0), staff(17), 4, 1).
 reward(national_holiday_offs(1, 0), staff(1), 2, 1).
+reward(national_holiday_offs(2, 0), staff(2), 2, 1).
 reward(national_holiday_offs(3, 0), staff(3), 2, 1).
-reward(national_holiday_offs(4, 0), staff(4), 2, 1).
 reward(national_holiday_offs(5, 0), staff(5), 2, 1).
 reward(national_holiday_offs(6, 0), staff(6), 2, 1).
 reward(national_holiday_offs(7, 0), staff(7), 2, 1).
 reward(national_holiday_offs(8, 0), staff(8), 2, 1).
-reward(national_holiday_offs(10, 0), staff(10), 2, 1).
+reward(national_holiday_offs(11, 0), staff(11), 2, 1).
 reward(national_holiday_offs(12, 0), staff(12), 2, 1).
 reward(national_holiday_offs(13, 0), staff(13), 2, 1).
 reward(national_holiday_offs(14, 0), staff(14), 2, 1).
+reward(national_holiday_offs(15, 0), staff(15), 2, 1).
 reward(national_holiday_offs(16, 0), staff(16), 2, 1).
 reward(national_holiday_offs(17, 0), staff(17), 2, 1).
-penalty(staff_soft_lb(20241015, "D", "All", 3, 2), num_staffs(2, "D", "全員"), 1, 2).
-penalty(staff_soft_lb(20241017, "D", "All", 3, 2), num_staffs(4, "D", "全員"), 1, 2).
-penalty(staff_soft_lb(20241107, "D", "All", 3, 2), num_staffs(25, "D", "全員"), 1, 2).
-penalty(staff_soft_lb(20241108, "D", "All", 3, 1), num_staffs(26, "D", "全員"), 4, 2).
+penalty(staff_soft_lb(20241105, "D", "All", 2, 1), num_staffs(23, "D", "全員"), 1, 2).
 penalty(staff_soft_lb(20241021, "D", "Heads", 1, 0), num_staffs(8, "D", "師長"), 1, 2).
 penalty(staff_soft_lb(20241015, "D", "Heads", 1, 0), num_staffs(2, "D", "師長"), 1, 2).
 penalty(staff_soft_lb(20241022, "D", "Heads", 1, 0), num_staffs(9, "D", "師長"), 1, 2).
-penalty(staff_soft_lb(20241029, "D", "Heads", 1, 0), num_staffs(16, "D", "師長"), 1, 2).
+penalty(staff_soft_lb(20241105, "D", "Heads", 1, 0), num_staffs(23, "D", "師長"), 1, 2).
 penalty(staff_soft_lb(20241016, "D", "Heads", 1, 0), num_staffs(3, "D", "師長"), 1, 2).
 penalty(staff_soft_lb(20241023, "D", "Heads", 1, 0), num_staffs(10, "D", "師長"), 1, 2).
 penalty(staff_soft_lb(20241017, "D", "Heads", 1, 0), num_staffs(4, "D", "師長"), 1, 2).
@@ -1162,217 +1163,324 @@ penalty(staff_soft_lb(20241018, "D", "Heads", 1, 0), num_staffs(5, "D", "師長"
 penalty(staff_soft_lb(20241025, "D", "Heads", 1, 0), num_staffs(12, "D", "師長"), 1, 2).
 penalty(staff_soft_lb(20241101, "D", "Heads", 1, 0), num_staffs(19, "D", "師長"), 1, 2).
 penalty(staff_soft_lb(20241108, "D", "Heads", 1, 0), num_staffs(26, "D", "師長"), 1, 2).
-penalty(staff_soft_lb(20241022, "LD", "Seniors", 1, 0), num_staffs(9, "LD", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241106, "LD", "Seniors", 1, 0), num_staffs(24, "LD", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241017, "LD", "Seniors", 1, 0), num_staffs(4, "LD", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241024, "LD", "Seniors", 1, 0), num_staffs(11, "LD", "熟練"), 1, 2).
+penalty(staff_soft_lb(20241031, "SE", "Seniors", 1, 0), num_staffs(18, "SE", "熟練"), 1, 2).
+penalty(staff_soft_lb(20241108, "SE", "Seniors", 1, 0), num_staffs(26, "SE", "熟練"), 1, 2).
+penalty(staff_soft_lb(20241103, "SE", "Seniors", 1, 0), num_staffs(21, "SE", "熟練"), 1, 2).
+penalty(staff_soft_lb(20241107, "SN", "Seniors", 1, 0), num_staffs(25, "SN", "熟練"), 1, 2).
+penalty(staff_soft_lb(20241018, "SN", "Seniors", 1, 0), num_staffs(5, "SN", "熟練"), 1, 2).
+penalty(staff_soft_lb(20241101, "SN", "Seniors", 1, 0), num_staffs(19, "SN", "熟練"), 1, 2).
+penalty(staff_soft_lb(20241109, "SN", "Seniors", 1, 0), num_staffs(27, "SN", "熟練"), 1, 2).
+penalty(staff_soft_lb(20241013, "SN", "Seniors", 1, 0), num_staffs(0, "SN", "熟練"), 1, 2).
+penalty(staff_soft_lb(20241104, "SN", "Seniors", 1, 0), num_staffs(22, "SN", "熟練"), 1, 2).
 penalty(staff_soft_lb(20241031, "LD", "Seniors", 1, 0), num_staffs(18, "LD", "熟練"), 1, 2).
 penalty(staff_soft_lb(20241018, "LD", "Seniors", 1, 0), num_staffs(5, "LD", "熟練"), 1, 2).
 penalty(staff_soft_lb(20241025, "LD", "Seniors", 1, 0), num_staffs(12, "LD", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241109, "LD", "Seniors", 1, 0), num_staffs(27, "LD", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241023, "SE", "Seniors", 1, 0), num_staffs(10, "SE", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241106, "SE", "Seniors", 1, 0), num_staffs(24, "SE", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241031, "SE", "Seniors", 1, 0), num_staffs(18, "SE", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241018, "SE", "Seniors", 1, 0), num_staffs(5, "SE", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241026, "SE", "Seniors", 1, 0), num_staffs(13, "SE", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241020, "SE", "Seniors", 1, 0), num_staffs(7, "SE", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241103, "SE", "Seniors", 1, 0), num_staffs(21, "SE", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241104, "SE", "Seniors", 1, 0), num_staffs(22, "SE", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241021, "SN", "Seniors", 1, 0), num_staffs(8, "SN", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241105, "SN", "Seniors", 1, 0), num_staffs(23, "SN", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241024, "SN", "Seniors", 1, 0), num_staffs(11, "SN", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241107, "SN", "Seniors", 1, 0), num_staffs(25, "SN", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241101, "SN", "Seniors", 1, 0), num_staffs(19, "SN", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241019, "SN", "Seniors", 1, 0), num_staffs(6, "SN", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241027, "SN", "Seniors", 1, 0), num_staffs(14, "SN", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241104, "SN", "Seniors", 1, 0), num_staffs(22, "SN", "熟練"), 1, 2).
-penalty(staff_soft_lb(20241021, "LD", "Mid-levels", 1, 0), num_staffs(8, "LD", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241028, "LD", "Mid-levels", 1, 0), num_staffs(15, "LD", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241029, "LD", "Mid-levels", 1, 0), num_staffs(16, "LD", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241105, "LD", "Mid-levels", 1, 0), num_staffs(23, "LD", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241023, "LD", "Mid-levels", 1, 0), num_staffs(10, "LD", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241107, "LD", "Mid-levels", 1, 0), num_staffs(25, "LD", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241018, "LD", "Mid-levels", 1, 0), num_staffs(5, "LD", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241101, "LD", "Mid-levels", 1, 0), num_staffs(19, "LD", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241026, "LD", "Mid-levels", 1, 0), num_staffs(13, "LD", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241102, "LD", "Mid-levels", 1, 0), num_staffs(20, "LD", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241027, "LD", "Mid-levels", 1, 0), num_staffs(14, "LD", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241014, "LD", "Mid-levels", 1, 0), num_staffs(1, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241108, "LD", "Seniors", 1, 0), num_staffs(26, "LD", "熟練"), 1, 2).
+penalty(staff_soft_lb(20241019, "LD", "Seniors", 1, 0), num_staffs(6, "LD", "熟練"), 1, 2).
+penalty(staff_soft_lb(20241103, "LD", "Seniors", 1, 0), num_staffs(21, "LD", "熟練"), 1, 2).
+penalty(staff_soft_lb(20241014, "LD", "Seniors", 1, 0), num_staffs(1, "LD", "熟練"), 1, 2).
+penalty(staff_soft_lb(20241021, "SE", "Mid-levels", 1, 0), num_staffs(8, "SE", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241028, "SE", "Mid-levels", 1, 0), num_staffs(15, "SE", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241022, "SE", "Mid-levels", 1, 0), num_staffs(9, "SE", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241029, "SE", "Mid-levels", 1, 0), num_staffs(16, "SE", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241105, "SE", "Mid-levels", 1, 0), num_staffs(23, "SE", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241016, "SE", "Mid-levels", 1, 0), num_staffs(3, "SE", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241030, "SE", "Mid-levels", 1, 0), num_staffs(17, "SE", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241024, "SE", "Mid-levels", 1, 0), num_staffs(11, "SE", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241023, "SE", "Mid-levels", 1, 0), num_staffs(10, "SE", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241025, "SE", "Mid-levels", 1, 0), num_staffs(12, "SE", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241101, "SE", "Mid-levels", 1, 0), num_staffs(19, "SE", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241108, "SE", "Mid-levels", 1, 0), num_staffs(26, "SE", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241019, "SE", "Mid-levels", 1, 0), num_staffs(6, "SE", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241026, "SE", "Mid-levels", 1, 0), num_staffs(13, "SE", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241102, "SE", "Mid-levels", 1, 0), num_staffs(20, "SE", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241020, "SE", "Mid-levels", 1, 0), num_staffs(7, "SE", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241027, "SE", "Mid-levels", 1, 0), num_staffs(14, "SE", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241014, "SE", "Mid-levels", 1, 0), num_staffs(1, "SE", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241015, "SN", "Mid-levels", 1, 0), num_staffs(2, "SN", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241104, "SE", "Mid-levels", 1, 0), num_staffs(22, "SE", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241021, "SN", "Mid-levels", 1, 0), num_staffs(8, "SN", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241028, "SN", "Mid-levels", 1, 0), num_staffs(15, "SN", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241022, "SN", "Mid-levels", 1, 0), num_staffs(9, "SN", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241029, "SN", "Mid-levels", 1, 0), num_staffs(16, "SN", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241105, "SN", "Mid-levels", 1, 0), num_staffs(23, "SN", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241023, "SN", "Mid-levels", 1, 0), num_staffs(10, "SN", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241030, "SN", "Mid-levels", 1, 0), num_staffs(17, "SN", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241106, "SN", "Mid-levels", 1, 0), num_staffs(24, "SN", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241017, "SN", "Mid-levels", 1, 0), num_staffs(4, "SN", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241031, "SN", "Mid-levels", 1, 0), num_staffs(18, "SN", "中堅"), 1, 2).
-penalty(staff_soft_lb(20241025, "SN", "Mid-levels", 1, 0), num_staffs(12, "SN", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241024, "SN", "Mid-levels", 1, 0), num_staffs(11, "SN", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241026, "SN", "Mid-levels", 1, 0), num_staffs(13, "SN", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241102, "SN", "Mid-levels", 1, 0), num_staffs(20, "SN", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241109, "SN", "Mid-levels", 1, 0), num_staffs(27, "SN", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241020, "SN", "Mid-levels", 1, 0), num_staffs(7, "SN", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241027, "SN", "Mid-levels", 1, 0), num_staffs(14, "SN", "中堅"), 1, 2).
 penalty(staff_soft_lb(20241103, "SN", "Mid-levels", 1, 0), num_staffs(21, "SN", "中堅"), 1, 2).
-penalty(staff_soft_ub(20241019, "D", "All", 0, 1), num_staffs(6, "D", "全員"), 1, 2).
-penalty(staff_soft_ub(20241026, "D", "All", 0, 1), num_staffs(13, "D", "全員"), 1, 2).
-penalty(staff_soft_ub(20241102, "D", "All", 0, 1), num_staffs(20, "D", "全員"), 1, 2).
-penalty(staff_soft_ub(20241020, "D", "All", 0, 1), num_staffs(7, "D", "全員"), 1, 2).
-penalty(staff_soft_ub(20241027, "D", "All", 0, 3), num_staffs(14, "D", "全員"), 9, 2).
-penalty(staff_soft_ub(20241103, "D", "All", 0, 2), num_staffs(21, "D", "全員"), 4, 2).
-penalty(staff_soft_ub(20241104, "D", "All", 0, 1), num_staffs(22, "D", "全員"), 1, 2).
-penalty(staff_soft_ub(20241015, "LD", "All", 2, 3), num_staffs(2, "LD", "全員"), 1, 2).
-penalty(staff_soft_ub(20241023, "LD", "All", 2, 3), num_staffs(10, "LD", "全員"), 1, 2).
-penalty(staff_soft_ub(20241031, "LD", "All", 2, 3), num_staffs(18, "LD", "全員"), 1, 2).
-penalty(staff_soft_ub(20241101, "LD", "All", 2, 3), num_staffs(19, "LD", "全員"), 1, 2).
+penalty(staff_soft_lb(20241014, "SN", "Mid-levels", 1, 0), num_staffs(1, "SN", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241021, "LD", "Mid-levels", 1, 0), num_staffs(8, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241015, "LD", "Mid-levels", 1, 0), num_staffs(2, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241023, "LD", "Mid-levels", 1, 0), num_staffs(10, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241030, "LD", "Mid-levels", 1, 0), num_staffs(17, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241017, "LD", "Mid-levels", 1, 0), num_staffs(4, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241024, "LD", "Mid-levels", 1, 0), num_staffs(11, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241031, "LD", "Mid-levels", 1, 0), num_staffs(18, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241107, "LD", "Mid-levels", 1, 0), num_staffs(25, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241018, "LD", "Mid-levels", 1, 0), num_staffs(5, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241101, "LD", "Mid-levels", 1, 0), num_staffs(19, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241108, "LD", "Mid-levels", 1, 0), num_staffs(26, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241019, "LD", "Mid-levels", 1, 0), num_staffs(6, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241026, "LD", "Mid-levels", 1, 0), num_staffs(13, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241102, "LD", "Mid-levels", 1, 0), num_staffs(20, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241109, "LD", "Mid-levels", 1, 0), num_staffs(27, "LD", "中堅"), 1, 2).
+penalty(staff_soft_lb(20241013, "LD", "Mid-levels", 1, 0), num_staffs(0, "LD", "中堅"), 1, 2).
+penalty(staff_soft_ub(20241102, "N", "All", 0, 3), num_staffs(20, "N", "全員"), 9, 2).
+penalty(staff_soft_ub(20241109, "N", "All", 0, 1), num_staffs(27, "N", "全員"), 1, 2).
+penalty(staff_soft_ub(20241013, "N", "All", 0, 2), num_staffs(0, "N", "全員"), 4, 2).
+penalty(staff_soft_ub(20241027, "N", "All", 0, 1), num_staffs(14, "N", "全員"), 1, 2).
+penalty(staff_soft_ub(20241014, "N", "All", 0, 1), num_staffs(1, "N", "全員"), 1, 2).
+penalty(staff_soft_ub(20241104, "N", "All", 0, 1), num_staffs(22, "N", "全員"), 1, 2).
+penalty(staff_soft_ub(20241101, "E", "All", 2, 3), num_staffs(19, "E", "全員"), 1, 2).
+penalty(staff_soft_ub(20241026, "E", "All", 0, 1), num_staffs(13, "E", "全員"), 1, 2).
+penalty(staff_soft_ub(20241013, "E", "All", 0, 5), num_staffs(0, "E", "全員"), 25, 2).
+penalty(staff_soft_ub(20241020, "E", "All", 0, 1), num_staffs(7, "E", "全員"), 1, 2).
+penalty(staff_soft_ub(20241103, "E", "All", 0, 2), num_staffs(21, "E", "全員"), 4, 2).
+penalty(staff_soft_ub(20241014, "E", "All", 0, 1), num_staffs(1, "E", "全員"), 1, 2).
+penalty(staff_soft_ub(20241015, "SE", "All", 2, 3), num_staffs(2, "SE", "全員"), 1, 2).
+penalty(staff_soft_ub(20241029, "SE", "All", 2, 3), num_staffs(16, "SE", "全員"), 1, 2).
 penalty(staff_soft_ub(20241105, "SE", "All", 2, 3), num_staffs(23, "SE", "全員"), 1, 2).
+penalty(staff_soft_ub(20241016, "SE", "All", 2, 3), num_staffs(3, "SE", "全員"), 1, 2).
+penalty(staff_soft_ub(20241106, "SE", "All", 2, 3), num_staffs(24, "SE", "全員"), 1, 2).
 penalty(staff_soft_ub(20241017, "SE", "All", 2, 3), num_staffs(4, "SE", "全員"), 1, 2).
 penalty(staff_soft_ub(20241024, "SE", "All", 2, 3), num_staffs(11, "SE", "全員"), 1, 2).
 penalty(staff_soft_ub(20241107, "SE", "All", 2, 3), num_staffs(25, "SE", "全員"), 1, 2).
+penalty(staff_soft_ub(20241015, "SN", "All", 2, 3), num_staffs(2, "SN", "全員"), 1, 2).
+penalty(staff_soft_ub(20241105, "SN", "All", 2, 3), num_staffs(23, "SN", "全員"), 1, 2).
+penalty(staff_soft_ub(20241016, "SN", "All", 2, 3), num_staffs(3, "SN", "全員"), 1, 2).
+penalty(staff_soft_ub(20241030, "SN", "All", 2, 3), num_staffs(17, "SN", "全員"), 1, 2).
 penalty(staff_soft_ub(20241106, "SN", "All", 2, 3), num_staffs(24, "SN", "全員"), 1, 2).
-penalty(staff_soft_ub(20241018, "SN", "All", 2, 3), num_staffs(5, "SN", "全員"), 1, 2).
+penalty(staff_soft_ub(20241017, "SN", "All", 2, 3), num_staffs(4, "SN", "全員"), 1, 2).
 penalty(staff_soft_ub(20241025, "SN", "All", 2, 3), num_staffs(12, "SN", "全員"), 1, 2).
 penalty(staff_soft_ub(20241108, "SN", "All", 2, 3), num_staffs(26, "SN", "全員"), 1, 2).
-penalty(staff_soft_ub(20241027, "D", "Heads", 0, 1), num_staffs(14, "D", "師長"), 1, 2).
-penalty(staff_soft_ub(20241103, "D", "Heads", 0, 1), num_staffs(21, "D", "師長"), 1, 2).
-penalty(staff_soft_ub(20241101, "LD", "Seniors", 2, 3), num_staffs(19, "LD", "熟練"), 1, 2).
+penalty(staff_soft_ub(20241028, "LD", "All", 2, 3), num_staffs(15, "LD", "全員"), 1, 2).
+penalty(staff_soft_ub(20241015, "LD", "All", 2, 3), num_staffs(2, "LD", "全員"), 1, 2).
+penalty(staff_soft_ub(20241105, "LD", "All", 2, 3), num_staffs(23, "LD", "全員"), 1, 2).
+penalty(staff_soft_ub(20241016, "LD", "All", 2, 3), num_staffs(3, "LD", "全員"), 1, 2).
+penalty(staff_soft_ub(20241023, "LD", "All", 2, 3), num_staffs(10, "LD", "全員"), 1, 2).
+penalty(staff_soft_ub(20241106, "LD", "All", 2, 3), num_staffs(24, "LD", "全員"), 1, 2).
+penalty(staff_soft_ub(20241024, "LD", "All", 2, 3), num_staffs(11, "LD", "全員"), 1, 2).
+penalty(staff_soft_ub(20241025, "LD", "All", 2, 3), num_staffs(12, "LD", "全員"), 1, 2).
+penalty(staff_soft_ub(20241105, "SN", "Seniors", 2, 3), num_staffs(23, "SN", "熟練"), 1, 2).
+penalty(staff_soft_ub(20241024, "LD", "Seniors", 2, 3), num_staffs(11, "LD", "熟練"), 1, 2).
+penalty(shifts_soft_ub(2, "LD", 2, 4), num_shifts(2, "N"), 4, 2).
+penalty(shifts_soft_ub(2, "SE", 2, 4), num_shifts(2, "J"), 4, 2).
+penalty(shifts_soft_ub(2, "SN", 2, 3), num_shifts(2, "S"), 1, 2).
+penalty(shifts_soft_ub(3, "LD", 2, 4), num_shifts(3, "N"), 4, 2).
+penalty(shifts_soft_ub(3, "SE", 2, 4), num_shifts(3, "J"), 4, 2).
+penalty(shifts_soft_ub(3, "SN", 2, 4), num_shifts(3, "S"), 4, 2).
 penalty(shifts_soft_ub(4, "LD", 4, 5), num_shifts(4, "N"), 1, 2).
 penalty(shifts_soft_ub(4, "SE", 4, 5), num_shifts(4, "J"), 1, 2).
 penalty(shifts_soft_ub(4, "SN", 4, 5), num_shifts(4, "S"), 1, 2).
-penalty(shifts_soft_ub(5, "LD", 0, 5), num_shifts(5, "N"), 25, 2).
-penalty(shifts_soft_ub(5, "SE", 0, 5), num_shifts(5, "J"), 25, 2).
+penalty(shifts_soft_ub(5, "LD", 0, 4), num_shifts(5, "N"), 16, 2).
+penalty(shifts_soft_ub(5, "SE", 0, 4), num_shifts(5, "J"), 16, 2).
 penalty(shifts_soft_ub(5, "SN", 0, 5), num_shifts(5, "S"), 25, 2).
-penalty(shifts_soft_ub(7, "SN", 4, 5), num_shifts(7, "S"), 1, 2).
-penalty(shifts_soft_ub(9, "LD", 4, 5), num_shifts(9, "N"), 1, 2).
-penalty(shifts_soft_ub(9, "SE", 4, 5), num_shifts(9, "J"), 1, 2).
+penalty(shifts_soft_ub(6, "LD", 4, 5), num_shifts(6, "N"), 1, 2).
+penalty(shifts_soft_ub(6, "SE", 4, 5), num_shifts(6, "J"), 1, 2).
+penalty(shifts_soft_ub(7, "LD", 4, 6), num_shifts(7, "N"), 4, 2).
+penalty(shifts_soft_ub(7, "SE", 4, 6), num_shifts(7, "J"), 4, 2).
+penalty(shifts_soft_ub(7, "SN", 4, 6), num_shifts(7, "S"), 4, 2).
+penalty(shifts_soft_ub(8, "LD", 0, 4), num_shifts(8, "N"), 16, 2).
+penalty(shifts_soft_ub(8, "SE", 0, 4), num_shifts(8, "J"), 16, 2).
+penalty(shifts_soft_ub(8, "SN", 0, 5), num_shifts(8, "S"), 25, 2).
 penalty(shifts_soft_ub(9, "SN", 4, 5), num_shifts(9, "S"), 1, 2).
-penalty(shifts_soft_ub(10, "LD", 4, 5), num_shifts(10, "N"), 1, 2).
-penalty(shifts_soft_ub(10, "SE", 4, 5), num_shifts(10, "J"), 1, 2).
-penalty(shifts_soft_ub(11, "LD", 4, 5), num_shifts(11, "N"), 1, 2).
-penalty(shifts_soft_ub(11, "SE", 4, 5), num_shifts(11, "J"), 1, 2).
-penalty(shifts_soft_ub(12, "SN", 4, 5), num_shifts(12, "S"), 1, 2).
-penalty(shifts_soft_ub(15, "LD", 3, 5), num_shifts(15, "N"), 4, 2).
-penalty(shifts_soft_ub(15, "SE", 3, 5), num_shifts(15, "J"), 4, 2).
+penalty(shifts_soft_ub(11, "SN", 4, 5), num_shifts(11, "S"), 1, 2).
+penalty(shifts_soft_ub(15, "LD", 3, 6), num_shifts(15, "N"), 9, 2).
+penalty(shifts_soft_ub(15, "SE", 3, 6), num_shifts(15, "J"), 9, 2).
 penalty(shifts_soft_ub(15, "SN", 3, 5), num_shifts(15, "S"), 4, 2).
-penalty(shifts_soft_ub(17, "LD", 3, 5), num_shifts(17, "N"), 4, 2).
-penalty(shifts_soft_ub(17, "SE", 3, 5), num_shifts(17, "J"), 4, 2).
-penalty(shifts_soft_ub(17, "SN", 3, 5), num_shifts(17, "S"), 4, 2).
-penalty(isolated_working_day(4, 20241013), table(4, 0), 1, 3).
-penalty(isolated_working_day(13, 20241013), table(13, 0), 1, 3).
-penalty(isolated_working_day(10, 20241014), table(10, 1), 1, 3).
-penalty(isolated_working_day(12, 20241015), table(12, 2), 1, 3).
-penalty(isolated_working_day(16, 20241015), table(16, 2), 1, 3).
-penalty(isolated_working_day(17, 20241015), table(17, 2), 1, 3).
-penalty(isolated_working_day(11, 20241016), table(11, 3), 1, 3).
-penalty(isolated_working_day(11, 20241018), table(11, 5), 1, 3).
-penalty(isolated_working_day(17, 20241018), table(17, 5), 1, 3).
-penalty(isolated_working_day(4, 20241019), table(4, 6), 1, 3).
-penalty(isolated_working_day(6, 20241020), table(6, 7), 1, 3).
-penalty(isolated_working_day(14, 20241020), table(14, 7), 1, 3).
-penalty(isolated_working_day(5, 20241023), table(5, 10), 1, 3).
-penalty(isolated_working_day(16, 20241028), table(16, 15), 1, 3).
-penalty(isolated_working_day(1, 20241030), table(1, 17), 1, 3).
-penalty(isolated_working_day(5, 20241030), table(5, 17), 1, 3).
-penalty(isolated_working_day(17, 20241031), table(17, 18), 1, 3).
-penalty(isolated_working_day(7, 20241101), table(7, 19), 1, 3).
-penalty(isolated_working_day(11, 20241101), table(11, 19), 1, 3).
-penalty(isolated_working_day(10, 20241102), table(10, 20), 1, 3).
-penalty(isolated_working_day(1, 20241103), table(1, 21), 1, 3).
-penalty(isolated_working_day(6, 20241103), table(6, 21), 1, 3).
-penalty(isolated_working_day(11, 20241104), table(11, 22), 1, 3).
-penalty(isolated_working_day(6, 20241105), table(6, 23), 1, 3).
-penalty(isolated_working_day(7, 20241105), table(7, 23), 1, 3).
-penalty(isolated_working_day(16, 20241106), table(16, 24), 1, 3).
-penalty(isolated_working_day(15, 20241107), table(15, 25), 1, 3).
-penalty(isolated_working_day(16, 20241108), table(16, 26), 1, 3).
-penalty(isolated_working_day(9, 20241012), table(9, -1), 1, 3).
-penalty(isolated_working_day(16, 20241012), table(16, -1), 1, 3).
-penalty(pred_shift(11, 20241109, "J"), table(11, 27), 1, 4).
-penalty(total_shifts_ub("全員", "D", 78, 80), "D", 4, 4).
-penalty(total_patterns_ub("全員", "○○", 36, 40), "○○", 16, 4).
-penalty(total_patterns_ub("全員", "○日", 32, 36), "○日", 16, 4).
-penalty(total_patterns_ub("全員", "N○", 17, 22), "N○", 25, 4).
-penalty(total_patterns_ub("全員", "○○○", 7, 11), "○○○", 16, 4).
-penalty(total_patterns_ub("全員", "○N○", 8, 13), "○N○", 25, 4).
-penalty(total_patterns_ub("全員", "○日○", 5, 8), "○日○", 9, 4).
-penalty(total_patterns_ub("全員", "○JS○", 10, 14), "○JS○", 16, 4).
-penalty(total_patterns_ub("全員", "NJS○", 22, 24), "NJS○", 4, 4).
-penalty(total_patterns_ub("全員", "○日日○", 4, 6), "○日日○", 4, 4).
-penalty(total_patterns_ub("全員", "○NJS○", 14, 18), "○NJS○", 16, 4).
-penalty(total_patterns_ub("全員", "○日JS○", 3, 4), "○日JS○", 1, 4).
-penalty(isolated_weekly_holiday(6, 20241013), table(6, 0), 1, 3).
-penalty(isolated_weekly_holiday(9, 20241013), table(9, 0), 1, 3).
-penalty(isolated_weekly_holiday(10, 20241013), table(10, 0), 1, 3).
-penalty(isolated_weekly_holiday(4, 20241014), table(4, 1), 1, 3).
-penalty(isolated_weekly_holiday(12, 20241014), table(12, 1), 1, 3).
-penalty(isolated_weekly_holiday(13, 20241014), table(13, 1), 1, 3).
-penalty(isolated_weekly_holiday(11, 20241015), table(11, 2), 1, 3).
-penalty(isolated_weekly_holiday(6, 20241016), table(6, 3), 1, 3).
-penalty(isolated_weekly_holiday(12, 20241016), table(12, 3), 1, 3).
-penalty(isolated_weekly_holiday(11, 20241017), table(11, 4), 1, 3).
-penalty(isolated_weekly_holiday(13, 20241017), table(13, 4), 1, 3).
-penalty(isolated_weekly_holiday(4, 20241018), table(4, 5), 1, 3).
-penalty(isolated_weekly_holiday(5, 20241018), table(5, 5), 1, 3).
-penalty(isolated_weekly_holiday(6, 20241019), table(6, 6), 1, 3).
-penalty(isolated_weekly_holiday(14, 20241019), table(14, 6), 1, 3).
-penalty(isolated_weekly_holiday(17, 20241019), table(17, 6), 1, 3).
-penalty(isolated_weekly_holiday(4, 20241020), table(4, 7), 1, 3).
-penalty(isolated_weekly_holiday(12, 20241020), table(12, 7), 1, 3).
-penalty(isolated_weekly_holiday(15, 20241020), table(15, 7), 1, 3).
-penalty(isolated_weekly_holiday(9, 20241021), table(9, 8), 1, 3).
-penalty(isolated_weekly_holiday(13, 20241022), table(13, 9), 1, 3).
-penalty(isolated_weekly_holiday(17, 20241022), table(17, 9), 1, 3).
-penalty(isolated_weekly_holiday(7, 20241023), table(7, 10), 1, 3).
-penalty(isolated_weekly_holiday(11, 20241023), table(11, 10), 1, 3).
-penalty(isolated_weekly_holiday(12, 20241023), table(12, 10), 1, 3).
-penalty(isolated_weekly_holiday(10, 20241024), table(10, 11), 1, 3).
-penalty(isolated_weekly_holiday(15, 20241024), table(15, 11), 1, 3).
-penalty(isolated_weekly_holiday(4, 20241026), table(4, 13), 1, 3).
-penalty(isolated_weekly_holiday(12, 20241026), table(12, 13), 1, 3).
-penalty(isolated_weekly_holiday(17, 20241026), table(17, 13), 1, 3).
-penalty(isolated_weekly_holiday(6, 20241027), table(6, 14), 1, 3).
-penalty(isolated_weekly_holiday(10, 20241027), table(10, 14), 1, 3).
-penalty(isolated_weekly_holiday(14, 20241028), table(14, 15), 1, 3).
-penalty(isolated_weekly_holiday(15, 20241028), table(15, 15), 1, 3).
-penalty(isolated_weekly_holiday(1, 20241029), table(1, 16), 1, 3).
-penalty(isolated_weekly_holiday(5, 20241029), table(5, 16), 1, 3).
-penalty(isolated_weekly_holiday(12, 20241029), table(12, 16), 1, 3).
-penalty(isolated_weekly_holiday(16, 20241029), table(16, 16), 1, 3).
-penalty(isolated_weekly_holiday(4, 20241030), table(4, 17), 1, 3).
-penalty(isolated_weekly_holiday(17, 20241030), table(17, 17), 1, 3).
-penalty(isolated_weekly_holiday(5, 20241031), table(5, 18), 1, 3).
-penalty(isolated_weekly_holiday(7, 20241031), table(7, 18), 1, 3).
-penalty(isolated_weekly_holiday(11, 20241031), table(11, 18), 1, 3).
-penalty(isolated_weekly_holiday(10, 20241101), table(10, 19), 1, 3).
-penalty(isolated_weekly_holiday(17, 20241101), table(17, 19), 1, 3).
-penalty(isolated_weekly_holiday(14, 20241102), table(14, 20), 1, 3).
-penalty(isolated_weekly_holiday(16, 20241102), table(16, 20), 1, 3).
-penalty(isolated_weekly_holiday(4, 20241103), table(4, 21), 1, 3).
-penalty(isolated_weekly_holiday(1, 20241104), table(1, 22), 1, 3).
-penalty(isolated_weekly_holiday(5, 20241104), table(5, 22), 1, 3).
-penalty(isolated_weekly_holiday(6, 20241104), table(6, 22), 1, 3).
-penalty(isolated_weekly_holiday(17, 20241104), table(17, 22), 1, 3).
-penalty(isolated_weekly_holiday(11, 20241105), table(11, 23), 1, 3).
-penalty(isolated_weekly_holiday(16, 20241105), table(16, 23), 1, 3).
-penalty(isolated_weekly_holiday(6, 20241106), table(6, 24), 1, 3).
-penalty(isolated_weekly_holiday(15, 20241106), table(15, 24), 1, 3).
-penalty(isolated_weekly_holiday(10, 20241107), table(10, 25), 1, 3).
-penalty(isolated_weekly_holiday(16, 20241107), table(16, 25), 1, 3).
-penalty(isolated_weekly_holiday(9, 20241108), table(9, 26), 1, 3).
-penalty(isolated_weekly_holiday(12, 20241108), table(12, 26), 1, 3).
-penalty(isolated_weekly_holiday(4, 20241012), table(4, -1), 1, 3).
-penalty(isolated_weekly_holiday(11, 20241012), table(11, -1), 1, 3).
+penalty(shifts_soft_ub(17, "LD", 3, 4), num_shifts(17, "N"), 1, 2).
+penalty(shifts_soft_ub(17, "SE", 3, 4), num_shifts(17, "J"), 1, 2).
+penalty(shifts_soft_ub(17, "SN", 3, 4), num_shifts(17, "S"), 1, 2).
+penalty(isolated_working_day(3, 20241013), table(3, 0), 1, 1).
+penalty(isolated_working_day(8, 20241013), table(8, 0), 1, 1).
+penalty(isolated_working_day(11, 20241013), table(11, 0), 1, 1).
+penalty(isolated_working_day(13, 20241013), table(13, 0), 1, 1).
+penalty(isolated_working_day(14, 20241013), table(14, 0), 1, 1).
+penalty(isolated_working_day(15, 20241013), table(15, 0), 1, 1).
+penalty(isolated_working_day(8, 20241015), table(8, 2), 1, 1).
+penalty(isolated_working_day(11, 20241015), table(11, 2), 1, 1).
+penalty(isolated_working_day(14, 20241015), table(14, 2), 1, 1).
+penalty(isolated_working_day(12, 20241018), table(12, 5), 1, 1).
+penalty(isolated_working_day(13, 20241020), table(13, 7), 1, 1).
+penalty(isolated_working_day(8, 20241023), table(8, 10), 1, 1).
+penalty(isolated_working_day(10, 20241024), table(10, 11), 1, 1).
+penalty(isolated_working_day(8, 20241025), table(8, 12), 1, 1).
+penalty(isolated_working_day(15, 20241025), table(15, 12), 1, 1).
+penalty(isolated_working_day(10, 20241026), table(10, 13), 1, 1).
+penalty(isolated_working_day(14, 20241027), table(14, 14), 1, 1).
+penalty(isolated_working_day(17, 20241028), table(17, 15), 1, 1).
+penalty(isolated_working_day(16, 20241101), table(16, 19), 1, 1).
+penalty(isolated_working_day(5, 20241103), table(5, 21), 1, 1).
+penalty(isolated_working_day(12, 20241103), table(12, 21), 1, 1).
+penalty(isolated_working_day(17, 20241103), table(17, 21), 1, 1).
+penalty(isolated_working_day(9, 20241104), table(9, 22), 1, 1).
+penalty(isolated_working_day(17, 20241105), table(17, 23), 1, 1).
+penalty(isolated_working_day(1, 20241106), table(1, 24), 1, 1).
+penalty(isolated_working_day(13, 20241106), table(13, 24), 1, 1).
+penalty(isolated_working_day(17, 20241107), table(17, 25), 1, 1).
+penalty(isolated_working_day(2, 20241108), table(2, 26), 1, 1).
+penalty(isolated_working_day(13, 20241108), table(13, 26), 1, 1).
+penalty(isolated_working_day(16, 20241108), table(16, 26), 1, 1).
+penalty(isolated_working_day(9, 20241012), table(9, -1), 1, 1).
+penalty(isolated_working_day(12, 20241012), table(12, -1), 1, 1).
+penalty(isolated_working_day(16, 20241012), table(16, -1), 1, 1).
+penalty(pred_shift(5, 20241105, "S"), table(5, 23), 1, 3).
+penalty(pred_shift(8, 20241013, "S"), table(8, 0), 1, 3).
+penalty(pred_shift(9, 20241014, "S"), table(9, 1), 1, 3).
+penalty(pred_shift(9, 20241104, "S"), table(9, 22), 1, 3).
+penalty(pred_shift(11, 20241013, "S"), table(11, 0), 1, 3).
+penalty(pred_shift(11, 20241015, "S"), table(11, 2), 1, 3).
+penalty(pred_shift(7, 20241014, "J"), table(7, 1), 1, 3).
+penalty(pred_shift(13, 20241103, "J"), table(13, 21), 1, 3).
+penalty(pred_shift(4, 20241014, "★"), table(4, 1), 1, 3).
+penalty(pred_shift(5, 20241013, "★"), table(5, 0), 1, 3).
+penalty(pred_shift(11, 20241020, "★"), table(11, 7), 1, 3).
+penalty(pred_shift(4, 20241013, "☆"), table(4, 0), 1, 3).
+penalty(pred_shift(7, 20241013, "☆"), table(7, 0), 1, 3).
+penalty(pred_shift(17, 20241109, "☆"), table(17, 27), 1, 3).
+penalty(pred_shift(2, 20241016, "日"), table(2, 3), 1, 3).
+penalty(pred_shift(2, 20241018, "日"), table(2, 5), 1, 3).
+penalty(pred_shift(5, 20241025, "日"), table(5, 12), 1, 3).
+penalty(pred_shift(5, 20241106, "日"), table(5, 24), 1, 3).
+penalty(pred_shift(6, 20241025, "日"), table(6, 12), 1, 3).
+penalty(pred_shift(10, 20241021, "日"), table(10, 8), 1, 3).
+penalty(pred_shift(12, 20241029, "日"), table(12, 16), 1, 3).
+penalty(pred_shift(16, 20241015, "日"), table(16, 2), 1, 3).
+penalty(pred_shift(6, 20241106, "N"), table(6, 24), 1, 3).
+penalty(succ_shift(5, 20241105, "S"), table(5, 23), 1, 3).
+penalty(succ_shift(8, 20241109, "S"), table(8, 27), 1, 3).
+penalty(succ_shift(11, 20241019, "S"), table(11, 6), 1, 3).
+penalty(succ_shift(7, 20241012, "J"), table(7, -1), 1, 3).
+penalty(succ_shift(5, 20241012, "☆"), table(5, -1), 1, 3).
+penalty(succ_shift(4, 20241013, "☆"), table(4, 0), 1, 3).
+penalty(succ_shift(7, 20241013, "☆"), table(7, 0), 1, 3).
+penalty(succ_shift(13, 20241102, "☆"), table(13, 20), 1, 3).
+penalty(succ_shift(2, 20241015, "N"), table(2, 2), 1, 3).
+penalty(succ_shift(2, 20241017, "N"), table(2, 4), 1, 3).
+penalty(succ_shift(5, 20241024, "N"), table(5, 11), 1, 3).
+penalty(succ_shift(6, 20241024, "N"), table(6, 11), 1, 3).
+penalty(succ_shift(10, 20241020, "N"), table(10, 7), 1, 3).
+penalty(succ_shift(12, 20241028, "N"), table(12, 15), 1, 3).
+penalty(succ_shift(16, 20241014, "N"), table(16, 1), 1, 3).
+penalty(succ_shift(6, 20241105, "P"), table(6, 23), 1, 3).
+penalty(total_patterns_lb("全員", "日◎", 1, 0), "日◎", 1, 4).
+penalty(isolated_weekly_holiday(9, 20241013), table(9, 0), 1, 1).
+penalty(isolated_weekly_holiday(12, 20241013), table(12, 0), 1, 1).
+penalty(isolated_weekly_holiday(16, 20241013), table(16, 0), 1, 1).
+penalty(isolated_weekly_holiday(2, 20241014), table(2, 1), 1, 1).
+penalty(isolated_weekly_holiday(8, 20241014), table(8, 1), 1, 1).
+penalty(isolated_weekly_holiday(11, 20241014), table(11, 1), 1, 1).
+penalty(isolated_weekly_holiday(14, 20241014), table(14, 1), 1, 1).
+penalty(isolated_weekly_holiday(15, 20241014), table(15, 1), 1, 1).
+penalty(isolated_weekly_holiday(17, 20241014), table(17, 1), 1, 1).
+penalty(isolated_weekly_holiday(5, 20241015), table(5, 2), 1, 1).
+penalty(isolated_weekly_holiday(8, 20241016), table(8, 3), 1, 1).
+penalty(isolated_weekly_holiday(11, 20241016), table(11, 3), 1, 1).
+penalty(isolated_weekly_holiday(14, 20241016), table(14, 3), 1, 1).
+penalty(isolated_weekly_holiday(9, 20241017), table(9, 4), 1, 1).
+penalty(isolated_weekly_holiday(12, 20241017), table(12, 4), 1, 1).
+penalty(isolated_weekly_holiday(13, 20241019), table(13, 6), 1, 1).
+penalty(isolated_weekly_holiday(5, 20241020), table(5, 7), 1, 1).
+penalty(isolated_weekly_holiday(9, 20241020), table(9, 7), 1, 1).
+penalty(isolated_weekly_holiday(4, 20241021), table(4, 8), 1, 1).
+penalty(isolated_weekly_holiday(13, 20241021), table(13, 8), 1, 1).
+penalty(isolated_weekly_holiday(16, 20241021), table(16, 8), 1, 1).
+penalty(isolated_weekly_holiday(7, 20241022), table(7, 9), 1, 1).
+penalty(isolated_weekly_holiday(8, 20241022), table(8, 9), 1, 1).
+penalty(isolated_weekly_holiday(5, 20241023), table(5, 10), 1, 1).
+penalty(isolated_weekly_holiday(12, 20241023), table(12, 10), 1, 1).
+penalty(isolated_weekly_holiday(17, 20241023), table(17, 10), 1, 1).
+penalty(isolated_weekly_holiday(3, 20241024), table(3, 11), 1, 1).
+penalty(isolated_weekly_holiday(8, 20241024), table(8, 11), 1, 1).
+penalty(isolated_weekly_holiday(15, 20241024), table(15, 11), 1, 1).
+penalty(isolated_weekly_holiday(10, 20241025), table(10, 12), 1, 1).
+penalty(isolated_weekly_holiday(5, 20241026), table(5, 13), 1, 1).
+penalty(isolated_weekly_holiday(14, 20241026), table(14, 13), 1, 1).
+penalty(isolated_weekly_holiday(3, 20241027), table(3, 14), 1, 1).
+penalty(isolated_weekly_holiday(6, 20241027), table(6, 14), 1, 1).
+penalty(isolated_weekly_holiday(7, 20241028), table(7, 15), 1, 1).
+penalty(isolated_weekly_holiday(14, 20241028), table(14, 15), 1, 1).
+penalty(isolated_weekly_holiday(5, 20241029), table(5, 16), 1, 1).
+penalty(isolated_weekly_holiday(17, 20241029), table(17, 16), 1, 1).
+penalty(isolated_weekly_holiday(15, 20241030), table(15, 17), 1, 1).
+penalty(isolated_weekly_holiday(3, 20241031), table(3, 18), 1, 1).
+penalty(isolated_weekly_holiday(4, 20241031), table(4, 18), 1, 1).
+penalty(isolated_weekly_holiday(6, 20241031), table(6, 18), 1, 1).
+penalty(isolated_weekly_holiday(8, 20241031), table(8, 18), 1, 1).
+penalty(isolated_weekly_holiday(13, 20241031), table(13, 18), 1, 1).
+penalty(isolated_weekly_holiday(16, 20241031), table(16, 18), 1, 1).
+penalty(isolated_weekly_holiday(12, 20241102), table(12, 20), 1, 1).
+penalty(isolated_weekly_holiday(17, 20241102), table(17, 20), 1, 1).
+penalty(isolated_weekly_holiday(2, 20241103), table(2, 21), 1, 1).
+penalty(isolated_weekly_holiday(4, 20241103), table(4, 21), 1, 1).
+penalty(isolated_weekly_holiday(9, 20241103), table(9, 21), 1, 1).
+penalty(isolated_weekly_holiday(3, 20241104), table(3, 22), 1, 1).
+penalty(isolated_weekly_holiday(5, 20241104), table(5, 22), 1, 1).
+penalty(isolated_weekly_holiday(7, 20241104), table(7, 22), 1, 1).
+penalty(isolated_weekly_holiday(12, 20241104), table(12, 22), 1, 1).
+penalty(isolated_weekly_holiday(17, 20241104), table(17, 22), 1, 1).
+penalty(isolated_weekly_holiday(13, 20241105), table(13, 23), 1, 1).
+penalty(isolated_weekly_holiday(14, 20241105), table(14, 23), 1, 1).
+penalty(isolated_weekly_holiday(4, 20241106), table(4, 24), 1, 1).
+penalty(isolated_weekly_holiday(17, 20241106), table(17, 24), 1, 1).
+penalty(isolated_weekly_holiday(2, 20241107), table(2, 25), 1, 1).
+penalty(isolated_weekly_holiday(7, 20241107), table(7, 25), 1, 1).
+penalty(isolated_weekly_holiday(12, 20241107), table(12, 25), 1, 1).
+penalty(isolated_weekly_holiday(13, 20241107), table(13, 25), 1, 1).
+penalty(isolated_weekly_holiday(16, 20241107), table(16, 25), 1, 1).
+penalty(isolated_weekly_holiday(3, 20241108), table(3, 26), 1, 1).
+penalty(isolated_weekly_holiday(17, 20241108), table(17, 26), 1, 1).
+penalty(isolated_weekly_holiday(3, 20241012), table(3, -1), 1, 1).
+penalty(isolated_weekly_holiday(4, 20241012), table(4, -1), 1, 1).
+penalty(isolated_weekly_holiday(11, 20241012), table(11, -1), 1, 1).
+penalty(isolated_weekly_holiday(14, 20241012), table(14, -1), 1, 1).
+penalty(patterns_soft_ub(2, "N日", 0, 2), staff(2), 4, 3).
+penalty(patterns_soft_ub(5, "N日", 0, 1), staff(5), 1, 3).
+penalty(patterns_soft_ub(6, "N日", 0, 1), staff(6), 1, 3).
+penalty(patterns_soft_ub(10, "N日", 0, 1), staff(10), 1, 3).
+penalty(patterns_soft_ub(12, "N日", 0, 1), staff(12), 1, 3).
+penalty(patterns_soft_ub(16, "N日", 0, 1), staff(16), 1, 3).
+penalty(adjacent_holiday(2, 20241107, 20241107), table(2, 25), 1, 1).
+penalty(adjacent_holiday(7, 20241106, 20241107), table(7, 24), 1, 1).
 penalty(adjacent_holiday(9, 20241013, 20241013), table(9, 0), 1, 1).
-penalty(adjacent_holiday(9, 20241103, 20241104), table(9, 21), 1, 1).
-penalty(adjacent_holiday(17, 20241026, 20241026), table(17, 13), 1, 1).
-penalty(staff_request(1, 20241028, "LD", "日"), table(1, 15), 1, 5).
-penalty(staff_request(1, 20241029, "SE", "○"), table(1, 16), 1, 5).
-penalty(staff_request(1, 20241030, "SN", "日"), table(1, 17), 1, 5).
+penalty(staff_request(1, 20241028, "LD", "日"), table(1, 15), 1, 3).
+penalty(staff_request(1, 20241029, "SE", "日"), table(1, 16), 1, 3).
+penalty(staff_request(1, 20241030, "SN", "日"), table(1, 17), 1, 3).
+penalty(staff_request(2, 20241030, "D", "○"), table(2, 17), 1, 3).
+penalty(staff_request(2, 20241101, "LD", "日"), table(2, 19), 1, 3).
+penalty(staff_request(2, 20241108, "SE", "日"), table(2, 26), 1, 3).
+penalty(staff_request(2, 20241109, "SN", "○"), table(2, 27), 1, 3).
+penalty(staff_request(3, 20241023, "D", "S"), table(3, 10), 1, 3).
+penalty(staff_request(4, 20241022, "D", "N"), table(4, 9), 1, 3).
+penalty(staff_request(5, 20241024, "WR", "N"), table(5, 11), 1, 3).
+penalty(staff_request(5, 20241025, "WR", "日"), table(5, 12), 1, 3).
+penalty(staff_request(6, 20241024, "D", "N"), table(6, 11), 1, 3).
+penalty(staff_request(6, 20241101, "WR", "J"), table(6, 19), 1, 3).
+penalty(staff_request(6, 20241102, "WR", "S"), table(6, 20), 1, 3).
+penalty(staff_request(7, 20241106, "AL", "N"), table(7, 24), 1, 3).
+penalty(staff_request(7, 20241108, "WR", "日"), table(7, 26), 1, 3).
+penalty(staff_request(7, 20241109, "WR", "N"), table(7, 27), 1, 3).
+penalty(staff_request(8, 20241013, "WR", "S"), table(8, 0), 1, 3).
+penalty(staff_request(8, 20241018, "D", "N"), table(8, 5), 1, 3).
+penalty(staff_request(8, 20241101, "D", "★"), table(8, 19), 1, 3).
+penalty(staff_request(8, 20241109, "BT", "S"), table(8, 27), 1, 3).
+penalty(staff_request(9, 20241027, "WR", "J"), table(9, 14), 1, 3).
+penalty(staff_request(9, 20241028, "AL", "S"), table(9, 15), 1, 3).
+penalty(staff_request(9, 20241104, "HL", "S"), table(9, 22), 1, 3).
+penalty(staff_request(10, 20241015, "WR", "J"), table(10, 2), 1, 3).
+penalty(staff_request(10, 20241016, "WR", "S"), table(10, 3), 1, 3).
+penalty(staff_request(10, 20241017, "AL", "J"), table(10, 4), 1, 3).
+penalty(staff_request(10, 20241028, "D", "○"), table(10, 15), 1, 3).
+penalty(staff_request(13, 20241107, "D", "○"), table(13, 25), 1, 3).
+penalty(staff_request(14, 20241021, "AL", "日"), table(14, 8), 1, 3).
+penalty(staff_request(14, 20241022, "HL", "日"), table(14, 9), 1, 3).
+penalty(staff_request(14, 20241023, "HL", "日"), table(14, 10), 1, 3).
+penalty(staff_request(14, 20241024, "WR", "日"), table(14, 11), 1, 3).
+penalty(staff_request(15, 20241013, "WR", "★"), table(15, 0), 1, 3).
+penalty(staff_request(17, 20241013, "WR", "★"), table(17, 0), 1, 3).
+penalty(staff_request(17, 20241107, "HL", "日"), table(17, 25), 1, 3).
+penalty(neg_request(16, 20241020, "S"), table(16, 7), 1, 3).
+penalty(neg_request(16, 20241026, "S"), table(16, 13), 1, 3).
+penalty(neg_request(16, 20241105, "J"), table(16, 23), 1, 3).

@@ -40,12 +40,12 @@ priority("patterns_ub", 3).
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%(追加部ここから)%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-priority("total_shifts_ub", 5).
-priority("total_shifts_lb", 5).
-priority("total_patterns_ub", 4).
-priority("total_patterns_lb", 4).
-priority("isolated_working_day", 3).
-priority("isolated_weekly_holiday", 3).
+priority("total_shifts_ub", 4).
+priority("total_shifts_lb", 4).
+priority("total_patterns_ub", 5).
+priority("total_patterns_lb", 5).
+% priority("isolated_working_day", 3).
+% priority("isolated_weekly_holiday", 3).
 priority("invalid_pref2_next",2).
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%(追加部ここまで)%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 

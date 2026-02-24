@@ -168,11 +168,11 @@ patterns_soft_ub("PP", 0).
 shifts("日").
 shifts("日","日").
 total_shifts_ub("全員","日", 77).
-total_shifts_lb("全員","日", 67).
+total_shifts_lb("全員","日", 68).
 shifts("○").
 shifts("○","○").
 total_shifts_ub("全員","○", 134).
-total_shifts_lb("全員","○", 130).
+total_shifts_lb("全員","○", 131).
 shifts("☆").
 shifts("☆","☆").
 total_shifts_ub("全員","☆", 14).
@@ -293,12 +293,12 @@ pattern("★○", 0, "★").
 pattern("★○", 1, "○").
 total_patterns_ub("全員","★○", 0).
 total_patterns_lb("全員","★○", 0).
-patterns("◎日", "◎日").
-pattern("◎日", 2).
-pattern("◎日", 0, "◎").
-pattern("◎日", 1, "日").
-total_patterns_ub("全員","◎日", 3).
-total_patterns_lb("全員","◎日", 1).
+% patterns("◎日", "◎日").
+% pattern("◎日", 2).
+% pattern("◎日", 0, "◎").
+% pattern("◎日", 1, "日").
+% total_patterns_ub("全員","◎日", 3).
+% total_patterns_lb("全員","◎日", 1).
 patterns("N★", "N★").
 pattern("N★", 2).
 pattern("N★", 0, "N").
@@ -335,12 +335,30 @@ pattern("日☆", 0, "日").
 pattern("日☆", 1, "☆").
 total_patterns_ub("全員","日☆", 0).
 total_patterns_lb("全員","日☆", 0).
+patterns("日★", "日★").
+pattern("日★", 2).
+pattern("日★", 0, "日").
+pattern("日★", 1, "★").
+total_patterns_ub("全員","日★", 1).
+total_patterns_lb("全員","日★", 1).
 patterns("☆日", "☆日").
 pattern("☆日", 2).
 pattern("☆日", 0, "☆").
 pattern("☆日", 1, "日").
 total_patterns_ub("全員","☆日", 0).
 total_patterns_lb("全員","☆日", 0).
+% patterns("○◎", "○◎").
+% pattern("○◎", 2).
+% pattern("○◎", 0, "○").
+% pattern("○◎", 1, "◎").
+% total_patterns_ub("全員","○◎", 5).
+% total_patterns_lb("全員","○◎", 2).
+% patterns("◎○", "◎○").
+% pattern("◎○", 2).
+% pattern("◎○", 0, "◎").
+% pattern("◎○", 1, "○").
+% total_patterns_ub("全員","◎○", 5).
+% total_patterns_lb("全員","◎○", 2).
 patterns("★S", "★S").
 pattern("★S", 2).
 pattern("★S", 0, "★").
@@ -407,12 +425,24 @@ pattern("☆☆", 0, "☆").
 pattern("☆☆", 1, "☆").
 total_patterns_ub("全員","☆☆", 0).
 total_patterns_lb("全員","☆☆", 0).
-patterns("◎☆", "◎☆").
-pattern("◎☆", 2).
-pattern("◎☆", 0, "◎").
-pattern("◎☆", 1, "☆").
-total_patterns_ub("全員","◎☆", 0).
-total_patterns_lb("全員","◎☆", 0).
+% patterns("◎☆", "◎☆").
+% pattern("◎☆", 2).
+% pattern("◎☆", 0, "◎").
+% pattern("◎☆", 1, "☆").
+% total_patterns_ub("全員","◎☆", 0).
+% total_patterns_lb("全員","◎☆", 0).
+% patterns("☆◎", "☆◎").
+% pattern("☆◎", 2).
+% pattern("☆◎", 0, "☆").
+% pattern("☆◎", 1, "◎").
+% total_patterns_ub("全員","☆◎", 0).
+% total_patterns_lb("全員","☆◎", 0).
+% patterns("日◎", "日◎").
+% pattern("日◎", 2).
+% pattern("日◎", 0, "日").
+% pattern("日◎", 1, "◎").
+% total_patterns_ub("全員","日◎", 2).
+% total_patterns_lb("全員","日◎", 1).
 patterns("S☆", "S☆").
 pattern("S☆", 2).
 pattern("S☆", 0, "S").
@@ -425,12 +455,78 @@ pattern("N日", 0, "N").
 pattern("N日", 1, "日").
 total_patterns_ub("全員","N日", 7).
 total_patterns_lb("全員","N日", 4).
+patterns("NJ", "NJ").
+pattern("NJ", 2).
+pattern("NJ", 0, "N").
+pattern("NJ", 1, "J").
+total_patterns_ub("全員","NJ", 32).
+total_patterns_lb("全員","NJ", 23).
+% patterns("★◎", "★◎").
+% pattern("★◎", 2).
+% pattern("★◎", 0, "★").
+% pattern("★◎", 1, "◎").
+% total_patterns_ub("全員","★◎", 0).
+% total_patterns_lb("全員","★◎", 0).
+% patterns("◎N", "◎N").
+% pattern("◎N", 2).
+% pattern("◎N", 0, "◎").
+% pattern("◎N", 1, "N").
+% total_patterns_ub("全員","◎N", 3).
+% total_patterns_lb("全員","◎N", 2).
+% patterns("J◎", "J◎").
+% pattern("J◎", 2).
+% pattern("J◎", 0, "J").
+% pattern("J◎", 1, "◎").
+% total_patterns_ub("全員","J◎", 0).
+% total_patterns_lb("全員","J◎", 0).
+% patterns("◎S", "◎S").
+% pattern("◎S", 2).
+% pattern("◎S", 0, "◎").
+% pattern("◎S", 1, "S").
+% total_patterns_ub("全員","◎S", 0).
+% total_patterns_lb("全員","◎S", 0).
+% patterns("◎P", "◎P").
+% pattern("◎P", 2).
+% pattern("◎P", 0, "◎").
+% pattern("◎P", 1, "P").
+% total_patterns_ub("全員","◎P", 2).
+% total_patterns_lb("全員","◎P", 1).
 patterns("日○", "日○").
 pattern("日○", 2).
 pattern("日○", 0, "日").
 pattern("日○", 1, "○").
 total_patterns_ub("全員","日○", 19).
 total_patterns_lb("全員","日○", 15).
+patterns("○★", "○★").
+pattern("○★", 2).
+pattern("○★", 0, "○").
+pattern("○★", 1, "★").
+total_patterns_ub("全員","○★", 5).
+total_patterns_lb("全員","○★", 1).
+patterns("日日", "日日").
+pattern("日日", 2).
+pattern("日日", 0, "日").
+pattern("日日", 1, "日").
+total_patterns_ub("全員","日日", 35).
+total_patterns_lb("全員","日日", 25).
+patterns("日S", "日S").
+pattern("日S", 2).
+pattern("日S", 0, "日").
+pattern("日S", 1, "S").
+total_patterns_ub("全員","日S", 0).
+total_patterns_lb("全員","日S", 0).
+patterns("S○", "S○").
+pattern("S○", 2).
+pattern("S○", 0, "S").
+pattern("S○", 1, "○").
+total_patterns_ub("全員","S○", 52).
+total_patterns_lb("全員","S○", 41).
+patterns("SP", "SP").
+pattern("SP", 2).
+pattern("SP", 0, "S").
+pattern("SP", 1, "P").
+total_patterns_ub("全員","SP", 0).
+total_patterns_lb("全員","SP", 0).
 patterns("○○○", "○○○").
 pattern("○○○", 3).
 pattern("○○○", 0, "○").
@@ -438,6 +534,13 @@ pattern("○○○", 1, "○").
 pattern("○○○", 2, "○").
 total_patterns_ub("全員","○○○", 7).
 total_patterns_lb("全員","○○○", 5).
+patterns("S○★", "S○★").
+pattern("S○★", 3).
+pattern("S○★", 0, "S").
+pattern("S○★", 1, "○").
+pattern("S○★", 2, "★").
+total_patterns_ub("全員","S○★", 1).
+total_patterns_lb("全員","S○★", 0).
 patterns("NNN", "NNN").
 pattern("NNN", 3).
 pattern("NNN", 0, "N").
@@ -454,8 +557,8 @@ total_patterns_ub("全員","日JS", 6).
 total_patterns_lb("全員","日JS", 4).
 patterns("JS日", "JS日").
 pattern("JS日", 3).
-pattern("JS日", 0, "S").
-pattern("JS日", 1, "J").
+pattern("JS日", 0, "J").
+pattern("JS日", 1, "S").
 pattern("JS日", 2, "日").
 total_patterns_ub("全員","JS日", 0).
 total_patterns_lb("全員","JS日", 0).
@@ -501,6 +604,90 @@ pattern("日○日", 1, "○").
 pattern("日○日", 2, "日").
 total_patterns_ub("全員","日○日", 7).
 total_patterns_lb("全員","日○日", 4).
+patterns("日日日", "日日日").
+pattern("日日日", 3).
+pattern("日日日", 0, "日").
+pattern("日日日", 1, "日").
+pattern("日日日", 2, "日").
+total_patterns_ub("全員","日日日", 17).
+total_patterns_lb("全員","日日日", 11).
+patterns("☆○日", "☆○日").
+pattern("☆○日", 3).
+pattern("☆○日", 0, "☆").
+pattern("☆○日", 1, "○").
+pattern("☆○日", 2, "日").
+total_patterns_ub("全員","☆○日", 1).
+total_patterns_lb("全員","☆○日", 0).
+patterns("N日S", "N日S").
+pattern("N日S", 3).
+pattern("N日S", 0, "N").
+pattern("N日S", 1, "日").
+pattern("N日S", 2, "S").
+total_patterns_ub("全員","N日S", 0).
+total_patterns_lb("全員","N日S", 0).
+patterns("N○日", "N○日").
+pattern("N○日", 3).
+pattern("N○日", 0, "N").
+pattern("N○日", 1, "○").
+pattern("N○日", 2, "日").
+total_patterns_ub("全員","N○日", 3).
+total_patterns_lb("全員","N○日", 1).
+patterns("日日N", "日日N").
+pattern("日日N", 3).
+pattern("日日N", 0, "日").
+pattern("日日N", 1, "日").
+pattern("日日N", 2, "N").
+total_patterns_ub("全員","日日N", 3).
+total_patterns_lb("全員","日日N", 2).
+patterns("SJP", "SJP").
+pattern("SJP", 3).
+pattern("SJP", 0, "S").
+pattern("SJP", 1, "J").
+pattern("SJP", 2, "P").
+total_patterns_ub("全員","SJP", 0).
+total_patterns_lb("全員","SJP", 0).
+% patterns("☆◎N", "☆◎N").
+% pattern("☆◎N", 3).
+% pattern("☆◎N", 0, "☆").
+% pattern("☆◎N", 1, "◎").
+% pattern("☆◎N", 2, "N").
+% total_patterns_ub("全員","☆◎N", 0).
+% total_patterns_lb("全員","☆◎N", 0).
+patterns("NNJ", "NNJ").
+pattern("NNJ", 3).
+pattern("NNJ", 0, "N").
+pattern("NNJ", 1, "N").
+pattern("NNJ", 2, "J").
+total_patterns_ub("全員","NNJ", 5).
+total_patterns_lb("全員","NNJ", 2).
+patterns("☆○N", "☆○N").
+pattern("☆○N", 3).
+pattern("☆○N", 0, "☆").
+pattern("☆○N", 1, "○").
+pattern("☆○N", 2, "N").
+total_patterns_ub("全員","☆○N", 1).
+total_patterns_lb("全員","☆○N", 0).
+patterns("日○N", "日○N").
+pattern("日○N", 3).
+pattern("日○N", 0, "日").
+pattern("日○N", 1, "○").
+pattern("日○N", 2, "N").
+total_patterns_ub("全員","日○N", 3).
+total_patterns_lb("全員","日○N", 2).
+patterns("N○N", "N○N").
+pattern("N○N", 3).
+pattern("N○N", 0, "N").
+pattern("N○N", 1, "○").
+pattern("N○N", 2, "N").
+total_patterns_ub("全員","N○N", 5).
+total_patterns_lb("全員","N○N", 3).
+patterns("N日日", "N日日").
+pattern("N日日", 3).
+pattern("N日日", 0, "N").
+pattern("N日日", 1, "日").
+pattern("N日日", 2, "日").
+total_patterns_ub("全員","N日日", 2).
+total_patterns_lb("全員","N日日", 1).
 patterns("日S○", "日S○").
 pattern("日S○", 3).
 pattern("日S○", 0, "日").
@@ -536,46 +723,82 @@ pattern("JS○", 1, "S").
 pattern("JS○", 2, "○").
 total_patterns_ub("全員","JS○", 49).
 total_patterns_lb("全員","JS○", 38).
-patterns("○JS○", "○JS○").
-pattern("○JS○", 4).
-pattern("○JS○", 0, "○").
-pattern("○JS○", 1, "J").
-pattern("○JS○", 2, "S").
-pattern("○JS○", 3, "○").
-total_patterns_ub("全員","○JS○", 10).
-total_patterns_lb("全員","○JS○", 6).
-patterns("NJS○", "NJS○").
-pattern("NJS○", 4).
-pattern("NJS○", 0, "N").
-pattern("NJS○", 1, "J").
-pattern("NJS○", 2, "S").
-pattern("NJS○", 3, "○").
-total_patterns_ub("全員","NJS○", 22).
-total_patterns_lb("全員","NJS○", 13).
-patterns("JS○○", "JS○○").
-pattern("JS○○", 4).
-pattern("JS○○", 0, "J").
-pattern("JS○○", 1, "S").
-pattern("JS○○", 2, "○").
-pattern("JS○○", 3, "○").
-total_patterns_ub("全員","JS○○", 13).
-total_patterns_lb("全員","JS○○", 9).
-patterns("JS○J", "JS○J").
-pattern("JS○J", 4).
-pattern("JS○J", 0, "J").
-pattern("JS○J", 1, "S").
-pattern("JS○J", 2, "○").
-pattern("JS○J", 3, "J").
-total_patterns_ub("全員","JS○J", 5).
-total_patterns_lb("全員","JS○J", 3).
-patterns("○日日○", "○日日○").
-pattern("○日日○", 4).
-pattern("○日日○", 0, "○").
-pattern("○日日○", 1, "日").
-pattern("○日日○", 2, "日").
-pattern("○日日○", 3, "○").
-total_patterns_ub("全員","○日日○", 4).
-total_patterns_lb("全員","○日日○", 2).
+patterns("○NJ", "○NJ").
+pattern("○NJ", 3).
+pattern("○NJ", 0, "○").
+pattern("○NJ", 1, "N").
+pattern("○NJ", 2, "J").
+total_patterns_ub("全員","○NJ", 21).
+total_patterns_lb("全員","○NJ", 14).
+patterns("○○N", "○○N").
+pattern("○○N", 3).
+pattern("○○N", 0, "○").
+pattern("○○N", 1, "○").
+pattern("○○N", 2, "N").
+total_patterns_ub("全員","○○N", 12).
+total_patterns_lb("全員","○○N", 11).
+patterns("○○J", "○○J").
+pattern("○○J", 3).
+pattern("○○J", 0, "○").
+pattern("○○J", 1, "○").
+pattern("○○J", 2, "J").
+total_patterns_ub("全員","○○J", 4).
+total_patterns_lb("全員","○○J", 3).
+patterns("日NJ", "日NJ").
+pattern("日NJ", 3).
+pattern("日NJ", 0, "日").
+pattern("日NJ", 1, "N").
+pattern("日NJ", 2, "J").
+total_patterns_ub("全員","日NJ", 5).
+total_patterns_lb("全員","日NJ", 3).
+patterns("日N○", "日N○").
+pattern("日N○", 3).
+pattern("日N○", 0, "日").
+pattern("日N○", 1, "N").
+pattern("日N○", 2, "○").
+total_patterns_ub("全員","日N○", 4).
+total_patterns_lb("全員","日N○", 2).
+
+% patterns("○JS○", "○JS○").
+% pattern("○JS○", 4).
+% pattern("○JS○", 0, "○").
+% pattern("○JS○", 1, "J").
+% pattern("○JS○", 2, "S").
+% pattern("○JS○", 3, "○").
+% total_patterns_ub("全員","○JS○", 10).
+% total_patterns_lb("全員","○JS○", 6).
+% patterns("NJS○", "NJS○").
+% pattern("NJS○", 4).
+% pattern("NJS○", 0, "N").
+% pattern("NJS○", 1, "J").
+% pattern("NJS○", 2, "S").
+% pattern("NJS○", 3, "○").
+% total_patterns_ub("全員","NJS○", 22).
+% total_patterns_lb("全員","NJS○", 13).
+% patterns("JS○○", "JS○○").
+% pattern("JS○○", 4).
+% pattern("JS○○", 0, "J").
+% pattern("JS○○", 1, "S").
+% pattern("JS○○", 2, "○").
+% pattern("JS○○", 3, "○").
+% total_patterns_ub("全員","JS○○", 13).
+% total_patterns_lb("全員","JS○○", 9).
+% patterns("JS○J", "JS○J").
+% pattern("JS○J", 4).
+% pattern("JS○J", 0, "J").
+% pattern("JS○J", 1, "S").
+% pattern("JS○J", 2, "○").
+% pattern("JS○J", 3, "J").
+% total_patterns_ub("全員","JS○J", 5).
+% total_patterns_lb("全員","JS○J", 3).
+% patterns("○日日○", "○日日○").
+% pattern("○日日○", 4).
+% pattern("○日日○", 0, "○").
+% pattern("○日日○", 1, "日").
+% pattern("○日日○", 2, "日").
+% pattern("○日日○", 3, "○").
+% total_patterns_ub("全員","○日日○", 4).
+% total_patterns_lb("全員","○日日○", 2).
 % patterns("日○日日", "日○日日").
 % pattern("日○日日", 4).
 % pattern("日○日日", 0, "日").
@@ -592,83 +815,115 @@ total_patterns_lb("全員","○日日○", 2).
 % pattern("日日○日", 3, "日").
 % total_patterns_ub("全員","日日○日", 4).
 % total_patterns_lb("全員","日日○日", 1).
-patterns("JS○日", "JS○日").
-pattern("JS○日", 4).
-pattern("JS○日", 0, "J").
-pattern("JS○日", 1, "S").
-pattern("JS○日", 2, "○").
-pattern("JS○日", 3, "日").
-total_patterns_ub("全員","JS○日", 8).
-total_patterns_lb("全員","JS○日", 6).
-patterns("NJSJ", "NJSJ").
-pattern("NJSJ", 4).
-pattern("NJSJ", 0, "N").
-pattern("NJSJ", 1, "J").
-pattern("NJSJ", 2, "S").
-pattern("NJSJ", 3, "J").
-total_patterns_ub("全員","NJSJ", 5).
-total_patterns_lb("全員","NJSJ", 3).
-patterns("○○日日", "○○日日").
-pattern("○○日日", 4).
-pattern("○○日日", 0, "○").
-pattern("○○日日", 1, "○").
-pattern("○○日日", 2, "日").
-pattern("○○日日", 3, "日").
-total_patterns_ub("全員","○○日日", 6).
-total_patterns_lb("全員","○○日日", 4).
-patterns("日S○○", "日S○○").
-pattern("日S○○", 4).
-pattern("日S○○", 0, "日").
-pattern("日S○○", 1, "S").
-pattern("日S○○", 2, "○").
-pattern("日S○○", 3, "○").
-total_patterns_ub("全員","日S○○", 0).
-total_patterns_lb("全員","日S○○", 0).
-patterns("○NJS○", "○NJS○").
-pattern("○NJS○", 5).
-pattern("○NJS○", 0, "○").
-pattern("○NJS○", 1, "N").
-pattern("○NJS○", 2, "J").
-pattern("○NJS○", 3, "S").
-pattern("○NJS○", 4, "○").
-total_patterns_ub("全員","○NJS○", 14).
-total_patterns_lb("全員","○NJS○", 7).
-patterns("○日JS○", "○日JS○").
-pattern("○日JS○", 5).
-pattern("○日JS○", 0, "○").
-pattern("○日JS○", 1, "日").
-pattern("○日JS○", 2, "J").
-pattern("○日JS○", 3, "S").
-pattern("○日JS○", 4, "○").
-total_patterns_ub("全員","○日JS○", 3).
-total_patterns_lb("全員","○日JS○", 1).
-patterns("JS○JS", "JS○JS").
-pattern("JS○JS", 5).
-pattern("JS○JS", 0, "J").
-pattern("JS○JS", 1, "S").
-pattern("JS○JS", 2, "○").
-pattern("JS○JS", 3, "J").
-pattern("JS○JS", 4, "S").
-total_patterns_ub("全員","JS○JS", 5).
-total_patterns_lb("全員","JS○JS", 3).
-patterns("JSJSJ", "JSJSJ").
-pattern("JSJSJ", 5).
-pattern("JSJSJ", 0, "J").
-pattern("JSJSJ", 1, "S").
-pattern("JSJSJ", 2, "J").
-pattern("JSJSJ", 3, "S").
-pattern("JSJSJ", 4, "J").
-total_patterns_ub("全員","JSJSJ", 0).
-total_patterns_lb("全員","JSJSJ", 0).
-patterns("SJSJS", "SJSJS").
-pattern("SJSJS", 5).
-pattern("SJSJS", 0, "S").
-pattern("SJSJS", 1, "J").
-pattern("SJSJS", 2, "S").
-pattern("SJSJS", 3, "J").
-pattern("SJSJS", 4, "S").
-total_patterns_ub("全員","SJSJS", 0).
-total_patterns_lb("全員","SJSJS", 0).
+% patterns("JS○日", "JS○日").
+% pattern("JS○日", 4).
+% pattern("JS○日", 0, "J").
+% pattern("JS○日", 1, "S").
+% pattern("JS○日", 2, "○").
+% pattern("JS○日", 3, "日").
+% total_patterns_ub("全員","JS○日", 8).
+% total_patterns_lb("全員","JS○日", 6).
+% patterns("JS○★", "JS○★").
+% pattern("JS○★", 4).
+% pattern("JS○★", 0, "J").
+% pattern("JS○★", 1, "S").
+% pattern("JS○★", 2, "○").
+% pattern("JS○★", 3, "★").
+% total_patterns_ub("全員","JS○★", 1).
+% total_patterns_lb("全員","JS○★", 0).
+% patterns("S○★☆", "S○★☆").
+% pattern("S○★☆", 4).
+% pattern("S○★☆", 0, "J").
+% pattern("S○★☆", 1, "S").
+% pattern("S○★☆", 2, "★").
+% pattern("S○★☆", 3, "☆").
+% total_patterns_ub("全員","S○★☆", 1).
+% total_patterns_lb("全員","S○★☆", 0).
+% patterns("★☆○日", "★☆○日").
+% pattern("★☆○日", 4).
+% pattern("★☆○日", 0, "★").
+% pattern("★☆○日", 1, "☆").
+% pattern("★☆○日", 2, "○").
+% pattern("★☆○日", 3, "日").
+% total_patterns_ub("全員","★☆○日", 1).
+% total_patterns_lb("全員","★☆○日", 0).
+% patterns("日○N○", "日○N○").
+% pattern("日○N○", 4).
+% pattern("日○N○", 0, "日").
+% pattern("日○N○", 1, "○").
+% pattern("日○N○", 2, "N").
+% pattern("日○N○", 3, "○").
+% total_patterns_ub("全員","日○N○", 1).
+% total_patterns_lb("全員","日○N○", 0).
+% patterns("NJSJ", "NJSJ").
+% pattern("NJSJ", 4).
+% pattern("NJSJ", 0, "N").
+% pattern("NJSJ", 1, "J").
+% pattern("NJSJ", 2, "S").
+% pattern("NJSJ", 3, "J").
+% total_patterns_ub("全員","NJSJ", 5).
+% total_patterns_lb("全員","NJSJ", 3).
+% patterns("○○日日", "○○日日").
+% pattern("○○日日", 4).
+% pattern("○○日日", 0, "○").
+% pattern("○○日日", 1, "○").
+% pattern("○○日日", 2, "日").
+% pattern("○○日日", 3, "日").
+% total_patterns_ub("全員","○○日日", 6).
+% total_patterns_lb("全員","○○日日", 4).
+% patterns("日S○○", "日S○○").
+% pattern("日S○○", 4).
+% pattern("日S○○", 0, "日").
+% pattern("日S○○", 1, "S").
+% pattern("日S○○", 2, "○").
+% pattern("日S○○", 3, "○").
+% total_patterns_ub("全員","日S○○", 0).
+% total_patterns_lb("全員","日S○○", 0).
+% patterns("○NJS○", "○NJS○").
+% pattern("○NJS○", 5).
+% pattern("○NJS○", 0, "○").
+% pattern("○NJS○", 1, "N").
+% pattern("○NJS○", 2, "J").
+% pattern("○NJS○", 3, "S").
+% pattern("○NJS○", 4, "○").
+% total_patterns_ub("全員","○NJS○", 14).
+% total_patterns_lb("全員","○NJS○", 7).
+% patterns("○日JS○", "○日JS○").
+% pattern("○日JS○", 5).
+% pattern("○日JS○", 0, "○").
+% pattern("○日JS○", 1, "日").
+% pattern("○日JS○", 2, "J").
+% pattern("○日JS○", 3, "S").
+% pattern("○日JS○", 4, "○").
+% total_patterns_ub("全員","○日JS○", 3).
+% total_patterns_lb("全員","○日JS○", 1).
+% patterns("JS○JS", "JS○JS").
+% pattern("JS○JS", 5).
+% pattern("JS○JS", 0, "J").
+% pattern("JS○JS", 1, "S").
+% pattern("JS○JS", 2, "○").
+% pattern("JS○JS", 3, "J").
+% pattern("JS○JS", 4, "S").
+% total_patterns_ub("全員","JS○JS", 5).
+% total_patterns_lb("全員","JS○JS", 3).
+% patterns("JSJSJ", "JSJSJ").
+% pattern("JSJSJ", 5).
+% pattern("JSJSJ", 0, "J").
+% pattern("JSJSJ", 1, "S").
+% pattern("JSJSJ", 2, "J").
+% pattern("JSJSJ", 3, "S").
+% pattern("JSJSJ", 4, "J").
+% total_patterns_ub("全員","JSJSJ", 0).
+% total_patterns_lb("全員","JSJSJ", 0).
+% patterns("SJSJS", "SJSJS").
+% pattern("SJSJS", 5).
+% pattern("SJSJS", 0, "S").
+% pattern("SJSJS", 1, "J").
+% pattern("SJSJS", 2, "S").
+% pattern("SJSJS", 3, "J").
+% pattern("SJSJS", 4, "S").
+% total_patterns_ub("全員","SJSJS", 0).
+% total_patterns_lb("全員","SJSJS", 0).
 % patterns("日日○日日", "日日○日日").
 % pattern("日日○日日", 5).
 % pattern("日日○日日", 0, "日").
@@ -678,24 +933,24 @@ total_patterns_lb("全員","SJSJS", 0).
 % pattern("日日○日日", 4, "日").
 % total_patterns_ub("全員","日日○日日", 2).
 % total_patterns_lb("全員","日日○日日", 1).
-patterns("○○日日日", "○○日日日").
-pattern("○○日日日", 5).
-pattern("○○日日日", 0, "○").
-pattern("○○日日日", 1, "○").
-pattern("○○日日日", 2, "日").
-pattern("○○日日日", 3, "日").
-pattern("○○日日日", 4, "日").
-total_patterns_ub("全員","○○日日日", 4).
-total_patterns_lb("全員","○○日日日", 2).
-patterns("NNJS○", "NNJS○").
-pattern("NNJS○", 5).
-pattern("NNJS○", 0, "N").
-pattern("NNJS○", 1, "N").
-pattern("NNJS○", 2, "J").
-pattern("NNJS○", 3, "S").
-pattern("NNJS○", 4, "○").
-total_patterns_ub("全員","NNJS○", 3).
-total_patterns_lb("全員","NNJS○", 2).
+% patterns("○○日日日", "○○日日日").
+% pattern("○○日日日", 5).
+% pattern("○○日日日", 0, "○").
+% pattern("○○日日日", 1, "○").
+% pattern("○○日日日", 2, "日").
+% pattern("○○日日日", 3, "日").
+% pattern("○○日日日", 4, "日").
+% total_patterns_ub("全員","○○日日日", 4).
+% total_patterns_lb("全員","○○日日日", 2).
+% patterns("NNJS○", "NNJS○").
+% pattern("NNJS○", 5).
+% pattern("NNJS○", 0, "N").
+% pattern("NNJS○", 1, "N").
+% pattern("NNJS○", 2, "J").
+% pattern("NNJS○", 3, "S").
+% pattern("NNJS○", 4, "○").
+% total_patterns_ub("全員","NNJS○", 3).
+% total_patterns_lb("全員","NNJS○", 2).
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%(追加部ここまで)%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -811,7 +1066,7 @@ shifts("日", "日").
 staff_dweek_hard_lb("全員", "日", "平日", 0).
 staff_dweek_hard_lb("全員", "日", "土日", 0).
 staff_dweek_hard_lb("全員", "日", "祝日", 0).
-staff_dweek_soft_lb("全員", "日", "平日", 3).
+staff_dweek_soft_lb("全員", "日", "平日", 2).
 staff_dweek_soft_lb("全員", "日", "土日", 0).
 staff_dweek_soft_lb("全員", "日", "祝日", 0).
 staff_dweek_soft_ub("全員", "日", "平日", 7).
