@@ -1,54 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-Identify "grams to fix" by comparing frequency/probability distributions between:
-  - MANUAL (past shifts) across half-year periods
-  - AUTO   (found-model)
-
-For each n-gram (n=1..N), output top-K grams sorted by:
-  diff = distance from AUTO prob to MANUAL IQR [Q1, Q3]
-    - if p_auto in [Q1,Q3] => diff = 0
-    - else diff = min(|p_auto-Q1|, |p_auto-Q3|)
-
-Output columns (CSV):
-  n, gram,
-  base_gram_mean_count, found_gram_count,
-  manual_q1_q3, manual_median, found_prob, diff_from_iqr
-
-Where:
-  - base_gram_mean_count =
-      MANUAL(past-shifts) の半期あたり平均出現回数
-      = (Σ period_count(gram)) / (#periods where total_ngrams>0)
-    ※ total_ngrams==0 の半期は「その半期に n-gram が存在しない」ので平均の分母から除外。
-
-Buckets:
-  - Heads / NonHeads (+Unknown)
-    * MANUAL: heads_name exact match (case-insensitive) in group set
-      Unknown => NonHeads
-    * AUTO(found): heads_name exact match OR group name contains "head"/"師長"/"主任" => Heads
-
-Note:
-  - MANUAL IQR is computed across ALL half-year periods from start_year..end_year,
-    including zero probability for a gram in a period where that period has any grams.
-
-Print formatting:
-  - Stdout uses fixed-width columns (no tab) to avoid broken alignment.
-  - Stdout can use ASCII "-" via --print-ascii-dash (recommended if terminal width issues).
-  - Stdout gram column width can be adjusted by --print-gram-width.
-  - --print-full-gram shows full gram (no truncation); may wrap.
-
-★変更（今回の要望）:
-  - found_loader が内部で出す ignored-ids のログが「n ごとに何回も出る」問題に対応
-    -> このスクリプト側で found-model をキャッシュし、loader の print を抑制
-    -> 代わりに ignored-ids 適用ログは「全体で1回だけ」出す
-
-★追加（今回）:
-  - foundmodel 側に集計期間指定を追加（--date-from / --date-to, YYYYMMDD, 両端含む）
-  - 期間でフィルタした結果、日付が連続しない部分は別セグメントとして扱い、
-    n-gram がギャップを跨がないようにする（ngram_found_shifts_group.py と同等）
-"""
-
 import os
 import sys
 import argparse
@@ -164,7 +113,9 @@ def build_segments_for_person(
     return segs
 
 
-def prebuild_all_segments(seqs: SeqDict, timeline: dict) -> Dict[PersonKey, List[Segment]]:
+def prebuild_all_segments(
+    seqs: SeqDict, timeline: dict
+) -> Dict[PersonKey, List[Segment]]:
     out: Dict[PersonKey, List[Segment]] = {}
     for (nid, name), seq in seqs.items():
         out[(nid, name)] = build_segments_for_person(seq, name, nid, timeline)
@@ -189,13 +140,15 @@ def count_ngrams_heads_nonheads_in_range(
         for seg in segs:
             is_heads = group_set_contains(seg.groups, heads_name)
 
-            sseq = [(d, s) for (d, s) in seg.seq if within_range(d, date_start, date_end)]
+            sseq = [
+                (d, s) for (d, s) in seg.seq if within_range(d, date_start, date_end)
+            ]
             if len(sseq) < n:
                 continue
 
             shifts = [s for _, s in sseq]
             for i in range(len(shifts) - n + 1):
-                gram = tuple(shifts[i:i + n])
+                gram = tuple(shifts[i : i + n])
                 if any(x not in VALID_SHIFTS for x in gram):
                     continue
                 if is_heads:
@@ -334,7 +287,9 @@ def collect_found_entries(found_path: str) -> List[Tuple[str, List[str]]]:
     if entries:
         return entries
 
-    cand = sorted(glob.glob(os.path.join(found_path, "**", "found-model*.lp"), recursive=True))
+    cand = sorted(
+        glob.glob(os.path.join(found_path, "**", "found-model*.lp"), recursive=True)
+    )
     if not cand:
         cand = sorted(glob.glob(os.path.join(found_path, "**", "*.lp"), recursive=True))
     if not cand:
@@ -354,7 +309,9 @@ def collect_found_entries(found_path: str) -> List[Tuple[str, List[str]]]:
 # -----------------------------
 # found-model caching + single log
 # -----------------------------
-_FOUND_CACHE: Dict[str, Tuple[Dict[int, List[Tuple[int, str]]], Dict[int, Set[str]]]] = {}
+_FOUND_CACHE: Dict[
+    str, Tuple[Dict[int, List[Tuple[int, str]]], Dict[int, Set[str]]]
+] = {}
 _PRINTED_IGNORE_LOG = False
 
 
@@ -365,7 +322,9 @@ def _suppress_stdout_call(fn, *args, **kwargs):
         return fn(*args, **kwargs)
 
 
-def load_found_model(path: str) -> Tuple[Dict[int, List[Tuple[int, str]]], Dict[int, Set[str]]]:
+def load_found_model(
+    path: str,
+) -> Tuple[Dict[int, List[Tuple[int, str]]], Dict[int, Set[str]]]:
     """
     foundmodel_data_loader を使って found-model.lp を読む（ignored-ids 対応）
 
@@ -381,11 +340,15 @@ def load_found_model(path: str) -> Tuple[Dict[int, List[Tuple[int, str]]], Dict[
         return _FOUND_CACHE[p]
 
     # 1) ignore無しで staff_info を作って ignored-ids 解決結果を取得（この関数は基本printしない）
-    _s0, _g0, info0 = _suppress_stdout_call(found_loader.load_found_model_ex, p, apply_ignore_ids=False)
+    _s0, _g0, info0 = _suppress_stdout_call(
+        found_loader.load_found_model_ex, p, apply_ignore_ids=False
+    )
     res = found_loader.get_ignored_resolution(p, info0, warn_unresolved=False)
 
     # 2) ignore適用版をロード（loaderのprintは抑制）
-    seqs_by_staff, groups_by_staff = _suppress_stdout_call(found_loader.load_found_model, p, apply_ignore_ids=True)
+    seqs_by_staff, groups_by_staff = _suppress_stdout_call(
+        found_loader.load_found_model, p, apply_ignore_ids=True
+    )
 
     # 3) ignored-ids の要約ログを「全体で1回だけ」出す
     if (not _PRINTED_IGNORE_LOG) and res.get("tokens"):
@@ -398,7 +361,9 @@ def load_found_model(path: str) -> Tuple[Dict[int, List[Tuple[int, str]]], Dict[
 
         resolved_str = "(none)"
         if resolved_pairs:
-            resolved_str = ", ".join([f"{r.get('token','')}->{r.get('staff_id','')}" for r in resolved_pairs])
+            resolved_str = ", ".join(
+                [f"{r.get('token','')}->{r.get('staff_id','')}" for r in resolved_pairs]
+            )
 
         print(
             "# [found_loader] ignored-ids applied: "
@@ -437,7 +402,9 @@ def count_ngrams_found_heads_nonheads(
                 continue
 
             seq_sorted = sorted(seq, key=lambda t: t[0])
-            segments = filter_and_split_by_consecutive_days(seq_sorted, date_from, date_to)
+            segments = filter_and_split_by_consecutive_days(
+                seq_sorted, date_from, date_to
+            )
 
             bucket = bucket_found(groups_by_staff.get(sid, set()), heads_name)
 
@@ -445,7 +412,7 @@ def count_ngrams_found_heads_nonheads(
                 if len(shifts) < n:
                     continue
                 for i in range(len(shifts) - n + 1):
-                    gram = tuple(shifts[i:i + n])
+                    gram = tuple(shifts[i : i + n])
                     if any(x not in VALID_SHIFTS for x in gram):
                         continue
                     if bucket == "Heads":
@@ -462,8 +429,8 @@ def count_ngrams_found_heads_nonheads(
 def make_halfyear_periods(start_year: int, end_year: int) -> List[Tuple[str, int, int]]:
     periods: List[Tuple[str, int, int]] = []
     for y in range(start_year, end_year + 1):
-        periods.append((f"{y}H1", y * 10000 + 101,  y * 10000 + 630))
-        periods.append((f"{y}H2", y * 10000 + 701,  y * 10000 + 1231))
+        periods.append((f"{y}H1", y * 10000 + 101, y * 10000 + 630))
+        periods.append((f"{y}H2", y * 10000 + 701, y * 10000 + 1231))
     return periods
 
 
@@ -587,36 +554,56 @@ def main():
     ap.add_argument("past_shifts", help="past-shifts *.lp (ward file)")
     ap.add_argument("group_settings", help="group-settings dir (ward/)")
     ap.add_argument("found_path", help="found dir OR found-model.lp")
-    ap.add_argument("--start-year", type=int, default=2019)
-    ap.add_argument("--end-year", type=int, default=2025)
+    ap.add_argument("--pstart-year", type=int, default=2019)
+    ap.add_argument("--pend-year", type=int, default=2025)
     ap.add_argument("--nmin", type=int, default=1)
     ap.add_argument("--nmax", type=int, default=5)
     ap.add_argument("--heads-name", default="Heads")
     ap.add_argument("--topk", type=int, default=10)
     ap.add_argument("--outdir", default="out/gram_fix_candidates_freqdist")
-    ap.add_argument("--only-nonheads", action="store_true", help="output only NonHeads(+Unknown)")
-    ap.add_argument("--print", dest="do_print", action="store_true", help="print topK to stdout")
+    ap.add_argument(
+        "--only-nonheads", action="store_true", help="output only NonHeads(+Unknown)"
+    )
+    ap.add_argument(
+        "--print", dest="do_print", action="store_true", help="print topK to stdout"
+    )
 
     # ---- print formatting options
-    ap.add_argument("--print-gram-width", type=int, default=28,
-                    help="stdout gram column width (ignored if --print-full-gram)")
-    ap.add_argument("--print-full-gram", action="store_true",
-                    help="do not truncate gram in stdout (may wrap)")
-    ap.add_argument("--print-ascii-dash", action="store_true",
-                    help="use ASCII '-' instead of '–' in stdout (CSV stays with '–')")
+    ap.add_argument(
+        "--print-gram-width",
+        type=int,
+        default=28,
+        help="stdout gram column width (ignored if --print-full-gram)",
+    )
+    ap.add_argument(
+        "--print-full-gram",
+        action="store_true",
+        help="do not truncate gram in stdout (may wrap)",
+    )
+    ap.add_argument(
+        "--print-ascii-dash",
+        action="store_true",
+        help="use ASCII '-' instead of '–' in stdout (CSV stays with '–')",
+    )
 
     # ★追加: foundmodel側の期間指定
-    ap.add_argument("--date-from", default=None,
-                    help="found集計期間の開始日（YYYYMMDD, 例: 20241101）")
-    ap.add_argument("--date-to", default=None,
-                    help="found集計期間の終了日（YYYYMMDD, 例: 20241130）")
+    ap.add_argument(
+        "--fdate-from",
+        default=None,
+        help="found集計期間の開始日（YYYYMMDD, 例: 20241101）",
+    )
+    ap.add_argument(
+        "--fdate-to",
+        default=None,
+        help="found集計期間の終了日（YYYYMMDD, 例: 20241130）",
+    )
 
     args = ap.parse_args()
 
     ensure_dir(args.outdir)
 
-    if args.start_year > args.end_year:
-        raise ValueError("--start-year must be <= --end-year")
+    if args.pstart_year > args.pend_year:
+        raise ValueError("--pstart-year must be <= --pend-year")
     if args.nmin <= 0 or args.nmax <= 0 or args.nmin > args.nmax:
         raise ValueError("--nmin/--nmax must satisfy 1 <= nmin <= nmax")
     if args.topk <= 0:
@@ -632,10 +619,12 @@ def main():
         raise FileNotFoundError(f"No found-model lp found under: {args.found_path}")
 
     # ★追加: found期間（int化）
-    date_from = parse_yyyymmdd(args.date_from)
-    date_to = parse_yyyymmdd(args.date_to)
+    date_from = parse_yyyymmdd(args.fdate_from)
+    date_to = parse_yyyymmdd(args.fdate_to)
     if date_from is not None and date_to is not None and date_to < date_from:
-        raise ValueError(f"--date-to must be >= --date-from (from={date_from}, to={date_to})")
+        raise ValueError(
+            f"--date-to must be >= --date-from (from={date_from}, to={date_to})"
+        )
 
     # ---- load MANUAL
     seqs = data_loader.load_past_shifts(args.past_shifts)
@@ -643,7 +632,7 @@ def main():
     segs_by_person = prebuild_all_segments(seqs, timeline)
 
     # ---- periods
-    periods = make_halfyear_periods(args.start_year, args.end_year)
+    periods = make_halfyear_periods(args.pstart_year, args.pend_year)
     if not periods:
         raise RuntimeError("No half-year periods generated.")
 
@@ -659,10 +648,14 @@ def main():
         "NonHeads": {n: [] for n in ns},
     }
 
-    for (_pkey, d1, d2) in periods:
+    for _pkey, d1, d2 in periods:
         for n in ns:
             h_c, nh_c = count_ngrams_heads_nonheads_in_range(
-                segs_by_person, n=n, heads_name=args.heads_name, date_start=d1, date_end=d2
+                segs_by_person,
+                n=n,
+                heads_name=args.heads_name,
+                date_start=d1,
+                date_end=d2,
             )
             manual_counts["Heads"][n].append(h_c)
             manual_counts["NonHeads"][n].append(nh_c)
@@ -676,16 +669,20 @@ def main():
         for n in ns:
             # ★ここだけ変更: found側は期間指定 + 連続日付分割で数える
             h_f, nh_f = count_ngrams_found_heads_nonheads(
-                found_files, n=n, heads_name=args.heads_name, date_from=date_from, date_to=date_to
+                found_files,
+                n=n,
+                heads_name=args.heads_name,
+                date_from=date_from,
+                date_to=date_to,
             )
             auto_counts_by_n[n] = {"Heads": h_f, "NonHeads": nh_f}
             auto_totals_by_n[n] = {
                 "Heads": int(sum(h_f.values())),
-                "NonHeads": int(sum(nh_f.values()))
+                "NonHeads": int(sum(nh_f.values())),
             }
 
         # ---- produce reports for each bucket
-        for bucket in (["NonHeads"] if args.only_nonheads else ["Heads", "NonHeads"]):
+        for bucket in ["NonHeads"] if args.only_nonheads else ["Heads", "NonHeads"]:
             for n in ns:
                 # Build vocab = union of MANUAL grams across all periods + AUTO grams
                 vocab: Set[Gram] = set()
@@ -694,16 +691,23 @@ def main():
                 vocab.update(auto_counts_by_n[n][bucket].keys())
 
                 out_csv = os.path.join(
-                    args.outdir,
-                    f"fix_candidates_{bucket}_found-{found_label}_n{n}.csv"
+                    args.outdir, f"fix_candidates_{bucket}_found-{found_label}_n{n}.csv"
                 )
 
                 if not vocab:
                     write_csv(
                         out_csv,
-                        ["n", "gram", "base_gram_mean_count", "found_gram_count",
-                         "manual_q1_q3", "manual_median", "found_prob", "diff_from_iqr"],
-                        []
+                        [
+                            "n",
+                            "gram",
+                            "base_gram_mean_count",
+                            "found_gram_count",
+                            "manual_q1_q3",
+                            "manual_median",
+                            "found_prob",
+                            "diff_from_iqr",
+                        ],
+                        [],
                     )
                     if args.do_print:
                         print(f"\n# {bucket} / FOUND={found_label} / n={n}: (no grams)")
@@ -711,7 +715,9 @@ def main():
                     continue
 
                 # Valid period count for "base mean count":
-                valid_periods = sum(1 for denom in manual_totals[bucket][n] if denom > 0)
+                valid_periods = sum(
+                    1 for denom in manual_totals[bucket][n] if denom > 0
+                )
                 if valid_periods <= 0:
                     valid_periods = 1
 
@@ -728,14 +734,19 @@ def main():
                 auto_total = auto_totals_by_n[n][bucket]
                 auto_counter = auto_counts_by_n[n][bucket]
                 if auto_total <= 0:
+
                     def auto_prob(g: Gram) -> float:
                         return 0.0
+
                 else:
+
                     def auto_prob(g: Gram) -> float:
                         return auto_counter.get(g, 0) / float(auto_total)
 
                 # Score each gram
-                rows_scored: List[Tuple[float, float, float, float, Gram, float, float, float, int]] = []
+                rows_scored: List[
+                    Tuple[float, float, float, float, Gram, float, float, float, int]
+                ] = []
 
                 for g, probs in manual_probs_by_gram.items():
                     if not probs:
@@ -756,45 +767,91 @@ def main():
 
                     found_cnt = int(auto_counter.get(g, 0))
 
-                    rows_scored.append((diff, p_auto, med, span, g, q1, q3, base_mean_cnt, found_cnt))
+                    rows_scored.append(
+                        (diff, p_auto, med, span, g, q1, q3, base_mean_cnt, found_cnt)
+                    )
 
                 rows_scored.sort(key=lambda t: (t[0], t[1], t[2], t[3]), reverse=True)
 
-                top = rows_scored[:args.topk]
+                top = rows_scored[: args.topk]
 
                 csv_rows: List[List[str]] = []
-                for diff, p_auto, med, _span, g, q1, q3, base_mean_cnt, found_cnt in top:
-                    csv_rows.append([
-                        str(n),
-                        gram_to_str(g),
-                        f"{base_mean_cnt:.6f}",
-                        str(found_cnt),
-                        f"{q1:.6f}–{q3:.6f}",
-                        f"{med:.6f}",
-                        f"{p_auto:.6f}",
-                        f"{diff:.6f}",
-                    ])
+                for (
+                    diff,
+                    p_auto,
+                    med,
+                    _span,
+                    g,
+                    q1,
+                    q3,
+                    base_mean_cnt,
+                    found_cnt,
+                ) in top:
+                    csv_rows.append(
+                        [
+                            str(n),
+                            gram_to_str(g),
+                            f"{base_mean_cnt:.6f}",
+                            str(found_cnt),
+                            f"{q1:.6f}–{q3:.6f}",
+                            f"{med:.6f}",
+                            f"{p_auto:.6f}",
+                            f"{diff:.6f}",
+                        ]
+                    )
 
                 write_csv(
                     out_csv,
-                    ["n", "gram", "base_gram_mean_count", "found_gram_count",
-                     "manual_q1_q3", "manual_median", "found_prob", "diff_from_iqr"],
-                    csv_rows
+                    [
+                        "n",
+                        "gram",
+                        "base_gram_mean_count",
+                        "found_gram_count",
+                        "manual_q1_q3",
+                        "manual_median",
+                        "found_prob",
+                        "diff_from_iqr",
+                    ],
+                    csv_rows,
                 )
 
                 if args.do_print:
                     dash_ascii = bool(args.print_ascii_dash)
                     gram_width = int(args.print_gram_width)
 
-                    table_rows: List[Tuple[int, str, float, int, str, float, float]] = []
-                    for i, (diff, p_auto, _med, _span, g, q1, q3, base_mean_cnt, found_cnt) in enumerate(top, start=1):
+                    table_rows: List[Tuple[int, str, float, int, str, float, float]] = (
+                        []
+                    )
+                    for i, (
+                        diff,
+                        p_auto,
+                        _med,
+                        _span,
+                        g,
+                        q1,
+                        q3,
+                        base_mean_cnt,
+                        found_cnt,
+                    ) in enumerate(top, start=1):
                         gram_str = gram_to_str(g)
                         iqr_str = _fmt_iqr(q1, q3, ascii_dash=dash_ascii)
-                        table_rows.append((i, gram_str, base_mean_cnt, found_cnt, iqr_str, p_auto, diff))
+                        table_rows.append(
+                            (
+                                i,
+                                gram_str,
+                                base_mean_cnt,
+                                found_cnt,
+                                iqr_str,
+                                p_auto,
+                                diff,
+                            )
+                        )
 
                     # 期間情報も一応見えるように（print時だけ）
                     if date_from is not None or date_to is not None:
-                        print(f"\n# [AUTO Period] {date_from or 'MIN'} .. {date_to or 'MAX'} (YYYYMMDD)")
+                        print(
+                            f"\n# [AUTO Period] {date_from or 'MIN'} .. {date_to or 'MAX'} (YYYYMMDD)"
+                        )
 
                     print_table(
                         table_rows,

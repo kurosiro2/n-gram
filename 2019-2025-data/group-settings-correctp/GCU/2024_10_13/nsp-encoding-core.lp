@@ -263,6 +263,7 @@ penalty(succ_shift(N, DD, S), table(N, D), PNL, PRI) :-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % 勤務表全体でのシフト回数に関する制約
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 % ある勤務シフトの回数（全体）
 total_shifts_count(G, SS, X) :-
     group(G, _),
@@ -270,7 +271,7 @@ total_shifts_count(G, SS, X) :-
     X = #count { N,D,S :
         ext_assigned(N, D, S),
         shifts(SS, S),
-        date(D),
+        base_date(D),     
         group(G, N)
     }.
 
@@ -282,14 +283,13 @@ penalty(total_shifts_ub(G, SS, UB, X), SS, PNL * (X - UB) * (X - UB), PRI) :-
     _penalty("total_shifts_ub", PNL),
     _priority("total_shifts_ub", PRI).
 
-% 下限 
+% 下限
 penalty(total_shifts_lb(G, SS, LB, X), SS, PNL * (LB - X) * (LB - X), PRI) :-
     total_shifts_lb(G, SS, LB),
     total_shifts_count(G, SS, X),
     X < LB,
     _penalty("total_shifts_lb", PNL),
     _priority("total_shifts_lb", PRI).
-
 
 
 
@@ -340,27 +340,6 @@ isolated_weekly_holiday(N, D+1) :-
 penalty(isolated_weekly_holiday(N, FD), table(N, D), PNL, PRI) :-
     isolated_weekly_holiday(N, D), date2fulldate(D, FD), not allow_isolated_weekly_holiday,
     _penalty("isolated_weekly_holiday", PNL), _priority("isolated_weekly_holiday", PRI).
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% ある勤務パターンの次の日のシフトに関する制約（prefix=2)		
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% prefix2_next
-pref2_next(N,D,S1,S2,S3) :-
-    staff(N),date(D+2),
-    ext_assigned(N,D,S1),
-    ext_assigned(N,D+1,S2),
-    ext_assigned(N,D+2,S3).
-
-% ある勤務パターンの次の日（prefix=2)
-penalty(invalid_pref2_next(N, FD, S1, S2, S3), table(N, D2), PNL, PRI) :-
-    valid_pref2_next(S1, S2, S_valid),
-    pref2_next(N, D, S1, S2, S3),
-    S3 != S_valid,
-    D2 = D+2, date2fulldate(D2, FD),
-    _penalty("invalid_pref2_next", PNL), _priority("invalid_pref2_next", PRI).
-
 
 
 

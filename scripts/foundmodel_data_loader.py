@@ -1,53 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-found-model 読み込み専用ローダ（ignored-ids 対応 + staff(...) 読み込み）
-
-読む:
-  - ext_assigned(staff_id, day, "SHIFT").
-  - out_assigned(staff_id, yyyymmdd, "SHIFT").   # 3引数
-  - staff_group("GROUP", staff_id).
-  - group("GROUP", staff_id).
-  - staff(staff_id, "NAME", "ROLE", "NURSE_ID", POS).
-
-返す（拡張版 load_found_model_ex）:
-  - shifts_by_staff: { staff_id(int): [(day_or_date(int), shift(str)), ...] }  (day/date 昇順)
-  - groups_by_staff: { staff_id(int): set(groupname(str)) }
-  - staff_info_by_sid: { staff_id(int): {"name": str, "role": str, "nurse_id": str, "pos": str} }
-
-ignored-ids（★NURSE_ID 専用仕様）:
-  - found_path から病棟名を推定し、対応する ignored-ids/<病棟名>.txt を探す
-  - そこに書かれたトークンは **すべて NURSE_ID とみなす**
-      例:
-        0370418
-        0102025
-  - staff(...) の nurse_id -> staff_id を逆引きし、その staff_id を除外する
-  - staff_id としての互換解釈はしない（←今回の要望）
-
-★今回の変更点（あなたの環境に合わせて）
-  ignored-ids は found_path 近傍ではなく、固定位置にある：
-    /work/exp/2019-2025-data/ignored-ids/
-  …なので、このローダはデフォルトで
-    <このファイルの親ディレクトリ>/../2019-2025-data/ignored-ids
-  を見にいく。
-  さらに環境変数 IGNORED_IDS_DIR で上書き可能。
-
-ログ:
-  - ignore ディレクトリ / ファイルパス / tokens
-  - 解決された token->staff_id の一覧
-  - 解決できない token があれば WARNING
-
-注意:
-  - 日付の正規化（相対日→yyyymmdd等）はここではやらない（後段でやる）
-  - out_assigned(staff_id, yyyymmdd). (2引数) はパターン不一致なので無視される
-
-★変更（今回の要望）:
-  - デフォルトで unresolved nurse_id tokens の WARNING は出さない
-    （必要なら load_found_model_ex(..., warn_unresolved=True) で出せる）
-  - self-test の --show-ignored の WARNING も同様に、明示しない限り出さない
-"""
-
 from __future__ import annotations
 
 import os
@@ -320,23 +270,29 @@ def get_ignored_resolution(
     unresolved: List[str] = []
 
     if tokens:
-        ignore_sids, resolved_pairs, unresolved = _resolve_nurse_ids_to_staff_ids(tokens, staff_info_by_sid)
+        ignore_sids, resolved_pairs, unresolved = _resolve_nurse_ids_to_staff_ids(
+            tokens, staff_info_by_sid
+        )
 
     resolved_detailed = []
     for tok, sid in resolved_pairs:
         info = staff_info_by_sid.get(sid, {})
-        resolved_detailed.append({
-            "token": tok,
-            "staff_id": sid,
-            "nurse_id": info.get("nurse_id", ""),
-            "name": info.get("name", ""),
-            "role": info.get("role", ""),
-            "pos": info.get("pos", ""),
-        })
+        resolved_detailed.append(
+            {
+                "token": tok,
+                "staff_id": sid,
+                "nurse_id": info.get("nurse_id", ""),
+                "name": info.get("name", ""),
+                "role": info.get("role", ""),
+                "pos": info.get("pos", ""),
+            }
+        )
 
     if unresolved and warn_unresolved:
         # 表示用関数でも必要なら警告できる（デフォルトは静か）
-        print(f"# [found_loader] WARNING: unresolved nurse_id tokens (no matching staff(..., nurse_id, ...) in this model): {unresolved}")
+        print(
+            f"# [found_loader] WARNING: unresolved nurse_id tokens (no matching staff(..., nurse_id, ...) in this model): {unresolved}"
+        )
 
     return {
         "ignored_ids_dir": ignore_dir,
@@ -374,7 +330,9 @@ def load_found_model_ex(
         ignore_file, ward_name, ignore_dir, tokens = _load_ignore_tokens(path)
 
         if tokens:
-            ignore_sids, resolved_pairs, unresolved = _resolve_nurse_ids_to_staff_ids(tokens, staff_info_by_sid)
+            ignore_sids, resolved_pairs, unresolved = _resolve_nurse_ids_to_staff_ids(
+                tokens, staff_info_by_sid
+            )
 
             # ログ（原因追跡しやすいように常に出す）
             print(f"# [found_loader] ignored_ids_dir: {ignore_dir}")
@@ -384,21 +342,39 @@ def load_found_model_ex(
 
             if resolved_pairs:
                 pairs_str = ", ".join([f"{t}->{sid}" for (t, sid) in resolved_pairs])
-                print(f"# [found_loader] resolved ignore (nurse_id->staff_id): {pairs_str}")
+                print(
+                    f"# [found_loader] resolved ignore (nurse_id->staff_id): {pairs_str}"
+                )
             else:
                 print(f"# [found_loader] resolved ignore: (none)")
 
             # ★ここが要望: デフォルトで WARNING を出さない
             if unresolved and warn_unresolved:
-                print(f"# [found_loader] WARNING: unresolved nurse_id tokens (no matching staff(..., nurse_id, ...) in this model): {unresolved}")
+                print(
+                    f"# [found_loader] WARNING: unresolved nurse_id tokens (no matching staff(..., nurse_id, ...) in this model): {unresolved}"
+                )
 
             if ignore_sids:
                 before = len(shifts_by_staff)
-                shifts_by_staff = {sid: seq for sid, seq in shifts_by_staff.items() if sid not in ignore_sids}
-                groups_by_staff = {sid: gs for sid, gs in groups_by_staff.items() if sid not in ignore_sids}
-                staff_info_by_sid = {sid: info for sid, info in staff_info_by_sid.items() if sid not in ignore_sids}
+                shifts_by_staff = {
+                    sid: seq
+                    for sid, seq in shifts_by_staff.items()
+                    if sid not in ignore_sids
+                }
+                groups_by_staff = {
+                    sid: gs
+                    for sid, gs in groups_by_staff.items()
+                    if sid not in ignore_sids
+                }
+                staff_info_by_sid = {
+                    sid: info
+                    for sid, info in staff_info_by_sid.items()
+                    if sid not in ignore_sids
+                }
                 after = len(shifts_by_staff)
-                print(f"# [found_loader] filtered staff by ignore_sids: {before} -> {after}")
+                print(
+                    f"# [found_loader] filtered staff by ignore_sids: {before} -> {after}"
+                )
         else:
             # ファイルが存在するのに空、または存在しないケースで分岐
             if os.path.exists(ignore_file):
@@ -489,11 +465,19 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("target", help="found-model.lp or dir")
     ap.add_argument("--no-ignore", action="store_true", help="ignored-ids を適用しない")
-    ap.add_argument("--ex", action="store_true", help="拡張版(ex)で読む（staff_infoも表示）")
-    ap.add_argument("--show-ignored", action="store_true",
-                    help="ignored-ids の token->staff 解決結果を表示する（検証用）")
-    ap.add_argument("--warn-unresolved", action="store_true",
-                    help="unresolved nurse_id tokens の WARNING を出す（デフォルトは出さない）")
+    ap.add_argument(
+        "--ex", action="store_true", help="拡張版(ex)で読む（staff_infoも表示）"
+    )
+    ap.add_argument(
+        "--show-ignored",
+        action="store_true",
+        help="ignored-ids の token->staff 解決結果を表示する（検証用）",
+    )
+    ap.add_argument(
+        "--warn-unresolved",
+        action="store_true",
+        help="unresolved nurse_id tokens の WARNING を出す（デフォルトは出さない）",
+    )
     args = ap.parse_args()
 
     apply_ignore = not args.no_ignore
@@ -516,8 +500,12 @@ if __name__ == "__main__":
 
             if args.show_ignored:
                 # show-ignored は ignore無しで読む必要がある
-                _s0, _g0, info0 = load_found_model_ex(args.target, apply_ignore_ids=False, warn_unresolved=False)
-                res = get_ignored_resolution(args.target, info0, warn_unresolved=warn_unresolved)
+                _s0, _g0, info0 = load_found_model_ex(
+                    args.target, apply_ignore_ids=False, warn_unresolved=False
+                )
+                res = get_ignored_resolution(
+                    args.target, info0, warn_unresolved=warn_unresolved
+                )
                 print("# [show-ignored] (self-test)")
                 print(f"# ignored_ids_dir={res['ignored_ids_dir']}")
                 print(f"# ward={res['ward_name']}")
@@ -547,7 +535,9 @@ if __name__ == "__main__":
             )
             print(f"# loaded dir(ex): {args.target}")
             for name, (s, g, info) in models.items():
-                print(f"# - {name}: staff={len(s)}, group_staff={len(g)}, staff_info={len(info)}")
+                print(
+                    f"# - {name}: staff={len(s)}, group_staff={len(g)}, staff_info={len(info)}"
+                )
         else:
             models = load_found_models_from_dir(
                 args.target,

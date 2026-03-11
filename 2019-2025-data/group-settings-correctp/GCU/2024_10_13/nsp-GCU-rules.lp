@@ -46,7 +46,6 @@ priority("total_patterns_ub", 4).
 priority("total_patterns_lb", 4).
 priority("isolated_working_day", 3).
 priority("isolated_weekly_holiday", 3).
-priority("invalid_pref2_next",2).
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%(追加部ここまで)%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 

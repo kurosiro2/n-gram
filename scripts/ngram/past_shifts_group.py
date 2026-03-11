@@ -1,34 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-【統合版】past-shifts を読み、n-gram を「看護師グループ別」に集計して表示する。
-
-✅ 対応モード
-  1) 単一病棟モード:
-       python ngram_past_shifts_group.py <past-shifts.lp> <setting.lp or setting-dir> <N> [csv_path]
-
-  2) 全病棟モード（ディレクトリ入力）:
-       python ngram_past_shifts_group.py <past-shifts-dir/> <group-settings-root-dir/> <N> [csv_path]
-
-  - past-shifts-dir は直下の *.lp を列挙
-    ファイル名（拡張子除く）を ward 名として扱う
-      例: past-shifts/2階西病棟.lp → ward="2階西病棟"
-  - group-settings-root-dir は
-      group-settings/<ward>/YYYY-MM-DD/setting.lp
-    を読む前提で、<ward> ディレクトリを setting_path として data_loader に渡す
-    （load_staff_group_timeline はディレクトリ対応してるため）
-
-出力:
-  - N=1: 1-gram（勤務記号の割合）
-  - N=2: 2-gram の freq_share と P(next|prefix)
-  - N>=3: N-gram の freq_share と P(next|prefix)
-  - CSV（任意）: group, N, gram, count, freq_share, cond_prob
-
-注意:
-  - data_loader は exp/statistics/data_loader.py を想定
-  - get_groups_for_date の呼び方は data_loader に合わせている
-"""
-
 import sys
 import os
 import csv
@@ -52,16 +21,13 @@ import data_loader  # load_past_shifts, load_staff_group_timeline, load_staff_gr
 #   - None にするとその側の制限なし
 # -------------------------------------------------------------
 DATE_START = 20250101  # 例: 20250101
-DATE_END = 20251231    # 例: 20251231
+DATE_END = 20251231  # 例: 20251231
 
 
 # -------------------------------------------------------------
 # 勤務シフト（8種）+ 休暇シフト（2種）だけを有効とする
 # -------------------------------------------------------------
-VALID_SHIFTS = {
-    "D", "LD", "EM", "LM", "SE", "SN",
-    "WR", "PH"
-}
+VALID_SHIFTS = {"D", "LD", "EM", "LM", "SE", "SN", "WR", "PH"}
 
 
 # =============================================================
@@ -145,7 +111,7 @@ def ngram_counts_by_group(seqs_dict, group_timeline, n):
             continue
 
         for i in range(len(seq) - n + 1):
-            window = seq[i: i + n]
+            window = seq[i : i + n]
             dates = [d for (d, _) in window]
             shifts = [s for (_, s) in window]
 
@@ -179,22 +145,26 @@ def print_unigram_share(group: str, uni_counter: Counter, csv_rows=None):
         print("  (no data)")
         return
 
-    for (gram, c) in _stable_most_common(uni_counter):
+    for gram, c in _stable_most_common(uni_counter):
         s = gram[0]
         share = c / total
         print(f" {c:6d}  {s:<3}   {share*100:6.2f}%")
         if csv_rows is not None:
-            csv_rows.append({
-                "group": group,
-                "N": 1,
-                "gram": s,
-                "count": c,
-                "freq_share": share,
-                "cond_prob": "",
-            })
+            csv_rows.append(
+                {
+                    "group": group,
+                    "N": 1,
+                    "gram": s,
+                    "count": c,
+                    "freq_share": share,
+                    "cond_prob": "",
+                }
+            )
 
 
-def print_bigram_score(group: str, uni_counter: Counter, bi_counter: Counter, csv_rows=None):
+def print_bigram_score(
+    group: str, uni_counter: Counter, bi_counter: Counter, csv_rows=None
+):
     total_bi = sum(bi_counter.values())
     print(f'\n----- Group="{group}" | 2-gram（freq_share と P(next|prefix)） -----')
     print("  freq   prefix -> next         freq_share    P(next|prefix)")
@@ -214,21 +184,25 @@ def print_bigram_score(group: str, uni_counter: Counter, bi_counter: Counter, cs
 
     rows.sort(key=lambda x: (-x[0], -x[1], tuple(x[2])))
 
-    for (freq_share, c, gram, cond_prob) in rows:
+    for freq_share, c, gram, cond_prob in rows:
         arrow = f"{gram[0]}->{gram[1]}"
         print(f"{c:>6}  {arrow:<20}   {freq_share:11.6f}   {cond_prob:14.6f}")
         if csv_rows is not None:
-            csv_rows.append({
-                "group": group,
-                "N": 2,
-                "gram": "-".join(gram),
-                "count": c,
-                "freq_share": freq_share,
-                "cond_prob": cond_prob,
-            })
+            csv_rows.append(
+                {
+                    "group": group,
+                    "N": 2,
+                    "gram": "-".join(gram),
+                    "count": c,
+                    "freq_share": freq_share,
+                    "cond_prob": cond_prob,
+                }
+            )
 
 
-def print_ngramN_score(group: str, n_counter: Counter, nm1_counter: Counter, N: int, csv_rows=None):
+def print_ngramN_score(
+    group: str, n_counter: Counter, nm1_counter: Counter, N: int, csv_rows=None
+):
     total_N = sum(n_counter.values())
     print(f'\n----- Group="{group}" | {N}-gram（freq_share と P(next|prefix)） -----')
     print("  freq   prefix -> next         freq_share    P(next|prefix)")
@@ -248,21 +222,23 @@ def print_ngramN_score(group: str, n_counter: Counter, nm1_counter: Counter, N: 
 
     rows.sort(key=lambda x: (-x[0], -x[1], tuple(x[2])))
 
-    for (freq_share, c, gram, cond_prob) in rows:
+    for freq_share, c, gram, cond_prob in rows:
         prefix_str = "-".join(gram[:-1])
         nxt = gram[-1]
         arrow = f"{prefix_str}->{nxt}"
         print(f"{c:>6}  {arrow:<20}   {freq_share:11.6f}   {cond_prob:14.6f}")
 
         if csv_rows is not None:
-            csv_rows.append({
-                "group": group,
-                "N": N,
-                "gram": "-".join(gram),
-                "count": c,
-                "freq_share": freq_share,
-                "cond_prob": cond_prob,
-            })
+            csv_rows.append(
+                {
+                    "group": group,
+                    "N": N,
+                    "gram": "-".join(gram),
+                    "count": c,
+                    "freq_share": freq_share,
+                    "cond_prob": cond_prob,
+                }
+            )
 
 
 def group_sort_key(g):
@@ -278,10 +254,14 @@ def group_sort_key(g):
 # =============================================================
 def main():
     if len(sys.argv) < 4:
-        print("python ngram_past_shifts_group.py [shift_file_or_dir] [setting_path_or_root] [N] [csv_path(optional)]")
+        print(
+            "python ngram_past_shifts_group.py [shift_file_or_dir] [setting_path_or_root] [N] [csv_path(optional)]"
+        )
         print("  単一病棟モード: past-shifts.lp と setting.lp(or setting dir) を指定")
         print("  全病棟モード: past-shifts-dir と group-settings-root-dir を指定")
-        print(f"  ※ 期間指定: DATE_START={DATE_START}, DATE_END={DATE_END} をスクリプト内で編集")
+        print(
+            f"  ※ 期間指定: DATE_START={DATE_START}, DATE_END={DATE_END} をスクリプト内で編集"
+        )
         sys.exit(1)
 
     shift_arg = sys.argv[1]
@@ -300,10 +280,15 @@ def main():
         setting_path = setting_arg
 
         if not os.path.isfile(shift_file):
-            print(f"[ERROR] past-shifts ファイルが見つかりません: {shift_file}", file=sys.stderr)
+            print(
+                f"[ERROR] past-shifts ファイルが見つかりません: {shift_file}",
+                file=sys.stderr,
+            )
             sys.exit(1)
         if not os.path.isfile(setting_path) and not os.path.isdir(setting_path):
-            print(f"[ERROR] setting パスが見つかりません: {setting_path}", file=sys.stderr)
+            print(
+                f"[ERROR] setting パスが見つかりません: {setting_path}", file=sys.stderr
+            )
             sys.exit(1)
 
         seqs = data_loader.load_past_shifts(shift_file)
@@ -320,7 +305,9 @@ def main():
         counters_1 = ngram_counts_by_group(seqs, group_timeline, 1)
         counters_2 = ngram_counts_by_group(seqs, group_timeline, 2)
         counters_N = ngram_counts_by_group(seqs, group_timeline, N_eff)
-        counters_Nm1 = ngram_counts_by_group(seqs, group_timeline, N_eff - 1) if N_eff >= 2 else {}
+        counters_Nm1 = (
+            ngram_counts_by_group(seqs, group_timeline, N_eff - 1) if N_eff >= 2 else {}
+        )
 
         for g in sorted(counters_N.keys(), key=group_sort_key):
             if N_eff == 1:
@@ -351,7 +338,10 @@ def main():
         print(f"[ERROR] past-shifts-dir が見つかりません: {shift_arg}", file=sys.stderr)
         sys.exit(1)
     if not os.path.isdir(setting_arg):
-        print(f"[ERROR] group-settings-root-dir が見つかりません: {setting_arg}", file=sys.stderr)
+        print(
+            f"[ERROR] group-settings-root-dir が見つかりません: {setting_arg}",
+            file=sys.stderr,
+        )
         sys.exit(1)
 
     past_dir = shift_arg
@@ -394,7 +384,9 @@ def main():
         c1 = ngram_counts_by_group(seqs, group_timeline, 1)
         c2 = ngram_counts_by_group(seqs, group_timeline, 2)
         cN = ngram_counts_by_group(seqs, group_timeline, N_eff)
-        cNm1 = ngram_counts_by_group(seqs, group_timeline, N_eff - 1) if N_eff >= 2 else {}
+        cNm1 = (
+            ngram_counts_by_group(seqs, group_timeline, N_eff - 1) if N_eff >= 2 else {}
+        )
 
         merge_group_counters(counters_1_all, c1)
         merge_group_counters(counters_2_all, c2)
@@ -404,7 +396,9 @@ def main():
 
         processed += 1
 
-    print(f"# [All wards] processed={processed}, skipped_no_setting={skipped_no_setting}, skipped_empty={skipped_empty}")
+    print(
+        f"# [All wards] processed={processed}, skipped_no_setting={skipped_no_setting}, skipped_empty={skipped_empty}"
+    )
     if processed == 0:
         print("# No wards processed. (ward名が一致しているか確認して)", file=sys.stderr)
         sys.exit(1)

@@ -1,21 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-period(半年) × (n=1..N の「2019~2025(past) を基準にした JS距離」) のヒートマップを 1枚で出す。
-さらに、found-model の分布も「基準（2019~2025 past）」に対する JS距離として 行を追加する。
-
-★変更（今回）: past半期行の比較基準を「全期間から当該半期を除外した base」にする（leave-one-halfyear-out）
-  - past半期 P のセル: JSdist( P , base_excl(P) )
-  - found行のセル: JSdist( found , base_full )  ※従来通り
-
-注意:
-  - base_excl(P) を作るとき、単純に base_full - P はしない
-    （半期境界を跨ぐn-gramが残るため）
-  - 代わりに [base_start..P_start-1] と [P_end+1..base_end] を別々に数えて足す。
-
-summaryモード / boxplot などは元仕様を維持。
-"""
 
 import os
 import sys
@@ -31,6 +14,7 @@ import io
 import contextlib
 
 import matplotlib
+
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
@@ -152,7 +136,9 @@ def build_segments_for_person(
     return segs
 
 
-def prebuild_all_segments(seqs: SeqDict, timeline: dict) -> Dict[PersonKey, List[Segment]]:
+def prebuild_all_segments(
+    seqs: SeqDict, timeline: dict
+) -> Dict[PersonKey, List[Segment]]:
     out: Dict[PersonKey, List[Segment]] = {}
     for (nid, name), seq in seqs.items():
         out[(nid, name)] = build_segments_for_person(seq, name, nid, timeline)
@@ -177,13 +163,15 @@ def count_ngrams_heads_nonheads_in_range(
         for seg in segs:
             is_heads = group_set_contains(seg.groups, heads_name)
 
-            sseq = [(d, s) for (d, s) in seg.seq if within_range(d, date_start, date_end)]
+            sseq = [
+                (d, s) for (d, s) in seg.seq if within_range(d, date_start, date_end)
+            ]
             if len(sseq) < n:
                 continue
 
             shifts = [s for _, s in sseq]
             for i in range(len(shifts) - n + 1):
-                gram = tuple(shifts[i:i + n])
+                gram = tuple(shifts[i : i + n])
                 if any(x not in VALID_SHIFTS for x in gram):
                     continue
                 if is_heads:
@@ -211,14 +199,18 @@ def count_ngrams_heads_nonheads_in_two_ranges(
     if r1 is not None:
         a, b = r1
         if a <= b:
-            h1, n1 = count_ngrams_heads_nonheads_in_range(segs_by_person, n, heads_name, a, b)
+            h1, n1 = count_ngrams_heads_nonheads_in_range(
+                segs_by_person, n, heads_name, a, b
+            )
             heads += h1
             non += n1
 
     if r2 is not None:
         a, b = r2
         if a <= b:
-            h2, n2 = count_ngrams_heads_nonheads_in_range(segs_by_person, n, heads_name, a, b)
+            h2, n2 = count_ngrams_heads_nonheads_in_range(
+                segs_by_person, n, heads_name, a, b
+            )
             heads += h2
             non += n2
 
@@ -228,7 +220,9 @@ def count_ngrams_heads_nonheads_in_two_ranges(
 # =============================================================
 # found: load + ngram counts (no timeline)
 # =============================================================
-_FOUND_MODEL_CACHE: Dict[str, Tuple[Dict[int, List[Tuple[int, str]]], Dict[int, Set[str]]]] = {}
+_FOUND_MODEL_CACHE: Dict[
+    str, Tuple[Dict[int, List[Tuple[int, str]]], Dict[int, Set[str]]]
+] = {}
 _FOUND_LOADER_LOGGED = False
 
 
@@ -306,7 +300,9 @@ def collect_found_entries(found_path: str) -> List[Tuple[str, List[str]]]:
         return entries
 
     # C) 再帰（lpの親dirごと）
-    cand = sorted(glob.glob(os.path.join(found_path, "**", "found-model*.lp"), recursive=True))
+    cand = sorted(
+        glob.glob(os.path.join(found_path, "**", "found-model*.lp"), recursive=True)
+    )
     if not cand:
         cand = sorted(glob.glob(os.path.join(found_path, "**", "*.lp"), recursive=True))
     if not cand:
@@ -323,7 +319,9 @@ def collect_found_entries(found_path: str) -> List[Tuple[str, List[str]]]:
     return out
 
 
-def load_found_model(path: str) -> Tuple[Dict[int, List[Tuple[int, str]]], Dict[int, Set[str]]]:
+def load_found_model(
+    path: str,
+) -> Tuple[Dict[int, List[Tuple[int, str]]], Dict[int, Set[str]]]:
     """
     foundmodel_data_loader.load_found_model を使う（ignored-ids対応）
     ローダの print は捕まえて、最初の1回だけ表示。
@@ -337,7 +335,9 @@ def load_found_model(path: str) -> Tuple[Dict[int, List[Tuple[int, str]]], Dict[
 
     buf = io.StringIO()
     with contextlib.redirect_stdout(buf):
-        seqs_by_staff, groups_by_staff = found_loader.load_found_model(path, apply_ignore_ids=True)
+        seqs_by_staff, groups_by_staff = found_loader.load_found_model(
+            path, apply_ignore_ids=True
+        )
 
     log = buf.getvalue().strip()
     if (not _FOUND_LOADER_LOGGED) and log:
@@ -425,7 +425,9 @@ def count_ngrams_found_heads_nonheads(
             if len(seq) < n:
                 continue
             seq_sorted = sorted(seq, key=lambda t: t[0])
-            segments = filter_and_split_by_consecutive_days(seq_sorted, date_from, date_to)
+            segments = filter_and_split_by_consecutive_days(
+                seq_sorted, date_from, date_to
+            )
 
             bucket = bucket_found(groups_by_staff.get(sid, set()), heads_name)
 
@@ -433,7 +435,7 @@ def count_ngrams_found_heads_nonheads(
                 if len(shifts) < n:
                     continue
                 for i in range(len(shifts) - n + 1):
-                    gram = tuple(shifts[i:i + n])
+                    gram = tuple(shifts[i : i + n])
                     if any(x not in VALID_SHIFTS for x in gram):
                         continue
                     if bucket == "Heads":
@@ -456,7 +458,9 @@ def build_vocab(c1: Counter, c2: Counter) -> List[Tuple[str, ...]]:
     return vocab
 
 
-def to_prob_vector(counter: Counter, vocab: List[Tuple[str, ...]], alpha: float) -> List[float]:
+def to_prob_vector(
+    counter: Counter, vocab: List[Tuple[str, ...]], alpha: float
+) -> List[float]:
     total = float(sum(counter.values()))
     denom = total + alpha * len(vocab)
     if denom <= 0:
@@ -498,8 +502,8 @@ def js_distance_from_counters(c1: Counter, c2: Counter, alpha: float) -> float:
 def make_halfyear_periods(start_year: int, end_year: int) -> List[Tuple[str, int, int]]:
     periods: List[Tuple[str, int, int]] = []
     for y in range(start_year, end_year + 1):
-        periods.append((f"{y}H1", y * 10000 + 101,  y * 10000 + 630))
-        periods.append((f"{y}H2", y * 10000 + 701,  y * 10000 + 1231))
+        periods.append((f"{y}H1", y * 10000 + 101, y * 10000 + 630))
+        periods.append((f"{y}H2", y * 10000 + 701, y * 10000 + 1231))
     return periods
 
 
@@ -544,8 +548,15 @@ def plot_heatmap_period_x_n(
             txt_color = "black" if val > mid else "white"
 
             if ann_texts is None:
-                plt.text(j, i, f"{val:.3f}", ha="center", va="center",
-                         fontsize=VALUE_FS, color=txt_color)
+                plt.text(
+                    j,
+                    i,
+                    f"{val:.3f}",
+                    ha="center",
+                    va="center",
+                    fontsize=VALUE_FS,
+                    color=txt_color,
+                )
                 continue
 
             s = (ann_texts[i][j] or "").strip()
@@ -553,12 +564,30 @@ def plot_heatmap_period_x_n(
             if "\n" in s:
                 parts = [p.strip() for p in s.split("\n")]
 
-                if len(parts) == 2 and parts[1].startswith("(") and parts[1].endswith(")"):
+                if (
+                    len(parts) == 2
+                    and parts[1].startswith("(")
+                    and parts[1].endswith(")")
+                ):
                     top, bottom = parts
-                    plt.text(j, i - 0.18, top, ha="center", va="center",
-                             fontsize=VALUE_FS, color=txt_color)
-                    plt.text(j, i + 0.22, bottom, ha="center", va="center",
-                             fontsize=DIFF_FS, color=txt_color)
+                    plt.text(
+                        j,
+                        i - 0.18,
+                        top,
+                        ha="center",
+                        va="center",
+                        fontsize=VALUE_FS,
+                        color=txt_color,
+                    )
+                    plt.text(
+                        j,
+                        i + 0.22,
+                        bottom,
+                        ha="center",
+                        va="center",
+                        fontsize=DIFF_FS,
+                        color=txt_color,
+                    )
                     continue
 
                 if len(parts) >= 3:
@@ -566,24 +595,60 @@ def plot_heatmap_period_x_n(
                     midbar = parts[1] if len(parts) >= 2 else "|"
                     bottom = parts[2]
 
-                    plt.text(j, i - 0.28, top, ha="center", va="center",
-                             fontsize=MANUAL_FS, color=txt_color)
-                    plt.text(j, i, midbar, ha="center", va="center",
-                             fontsize=BAR_FS, color=txt_color)
-                    plt.text(j, i + 0.28, bottom, ha="center", va="center",
-                             fontsize=MANUAL_FS, color=txt_color)
+                    plt.text(
+                        j,
+                        i - 0.28,
+                        top,
+                        ha="center",
+                        va="center",
+                        fontsize=MANUAL_FS,
+                        color=txt_color,
+                    )
+                    plt.text(
+                        j,
+                        i,
+                        midbar,
+                        ha="center",
+                        va="center",
+                        fontsize=BAR_FS,
+                        color=txt_color,
+                    )
+                    plt.text(
+                        j,
+                        i + 0.28,
+                        bottom,
+                        ha="center",
+                        va="center",
+                        fontsize=MANUAL_FS,
+                        color=txt_color,
+                    )
                     continue
 
                 if len(parts) == 2:
                     top, bottom = parts
-                    plt.text(j, i - 0.18, top, ha="center", va="center",
-                             fontsize=MANUAL_FS, color=txt_color)
-                    plt.text(j, i + 0.22, bottom, ha="center", va="center",
-                             fontsize=MANUAL_FS, color=txt_color)
+                    plt.text(
+                        j,
+                        i - 0.18,
+                        top,
+                        ha="center",
+                        va="center",
+                        fontsize=MANUAL_FS,
+                        color=txt_color,
+                    )
+                    plt.text(
+                        j,
+                        i + 0.22,
+                        bottom,
+                        ha="center",
+                        va="center",
+                        fontsize=MANUAL_FS,
+                        color=txt_color,
+                    )
                     continue
 
-            plt.text(j, i, s, ha="center", va="center",
-                     fontsize=VALUE_FS, color=txt_color)
+            plt.text(
+                j, i, s, ha="center", va="center", fontsize=VALUE_FS, color=txt_color
+            )
 
     plt.title(title)
     plt.tight_layout()
@@ -608,7 +673,9 @@ def _percentile_linear(xs_sorted: List[float], p: float) -> float:
     return xs_sorted[lo] * (1.0 - w) + xs_sorted[hi] * w
 
 
-def manual_iqr_by_col(past_mat: List[List[float]]) -> Tuple[List[float], List[float], List[float]]:
+def manual_iqr_by_col(
+    past_mat: List[List[float]],
+) -> Tuple[List[float], List[float], List[float]]:
     if not past_mat:
         return [], [], []
     K = len(past_mat)
@@ -640,7 +707,9 @@ def summarize_past_rows_to_one(
     q1s, meds, q3s = manual_iqr_by_col(past_mat)
 
     mat1: List[List[float]] = [meds]
-    ann1: List[List[str]] = [[f"{qfmt.format(q1)}~\n|\n{qfmt.format(q3)}" for q1, q3 in zip(q1s, q3s)]]
+    ann1: List[List[str]] = [
+        [f"{qfmt.format(q1)}~\n|\n{qfmt.format(q3)}" for q1, q3 in zip(q1s, q3s)]
+    ]
     labels1 = [past_row_label]
     return mat1, ann1, labels1
 
@@ -707,7 +776,11 @@ def plot_boxplot_by_n_with_found(
                 mins.append(min(vals))
                 maxs.append(max(vals))
 
-        ms = float(minmax_marker_size) if (minmax_marker_size is not None) else float(plt.rcParams["font.size"] * 1.2)
+        ms = (
+            float(minmax_marker_size)
+            if (minmax_marker_size is not None)
+            else float(plt.rcParams["font.size"] * 1.2)
+        )
         s_area_open = ms * ms
         s_area_dot = (ms * 2.0) * (ms * 2.0)
 
@@ -718,12 +791,15 @@ def plot_boxplot_by_n_with_found(
 
         for x, mn, mx in zip(xs, mins, maxs):
             if mn is not None and math.isfinite(mn):
-                x_min.append(x); y_min.append(mn)
+                x_min.append(x)
+                y_min.append(mn)
             if mx is not None and math.isfinite(mx):
-                x_max.append(x); y_max.append(mx)
+                x_max.append(x)
+                y_max.append(mx)
 
         sc_min = ax.scatter(
-            x_min, y_min,
+            x_min,
+            y_min,
             marker="o",
             s=s_area_open,
             facecolors="none",
@@ -733,7 +809,8 @@ def plot_boxplot_by_n_with_found(
             clip_on=False,
         )
         sc_max = ax.scatter(
-            x_max, y_max,
+            x_max,
+            y_max,
             marker=".",
             s=s_area_dot,
             color="black",
@@ -746,14 +823,22 @@ def plot_boxplot_by_n_with_found(
 
     entry_names = list(found_points_by_entry.keys())
     if entry_names:
-        msf = float(found_marker_size) if (found_marker_size is not None) else float(plt.rcParams["font.size"] * 0.9)
+        msf = (
+            float(found_marker_size)
+            if (found_marker_size is not None)
+            else float(plt.rcParams["font.size"] * 0.9)
+        )
         s_found = msf * msf
 
         for name in entry_names:
             vals = found_points_by_entry[name]
-            yj = [float(v) if (v is not None and math.isfinite(v)) else float("nan") for v in vals]
+            yj = [
+                float(v) if (v is not None and math.isfinite(v)) else float("nan")
+                for v in vals
+            ]
             sc = ax.scatter(
-                xs, yj,
+                xs,
+                yj,
                 marker="o",
                 s=s_found,
                 zorder=60,
@@ -777,15 +862,22 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("past_shifts", help="past-shifts *.lp (ward file)")
     ap.add_argument("group_settings", help="group-settings dir (ward/)")
-    ap.add_argument("found_path", help="found dir OR found-model.lp OR ward root dir (contains multiple found dirs)")
-    ap.add_argument("--start-year", type=int, default=2019)
-    ap.add_argument("--end-year", type=int, default=2025)
+    ap.add_argument(
+        "found_path",
+        help="found dir OR found-model.lp OR ward root dir (contains multiple found dirs)",
+    )
+    ap.add_argument("--pstart-year", type=int, default=2019)
+    ap.add_argument("--pend-year", type=int, default=2025)
     ap.add_argument("--nmin", type=int, default=1)
     ap.add_argument("--nmax", type=int, default=5)
-    ap.add_argument("--alpha", type=float, default=1e-3)
+    ap.add_argument("--laplacek", type=float, default=1)
     ap.add_argument("--heads-name", default="Heads")
     ap.add_argument("--outdir", default="out/halfyear+found-model_vs_total")
-    ap.add_argument("--only-nonheads", action="store_true", help="NonHeads(+Unknown) だけ出力（Headsを出さない）")
+    ap.add_argument(
+        "--only-nonheads",
+        action="store_true",
+        help="NonHeads(+Unknown) だけ出力（Headsを出さない）",
+    )
 
     ap.add_argument(
         "--past-mode",
@@ -802,26 +894,56 @@ def main():
         help="past半期行の比較基準: full=全期間そのまま, loo=当該半期を除外した全期間(2区間合算)",
     )
 
-    ap.add_argument("--date-from", default=None, help="found集計期間の開始日（YYYYMMDD, 例: 20241101）")
-    ap.add_argument("--date-to", default=None, help="found集計期間の終了日（YYYYMMDD, 例: 20241130）")
+    ap.add_argument(
+        "--fdate-from",
+        default=None,
+        help="found集計期間の開始日（YYYYMMDD, 例: 20241101）",
+    )
+    ap.add_argument(
+        "--fdate-to",
+        default=None,
+        help="found集計期間の終了日（YYYYMMDD, 例: 20241130）",
+    )
 
-    ap.add_argument("--boxplot", action="store_true", help="Draw boxplot by n (past half-years) + overlay found points.")
-    ap.add_argument("--boxplot-only", action="store_true", help="Only draw boxplot (skip heatmap).")
-    ap.add_argument("--boxplot-minmax-markers", action="store_true",
-                    help="Overlay min/max markers on boxplot (past min=open circle, past max=dot).")
-    ap.add_argument("--minmax-marker-size", type=float, default=10.0,
-                    help="Marker size base for min/max overlays. If omitted, uses rcParams font.size.")
-    ap.add_argument("--found-marker-size", type=float, default=10.0,
-                    help="Marker size base for found overlay points. If omitted, uses rcParams font.size.")
-    ap.add_argument("--font-scale", type=float, default=1.0, help="Global font scale (e.g., 1.2, 1.35).")
+    ap.add_argument(
+        "--boxplot",
+        action="store_true",
+        help="Draw boxplot by n (past half-years) + overlay found points.",
+    )
+    ap.add_argument(
+        "--boxplot-only", action="store_true", help="Only draw boxplot (skip heatmap)."
+    )
+    ap.add_argument(
+        "--boxplot-minmax-markers",
+        action="store_true",
+        help="Overlay min/max markers on boxplot (past min=open circle, past max=dot).",
+    )
+    ap.add_argument(
+        "--minmax-marker-size",
+        type=float,
+        default=10.0,
+        help="Marker size base for min/max overlays. If omitted, uses rcParams font.size.",
+    )
+    ap.add_argument(
+        "--found-marker-size",
+        type=float,
+        default=10.0,
+        help="Marker size base for found overlay points. If omitted, uses rcParams font.size.",
+    )
+    ap.add_argument(
+        "--font-scale",
+        type=float,
+        default=1.0,
+        help="Global font scale (e.g., 1.2, 1.35).",
+    )
 
     args = ap.parse_args()
 
     apply_font_scale(args.font_scale)
     ensure_dir(args.outdir)
 
-    if args.start_year > args.end_year:
-        raise ValueError("--start-year must be <= --end-year")
+    if args.pstart_year > args.pend_year:
+        raise ValueError("--pstart-year must be <= --pend-year")
     if args.nmin <= 0 or args.nmax <= 0 or args.nmin > args.nmax:
         raise ValueError("--nmin/--nmax must satisfy 1 <= nmin <= nmax")
 
@@ -837,20 +959,22 @@ def main():
     if not found_entries:
         raise FileNotFoundError(f"No found-model lp found under: {args.found_path}")
 
-    date_from = parse_yyyymmdd(args.date_from)
-    date_to = parse_yyyymmdd(args.date_to)
+    date_from = parse_yyyymmdd(args.fdate_from)
+    date_to = parse_yyyymmdd(args.fdate_to)
     if date_from is not None and date_to is not None and date_to < date_from:
-        raise ValueError(f"--date-to must be >= --date-from (from={date_from}, to={date_to})")
+        raise ValueError(
+            f"--date-to must be >= --date-from (from={date_from}, to={date_to})"
+        )
 
     # load past + timeline
     seqs = data_loader.load_past_shifts(args.past_shifts)
     timeline = data_loader.load_staff_group_timeline(args.group_settings)
     segs_by_person = prebuild_all_segments(seqs, timeline)
 
-    half_periods = make_halfyear_periods(args.start_year, args.end_year)
-    base_key = f"{args.start_year}~{args.end_year}"
-    base_start = args.start_year * 10000 + 101
-    base_end = args.end_year * 10000 + 1231
+    half_periods = make_halfyear_periods(args.pstart_year, args.pend_year)
+    base_key = f"{args.pstart_year}~{args.pend_year}"
+    base_start = args.pstart_year * 10000 + 101
+    base_end = args.pend_year * 10000 + 1231
 
     ns = list(range(args.nmin, args.nmax + 1))
     n_labels = [f"{n}-gram" for n in ns]
@@ -858,11 +982,17 @@ def main():
     # -------------------------
     # 1) past半期ごとのカウント（後で再利用する）
     # -------------------------
-    past_counts_by_halfyear_n: Dict[str, Dict[int, Tuple[Counter, Counter]]] = defaultdict(dict)
-    for (pkey, d1, d2) in half_periods:
+    past_counts_by_halfyear_n: Dict[str, Dict[int, Tuple[Counter, Counter]]] = (
+        defaultdict(dict)
+    )
+    for pkey, d1, d2 in half_periods:
         for n in ns:
             h_p, non_p = count_ngrams_heads_nonheads_in_range(
-                segs_by_person, n=n, heads_name=args.heads_name, date_start=d1, date_end=d2
+                segs_by_person,
+                n=n,
+                heads_name=args.heads_name,
+                date_start=d1,
+                date_end=d2,
             )
             past_counts_by_halfyear_n[pkey][n] = (h_p, non_p)
 
@@ -873,7 +1003,11 @@ def main():
     base_full_non_by_n: Dict[int, Counter] = {}
     for n in ns:
         h_b, non_b = count_ngrams_heads_nonheads_in_range(
-            segs_by_person, n=n, heads_name=args.heads_name, date_start=base_start, date_end=base_end
+            segs_by_person,
+            n=n,
+            heads_name=args.heads_name,
+            date_start=base_start,
+            date_end=base_end,
         )
         base_full_heads_by_n[n] = h_b
         base_full_non_by_n[n] = non_b
@@ -886,7 +1020,7 @@ def main():
     base_excl_non_by_halfyear_n: Dict[str, Dict[int, Counter]] = defaultdict(dict)
 
     if args.past_base == "loo":
-        for (pkey, d1, d2) in half_periods:
+        for pkey, d1, d2 in half_periods:
             r1 = (base_start, d1 - 1) if base_start <= d1 - 1 else None
             r2 = (d2 + 1, base_end) if d2 + 1 <= base_end else None
             for n in ns:
@@ -906,7 +1040,11 @@ def main():
         found_non_by_entry_n[label] = {}
         for n in ns:
             h_f, non_f = count_ngrams_found_heads_nonheads(
-                files, n=n, heads_name=args.heads_name, date_from=date_from, date_to=date_to
+                files,
+                n=n,
+                heads_name=args.heads_name,
+                date_from=date_from,
+                date_to=date_to,
             )
             found_heads_by_entry_n[label][n] = h_f
             found_non_by_entry_n[label][n] = non_f
@@ -947,26 +1085,36 @@ def main():
 
     def build_matrix(is_heads: bool) -> List[List[float]]:
         mat: List[List[float]] = []
-        for (pkey, d1, d2, kind) in periods:
+        for pkey, d1, d2, kind in periods:
             row: List[float] = []
             for n in ns:
                 c_b = pick_base_counter(is_heads, kind, pkey, n)
 
                 if kind == "found":
                     label = pkey.replace("AUTO: ", "", 1)
-                    c_p = found_heads_by_entry_n[label][n] if is_heads else found_non_by_entry_n[label][n]
+                    c_p = (
+                        found_heads_by_entry_n[label][n]
+                        if is_heads
+                        else found_non_by_entry_n[label][n]
+                    )
                 else:
                     # past 半期カウントは事前計算済みを使う
                     h_p, non_p = past_counts_by_halfyear_n[pkey][n]
                     c_p = h_p if is_heads else non_p
 
-                row.append(js_distance_from_counters(c_p, c_b, args.alpha))
+                row.append(js_distance_from_counters(c_p, c_b, args.laplacek))
             mat.append(row)
         return mat
 
     def apply_past_mode_and_annotations(
         mat: List[List[float]],
-    ) -> Tuple[List[List[float]], List[List[str]], List[str], List[List[float]], List[List[float]]]:
+    ) -> Tuple[
+        List[List[float]],
+        List[List[str]],
+        List[str],
+        List[List[float]],
+        List[List[float]],
+    ]:
         """
         戻り値:
           mat2, ann2, labels2, past_mat(half-years only), found_mat(rows for each entry)
@@ -1015,24 +1163,29 @@ def main():
 
     def found_mat_to_points(found_mat: List[List[float]]) -> Dict[str, List[float]]:
         points: Dict[str, List[float]] = {}
-        for (pkey, _d1, _d2, kind), row in zip(periods[len(half_periods):], found_mat):
+        for (pkey, _d1, _d2, kind), row in zip(periods[len(half_periods) :], found_mat):
             if kind != "found":
                 continue
             label = pkey.replace("AUTO: ", "", 1)
             points[label] = list(row)
         return points
 
-    suffix = f"{args.start_year}-{args.end_year}_n{args.nmin}-{args.nmax}_{args.past_mode}_pastbase-{args.past_base}"
+    suffix = f"{args.pstart_year}-{args.pend_year}_n{args.nmin}-{args.nmax}_{args.past_mode}_pastbase-{args.past_base}"
 
     # -------------------------
     # Heads
     # -------------------------
     if not args.only_nonheads:
         mat_h = build_matrix(is_heads=True)
-        mat_h2, ann_h2, labels_h2, past_h, found_h = apply_past_mode_and_annotations(mat_h)
+        mat_h2, ann_h2, labels_h2, past_h, found_h = apply_past_mode_and_annotations(
+            mat_h
+        )
 
         if not args.boxplot_only:
-            out_h = os.path.join(args.outdir, f"heatmap_halfyear_plus_foundEntries_x_ngram_heads_{suffix}.png")
+            out_h = os.path.join(
+                args.outdir,
+                f"heatmap_halfyear_plus_foundEntries_x_ngram_heads_{suffix}.png",
+            )
             plot_heatmap_period_x_n(
                 out_h,
                 title=f"Heads: JSdist(past(half-year) vs base[{args.past_base}], found vs base[full]) for n={args.nmin}..{args.nmax} [ln] (past-mode={args.past_mode})",
@@ -1048,7 +1201,9 @@ def main():
         if args.boxplot:
             box_h = past_mat_to_boxdata(past_h)
             found_pts_h = found_mat_to_points(found_h)
-            out_bh = os.path.join(args.outdir, f"boxplot_halfyear_jsdist_heads_{suffix}.png")
+            out_bh = os.path.join(
+                args.outdir, f"boxplot_halfyear_jsdist_heads_{suffix}.png"
+            )
             plot_boxplot_by_n_with_found(
                 out_bh,
                 title=f"Heads: past half-year JSdist (base={args.past_base}) + found (base=full)",
@@ -1070,7 +1225,10 @@ def main():
     mat_n2, ann_n2, labels_n2, past_n, found_n = apply_past_mode_and_annotations(mat_n)
 
     if not args.boxplot_only:
-        out_n = os.path.join(args.outdir, f"heatmap_halfyear_plus_foundEntries_x_ngram_nonheads_{suffix}.png")
+        out_n = os.path.join(
+            args.outdir,
+            f"heatmap_halfyear_plus_foundEntries_x_ngram_nonheads_{suffix}.png",
+        )
         plot_heatmap_period_x_n(
             out_n,
             title=f"MANUAL vs AUTO",
@@ -1086,7 +1244,9 @@ def main():
     if args.boxplot:
         box_n = past_mat_to_boxdata(past_n)
         found_pts_n = found_mat_to_points(found_n)
-        out_bn = os.path.join(args.outdir, f"boxplot_halfyear_jsdist_nonheads_{suffix}.png")
+        out_bn = os.path.join(
+            args.outdir, f"boxplot_halfyear_jsdist_nonheads_{suffix}.png"
+        )
         plot_boxplot_by_n_with_found(
             out_bn,
             title=f"MANUAL vs AUTO",
