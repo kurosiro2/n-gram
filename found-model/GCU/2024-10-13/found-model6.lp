@@ -4,7 +4,7 @@ horizontal_constraint_type("LD").
 horizontal_constraint_type("SE").
 horizontal_constraint_type("SN").
 horizontal_constraint_type("E").
-horizontal_constraint_type("LD").
+horizontal_constraint_type("N").
 horizontal_constraint_type("LM").
 horizontal_constraint_type("EM").
 out_stats(num_weekend_offs(2, 0, 1, 1)).
@@ -16,7 +16,7 @@ shift("LD").
 shift("SE").
 shift("SN").
 shift("E").
-shift("LD").
+shift("N").
 shift("EM").
 shift("LM").
 shift("WR").
@@ -272,7 +272,7 @@ shift_rel("日勤", "D").
 shift_rel("早出", "EM").
 shift_rel("遅出", "LM").
 shift_rel("深夜勤", "SN").
-shift_rel("深夜勤", "LD").
+shift_rel("深夜勤", "N").
 shift_rel("準夜勤", "SE").
 shift_rel("準夜勤", "E").
 out_assigned(2, 20241013, "SE").
@@ -482,7 +482,7 @@ out_assigned(1, 20241012, "WR").
 out_assigned(2, 20241012, "LD").
 out_assigned(3, 20241012, "WR").
 out_assigned(4, 20241012, "WR").
-out_assigned(5, 20241012, "LD").
+out_assigned(5, 20241012, "N").
 out_assigned(6, 20241012, "D").
 out_assigned(7, 20241012, "SE").
 out_assigned(8, 20241012, "HL").
@@ -497,7 +497,7 @@ out_assigned(17, 20241012, "LD").
 out_assigned(18, 20241012, "D").
 out_neg_request(16, 20241013, "SN").
 out_neg_request(16, 20241013, "E").
-out_neg_request(16, 20241013, "LD").
+out_neg_request(16, 20241013, "N").
 out_neg_request(16, 20241020, "SE").
 out_neg_request(16, 20241020, "SN").
 out_neg_request(16, 20241021, "SE").
@@ -506,34 +506,34 @@ out_neg_request(16, 20241026, "LD").
 out_neg_request(16, 20241026, "SE").
 out_neg_request(16, 20241026, "SN").
 out_neg_request(16, 20241026, "E").
-out_neg_request(16, 20241026, "LD").
+out_neg_request(16, 20241026, "N").
 out_neg_request(16, 20241029, "SE").
 out_neg_request(16, 20241029, "SN").
 out_neg_request(16, 20241029, "E").
-out_neg_request(16, 20241029, "LD").
+out_neg_request(16, 20241029, "N").
 out_neg_request(16, 20241030, "SE").
 out_neg_request(16, 20241030, "SN").
 out_neg_request(16, 20241030, "E").
-out_neg_request(16, 20241030, "LD").
+out_neg_request(16, 20241030, "N").
 out_neg_request(16, 20241102, "SE").
 out_neg_request(16, 20241102, "SN").
 out_neg_request(16, 20241102, "E").
-out_neg_request(16, 20241102, "LD").
+out_neg_request(16, 20241102, "N").
 out_neg_request(16, 20241105, "SE").
 out_neg_request(16, 20241105, "SN").
 out_neg_request(16, 20241105, "E").
-out_neg_request(16, 20241105, "LD").
+out_neg_request(16, 20241105, "N").
 out_neg_request(16, 20241107, "LD").
 out_neg_request(16, 20241107, "SE").
 out_neg_request(16, 20241107, "SN").
 out_neg_request(16, 20241107, "E").
-out_neg_request(16, 20241107, "LD").
+out_neg_request(16, 20241107, "N").
 out_neg_request(16, 20241107, "EM").
 out_neg_request(16, 20241109, "LD").
 out_neg_request(16, 20241109, "SE").
 out_neg_request(16, 20241109, "SN").
 out_neg_request(16, 20241109, "E").
-out_neg_request(16, 20241109, "LD").
+out_neg_request(16, 20241109, "N").
 out_pos_request(16, 20241027, "WR").
 out_pos_request(16, 20241027, "PH").
 out_pos_request(1, 20241028, "LD").
@@ -614,7 +614,7 @@ vertical_constraint_type("All", "LD", "Staffs").
 vertical_constraint_type("All", "SE", "Staffs").
 vertical_constraint_type("All", "SN", "Staffs").
 vertical_constraint_type("All", "E", "Staffs").
-vertical_constraint_type("All", "LD", "Staffs").
+vertical_constraint_type("All", "N", "Staffs").
 vertical_constraint_type("All", "LM", "Staffs").
 vertical_constraint_type("All", "LD+LM+E", "Staffs").
 vertical_constraint_type("Seniors", "LD", "Staffs").

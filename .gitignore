@@ -1,0 +1,16 @@
+.vscode
+.python-version
+__pycache__
+/old
+/param-source
+TODO.md
+# temporary files
+found-model.lp
+legacy-model.lp
+gen-instances/tmp-*
+comparison/tmp-*
+comparison/old
+comparison/presolved*/*.log
+
+# large csvs (excluded from GitHub)
+exp/2019-2025-data/csvs/*.csv
